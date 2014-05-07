@@ -1,0 +1,49 @@
+#!/usr/bin/perl
+
+open(IN, "index.csv");
+while (<IN>) {
+	chomp;
+	($id, $lat, $lon, $url, $name) = split(/,/);
+
+	open(SRC, "pdf/$id.txt");
+	while (<SRC>) {
+		if (/LOC ID/) {
+			$nameoff = index($_, "INTERSECTION");
+			$dateoff = index($_, "COUNT DATE");
+			$timeoff = index($_, "COUNT TIME");
+			$duroff = index($_, "DURATION");
+			$bikeoff = index($_, "BIKE TOTAL");
+			$pedoff = index($_, "PED TOTAL");
+			$vehoff = index($_, "VEHICLE TOTAL");
+		}
+
+		if (/^[0-9]/) {
+			chomp;
+			$name = substr($_, $nameoff, $dateoff - $nameoff);
+			$date = substr($_, $dateoff, $timeoff - $dateoff);
+			$time = substr($_, $timeoff, $duroff - $timeoff);
+			$dur  = substr($_, $duroff,  $bikeoff - $duroff);
+			$bike = substr($_, $bikeoff, $pedoff - $bikeoff);
+			$ped = substr($_, $pedoff, $vehoff - $pedoff);
+			$veh = substr($_, $vehoff);
+
+			$name =~ s/ *$//;
+			$date =~ s/ *$//;
+			$time =~ s/ *$//;
+			$dur =~ s/ *$//;
+			$bike =~ s/ *$//;
+			$ped =~ s/ *$//;
+			$veh =~ s/ *$//;
+
+			($hour, $min, $m) = split(/[: ]/, $time);
+			if ($m eq "PM" && $hour != 12) {
+				$hour += 12;
+			}
+
+			$time = sprintf("%02d:%02d-%02d:%02d", $hour, $min, $hour + $dur, $min);
+
+			print "$url,$name,$id,$date,$time,$veh,$ped,$bike,$lat,$lon\n";
+		}
+	}
+	close(SRC);
+}
