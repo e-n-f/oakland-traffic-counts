@@ -1,5 +1,7 @@
 #!/usr/bin/perl
 
+print "url,name,id,date,time,vehicles,pedestrians,bicycles,lat,lon\n";
+
 open(IN, "index.csv");
 while (<IN>) {
 	chomp;

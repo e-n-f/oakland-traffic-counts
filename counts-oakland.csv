@@ -1,3 +1,4 @@
+url,name,id,date,time,vehicles,pedestrians,bicycles,lat,lon
 http://www.oaklandbikemaps.info/counts/location_pdf/3.pdf, 105th Ave & Graffian St,3,5/2/2006,16:00-18:00,,17,27,37.73823971030316,-122.1688488096944
 http://www.oaklandbikemaps.info/counts/location_pdf/4.pdf, 106th Ave & Bancroft Ave,4,2/29/2000,16:00-18:00,,143,,37.74152633420783,-122.1568903119133
 http://www.oaklandbikemaps.info/counts/location_pdf/4.pdf, 106th Ave & Bancroft Ave,4,2/29/2000,16:00-18:00,,,39,37.74152633420783,-122.1568903119133
