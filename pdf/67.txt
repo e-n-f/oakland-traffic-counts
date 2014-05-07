@@ -1,0 +1,8 @@
+                       City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+67      34th St & Adeline St        2/27/2007    11:00 AM     2                         191
+67      34th St & Adeline St        2/27/2012    11:30 AM     2              13
+
+Total Counts      2                                                                            Report Date 3/27/2014
+

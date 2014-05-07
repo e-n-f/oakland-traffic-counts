@@ -1,0 +1,13 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                        COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+322     Telegraph Ave & W MacArthur Blvd   9/17/2003    4:00 PM      2              181        168
+322     Telegraph Ave & W MacArthur Blvd   9/17/2003    11:00 AM     2              81         209
+322     Telegraph Ave & W MacArthur Blvd   9/17/2003    7:00 AM      2              104        119
+322     Telegraph Ave & W MacArthur Blvd   9/25/2003    4:00 PM      2              109        282
+322     Telegraph Ave & W MacArthur Blvd   9/25/2003    11:00 AM     2              48         226
+322     Telegraph Ave & W MacArthur Blvd   9/25/2003    7:00 AM      2              61         81
+322     Telegraph Ave & W MacArthur Blvd   5/10/2006    4:00 PM      2              179        283
+
+Total Counts     7                                                                                    Report Date 3/27/2014
+

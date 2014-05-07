@@ -1,0 +1,11 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+114     45th St & Telegraph Ave    9/16/2003    4:00 PM      2              147        339
+114     45th St & Telegraph Ave    9/16/2003    11:00 AM     2              92         260
+114     45th St & Telegraph Ave    9/16/2003    7:00 AM      2              123        369
+114     45th St & Telegraph Ave    5/12/2010    4:00 PM      2              155        269       3654
+114     45th St & Telegraph Ave    5/15/2010    4:00 PM      3              225        443       4477
+
+Total Counts     5                                                                            Report Date 3/27/2014
+

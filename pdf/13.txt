@@ -1,0 +1,8 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+13      36th Ave & E 12th St       4/23/2009    4:00 PM      2              25         196       1131
+13      36th Ave & E 12th St       4/23/2009    7:00 AM      2              20         141       855
+
+Total Counts      2                                                                           Report Date 3/27/2014
+

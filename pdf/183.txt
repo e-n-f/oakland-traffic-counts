@@ -1,0 +1,10 @@
+                       City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+183     7th St & Fallon St          10/7/2010    4:00 PM      3                         222
+183     7th St & Fallon St          10/7/2010    4:00 PM      3              46
+183     7th St & Fallon St          10/7/2010    7:00 AM      2                         162
+183     7th St & Fallon St          10/7/2010    7:00 AM      2              27
+
+Total Counts      4                                                                            Report Date 3/27/2014
+

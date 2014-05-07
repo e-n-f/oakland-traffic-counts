@@ -1,0 +1,12 @@
+                       City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+49      28th Ave & Foothill Blvd    5/9/2001     4:00 PM      2                         200
+49      28th Ave & Foothill Blvd    5/9/2001     7:00 AM      2                         169
+49      28th Ave & Foothill Blvd    5/10/2001    4:00 PM      2                                   2185
+49      28th Ave & Foothill Blvd    5/10/2001    4:00 PM      2              54
+49      28th Ave & Foothill Blvd    5/10/2001    7:00 AM      2                                   2022
+49      28th Ave & Foothill Blvd    5/10/2001    7:00 AM      2              41
+
+Total Counts      6                                                                            Report Date 3/27/2014
+

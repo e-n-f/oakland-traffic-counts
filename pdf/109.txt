@@ -1,0 +1,15 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+109     42nd Ave & Bancroft Ave    3/2/2000     4:00 PM      2                                   2167
+109     42nd Ave & Bancroft Ave    3/2/2000     4:00 PM      2                         23
+109     42nd Ave & Bancroft Ave    3/2/2000     4:00 PM      2              30
+109     42nd Ave & Bancroft Ave    3/2/2000     7:00 AM      2                         9
+109     42nd Ave & Bancroft Ave    3/2/2000     7:00 AM      2                                   1864
+109     42nd Ave & Bancroft Ave    3/2/2000     7:00 AM      2              14
+109     42nd Ave & Bancroft Ave    4/9/2008     6:00 AM      2              0          0         892
+109     42nd Ave & Bancroft Ave    4/9/2008     4:00 PM      2              1          0         2131
+109     42nd Ave & Bancroft Ave    4/9/2008     12:30 PM     2              3          0         1480
+
+Total Counts     9                                                                            Report Date 3/27/2014
+

@@ -1,0 +1,10 @@
+                       City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+123     4th St & Jackson St         10/7/2010    4:00 PM      3                         169
+123     4th St & Jackson St         10/7/2010    4:00 PM      3              23
+123     4th St & Jackson St         10/7/2010    7:00 AM      2                         140
+123     4th St & Jackson St         10/7/2010    7:00 AM      2              23
+
+Total Counts      4                                                                            Report Date 3/27/2014
+

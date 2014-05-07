@@ -1,0 +1,9 @@
+                       City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                    COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+151     5th Ave & International Blvd   10/7/2010    4:00 PM      3                         415
+151     5th Ave & International Blvd   10/7/2010    7:00 AM      2                         265
+151     5th Ave & International Blvd   10/14/2010   7:00 AM      2              69
+
+Total Counts      3                                                                               Report Date 3/27/2014
+

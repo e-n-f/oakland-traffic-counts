@@ -1,0 +1,8 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                      COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+92      3rd St & Martin Luther King Wy   9/28/2006    7:00 AM      2              40
+92      3rd St & Martin Luther King Wy   9/28/2006    7:00 AM      2              31
+
+Total Counts     2                                                                                  Report Date 3/27/2014
+

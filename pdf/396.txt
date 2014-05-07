@@ -1,0 +1,13 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+396     20th St & Webster St       2/16/2006    4:00 PM      2              37         1885      2664
+396     20th St & Webster St       2/16/2006    11:30 AM     2              29         2840      2122
+396     20th St & Webster St       2/16/2006    7:00 AM      2              37         1797      1988
+396     20th St & Webster St       4/26/2011    7:00 AM      2              125        1892      1849
+396     20th St & Webster St       5/4/2011     7:00 AM      2              133        2064      1909
+396     20th St & Webster St       9/18/2012    7:00 AM      2              159        1665      1621
+396     20th St & Webster St       9/19/2012    7:00 AM      2              159        1784      1593
+
+Total Counts     7                                                                            Report Date 3/27/2014
+

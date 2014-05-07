@@ -1,0 +1,8 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+275     29th Ave & E 12th St       10/11/2006   4:00 PM      2              43         155
+275     29th Ave & E 12th St       10/11/2006   7:00 AM      2              31         196
+
+Total Counts      2                                                                           Report Date 3/27/2014
+

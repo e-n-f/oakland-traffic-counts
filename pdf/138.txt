@@ -1,0 +1,16 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                           COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+138     52nd St & Claremont Ave & Telegraph   9/16/2003    4:00 PM      2              75         138
+        Ave
+138     52nd St & Claremont Ave & Telegraph   9/16/2003    11:00 AM     2              61         141
+        Ave
+138     52nd St & Claremont Ave & Telegraph   9/16/2003    7:00 AM      2              54         86
+        Ave
+138     52nd St & Claremont Ave & Telegraph   5/13/2010    4:00 PM      2              183        141       4305
+        Ave
+138     52nd St & Claremont Ave & Telegraph   5/15/2010    4:00 PM      3              174        160       5687
+        Ave
+
+Total Counts     5                                                                                       Report Date 3/27/2014
+

@@ -1,0 +1,13 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+90      3rd St & Madison St        4/26/2006    11:45 AM     1                         179       327
+90      3rd St & Madison St        11/1/2008    11:45 AM     2                         105
+90      3rd St & Madison St        1/17/2009    11:45 AM     2                         119       444
+90      3rd St & Madison St        10/5/2010    4:00 PM      3                         230
+90      3rd St & Madison St        10/5/2010    4:00 PM      3              41
+90      3rd St & Madison St        10/5/2010    7:00 AM      2                         146
+90      3rd St & Madison St        10/5/2010    7:00 AM      2              18
+
+Total Counts     7                                                                            Report Date 3/27/2014
+

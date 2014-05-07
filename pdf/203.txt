@@ -1,0 +1,8 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+203     98th Ave & D St            9/9/2004     4:00 PM      2                         98
+203     98th Ave & D St            9/9/2004     7:00 AM      2                         62
+
+Total Counts     2                                                                            Report Date 3/27/2014
+

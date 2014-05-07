@@ -1,0 +1,10 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+139     53rd St & Market St        7/10/2012    4:00 PM      2              108        24        1839
+139     53rd St & Market St        7/10/2012    7:00 AM      2              108        20        784
+139     53rd St & Market St        7/11/2012    4:00 PM      2              87         29        1860
+139     53rd St & Market St        7/11/2012    7:00 AM      2              87         28        785
+
+Total Counts     4                                                                            Report Date 3/27/2014
+

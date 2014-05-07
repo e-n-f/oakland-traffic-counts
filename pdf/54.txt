@@ -1,0 +1,9 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+54      29th St & Telegraph Ave    9/17/2003    4:00 PM      2              107        178
+54      29th St & Telegraph Ave    9/17/2003    11:00 AM     2              43         211
+54      29th St & Telegraph Ave    9/17/2003    7:00 AM      2              68         138
+
+Total Counts     3                                                                            Report Date 3/27/2014
+

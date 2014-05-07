@@ -1,0 +1,7 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                   COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+337     Santa Clara Ave & Vernon St   5/9/2006     4:00 PM      2              14         64
+
+Total Counts     1                                                                               Report Date 3/27/2014
+

@@ -1,0 +1,8 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+332     Oakland Ave & Pearl St     1/23/2007    11:45 AM     2                         45
+332     Oakland Ave & Pearl St     1/23/2007    11:30 AM     2              6
+
+Total Counts     2                                                                            Report Date 3/27/2014
+

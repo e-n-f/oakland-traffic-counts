@@ -1,0 +1,10 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                   COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+408     66th Ave & San Leandro Blvd   9/21/2011    4:00 PM      2              63
+408     66th Ave & San Leandro Blvd   9/21/2011    12:00 PM     2              64
+408     66th Ave & San Leandro Blvd   9/21/2011    4:00 PM      2                         229
+408     66th Ave & San Leandro Blvd   9/21/2011    12:00 PM     2                         96
+
+Total Counts     4                                                                               Report Date 3/27/2014
+

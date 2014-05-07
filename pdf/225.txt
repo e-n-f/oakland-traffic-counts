@@ -1,0 +1,12 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                       COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+225     Bancroft Ave & Havenscourt Blvd   3/1/2000     4:00 PM      2                                   4231
+225     Bancroft Ave & Havenscourt Blvd   3/1/2000     4:00 PM      2                         285
+225     Bancroft Ave & Havenscourt Blvd   3/1/2000     4:00 PM      2              116
+225     Bancroft Ave & Havenscourt Blvd   3/1/2000     7:00 AM      2                                   2557
+225     Bancroft Ave & Havenscourt Blvd   3/1/2000     7:00 AM      2                         167
+225     Bancroft Ave & Havenscourt Blvd   3/1/2000     7:00 AM      2              69
+
+Total Counts     6                                                                                   Report Date 3/27/2014
+

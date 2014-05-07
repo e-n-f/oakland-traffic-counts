@@ -1,0 +1,8 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+163     63rd St & College Ave      3/13/2010    4:00 PM      3              99         1669
+163     63rd St & College Ave      3/16/2010    4:00 PM      3              259        1353
+
+Total Counts      2                                                                           Report Date 3/27/2014
+

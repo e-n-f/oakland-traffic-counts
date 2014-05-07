@@ -1,0 +1,17 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+101     40th St & Telegraph Ave    9/17/2003    4:00 PM      2              113        157
+101     40th St & Telegraph Ave    9/17/2003    11:00 AM     2              85         82
+101     40th St & Telegraph Ave    9/17/2003    7:00 AM      2              139        243
+101     40th St & Telegraph Ave    5/10/2006    4:00 PM      2              154        630
+101     40th St & Telegraph Ave    5/10/2006    7:00 AM      2              128        614
+101     40th St & Telegraph Ave    7/23/2009    7:00 AM      2              216        497
+101     40th St & Telegraph Ave    7/23/2009    4:00 PM      2              252        727
+101     40th St & Telegraph Ave    9/20/2011    4:00 PM      2                         1007
+101     40th St & Telegraph Ave    9/20/2011    4:00 PM      2              370
+101     40th St & Telegraph Ave    9/20/2011    12:00 PM     2                         584
+101     40th St & Telegraph Ave    9/20/2011    12:00 PM     2              242
+
+Total Counts    11                                                                            Report Date 3/27/2014
+

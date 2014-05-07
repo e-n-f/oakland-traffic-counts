@@ -1,0 +1,8 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                          COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+135     52nd St & Martin Luther King Jr Wy   5/12/2010    4:00 PM      2              34         208       7514
+135     52nd St & Martin Luther King Jr Wy   5/15/2010    4:00 PM      3              66         113       9174
+
+Total Counts     2                                                                                      Report Date 3/27/2014
+

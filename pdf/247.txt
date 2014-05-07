@@ -1,0 +1,9 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+247     Chatham Rd & Park Blvd     10/29/2002   3:00 PM      3              19
+247     Chatham Rd & Park Blvd     10/7/2010    4:00 PM      3              19
+247     Chatham Rd & Park Blvd     10/14/2010   4:00 PM      3                         47
+
+Total Counts     3                                                                            Report Date 3/27/2014
+

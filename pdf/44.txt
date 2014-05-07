@@ -1,0 +1,8 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+44      25th Ave & E 12th St       1/18/2007    11:30 AM     2              12
+44      25th Ave & E 12th St       1/18/2007    11:30 AM     2                         194
+
+Total Counts      2                                                                           Report Date 3/27/2014
+

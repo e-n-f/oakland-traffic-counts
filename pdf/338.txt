@@ -1,0 +1,9 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                   COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+338     Telegraph Ave & W Grand Ave   9/17/2003    4:00 PM      2              115        388
+338     Telegraph Ave & W Grand Ave   9/17/2003    11:00 AM     2              70         371
+338     Telegraph Ave & W Grand Ave   9/17/2003    7:00 AM      2              118        243
+
+Total Counts     3                                                                               Report Date 3/27/2014
+

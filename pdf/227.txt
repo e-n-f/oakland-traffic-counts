@@ -1,0 +1,13 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                   COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+227     Bancroft Ave & Seminary Ave   3/1/2000     4:00 PM      2              79
+227     Bancroft Ave & Seminary Ave   3/1/2000     4:00 PM      2                                   3596
+227     Bancroft Ave & Seminary Ave   3/1/2000     4:00 PM      2                         162
+227     Bancroft Ave & Seminary Ave   3/1/2000     7:00 AM      2                         82
+227     Bancroft Ave & Seminary Ave   3/1/2000     7:00 AM      2                                   2212
+227     Bancroft Ave & Seminary Ave   3/1/2000     7:00 AM      2              35
+227     Bancroft Ave & Seminary Ave   6/12/2007    3:00 PM      1                                   1360
+
+Total Counts     7                                                                               Report Date 3/27/2014
+

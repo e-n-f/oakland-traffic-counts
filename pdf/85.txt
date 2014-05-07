@@ -1,0 +1,7 @@
+                       City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                    COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+85      3rd Ave & International Blvd   1/17/2007    11:30 AM     2                         110
+
+Total Counts      1                                                                               Report Date 3/27/2014
+

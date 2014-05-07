@@ -1,0 +1,12 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+107     42nd Ave & Foothill Blvd   5/9/2001     4:00 PM      2                         200
+107     42nd Ave & Foothill Blvd   5/9/2001     7:00 AM      2                         204
+107     42nd Ave & Foothill Blvd   5/10/2001    7:00 AM      2              39
+107     42nd Ave & Foothill Blvd   5/10/2001    4:00 PM      2                                   4298
+107     42nd Ave & Foothill Blvd   5/10/2001    4:00 PM      2              73
+107     42nd Ave & Foothill Blvd   5/10/2001    7:00 AM      2                                   3658
+
+Total Counts      6                                                                           Report Date 3/27/2014
+

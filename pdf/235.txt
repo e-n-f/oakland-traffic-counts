@@ -1,0 +1,9 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+235     Broadway & College Ave     5/8/2010     4:00 PM      3              95         242       4700
+235     Broadway & College Ave     5/11/2010    4:00 PM      2              44         321       4118
+235     Broadway & College Ave     11/16/2010   7:00 AM      2              69         344       3407
+
+Total Counts     3                                                                            Report Date 3/27/2014
+

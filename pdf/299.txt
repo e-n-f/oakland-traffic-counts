@@ -1,0 +1,10 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                       COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+299     Hegenberger Rd & I-880 SB Ramps   11/17/1999   4:00 PM      2                         22
+299     Hegenberger Rd & I-880 SB Ramps   11/17/1999   4:00 PM      2              19
+299     Hegenberger Rd & I-880 SB Ramps   11/17/1999   7:00 AM      2                         8
+299     Hegenberger Rd & I-880 SB Ramps   11/17/1999   7:00 AM      2              11
+
+Total Counts     4                                                                                   Report Date 3/27/2014
+

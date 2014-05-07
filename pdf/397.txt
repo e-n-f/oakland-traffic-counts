@@ -1,0 +1,13 @@
+                       City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+397     20th St & Franklin St       2/16/2006    11:30 AM     2              49         2122      2051
+397     20th St & Franklin St       2/16/2006    7:00 AM      2              39         2088      1632
+397     20th St & Franklin St       2/16/2006    4:00 PM      2              99         2368      2361
+397     20th St & Franklin St       4/26/2011    4:00 PM      2              142        2177      1899
+397     20th St & Franklin St       5/4/2011     4:00 PM      2              143        2404      2009
+397     20th St & Franklin St       9/18/2012    4:00 PM      2              148        2280      1751
+397     20th St & Franklin St       9/19/2012    4:00 PM      2              138        2350      1796
+
+Total Counts      7                                                                            Report Date 3/27/2014
+

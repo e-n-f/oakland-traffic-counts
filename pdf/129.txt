@@ -1,0 +1,8 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+129     51st St & Lawton Ave       12/5/2006    3:00 PM      1                         35
+129     51st St & Lawton Ave       12/7/2006    8:00 AM      1                         18
+
+Total Counts     2                                                                            Report Date 3/27/2014
+

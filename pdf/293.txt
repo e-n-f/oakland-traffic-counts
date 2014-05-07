@@ -1,0 +1,7 @@
+                       City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+293     Fruitvale Ave & School St   11/16/2006   11:30 AM     2                         23
+
+Total Counts      1                                                                            Report Date 3/27/2014
+

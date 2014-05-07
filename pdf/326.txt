@@ -1,0 +1,8 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                          COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+326     Broadway & Manila Ave & Monroe Ave   5/13/2010    4:00 PM      2              153        56        2618
+326     Broadway & Manila Ave & Monroe Ave   5/15/2010    4:00 PM      3              27         101       2374
+
+Total Counts    2                                                                                       Report Date 3/27/2014
+

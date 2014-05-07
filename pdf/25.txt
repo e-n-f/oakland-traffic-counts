@@ -1,0 +1,11 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+25      16th St & Telegraph Ave    9/17/2003    4:00 PM      2              59         468
+25      16th St & Telegraph Ave    9/17/2003    11:00 AM     2              52         655
+25      16th St & Telegraph Ave    9/17/2003    7:00 AM      2              40         275
+25      16th St & Telegraph Ave    1/24/2013    4:30 PM      2              61         615       1367
+25      16th St & Telegraph Ave    1/24/2013    7:00 AM      2              45         235       898
+
+Total Counts     5                                                                            Report Date 3/27/2014
+

@@ -1,0 +1,14 @@
+                       City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+79      38th Ave & Foothill Blvd    5/9/2001     4:00 PM      2                         251
+79      38th Ave & Foothill Blvd    5/9/2001     7:00 AM      2                         172
+79      38th Ave & Foothill Blvd    5/10/2001    4:00 PM      2              50
+79      38th Ave & Foothill Blvd    5/10/2001    7:00 AM      2              33
+79      38th Ave & Foothill Blvd    5/15/2001    4:00 PM      2                                   3834
+79      38th Ave & Foothill Blvd    5/15/2001    7:00 AM      2                                   3344
+79      38th Ave & Foothill Blvd    5/2/2006     4:00 PM      2              37         207
+79      38th Ave & Foothill Blvd    9/13/2012    4:00 PM      2              60         387       3709
+
+Total Counts      8                                                                            Report Date 3/27/2014
+

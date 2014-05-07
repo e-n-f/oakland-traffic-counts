@@ -1,0 +1,11 @@
+                       City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+359     12th St & Alice St          3/23/2005    4:00 PM      2              18         315       1751
+359     12th St & Alice St          3/23/2005    7:00 AM      2              5          293       2019
+359     12th St & Alice St          3/23/2005    11:00 AM     2              14         335       1648
+359     12th St & Alice St          6/6/2006     7:00 AM      2              13         224       2071
+359     12th St & Alice St          6/6/2006     4:00 PM      2              19         271       1779
+
+Total Counts      5                                                                            Report Date 3/27/2014
+

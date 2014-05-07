@@ -1,0 +1,11 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+362     38th Ave & E 12th St       4/26/2011    4:00 PM      2              22         77        1205
+362     38th Ave & E 12th St       4/26/2011    4:00 PM      2              25         115       1210
+362     38th Ave & E 12th St       5/4/2011     4:00 PM      2              26         51        1162
+362     38th Ave & E 12th St       12/14/2011   4:00 PM      2              27         128
+362     38th Ave & E 12th St       12/21/2011   4:00 PM      2              21         80
+
+Total Counts      5                                                                           Report Date 3/27/2014
+

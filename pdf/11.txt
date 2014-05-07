@@ -1,0 +1,11 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+11      11th St & Madison St       3/24/2005    4:00 PM      2              40         325       3648
+11      11th St & Madison St       3/24/2005    11:00 AM     2              24         363       2237
+11      11th St & Madison St       3/24/2005    7:00 AM      2              24         298       1914
+11      11th St & Madison St       10/5/2010    4:00 PM      3                         603
+11      11th St & Madison St       10/7/2010    4:00 PM      3              84
+
+Total Counts     5                                                                            Report Date 3/27/2014
+

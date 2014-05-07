@@ -1,0 +1,14 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+8       11th St & Broadway         8/18/1999    4:00 PM      2              69         2868      4282
+8       11th St & Broadway         8/18/1999    7:00 AM      2              25         1646      2957
+8       11th St & Broadway         8/18/1999    7:00 AM      2              25         1646      2957
+8       11th St & Broadway         4/12/2005    4:30 PM      2              51         2442      3786
+8       11th St & Broadway         4/12/2005    11:00 AM     2              38         3041      3784
+8       11th St & Broadway         4/12/2005    7:00 AM      2              25         1859      3076
+8       11th St & Broadway         10/6/2010    4:00 PM      3                         3911
+8       11th St & Broadway         10/7/2010    4:00 PM      3              197
+
+Total Counts     8                                                                            Report Date 3/27/2014
+

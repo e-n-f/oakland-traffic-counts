@@ -1,0 +1,11 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+176     73rd Ave & MacArthur Blvd   11/17/1999   4:00 PM      2                         87
+176     73rd Ave & MacArthur Blvd   11/17/1999   4:00 PM      2              29
+176     73rd Ave & MacArthur Blvd   11/17/1999   7:00 AM      2                         35
+176     73rd Ave & MacArthur Blvd   11/17/1999   7:00 AM      2              15
+176     73rd Ave & MacArthur Blvd   12/21/2006   4:00 PM      2                         0         4194
+
+Total Counts     5                                                                             Report Date 3/27/2014
+

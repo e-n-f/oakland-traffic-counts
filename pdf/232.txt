@@ -1,0 +1,12 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+232     Bond St & High St          3/2/2000     4:00 PM      2                         99
+232     Bond St & High St          3/2/2000     4:00 PM      2                                   3061
+232     Bond St & High St          3/2/2000     4:00 PM      2              60
+232     Bond St & High St          3/2/2000     7:00 AM      2                         46
+232     Bond St & High St          3/2/2000     7:00 AM      2                                   2693
+232     Bond St & High St          3/2/2000     7:00 AM      2              18
+
+Total Counts      6                                                                           Report Date 3/27/2014
+

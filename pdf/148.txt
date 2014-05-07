@@ -1,0 +1,10 @@
+                       City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+148     5th Ave & E 8th St          10/14/2010   7:00 AM      2              39
+148     5th Ave & E 8th St          10/14/2010   7:00 AM      2                         21
+148     5th Ave & E 8th St          10/14/2010   4:00 PM      3              86
+148     5th Ave & E 8th St          10/14/2010   4:00 PM      3                         40
+
+Total Counts      4                                                                            Report Date 3/27/2014
+

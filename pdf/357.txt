@@ -1,0 +1,15 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+357     12th St & Broadway         8/18/1999    7:00 AM      2              39         1366      2692
+357     12th St & Broadway         8/18/1999    4:00 PM      2              46         1559      4600
+357     12th St & Broadway         4/12/2005    4:30 PM      2              75         1138      4120
+357     12th St & Broadway         4/12/2005    11:00 AM     2              37         2401      3789
+357     12th St & Broadway         4/12/2005    7:00 AM      2              40         1178      2739
+357     12th St & Broadway         9/20/2011    4:00 PM      2                         1921
+357     12th St & Broadway         9/20/2011    12:00 PM     2                         2735
+357     12th St & Broadway         9/20/2011    4:00 PM      2              187
+357     12th St & Broadway         9/20/2011    12:00 PM     2              176
+
+Total Counts     9                                                                            Report Date 3/27/2014
+

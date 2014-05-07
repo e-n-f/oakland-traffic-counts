@@ -1,0 +1,14 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                     COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+298     Hegenberger EB Off-Ramp & San   11/17/1999   4:00 PM      2                         18
+        Leandro St
+298     Hegenberger EB Off-Ramp & San   11/17/1999   4:00 PM      2              30
+        Leandro St
+298     Hegenberger EB Off-Ramp & San   11/17/1999   7:00 AM      2                         12
+        Leandro St
+298     Hegenberger EB Off-Ramp & San   11/17/1999   7:00 AM      2              11
+        Leandro St
+
+Total Counts     4                                                                                 Report Date 3/27/2014
+

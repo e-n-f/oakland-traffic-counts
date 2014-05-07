@@ -1,0 +1,8 @@
+                       City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+21      15th St & Jackson St        3/7/2007     11:00 AM     1              257        54
+21      15th St & Jackson St        3/7/2007     5:00 AM      1              418        109
+
+Total Counts      2                                                                            Report Date 3/27/2014
+

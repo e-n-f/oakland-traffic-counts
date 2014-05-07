@@ -1,0 +1,10 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+196     8th St & Madison St        10/7/2010    4:00 PM      3                         504
+196     8th St & Madison St        10/7/2010    4:00 PM      3              58
+196     8th St & Madison St        10/7/2010    7:00 AM      2                         486
+196     8th St & Madison St        10/7/2010    7:00 AM      2              40
+
+Total Counts     4                                                                            Report Date 3/27/2014
+

@@ -1,0 +1,8 @@
+                       City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+19      14th St & Brush St          10/7/2010    4:00 PM      3              60
+19      14th St & Brush St          10/14/2010   4:00 PM      3                         309
+
+Total Counts      2                                                                            Report Date 3/27/2014
+

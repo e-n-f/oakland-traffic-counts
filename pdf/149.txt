@@ -1,0 +1,11 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+149     5th Ave & Embarcadero      10/14/2010   7:00 AM      2              79
+149     5th Ave & Embarcadero      10/14/2010   7:00 AM      2                         16
+149     5th Ave & Embarcadero      10/14/2010   4:00 PM      3              142
+149     5th Ave & Embarcadero      10/14/2010   4:00 PM      3              95
+149     5th Ave & Embarcadero      10/14/2010   4:00 PM      3                         30
+
+Total Counts     5                                                                            Report Date 3/27/2014
+

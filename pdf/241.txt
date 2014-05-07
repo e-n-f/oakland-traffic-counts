@@ -1,0 +1,12 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                    COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+241     Brooklyn Ave & Lakeshore Ave   5/26/2005    4:00 PM      2              69         581
+241     Brooklyn Ave & Lakeshore Ave   5/26/2005    11:00 AM     2              29         597
+241     Brooklyn Ave & Lakeshore Ave   5/26/2005    7:00 AM      2              58         519
+241     Brooklyn Ave & Lakeshore Ave   6/16/2011    4:00 PM      2              182        773
+241     Brooklyn Ave & Lakeshore Ave   6/16/2011    7:00 AM      2              78         653
+241     Brooklyn Ave & Lakeshore Ave   6/16/2011    11:00 AM     2              103        828
+
+Total Counts     6                                                                                Report Date 3/27/2014
+

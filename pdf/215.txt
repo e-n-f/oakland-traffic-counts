@@ -1,0 +1,10 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                         COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+215     Arroyo Ave & Grand Ave & Pleasant   5/12/2010    4:00 PM      2              11         2         1943
+        Valley Rd
+215     Arroyo Ave & Grand Ave & Pleasant   5/15/2010    4:00 PM      3              39         5         2280
+        Valley Rd
+
+Total Counts     2                                                                                     Report Date 3/27/2014
+

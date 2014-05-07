@@ -1,0 +1,14 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                  COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+324     Beaumont Ave & E 33rd St &   7/10/2007    4:00 PM      2                         27
+        MacArthur Blvd
+324     Beaumont Ave & E 33rd St &   7/10/2007    7:00 AM      2                         34
+        MacArthur Blvd
+324     Beaumont Ave & E 33rd St &   7/10/2007    4:00 PM      2              10
+        MacArthur Blvd
+324     Beaumont Ave & E 33rd St &   7/10/2007    7:00 AM      2              4
+        MacArthur Blvd
+
+Total Counts     4                                                                              Report Date 3/27/2014
+

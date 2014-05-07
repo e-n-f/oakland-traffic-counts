@@ -1,0 +1,10 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                              COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+248     Claremont Ave & Clifton St-SR24 EB Off   3/13/2010    4:00 PM      3              46         72
+        Ramps
+248     Claremont Ave & Clifton St-SR24 EB Off   3/16/2010    4:00 PM      3              69         46
+        Ramps
+
+Total Counts      2                                                                                         Report Date 3/27/2014
+

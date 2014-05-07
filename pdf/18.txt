@@ -1,0 +1,13 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+18      14th Ave & E 33rd St       3/22/2006    7:00 AM      2              0          23        346
+18      14th Ave & E 33rd St       3/23/2006    4:00 PM      2              5          19        747
+18      14th Ave & E 33rd St       3/23/2006    11:30 AM     2              3          18        311
+18      14th Ave & E 33rd St       7/10/2007    4:00 PM      2                         44
+18      14th Ave & E 33rd St       7/10/2007    7:00 AM      2                         39
+18      14th Ave & E 33rd St       7/10/2007    4:00 PM      2              9
+18      14th Ave & E 33rd St       7/10/2007    7:00 AM      2              5
+
+Total Counts     7                                                                            Report Date 3/27/2014
+

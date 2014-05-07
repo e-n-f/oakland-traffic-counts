@@ -1,0 +1,8 @@
+                        City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                  COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+120     4th St & Alice St            11/1/2008    11:30 AM     2                         0         874
+120     4th St & Alice St            11/1/2008    11:30 AM     2                         14
+
+Total Counts      2                                                                             Report Date 3/27/2014
+

@@ -1,0 +1,11 @@
+                       City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+10      11th St & Jackson St        3/24/2005    4:00 PM      2              35         437       3157
+10      11th St & Jackson St        3/24/2005    11:00 AM     2              19         802       2180
+10      11th St & Jackson St        3/24/2005    7:00 AM      2              25         528       1975
+10      11th St & Jackson St        10/5/2010    4:00 PM      3                         627
+10      11th St & Jackson St        10/7/2010    4:00 PM      3              85
+
+Total Counts      5                                                                            Report Date 3/27/2014
+

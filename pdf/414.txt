@@ -1,0 +1,14 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+414     20th St & Broadway         4/12/2005    4:30 PM      2              71         1346      3218
+414     20th St & Broadway         2/15/2006    11:30 AM     2              39         1497      3042
+414     20th St & Broadway         2/15/2006    7:00 AM      2              43         1057      2142
+414     20th St & Broadway         2/16/2006    4:00 PM      2              52         1268      3194
+414     20th St & Broadway         9/20/2011    4:00 PM      2                         1388
+414     20th St & Broadway         9/20/2011    4:00 PM      2              175
+414     20th St & Broadway         9/20/2011    12:00 PM     2                         1408
+414     20th St & Broadway         9/20/2011    12:00 PM     2              92
+
+Total Counts     8                                                                            Report Date 3/27/2014
+

@@ -1,0 +1,12 @@
+                       City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+89      3rd St & Jackson St         9/28/2006    4:00 PM      2              20
+89      3rd St & Jackson St         9/28/2006    7:00 AM      2              15
+89      3rd St & Jackson St         10/7/2010    4:00 PM      3                         313
+89      3rd St & Jackson St         10/7/2010    4:00 PM      3              54
+89      3rd St & Jackson St         10/7/2010    7:00 AM      2                         226
+89      3rd St & Jackson St         10/7/2010    7:00 AM      2              24
+
+Total Counts      6                                                                            Report Date 3/27/2014
+

@@ -1,0 +1,12 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                            COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+133     51st St & Broadway & Pleasant Valley   5/8/2010     4:00 PM      3              67         151       7753
+        Ave
+133     51st St & Broadway & Pleasant Valley   5/12/2010    4:00 PM      2              33         117       6957
+        Ave
+133     51st St & Broadway & Pleasant Valley   11/16/2010   7:00 AM      2              54         222       4895
+        Ave
+
+Total Counts     3                                                                                        Report Date 3/27/2014
+
