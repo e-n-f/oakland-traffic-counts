@@ -44,8 +44,29 @@ while (<IN>) {
 
 			$time = sprintf("%02d:%02d-%02d:%02d", $hour, $min, $hour + $dur, $min);
 
-			print "$url,$name,$id,$date,$time,$veh,$ped,$bike,$lat,$lon\n";
+			$key = "$url,$name,$id,$date,$time";
+			$seq{$key} = $seq++;
+			$where{$key} = "$lat,$lon";
+
+			if ($veh ne "") {
+				$veh{$key} = $veh;
+			}
+			if ($ped ne "") {
+				$ped{$key} = $ped;
+			}
+			if ($bike ne "") {
+				$bike{$key} = $bike;
+			}
 		}
 	}
 	close(SRC);
+
+	for $key (sort { $seq{$a} <=> $seq{$b} } (keys(%where))) {
+		print "$key,$veh{$key},$ped{$key},$bike{$key},$where{$key}\n";
+	}
+
+	%where = ();
+	%veh = ();
+	%ped = ();
+	$bike = ();
 }
