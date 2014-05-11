@@ -1,0 +1,45 @@
+#!/usr/bin/perl
+
+# cat ../*-traffic-counts/counts*csv | ./accumulate-hour | ./get-walk-peak | ./get-turn | awk '{right += $4; left += $5; thru += $6; sum += $4 + $5 + $6} END {print right/sum, left/sum, thru/sum, sum}'
+$right = 0.129794;
+$left = 0.126032;
+$thru = 0.744174;
+
+while (<>) {
+	chomp;
+	($url, $name, $id, $date, $time, $drive, $walk, $bike, $lat, $lon) = split(/,/);
+
+	if ($time =~ /^(\d+):(\d+)\s*-+\s*(\d+):(\d+)$/) {
+			($h1, $m1, $h2, $m2) = ($1, $2, $3, $4);
+		$dur = ($h2 * 60 + $m2) - ($h1 * 60 + $m1);
+		if ($dur == 0) {
+			print STDERR "$_\n";
+			next;
+		}
+
+		$walk = $walk * 60 / $dur;
+		$bike = $bike * 60 / $dur;
+		$drive = $drive * 60 / $dur;
+
+		$start = (($h2 * 60 + $m2) + ($h1 * 60 + $m1)) / 2 - 30;
+
+		print "$url,$name,$id,$date,";
+		printf("%02d:%02d-%02d:%02d,",
+			$start / 60, $start % 60,
+			($start + 60) / 60, ($start + 60) % 60);
+
+		for ($i = 0; $i < 4; $i++) {
+			printf("%d,%d,%d,", $drive / 4 * $right, $drive / 4 * $thru, $drive / 4 * $left);
+		}
+
+		for ($i = 0; $i < 4; $i++) {
+			printf("%d,", $walk / 4);
+		}
+
+		for ($i = 0; $i < 4; $i++) {
+			printf("%d,", $bike / 4);
+		}
+
+		print "$lat,$lon\n";
+	}
+}
