@@ -42,7 +42,10 @@ while (<IN>) {
 				$hour += 12;
 			}
 
-			$time = sprintf("%02d:%02d-%02d:%02d", $hour, $min, $hour + $dur, $min);
+			$start = $hour * 60 + $min;
+			$end = ($hour + $dur) * 60 + $min;
+
+			$time = sprintf("%02d:%02d-%02d:%02d", $start / 60, $start % 60, $end / 60, $end % 60);
 
 			$key = "$url,$name,$id,$date,$time";
 			$seq{$key} = $seq++;
