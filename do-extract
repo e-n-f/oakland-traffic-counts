@@ -1,0 +1,5 @@
+#!/bin/sh
+
+find pdf -name '*.txt' -print0 | xargs -0 ./extract | ./extrapolate > counts-oakland.csv
+
+cat sf.csv | ./process-sf > counts-sf-misc.csv
