@@ -1,0 +1,42 @@
+#!/usr/bin/perl
+
+# cat ../*-traffic-counts/counts*csv | ./accumulate-hour | ./get-walk-peak | ./get-turn | awk '{right += $4; left += $5; thru += $6; sum += $4 + $5 + $6} END {print right/sum, left/sum, thru/sum, sum}'
+$right = 0.129794;
+$left = 0.126032;
+$thru = 0.744174;
+
+while (<>) {
+	chomp;
+	next if /^#/;
+	($name, $drive, $walk) = split(/,/);
+
+	$drive /= 2;
+	$walk /= 2;
+	$bike = 0;
+
+	if ($walk > 0) {
+		print "sf-1926,$name,x,x,08:00-12:00,";
+		for ($i = 0; $i < 4; $i++) {
+			printf("%d,%d,%d,", $drive / 4 * $right, $drive / 4 * $thru, $drive / 4 * $left);
+		}
+		for ($i = 0; $i < 4; $i++) {
+			printf("%d,", $walk / 4);
+		}
+		for ($i = 0; $i < 4; $i++) {
+			printf("%d,", $bike / 4);
+		}
+		print "\n";
+
+		print "sf-1926,$name,x,x,14:00-18:00,";
+		for ($i = 0; $i < 4; $i++) {
+			printf("%d,%d,%d,", $drive / 4 * $right, $drive / 4 * $thru, $drive / 4 * $left);
+		}
+		for ($i = 0; $i < 4; $i++) {
+			printf("%d,", $walk / 4);
+		}
+		for ($i = 0; $i < 4; $i++) {
+			printf("%d,", $bike / 4);
+		}
+		print "\n";
+	}
+}

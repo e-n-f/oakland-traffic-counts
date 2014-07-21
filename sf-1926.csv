@@ -2,6 +2,7 @@ name,8 hr vehicle,8 hr pedestrian
 
 # http://www.archive.org/stream/journalofproceed21sanfrich#page/1876/mode/2up
 # sum of 08:00-12:00 and 14:00-18:00
+# Modern scaling suggests 24-hour should be 2x this 8-hour total
 
 Kearny and Post,10670,37080
 Bush and Montgomery,10756,35175
@@ -107,3 +108,12 @@ Stanyan and Fulton,5011,610
 Castro and 24th,1612,886
 Bryant and Division,3011,157
 11th and Bryant,2259,273
+
+# https://www.flickr.com/photos/walkingsf/5278846012
+
+4th and Market,,99000
+3rd and Market,,84000
+New Montgomery and Mission,,12000
+3rd and Mission,,19000
+4th and Mission,,15000
+5th and Mission,,10000
