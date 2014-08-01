@@ -1,0 +1,14 @@
+#!/usr/bin/perl
+
+system "curl -O http://maps.kittelson.com/system/uploads/1116/original/TMC_AM.KML";
+
+open(IN, "TMC_AM.KML");
+while (<IN>) {
+	while (s/"(https:\/\/googledrive.com[^"]*)"//) {
+		$url = $1;
+		print "$url\n";
+		$url =~ s/'/%27/g;
+		$url =~ s/ /%20/g;
+		system "curl -L -O '$url'";
+	}
+}
