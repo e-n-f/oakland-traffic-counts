@@ -1,0 +1,130 @@
+#!/usr/bin/perl
+
+use strict;
+
+sub csv {
+	my $line = $_[0];
+
+	chomp $line;
+	$line =~ s/\015//;
+
+	my @ret = ();
+	my $n = 0;
+	my $quoted = 0;
+
+	while ($line ne "") {
+		if ($line =~ s/^""//) {
+			$ret[$n] .= '"';
+		} elsif ($line =~ s/^"//) {
+			$quoted = !$quoted;
+		} elsif ($line =~ s/^,//) {
+			if ($quoted) {
+				$ret[$n] .= ',';
+			} else {
+				$n++;
+			}
+		} else {
+			$line =~ s/^([^",]*)//;
+			$ret[$n] .= $1;
+		}
+	}
+
+	return @ret;
+}
+
+my %val = ();
+my $date = "";
+my %street = ();
+my $fname = "";
+my $type = "";
+my @cols = ();
+
+sub out {
+	for my $time (sort(keys(%val))) {
+		print "$fname,";
+
+		my $street = "";
+		for my $s (sort(keys(%street))) {
+			$street .= "$street{$s} / ";
+		}
+		$street =~ s/ \/ $//;
+		print "$street,x,$date,";
+
+		printf("%02d:%02d-%02d:%02d,",
+			$time / 60, $time % 60,
+			($time + 5) / 60, ($time + 5) % 60);
+
+		for my $dir ("NB", "SB", "EB", "WB") {
+			$val{"ALL-VEHICLE"}{$time}{"$dir Right"} += 
+				$val{"ALL-VEHICLE"}{$time}{"$dir RTOR"};
+		}
+
+		for my $dir ("SB", "WB", "NB", "EB") {
+			for my $turn ("Right", "Thru", "Left") {
+				print $val{$time}{"ALL-VEHICLE"}{"$dir $turn"};
+				print ",";
+			}
+		}
+
+		for my $dir ("North", "East", "South", "West") {
+			print $val{$time}{"PEDESTRIAN"}{"$dir"};
+			print ",";
+		}
+
+		for my $dir ("WB", "NB", "EB", "SB") {
+			print $val{$time}{"BICYCLE"}{"$dir Thru"};
+			print ",";
+		}
+
+		print "\n";
+	}
+}
+
+while (<>) {
+	chomp;
+	my @fields = csv($_);
+
+	if ($fields[0] eq "TURNING MOVEMENT COUNTS REPORT") {
+		out();
+		%val = ();
+		$date = "";
+		%street = ();
+		$fname = $ARGV;
+		$type = "";
+		@cols = ();
+	}
+
+	if ($fields[0] =~ /(.*) Streetname/) {
+		if ($fields[1] ne "") {
+			$street{$1} = $fields[1];
+		}
+	}
+
+	if ($fields[0] =~ /^Date:/) {
+		$date = $fields[1];
+	}
+
+	if ($fields[0] =~ /(.*) VOLUMES/) {
+		$type = $1;
+	}
+
+	if ($fields[0] eq "Time Period") {
+		@cols = @fields;
+	}
+
+	if ($fields[0] =~ /([0-9]+):([0-9][0-9]) ([AP])M/) {
+		my $hour = $1;
+		my $minute = $2;
+		my $m = $3;
+
+		if ($m eq "P" && $hour != 12) {
+			$hour += 12;
+		}
+
+		for (my $i = 1; $i <= $#fields; $i++) {
+			$val{$hour * 60 + $minute}{$type}{$cols[$i]} = $fields[$i];
+		}
+	}
+}
+
+out();
