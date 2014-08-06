@@ -1,0 +1,7 @@
+                       City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+423     7th St & Union St           5/7/2008     4:00 PM      2                         133       3009
+
+Total Counts      1                                                                            Report Date 3/27/2014
+

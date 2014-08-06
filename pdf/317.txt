@@ -1,0 +1,7 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                    COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+317     Market St & W MacArthur Blvd   5/25/2005    4:00 PM      2              59         132
+
+Total Counts     1                                                                                Report Date 3/27/2014
+

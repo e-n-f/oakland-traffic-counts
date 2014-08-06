@@ -1,0 +1,9 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+449     10th St & Broadway         4/13/2005    4:30 PM      2              33         1087      2599
+449     10th St & Broadway         4/13/2005    11:00 AM     2              19         1584      2707
+449     10th St & Broadway         4/13/2005    7:00 AM      2              29         891       1945
+
+Total Counts     3                                                                            Report Date 3/27/2014
+

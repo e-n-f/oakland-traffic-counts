@@ -1,0 +1,11 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                          COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+437     15th St & Broadway & Telegraph Ave   11/9/1999    4:00 PM      2              33         1173
+437     15th St & Broadway & Telegraph Ave   11/9/1999    11:00 AM     2              68         1878
+437     15th St & Broadway & Telegraph Ave   11/9/1999    7:00 AM      2              22         615
+437     15th St & Broadway & Telegraph Ave   1/24/2013    7:00 AM      2              49         328       1784
+437     15th St & Broadway & Telegraph Ave   1/24/2013    4:30 PM      2              83         475       2797
+
+Total Counts     5                                                                                      Report Date 3/27/2014
+

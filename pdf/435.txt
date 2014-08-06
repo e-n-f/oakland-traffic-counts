@@ -1,0 +1,9 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+435     15th St & Broadway         4/14/2005    11:00 AM     2              19         1364      3137
+435     15th St & Broadway         4/14/2005    7:00 AM      2              13         319       1967
+435     15th St & Broadway         4/14/2005    4:30 PM      2              30         692       3058
+
+Total Counts     3                                                                            Report Date 3/27/2014
+

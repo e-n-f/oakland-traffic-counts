@@ -7,6 +7,20 @@ while (<IN>) {
 	chomp;
 	($id, $lat, $lon, $url, $name) = split(/,/);
 
+	&perform($id, $lat, $lon, $url, $name);
+	$seen{$id} = 1;
+}
+close(IN);
+
+for ($i = 1; $i <= 450; $i++) {
+	next if $seen{$i};
+
+	&perform($i, "", "", "http://www.oaklandbikemaps.info/counts/location_pdf/$i.pdf", "$i");
+}
+
+sub perform {
+	my ($id, $lat, $lon, $url, $name) = @_;
+
 	open(SRC, "pdf/$id.txt");
 	while (<SRC>) {
 		if (/LOC ID/) {

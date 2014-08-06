@@ -1,0 +1,9 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+448     77th Ave & Bancroft Ave    8/5/2003     6:30 AM      2                         21        1454
+448     77th Ave & Bancroft Ave    8/5/2003     12:00 PM     215                       84        2415
+448     77th Ave & Bancroft Ave    8/5/2003     4:00 PM      2                         47        3428
+
+Total Counts     3                                                                            Report Date 3/27/2014
+
