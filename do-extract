@@ -1,6 +1,7 @@
 #!/bin/sh
 
 (
+	echo 'id,name,id,date,time,SB-Right,SB-Thru,SB-Left,WB-Right,WB-Thru,WB-Left,NB-Right,NB-Thru,NB-Left,EB-Right,EB-Thru,EB-Left,SB-Ped,WB-Ped,NB-Ped,EB-Ped,,,,'
 	find pdf -name '*.txt' -print0 | xargs -0 ./extract | ./extrapolate
 	./extract-qc oakland/*.csv
 ) > counts-oakland.csv
