@@ -1,4 +1,4 @@
-id,name,id,date,time,SB-Right,SB-Thru,SB-Left,WB-Right,WB-Thru,WB-Left,NB-Right,NB-Thru,NB-Left,EB-Right,EB-Thru,EB-Left,SB-Ped,WB-Ped,NB-Ped,EB-Ped,,,,
+id,name,id,date,time,SB-Right,SB-Thru,SB-Left,WB-Right,WB-Thru,WB-Left,NB-Right,NB-Thru,NB-Left,EB-Right,EB-Thru,EB-Left,SB-Ped,WB-Ped,NB-Ped,EB-Ped,N-Bike,E-Bike,S-Bike,W-Bike,lat,lon
 http://www.oaklandbikemaps.info/counts/location_pdf/3.pdf, 105th Ave & Graffian St,3 (extrapolated),5/2/2006,16:30-17:30,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,2,3,3,3,3,37.73823971030316,-122.1688488096944
 http://www.oaklandbikemaps.info/counts/location_pdf/4.pdf, 106th Ave & Bancroft Ave,4 (extrapolated),2/29/2000,16:30-17:30,0,0,0,0,0,0,0,0,0,0,0,0,17,17,17,17,4,4,4,4,37.74152633420783,-122.1568903119133
 http://www.oaklandbikemaps.info/counts/location_pdf/4.pdf, 106th Ave & Bancroft Ave,4 (extrapolated),2/29/2000,07:30-08:30,0,0,0,0,0,0,0,0,0,0,0,0,9,9,9,9,1,1,1,1,37.74152633420783,-122.1568903119133
