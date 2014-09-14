@@ -4500,6 +4500,122 @@ North-South Street: Park Ave<br>East-West Street: El Centro Ave<br>
 <gx:balloonVisibility>1</gx:balloonVisibility>
 </Placemark>
 
+<Placemark>
+<name>Wood St And 7th St</name>
+
+<Snippet></Snippet>
+
+<Style>
+<IconStyle>
+<scale>1</scale>
+<heading>0</heading>
+<Icon>
+<href>http://www.google.com/chart?cht=it&amp;chs=32x32&amp;chco=000000,000000ff,ffffff01&amp;chl=12&amp;chx=FFFFFF,0&amp;chf=bg,s,00000000</href>
+</Icon>
+<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+</IconStyle>
+<LabelStyle>
+<scale>0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ffffffff</color>
+<width>5</width>
+</LineStyle>
+<BalloonStyle><text>$[description]</text></BalloonStyle></Style>
+
+<Point>
+<extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-122.3023833, 37.8070065, 0</coordinates>
+</Point>
+<description><![CDATA[
+
+<h4>Count Date & Time</h4>
+Hour Summarized: 6:45 AM to 7:45 AM<br>Count Date: Tue 10/16/2012<hr>
+<h4>Data Collection Method</h4>
+videotaped and manually compiled
+<hr>
+<h4>Data Collection Firm</h4>
+Quality Counts, LLC
+<hr>
+<h4>Electronic Files</h4>
+<a href="https://googledrive.com/host/0BwjuP319bIwqVXlscEJycW9aaTQ/TMC_8_Wood St_7th St.csv">Electronic *.csv File</a>
+<hr>
+<h4>Peak Hour Vehicular Summary</h4>
+Peak Hour Factor: 0.93<br>Hourly TEV: 584<br><br>
+North-South Street: Wood St<br>East-West Street: 7th St
+<img src=http://chart.apis.google.com/chart?cht=s&chs=400x400&chd=t:42,52,62,42,52,62,9,9,9,84,84,84,52,52,52,52,52,9,22,22,32,32,34,32,30,32,22,32,32,34,32,32,22,32,32,30,32,34,32,52,52,50,52,54,50,42,42,38,38,36,38,38,62,62,66,66,68,66,66,82,72,72,70,72,72,82,72,72,74,72,70,72,82,72,72,74,72,70,72,52,52,54,52,50,52,62,62,65,65,67,65,65,42,42,39,39,37,39,39,52%7C85,85,85,9,9,9,37,47,57,37,47,57,56,50,44,38,52,93,60,62,62,65,65,67,65,65,52,52,50,52,54,50,42,42,39,39,37,39,39,20,30,30,32,30,30,20,30,30,32,30,28,30,20,30,30,32,30,28,30,52,52,54,52,50,52,62,62,65,65,67,65,65,42,42,39,39,37,39,39,85,75,75,73,75,75,85,75,75,73,75,77,75,85,75,75,77,75,73,75,52%7C0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0&chm=o,000000,1,1,100%7Co,FFFFFF,1,16,330%7Co,000000,1,99,335,-1%7Ct45,,1,0,18,,hl:0%7Ct1,,1,1,18,,hl:0%7Ct20,,1,2,18,,hl:0%7Ct77,,1,3,18,,hl:0%7Ct3,,1,4,18,,hl:0%7Ct40,,1,5,18,,hl:0%7Ct66,,1,6,18,,l:0%7Ct118,,1,7,18,,l:0%7Ct22,,1,8,18,,l:0%7Ct33,,1,9,18%7Ct132,,1,10,18%7Ct15,,1,11,18%7Ct,000000,1,12,18,,h%7CtPeak+Hour,000000,1,13,18,,h%7CtVehicles,000000,1,14,18,,h%7Ct,000000,1,15,18,,h%7Ct,AAAAAA,1,16,0%7Ct8,FFFFFF,1,17,18,1,vh:0:-1%7CD,,1,19:21,2%7CD,,1,21:25,3%7CD,,1,26:27,2%7CD,,1,27:31,3%7CD,,1,32:34,2%7CD,,1,34:38,3%7CD,,1,39:40,2%7CD,,1,40:44,3%7CD,,1,45:47,2%7CD,,1,47:51,3%7CD,,1,52:54,2%7CD,,1,54:58,3%7CD,,1,59:60,2%7CD,,1,60:64,3%7CD,,1,65:67,2%7CD,,1,67:71,3%7CD,,1,72:74,2%7CD,,1,74:78,3%7CD,,1,79:80,2%7CD,,1,80:84,3%7CD,,1,85:87,2%7CD,,1,87:91,3%7CD,,1,92:94,2%7CD,,1,94:98,3&chf=a,s,000000 width =350>
+<hr>
+<h4>Peak Hour Bicycle Summary</h4>
+Total Bicycles: 26<br><br>North-South Street: Wood St<br>East-West Street: 7th St
+<img src=http://chart.apis.google.com/chart?cht=s&chs=400x400&chd=t:42,52,62,42,52,62,9,9,9,84,84,84,52,52,52,52,52,9,22,22,32,32,34,32,30,32,22,32,32,34,32,32,22,32,32,30,32,34,32,52,52,50,52,54,50,42,42,38,38,36,38,38,62,62,66,66,68,66,66,82,72,72,70,72,72,82,72,72,74,72,70,72,82,72,72,74,72,70,72,52,52,54,52,50,52,62,62,65,65,67,65,65,42,42,39,39,37,39,39,52%7C85,85,85,9,9,9,37,47,57,37,47,57,56,50,44,38,52,93,60,62,62,65,65,67,65,65,52,52,50,52,54,50,42,42,39,39,37,39,39,20,30,30,32,30,30,20,30,30,32,30,28,30,20,30,30,32,30,28,30,52,52,54,52,50,52,62,62,65,65,67,65,65,42,42,39,39,37,39,39,85,75,75,73,75,75,85,75,75,73,75,77,75,85,75,75,77,75,73,75,52%7C0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0&chm=o,000000,1,1,100%7Co,FFFFFF,1,16,330%7Co,000000,1,99,335,-1%7Ct0,,1,0,18,,hl:0%7Ct7,,1,1,18,,hl:0%7Ct6,,1,2,18,,hl:0%7Ct0,,1,3,18,,hl:0%7Ct0,,1,4,18,,hl:0%7Ct13,,1,5,18,,hl:0%7Ct0,,1,6,18,,l:0%7Ct0,,1,7,18,,l:0%7Ct0,,1,8,18,,l:0%7Ct0,,1,9,18%7Ct0,,1,10,18%7Ct0,,1,11,18%7Ct,000000,1,12,18,,h%7CtPeak+Hour,000000,1,13,18,,h%7CtBicycles,000000,1,14,18,,h%7Ct,000000,1,15,18,,h%7Ct,AAAAAA,1,16,0%7Ct8,FFFFFF,1,17,18,1,vh:0:-1%7CD,,1,19:21,2%7CD,,1,21:25,3%7CD,,1,26:27,2%7CD,,1,27:31,3%7CD,,1,32:34,2%7CD,,1,34:38,3%7CD,,1,39:40,2%7CD,,1,40:44,3%7CD,,1,45:47,2%7CD,,1,47:51,3%7CD,,1,52:54,2%7CD,,1,54:58,3%7CD,,1,59:60,2%7CD,,1,60:64,3%7CD,,1,65:67,2%7CD,,1,67:71,3%7CD,,1,72:74,2%7CD,,1,74:78,3%7CD,,1,79:80,2%7CD,,1,80:84,3%7CD,,1,85:87,2%7CD,,1,87:91,3%7CD,,1,92:94,2%7CD,,1,94:98,3&chf=a,s,000000 width =350>
+<hr>
+<h4>Hourly Pedestrian Summary</h4>
+North-South Street: Wood St<br>East-West Street: 7th St<br>
+<br><img src=http://chart.apis.google.com/chart?cht=s&chs=200x200&chd=t:20,30,30,70,70,80,70,70,30,30,20,20,30,30,70,70,80,70,70,30,30,20,8,16,11,11,16,8,0,5,5,0,8,92,100,95,95,100,92,84,89,89,84,92,50,50,8,92,50%7C87,95,90,90,95,87,79,84,84,79,87,13,21,16,16,21,13,5,10,10,5,13,75,65,65,30,30,20,30,30,65,65,75,75,65,65,30,30,20,30,30,65,65,75,13,87,50,50,40&chm=o,000000,1,1,1%7CD,AAAAAA,1,0:10,2%7CD,AAAAAA,1,11:21,2%7CD,AAAAAA,1,22:32,2%7CD,AAAAAA,1,33:43,2%7Ct0,000000,1,44,12,,hv%7Ct6,000000,1,45,12,,hv%7Ct0,000000,1,46,12,,hv:20:-0%7Ct4,000000,1,47,12,,hv:-20:-0%7CtPedestrians,000000,1,48,14,,hv width =200><br>
+<hr>
+<h4>Weather Data</h4><br>Weather Description: Clear<br>High Temp: 74<br>Low Temp: 56<br>Precipitation (in): None<br>Min Humidity: 66<br>Max Humidity: 100<br>Max Wind Speed: 13<br>Min Wind Speed: 0<br><img src="http://icons.wxug.com/logos/images/wundergroundLogo_4c.jpg" width =100><br><hr>
+]]></description>
+<gx:balloonVisibility>1</gx:balloonVisibility>
+</Placemark>
+
+<Placemark>
+<name>Peralta St And 7th St</name>
+
+<Snippet></Snippet>
+
+<Style>
+<IconStyle>
+<scale>1</scale>
+<heading>0</heading>
+<Icon>
+<href>http://www.google.com/chart?cht=it&amp;chs=32x32&amp;chco=000000,000000ff,ffffff01&amp;chl=12&amp;chx=FFFFFF,0&amp;chf=bg,s,00000000</href>
+</Icon>
+<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
+</IconStyle>
+<LabelStyle>
+<scale>0</scale>
+</LabelStyle>
+<LineStyle>
+<color>ffffffff</color>
+<width>5</width>
+</LineStyle>
+<BalloonStyle><text>$[description]</text></BalloonStyle></Style>
+
+<Point>
+<extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-122.2981425, 37.8060926, 0</coordinates>
+</Point>
+<description><![CDATA[
+
+<h4>Count Date & Time</h4>
+Hour Summarized: 7:40 AM to 8:40 AM<br>Count Date: Tue 10/16/2012<hr>
+<h4>Data Collection Method</h4>
+videotaped and manually compiled
+<hr>
+<h4>Data Collection Firm</h4>
+Quality Counts, LLC
+<hr>
+<h4>Electronic Files</h4>
+<a href="https://googledrive.com/host/0BwjuP319bIwqVXlscEJycW9aaTQ/TMC_10_Peralta St_7th St.csv">Electronic *.csv File</a>
+<hr>
+<h4>Peak Hour Vehicular Summary</h4>
+Peak Hour Factor: 0.85<br>Hourly TEV: 471<br><br>
+North-South Street: Peralta St<br>East-West Street: 7th St
+<img src=http://chart.apis.google.com/chart?cht=s&chs=400x400&chd=t:42,52,62,42,52,62,9,9,9,84,84,84,52,52,52,52,52,9,22,22,32,32,34,32,30,32,22,32,32,34,32,32,22,32,32,30,32,34,32,52,52,50,52,54,50,42,42,38,38,36,38,38,62,62,66,66,68,66,66,82,72,72,70,72,72,82,72,72,74,72,70,72,82,72,72,74,72,70,72,52,52,54,52,50,52,62,62,65,65,67,65,65,42,42,39,39,37,39,39,52%7C85,85,85,9,9,9,37,47,57,37,47,57,56,50,44,38,52,93,60,62,62,65,65,67,65,65,52,52,50,52,54,50,42,42,39,39,37,39,39,20,30,30,32,30,30,20,30,30,32,30,28,30,20,30,30,32,30,28,30,52,52,54,52,50,52,62,62,65,65,67,65,65,42,42,39,39,37,39,39,85,75,75,73,75,75,85,75,75,73,75,77,75,85,75,75,77,75,73,75,52%7C0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0&chm=o,000000,1,1,100%7Co,FFFFFF,1,16,330%7Co,000000,1,99,335,-1%7Ct7,,1,0,18,,hl:0%7Ct6,,1,1,18,,hl:0%7Ct28,,1,2,18,,hl:0%7Ct12,,1,3,18,,hl:0%7Ct12,,1,4,18,,hl:0%7Ct3,,1,5,18,,hl:0%7Ct19,,1,6,18,,l:0%7Ct170,,1,7,18,,l:0%7Ct2,,1,8,18,,l:0%7Ct10,,1,9,18%7Ct182,,1,10,18%7Ct18,,1,11,18%7Ct,000000,1,12,18,,h%7CtPeak+Hour,000000,1,13,18,,h%7CtVehicles,000000,1,14,18,,h%7Ct,000000,1,15,18,,h%7Ct,AAAAAA,1,16,0%7Ct10,FFFFFF,1,17,18,1,vh:0:-1%7CD,,1,19:21,2%7CD,,1,21:25,3%7CD,,1,26:27,2%7CD,,1,27:31,3%7CD,,1,32:34,2%7CD,,1,34:38,3%7CD,,1,39:40,2%7CD,,1,40:44,3%7CD,,1,45:47,2%7CD,,1,47:51,3%7CD,,1,52:54,2%7CD,,1,54:58,3%7CD,,1,59:60,2%7CD,,1,60:64,3%7CD,,1,65:67,2%7CD,,1,67:71,3%7CD,,1,72:74,2%7CD,,1,74:78,3%7CD,,1,79:80,2%7CD,,1,80:84,3%7CD,,1,85:87,2%7CD,,1,87:91,3%7CD,,1,92:94,2%7CD,,1,94:98,3&chf=a,s,000000 width =350>
+<hr>
+<h4>Peak Hour Bicycle Summary</h4>
+Total Bicycles: 34<br><br>North-South Street: Peralta St<br>East-West Street: 7th St
+<img src=http://chart.apis.google.com/chart?cht=s&chs=400x400&chd=t:42,52,62,42,52,62,9,9,9,84,84,84,52,52,52,52,52,9,22,22,32,32,34,32,30,32,22,32,32,34,32,32,22,32,32,30,32,34,32,52,52,50,52,54,50,42,42,38,38,36,38,38,62,62,66,66,68,66,66,82,72,72,70,72,72,82,72,72,74,72,70,72,82,72,72,74,72,70,72,52,52,54,52,50,52,62,62,65,65,67,65,65,42,42,39,39,37,39,39,52%7C85,85,85,9,9,9,37,47,57,37,47,57,56,50,44,38,52,93,60,62,62,65,65,67,65,65,52,52,50,52,54,50,42,42,39,39,37,39,39,20,30,30,32,30,30,20,30,30,32,30,28,30,20,30,30,32,30,28,30,52,52,54,52,50,52,62,62,65,65,67,65,65,42,42,39,39,37,39,39,85,75,75,73,75,75,85,75,75,73,75,77,75,85,75,75,77,75,73,75,52%7C0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0&chm=o,000000,1,1,100%7Co,FFFFFF,1,16,330%7Co,000000,1,99,335,-1%7Ct6,,1,0,18,,hl:0%7Ct2,,1,1,18,,hl:0%7Ct4,,1,2,18,,hl:0%7Ct0,,1,3,18,,hl:0%7Ct0,,1,4,18,,hl:0%7Ct13,,1,5,18,,hl:0%7Ct0,,1,6,18,,l:0%7Ct4,,1,7,18,,l:0%7Ct0,,1,8,18,,l:0%7Ct2,,1,9,18%7Ct2,,1,10,18%7Ct1,,1,11,18%7Ct,000000,1,12,18,,h%7CtPeak+Hour,000000,1,13,18,,h%7CtBicycles,000000,1,14,18,,h%7Ct,000000,1,15,18,,h%7Ct,AAAAAA,1,16,0%7Ct10,FFFFFF,1,17,18,1,vh:0:-1%7CD,,1,19:21,2%7CD,,1,21:25,3%7CD,,1,26:27,2%7CD,,1,27:31,3%7CD,,1,32:34,2%7CD,,1,34:38,3%7CD,,1,39:40,2%7CD,,1,40:44,3%7CD,,1,45:47,2%7CD,,1,47:51,3%7CD,,1,52:54,2%7CD,,1,54:58,3%7CD,,1,59:60,2%7CD,,1,60:64,3%7CD,,1,65:67,2%7CD,,1,67:71,3%7CD,,1,72:74,2%7CD,,1,74:78,3%7CD,,1,79:80,2%7CD,,1,80:84,3%7CD,,1,85:87,2%7CD,,1,87:91,3%7CD,,1,92:94,2%7CD,,1,94:98,3&chf=a,s,000000 width =350>
+<hr>
+<h4>Hourly Pedestrian Summary</h4>
+North-South Street: Peralta St<br>East-West Street: 7th St<br>
+<br><img src=http://chart.apis.google.com/chart?cht=s&chs=200x200&chd=t:20,30,30,70,70,80,70,70,30,30,20,20,30,30,70,70,80,70,70,30,30,20,8,16,11,11,16,8,0,5,5,0,8,92,100,95,95,100,92,84,89,89,84,92,50,50,8,92,50%7C87,95,90,90,95,87,79,84,84,79,87,13,21,16,16,21,13,5,10,10,5,13,75,65,65,30,30,20,30,30,65,65,75,75,65,65,30,30,20,30,30,65,65,75,13,87,50,50,40&chm=o,000000,1,1,1%7CD,AAAAAA,1,0:10,2%7CD,AAAAAA,1,11:21,2%7CD,AAAAAA,1,22:32,2%7CD,AAAAAA,1,33:43,2%7Ct31,000000,1,44,12,,hv%7Ct31,000000,1,45,12,,hv%7Ct24,000000,1,46,12,,hv:20:-0%7Ct23,000000,1,47,12,,hv:-20:-0%7CtPedestrians,000000,1,48,14,,hv width =200><br>
+<hr>
+<h4>Weather Data</h4><br>Weather Description: Clear<br>High Temp: 74<br>Low Temp: 56<br>Precipitation (in): None<br>Min Humidity: 66<br>Max Humidity: 100<br>Max Wind Speed: 13<br>Min Wind Speed: 0<br><img src="http://icons.wxug.com/logos/images/wundergroundLogo_4c.jpg" width =100><br><hr>
+]]></description>
+<gx:balloonVisibility>1</gx:balloonVisibility>
+</Placemark>
+
 </Folder>
 
 </Document>

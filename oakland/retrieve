@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 
-system "curl -O http://maps.kittelson.com/system/uploads/1116/original/TMC_AM.KML";
+system "curl -O http://maps.kittelson.com/system/uploads/1171/original/TMC_AM.KML";
 
 open(IN, "TMC_AM.KML");
 while (<IN>) {
@@ -9,6 +9,11 @@ while (<IN>) {
 		print "$url\n";
 		$url =~ s/'/%27/g;
 		$url =~ s/ /%20/g;
+
+		$base = $url;
+		$base =~ s/.*\///;
+		next if -f $base;
+
 		system "curl -L -O '$url'";
 	}
 }

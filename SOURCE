@@ -1,1 +1,8 @@
 http://www.oaklandbikemaps.info/counts/
+
+http://maps.kittelson.com/OaklandCounts
+http://maps.kittelson.com/system/uploads/1171/original/TMC_AM.KML
+
+Looks like the path to the KML is versioned
+Indirectly referenced from
+http://maps.googleapis.com/maps/api/js/KmlOverlayService.GetOverlays?1shttp%3A%2F%2Fmaps.kittelson.com%2Fsystem%2Fuploads%2F1171%2Foriginal%2FTMC_AM.KML&callback=_xdc_._q4lptt&token=41345
