@@ -16,7 +16,6 @@ BROADWAY / MACARTHUR BL,37.824446, -122.258657
 TELEGRAPH AVE / 34 th ST,37.822471, -122.266253
 SHATTUCK AV / 51 st 52 nd / 51 ST 52 ND,37.837860, -122.264172
 TELEGRAPH AVE / 52 nd CLAREMENT,37.837987, -122.262209
-TELEGRAPH AVE / 51 st ST,37.837275, -122.262316
 TELEGRAPH AVE / 45 th ST,37.833056, -122.263432
 MLK JR WAY / 40 ST,37.82984, -122.26845
 TELEGRAPH AVE / 40 th ST,37.829149, -122.264472
@@ -34,7 +33,6 @@ WEBSTER ST. / 20TH ST.,37.80843, -122.26611
 INTERNAL DRIVEWAY / TO 20TH ST.,
 BRUSH ST. / SB I-980 OFF RAMP / 18TH ST.,37.80977, -122.27665
 CASTRO ST. / 17TH ST. / NB I-980 OFF RAMP,37.80865, -122.27594
-INTERNAL DRIVEWAY / TO 20TH ST.,
 LAKESIDE DR. / 20TH ST.,37.80734, -122.26350
 CHRISTIE AVE / POWELL ST,37.83848, -122.29470
 HOLLIS ST / POWELL ST,37.83953, -122.28920
@@ -106,13 +104,9 @@ PLEASANT VALLEY RD / ARROYO AVE / GRAND AVE / 0,37.82818, -122.24384
 DESMOND ST / CORONADO AV,37.83616, -122.25279
 CORONADO AV / 51st ST,37.83542, -122.25427
 BROADWAY / PLEASANT VALLEY AVE / 51ST ST.,37.83442, -122.25242
-BROADWAY / PLEASANT VALLEY RD / 51st ST,37.83442, -122.25242
 BROADWAY / 40TH ST. WAY / 40TH ST.,37.82755, -122.25672
-BROADWAY / 40th WY / 40th ST,37.82755, -122.25672
 TELEGRAPH AVE. / MACARTHUR BLVD.,
 BROADWAY / MACARTHUR BLVD.,
-BROADWAY / MacARTUR BLVD,
-BROADWAY / MacARTHUR BLVD,
 BROADWAY / HAWTHORNE AVE.,
 BROADWAY / PIEDMONT AVE.,
 BROADWAY / 30TH ST.,
@@ -126,7 +120,6 @@ BRUSH ST / WEST GRAND AVE,
 SAN PABLO AVE / WEST GRAND AVE,
 MARTIN LUTHER KING JR WY / WEST GRAND AVE,
 NORTHGATE AV / W. GRAND AV / 0,
-Southbound Street / Westbound Street / Northbound Street / Eastbound Street,
 Frontage Road / I-580 WB On-Ramp / Rusting Avenue,
 High Street / Courtland Avenue / Ygnacio Avenue,
 Seminary Avenue / Foothill Boulevard / Walnut Street,
@@ -273,9 +266,6 @@ INTERNATIONAL BOULEVARD / 10TH AVENUE,
 INTERNATIONAL BOULEVARD / 13TH AVENUE,
 EAST 12TH STREET / 14TH AVENUE (EAST),
 EAST 12TH STREET / 14TH AVENUE (WEST),
-EAST 12TH STREET / 14TH AVENUE (EAST),
-EAST 12TH STREET / 14TH AVENUE (WEST),
-EAST 12TH STREET / 14TH AVENUE (EAST),
 INTERNATIONAL BOULEVARD / 14TH AVENUE,
 INTERNATIONAL BOULEVARD / 19TH AVENUE,
 INTERNATIONAL BOULEVARD / 22ND AVENUE,
@@ -295,8 +285,6 @@ INTERNATIONAL BOULEVARD / HIGH STREET,
 FOOTHILL BOUELVARD / HIGH STREET,
 EAST 14TH STREET / 46TH AVENUE,
 EAST 14TH STREET / SEMINARY AVENUE,
-EAST 14TH STREET / 66TH AVENUE,
-EAST 14TH STREET / 66TH AVENUE/HAVENSCOURT BLVD,
 EAST 14TH STREET / 66TH AVENUE,
 EAST 14TH STREET / 66TH AVENUE/HAVENSCOURT BLVD,
 INTERNATIONAL BLVD / 73RD AVENUE / HEGENBERGER ROAD,
@@ -378,30 +366,10 @@ Telegraph Ave -- 16th St / Oakland  CA,
 Broadway -- 19th St / Oakland  CA,
 Broadway -- 17th St / Oakland  CA,
 Broadway -- 16th St / Oakland  CA,
-Telegraph Ave -- 16th St / Oakland  CA,
-Broadway -- 17th St / Oakland  CA,
-Broadway -- 19th St / Oakland  CA,
-Broadway -- 16th St / Oakland  CA,
-Broadway -- Telegraph Ave/15th St / Oakland  CA,
-Telegraph Ave -- 16th St / Oakland  CA,
 Telegraph Ave/Broadway -- 15th St / Oakland  CA,
 Telegraph Ave -- 17th St / Oakland  CA,
 Telegraph Ave -- 18th St / Oakland  CA,
 Telegraph Ave -- 19th St / Oakland  CA,
-Broadway -- 19th St / Oakland  CA,
-Broadway -- 17th St / Oakland  CA,
-Broadway -- 16th St / Oakland  CA,
-Webster St -- Atlantic Ave / Alameda  CA,
-Main St -- Atlantic Ave / Alameda  CA,
-Main St -- Willie Stargell Ave / Alameda  CA,
-Webster St -- Willie Stargell Ave / Oakland  CA,
-Broadway -- 6th St / Oakland  CA,
-Broadway -- 5th St / Oakland  CA,
-Jackson St -- 5th St / Oakland  CA,
-Jackson St -- 6th St / Oakland  CA,
-Webster St -- 8th St / Oakland  CA,
-Webster St -- 7th St / Oakland  CA,
-Harrison St -- 7th St / Oakland  CA,
 Webster St -- Atlantic Ave / Alameda  CA,
 Main St -- Atlantic Ave / Alameda  CA,
 Main St -- Willie Stargell Ave / Alameda  CA,
