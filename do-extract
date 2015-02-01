@@ -5,5 +5,3 @@
 	find pdf -name '*.txt' -print0 | xargs -0 ./extract | ./extrapolate
 	./extract-qc oakland/*.csv
 ) > counts-oakland.csv
-
-cat sf.csv | ./process-sf > counts-sf-misc.csv
