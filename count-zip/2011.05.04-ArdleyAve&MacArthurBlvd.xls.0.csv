@@ -1,0 +1,57 @@
+,,,,,,,,"Turning Movement Report",,,,,,,,,,,,,
+,,,,"Metro Traffic Data Inc.",,,,,,,,,,,,,,,,,
+,,,,"310 N. Irwin Street - Suite 20",,,,,,,,,,,,,,,,,
+,,,,"Hanford, CA 93230",,,,,,,,,,,"Prepared For:",,,,,,"Debbie Yueh"
+,,,,,,,,,,,,,,,,,,,,,"Dowling Associates, Inc."
+,,,,"800-975-6938  Phone/Fax",,,,,,,,,,,,,,,,,"180 Grand Avenue, Suite 250"
+,,,,www.metrotrafficdata.com,,,,,,,,,,,,,,,,,"Oakland, CA 94612"
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,LOCATION,"MacArthur Boulevard @ Ardley Avenue",,,,,,,,,LATITUDE," 37.800585°",,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,COUNTY,Alameda,,,,,,,,,LONGITUDE,-122.223893°,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,"COLLECTION DATE",2011/05/04,,,,,,,,,WEATHER,"Sunny and Clear",,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,"Northbound Vehicles",,,"N-Leg Peds",,"Southbound Vehicles",,,"S-Leg Peds",,"Eastbound Vehicles",,,"E-Leg Peds",,"Westbound Vehicles",,,"W-Leg Peds",
+,Time,Left,Thru,Right,CW,Jay,Left,Thru,Right,CW,Jay,Left,Thru,Right,CW,Jay,Left,Thru,Right,CW,Jay
+,"4:00 PM - 4:15 PM",7,7,23,0,0,2,9,1,2,0,0,33,3,1,0,25,27,6,1,0
+,"4:15 PM - 4:30 PM",11,8,31,2,0,0,5,1,1,0,2,30,4,0,0,20,24,0,0,0
+,"4:30 PM - 4:45 PM",15,5,29,0,0,4,5,5,0,0,1,33,1,1,0,14,27,3,5,1
+,"4:45 PM - 5:00 PM",16,8,17,0,0,1,8,1,1,0,0,37,5,4,0,18,24,4,1,0
+,"5:00 PM - 5:15 PM",17,12,25,1,0,2,14,1,4,1,0,44,9,0,0,15,16,2,2,0
+,"5:15 PM - 5:30 PM",12,8,31,2,0,3,11,1,0,0,4,42,6,1,0,29,22,1,1,0
+,"5:30 PM - 5:45 PM",22,9,29,0,0,4,17,1,2,0,1,56,6,2,0,25,31,2,1,1
+,"5:45 PM - 6:00 PM",7,4,31,1,0,2,12,0,2,0,2,39,6,5,0,17,21,3,1,0
+,TOTAL,107,61,216,6,0,18,81,11,12,1,10,314,40,14,0,163,192,21,12,2
+,,,,,,,,,,,,,,,,,,,,,
+,,"Northbound Bicycles",,,,,"Southbound Bicycles",,,,,"Eastbound Bicycles",,,,,"Westbound Bicycles",,,,
+,Time,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus
+,"4:00 PM - 4:15 PM",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,1
+,"4:15 PM - 4:30 PM",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1
+,"4:30 PM - 4:45 PM",0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1
+,"4:45 PM - 5:00 PM",0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+,"5:00 PM - 5:15 PM",0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,1,0,0
+,"5:15 PM - 5:30 PM",0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+,"5:30 PM - 5:45 PM",0,0,0,0,0,1,1,0,0,0,0,2,0,0,0,0,0,0,0,0
+,"5:45 PM - 6:00 PM",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1
+,TOTAL,0,2,2,0,0,1,1,0,0,0,0,7,1,0,5,0,4,1,0,4
+,,,,,,,,,,,,,,,,,,,,,
+,,"Northbound Vehicles",,,"N-Leg Peds",,"Southbound Vehicles",,,"S-Leg Peds",,"Eastbound Vehicles",,,"E-Leg Peds",,"Westbound Vehicles",,,"W-Leg Peds",
+,"PEAK HOUR",Left,Thru,Right,SW,Jay,Left,Thru,Right,SW,Jay,Left,Thru,Right,SW,Jay,Left,Thru,Right,SW,Jay
+,"5:00 PM - 6:00 PM",58,33,116,4,0,11,54,3,8,1,7,181,27,8,0,86,90,8,5,1
+,,"Northbound Bicycles",,,,,"Southbound Bicycles",,,,,"Eastbound Bicycles",,,,,"Westbound Bicycles",,,,
+,"PEAK HOUR",Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus
+,"5:00 PM - 6:00 PM",0,1,0,0,0,1,1,0,0,0,0,5,1,0,2,0,0,1,0,1
+,,,,,,,,,,,,,,,,,,,,,
+,,PHF,,,,,,"Ardley Avenue",,,,,,,,,,,,,
+,AM,0.83004926108374,,,,,,Veh,3,54,11,,,,,,,,,,
+,,,,,,,,Bikes,0,1,1,,,,,,,,,,
+,,,,,,,,,,,,,Bikes,Veh,,,,,,,
+,,,,,,7,0,,,,,,1,8,,,,,,,
+,,"MacArthur Boulevard",,,,181,5,,,,,,0,90,"MacArthur Boulevard",,,,,,
+,,,,,,27,1,,,,,,0,86,,,,,,,
+,,,,,,Veh,Bikes,,,,,,,,,,,,,,
+,,,,,,,,,0,1,0,Bikes,,,,,,,,,
+,,,,,,,,,58,33,116,Veh,,,,,,,,,
+,,,,,,,,"Ardley Avenue",,,,,,,,,,"Page 2 of 2",,,

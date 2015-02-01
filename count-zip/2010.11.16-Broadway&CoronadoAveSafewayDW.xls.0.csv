@@ -1,0 +1,22 @@
+"File Name:",,"C:\Petra Pro\Oakland\FP\broadway-coronado-a.ppd",,,,,,,,,,
+"Start Date:",,11/16/2010,,,,,,,,,,
+"Start Time:",,"7:00:00 AM",,,,,,,,,,
+"Site Code:",,3,,,,,,,,,,
+"Comment 1:",,"CITY OF OAKLAND",,,,,,,,,,
+"Comment 2:",,,,,,,,,,,,
+"Comment 3:",,,,,,,,,,,,
+"Comment 4:",,fp,,,,,,,,,,
+,"BROADWAY
+Southbound",,,"SAFEWAY D/W
+Westbound",,,"BROADWAY                
+Northbound",,,"CORONADO AV
+Eastbound",,
+"Start Time",RT,TH,LT,RT,TH,LT,RT,TH,U-turn,RT,TH,LT
+07:00,0,113,4,0,0,0,0,101,2,2,1,2
+07:15,0,151,2,1,0,0,1,102,0,0,0,0
+07:30,0,161,5,1,0,2,1,145,0,3,0,1
+07:45,0,246,1,1,0,0,0,203,0,3,0,6
+08:00,0,258,5,0,0,0,0,223,2,0,0,1
+08:15,0,322,4,1,0,1,1,248,0,1,0,4
+08:30,0,332,2,0,0,0,0,213,2,3,0,1
+08:45,0,286,6,2,0,1,0,192,2,3,1,2

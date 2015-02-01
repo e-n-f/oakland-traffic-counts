@@ -1,0 +1,22 @@
+"File Name:",,"C:\Petra Pro\Oakland\FP\Weekday\broadway-coronado-p.ppd",,,,,,,,,,
+"Start Date:",,5/11/2010,,,,,,,,,,
+"Start Time:",,"4:00:00 PM",,,,,,,,,,
+"Site Code:",,4,,,,,,,,,,
+"Comment 1:",,"CITY OF OAKLAND",,,,,,,,,,
+"Comment 2:",,,,,,,,,,,,
+"Comment 3:",,fp,,,,,,,,,,
+"Comment 4:",,"Mietek 916-806-0250",,,,,,,,,,
+,"BROADWAY
+Southbound",,,"SAFEWAY D/W
+Westbound",,,"BROADWAY                
+Northbound",,,"CORONADO AV
+Eastbound",,
+"Start Time",RT,TH,LT,RT,TH,LT,RT,TH,U-turn,RT,TH,LT
+16:00,0,186,3,5,0,3,2,270,6,11,0,2
+16:15,0,162,3,3,0,1,0,230,5,15,0,6
+16:30,0,210,8,4,0,2,0,307,5,11,0,3
+16:45,0,204,4,6,0,1,1,308,0,13,0,4
+17:00,0,193,2,7,0,3,0,340,5,5,0,2
+17:15,0,190,4,6,0,0,0,306,2,9,0,6
+17:30,0,180,2,4,0,2,1,292,5,13,0,4
+17:45,0,212,3,5,0,2,0,329,2,9,0,7

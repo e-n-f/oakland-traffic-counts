@@ -1,0 +1,57 @@
+,,,,,,,,"Turning Movement Report",,,,,,,,,,,,,
+,,,,"Metro Traffic Data Inc.",,,,,,,,,,,,,,,,,
+,,,,"310 N. Irwin Street - Suite 20",,,,,,,,,,,,,,,,,
+,,,,"Hanford, CA 93230",,,,,,,,,,,"Prepared For:",,,,,,"Debbie Yueh"
+,,,,,,,,,,,,,,,,,,,,,"Kittelson Associates, Inc."
+,,,,"800-975-6938  Phone/Fax",,,,,,,,,,,,,,,,,"180 Grand Avenue, Suite 250"
+,,,,www.metrotrafficdata.com,,,,,,,,,,,,,,,,,"Oakland, CA 94612"
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,LOCATION,"Mountain Boulevard @ Golf Links Road",,,,,,,,,LATITUDE," 37.753346°",,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,COUNTY,Alameda,,,,,,,,,LONGITUDE,-122.150188°,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,"COLLECTION DATE",2012/09/15,,,,,,,,,WEATHER,"Sunny and Clear",,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,"Northbound Vehicles",,,"N-Leg Peds",,"Southbound Vehicles",,,"S-Leg Peds",,"Eastbound Vehicles",,,"E-Leg Peds",,"Westbound Vehicles",,,"W-Leg Peds",
+,Time,Left,Thru,Right,,,Left,Thru,Right,,,Left,Thru,Right,,,Left,Thru,Right,,
+,"10:00 AM - 10:15 AM",11,23,78,0,,2,44,1,0,,1,5,7,0,,1,1,0,0,
+,"10:15 AM - 10:30 AM",12,42,69,2,,0,56,0,0,,2,1,13,1,,5,2,0,0,
+,"10:30 AM - 10:45 AM",20,33,67,0,,2,51,4,0,,0,2,14,4,,6,0,0,1,
+,"10:45 AM - 11:00 AM",16,38,60,0,,1,60,4,0,,1,1,17,2,,15,2,0,1,
+,"11:00 AM - 11:15 AM",18,47,78,1,,1,49,4,0,,6,2,13,0,,2,3,0,1,
+,"11:15 AM - 11:30 AM",18,33,63,0,,0,66,6,0,,2,0,12,2,,8,1,0,1,
+,"11:30 AM - 11:45 AM",15,34,72,1,,1,56,2,0,,3,3,10,2,,28,1,0,2,
+,"11:45 AM - 12:00 PM",20,49,58,0,,2,43,0,0,,2,5,14,4,,17,1,0,0,
+,TOTAL,130,299,545,4,,9,425,21,0,,17,19,100,15,,82,11,0,6,
+,,,,,,,,,,,,,,,,,,,,,
+,,"Northbound Bicyclists",,,,,"Southbound Bicyclists",,,,,"Eastbound Bicyclists",,,,,"Westbound Bicyclists",,,,
+,Time,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus
+,"10:00 AM - 10:15 AM",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+,"10:15 AM - 10:30 AM",0,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+,"10:30 AM - 10:45 AM",0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,"10:45 AM - 11:00 AM",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+,"11:00 AM - 11:15 AM",0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+,"11:15 AM - 11:30 AM",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+,"11:30 AM - 11:45 AM",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,"11:45 AM - 12:00 PM",0,0,0,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+,TOTAL,1,0,0,0,0,7,6,0,0,0,2,2,1,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,
+,,"Northbound Vehicles",,,"N-Leg Peds",,"Southbound Vehicles",,,"S-Leg Peds",,"Eastbound Vehicles",,,"E-Leg Peds",,"Westbound Vehicles",,,"W-Leg Peds",
+,"PEAK HOUR",Left,Thru,Right,,,Left,Thru,Right,,,Left,Thru,Right,,,Left,Thru,Right,,
+,"10:45 AM - 11:45 AM",71,163,271,2,,4,214,12,0,,13,10,49,8,,55,6,0,4,
+,,"Northbound Bicyclists",,,,,"Southbound Bicyclists",,,,,"Eastbound Bicyclists",,,,,"Westbound Bicyclists",,,,
+,"PEAK HOUR",Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus
+,"10:45 AM - 11:45 AM",1,0,0,0,0,4,4,0,0,0,0,2,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,
+,,PHF,,,,,,"Mountain Boulevard",,,,,,,,,,,,,
+,AM,0.96888888888889,,,,,,Veh,12,214,4,,,,,,,,,,
+,,,,,,,,Bikes,0,4,4,,,,,,,,,,
+,,,,,,,,,,,,,Bikes,Veh,,,,,,,
+,,,,,,13,0,,,,,,0,0,,,,,,,
+,,"Golf Links Road",,,,10,2,,,,,,0,6,"Swan Way",,,,,,
+,,,,,,49,0,,,,,,0,55,,,,,,,
+,,,,,,Veh,Bikes,,,,,,,,,,,,,,
+,,,,,,,,,1,0,0,Bikes,,,,,,,,,
+,,,,,,,,,71,163,271,Veh,,,,,,,,,
+,,,,,,,,"Mountain Boulevard",,,,,,,,,,,,,

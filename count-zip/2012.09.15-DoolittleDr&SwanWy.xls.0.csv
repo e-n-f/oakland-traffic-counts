@@ -1,0 +1,57 @@
+,,,,,,,,"Turning Movement Report",,,,,,,,,,,,,
+,,,,"Metro Traffic Data Inc.",,,,,,,,,,,,,,,,,
+,,,,"310 N. Irwin Street - Suite 20",,,,,,,,,,,,,,,,,
+,,,,"Hanford, CA 93230",,,,,,,,,,,"Prepared For:",,,,,,"Debbie Yueh"
+,,,,,,,,,,,,,,,,,,,,,"Kittelson Associates, Inc."
+,,,,"800-975-6938  Phone/Fax",,,,,,,,,,,,,,,,,"180 Grand Avenue, Suite 250"
+,,,,www.metrotrafficdata.com,,,,,,,,,,,,,,,,,"Oakland, CA 94612"
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,LOCATION,"Doolittle Drive @ Swan Way",,,,,,,,,LATITUDE," 37.729589°",,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,COUNTY,Alameda,,,,,,,,,LONGITUDE,-122.207628°,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,"COLLECTION DATE",2012/09/15,,,,,,,,,WEATHER,"Sunny and Clear",,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,"Northbound Vehicles",,,"N-Leg Peds",,"Southbound Vehicles",,,"S-Leg Peds",,"Eastbound Vehicles",,,"E-Leg Peds",,"Westbound Vehicles",,,"W-Leg Peds",
+,Time,Left,Thru,Right,,,Left,Thru,Right,,,Left,Thru,Right,,,Left,Thru,Right,,
+,"10:00 AM - 10:15 AM",14,117,0,0,,5,109,0,0,,0,0,10,0,,4,0,9,0,
+,"10:15 AM - 10:30 AM",16,124,1,0,,2,151,1,0,,1,0,17,0,,2,1,7,0,
+,"10:30 AM - 10:45 AM",25,137,3,0,,7,144,0,0,,0,0,12,0,,2,2,6,0,
+,"10:45 AM - 11:00 AM",12,189,1,0,,0,151,2,0,,0,3,12,0,,2,4,24,0,
+,"11:00 AM - 11:15 AM",22,220,1,0,,6,151,0,0,,0,0,12,0,,1,2,6,0,
+,"11:15 AM - 11:30 AM",12,266,0,0,,7,172,0,0,,2,0,14,0,,1,5,22,0,
+,"11:30 AM - 11:45 AM",14,241,1,0,,4,163,0,0,,0,0,14,0,,1,6,16,0,
+,"11:45 AM - 12:00 PM",13,233,0,0,,4,178,3,0,,0,0,13,0,,3,2,24,0,
+,TOTAL,128,1527,7,0,,35,1219,6,0,,3,3,104,0,,16,22,114,0,
+,,,,,,,,,,,,,,,,,,,,,
+,,"Northbound Bicyclists",,,,,"Southbound Bicyclists",,,,,"Eastbound Bicyclists",,,,,"Westbound Bicyclists",,,,
+,Time,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus
+,"10:00 AM - 10:15 AM",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,"10:15 AM - 10:30 AM",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+,"10:30 AM - 10:45 AM",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,"10:45 AM - 11:00 AM",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,"11:00 AM - 11:15 AM",0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0
+,"11:15 AM - 11:30 AM",0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+,"11:30 AM - 11:45 AM",0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,"11:45 AM - 12:00 PM",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,TOTAL,0,3,0,0,0,0,4,0,2,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,
+,,"Northbound Vehicles",,,"N-Leg Peds",,"Southbound Vehicles",,,"S-Leg Peds",,"Eastbound Vehicles",,,"E-Leg Peds",,"Westbound Vehicles",,,"W-Leg Peds",
+,"PEAK HOUR",Left,Thru,Right,,,Left,Thru,Right,,,Left,Thru,Right,,,Left,Thru,Right,,
+,"11:00 AM - 12:00 PM",61,960,2,0,,21,664,3,0,,2,0,53,0,,6,15,68,0,
+,,"Northbound Bicyclists",,,,,"Southbound Bicyclists",,,,,"Eastbound Bicyclists",,,,,"Westbound Bicyclists",,,,
+,"PEAK HOUR",Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus
+,"11:00 AM - 12:00 PM",0,3,0,0,0,0,3,0,2,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,
+,,PHF,,,,,,"Dolittle Drive",,,,,,,,,,,,,
+,AM,0.92564870259481,,,,,,Veh,3,664,21,,,,,,,,,,
+,,,,,,,,Bikes,0,3,0,,,,,,,,,,
+,,,,,,,,,,,,,Bikes,Veh,,,,,,,
+,,,,,,2,0,,,,,,0,68,,,,,,,
+,,"De Havilland Street",,,,0,0,,,,,,0,15,"Swan Way",,,,,,
+,,,,,,53,0,,,,,,0,6,,,,,,,
+,,,,,,Veh,Bikes,,,,,,,,,,,,,,
+,,,,,,,,,0,3,0,Bikes,,,,,,,,,
+,,,,,,,,,61,960,2,Veh,,,,,,,,,
+,,,,,,,,"Dolittle Drive",,,,,,,,,,,,,

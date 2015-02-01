@@ -1,0 +1,30 @@
+,"Bellevue Northbound",,,,,,,"Bellevue Southbound",,,,,
+Time,"Right Turn","Left Turn",Through,"Bikes on Sidewalk","Bikes on Buses",Peds,,"Right Turn","Left Turn",Through,"Bikes on Sidewalk","Bikes on Buses",Peds
+4:00-4:30,0,0,0,0,0,16,,0,1,0,0,0,11
+4:30-5:00,1,0,0,0,0,9,,0,0,0,0,0,5
+"4-5pm Totals:",1,,,,,25,,,1,,,,16
+5:00-5:30,0,0,0,0,0,26,,1,0,0,0,0,9
+5:30-6:00,0,0,0,0,0,5,,2,0,0,0,0,11
+"5-6 pm Totals",,,,,,31,,3,,,,,20
+"4-6 pm Totals",1,,,,,56,,3,1,,,,36
+"Total # of Bikes NB: ",,1,,,,,,"Total # of Bikes SB: ",,,4,,
+,,,,,,,,,,,,,
+,"Grand Eastbound",,,,,,,"Grand Westbound",,,,,
+Time,"Right Turn","Left Turn",Through,"Bikes on Sidewalk","Bikes on Buses",Peds,,"Right Turn","Left Turn",Through,"Bikes on Sidewalk","Bikes on Buses",Peds
+4:00-4:30,1,0,15,1,0,104,,0,0,4,1,1,45
+4:30-5:00,0,0,11,5,0,82,,0,0,5,3,0,36
+"4-5pm Totals:",1,,26,6,,186,,,,9,4,1,81
+5:00-5:30,1,2,27,1,0,132,,0,0,4,1,1,55
+5:30-6:00,4,0,35,4,0,149,,0,0,7,2,1,68
+"5-6 pm Totals",5,2,62,5,,281,,,,11,3,2,123
+"4-6 pm Totals",6,2,88,11,,467,,,,20,7,3,204
+"Total # of Bikes EB: ",,107,,,,,,"Total # of Bikes WB: ",,,30,,
+,,,,,,,,,,,,,
+,,,,"Total # of Bikes Counted (4-6 pm): ",,,,,142,,,,
+,,,,,,,,,,,,,
+,,,,"Total # of Bikes Using Facilities (4-6): ",,,,,121,,,,
+"Field Observations:",,,,,,,,,,,,,
+"Conditions were sunny and dry.",,,,,,,,,,,,,
+"Bellevue northbound is a one-way street in the southbound direction.",,,,,,,,,,,,,
+"""Bellevue southbound"" is a two-way street named Park View Terrace.",,,,,,,,,,,,,
+"No buses run on Bellevue or Park View. Lines NL and 12 were running on Grand Ave.",,,,,,,,,,,,,

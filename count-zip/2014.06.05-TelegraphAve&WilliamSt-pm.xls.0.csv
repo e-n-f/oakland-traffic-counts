@@ -1,0 +1,57 @@
+,,,,,,,,"Turning Movement Report",,,,,,,,,,,,,
+,,,,"Metro Traffic Data Inc.",,,,,,,,,,,,,,,,,
+,,,,"310 N. Irwin Street - Suite 20",,,,,,,,,,,,,,,,,
+,,,,"Hanford, CA 93230",,,,,,,,,,,"Prepared For:",,,,,,"Debbie Yueh"
+,,,,,,,,,,,,,,,,,,,,,"Kittelson & Associates, Inc."
+,,,,"800-975-6938  Phone/Fax",,,,,,,,,,,,,,,,,"155 Grand Avenue, Suite 900"
+,,,,www.metrotrafficdata.com,,,,,,,,,,,,,,,,,"Oakland, CA 94612"
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,LOCATION,"Telegraph Avenue @ William Street",,,,,,,,,LATITUDE," 37.808934°",,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,COUNTY,Alameda,,,,,,,,,LONGITUDE,-122.269754°,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,"COLLECTION DATE",2014/06/05,,,,,,,,,WEATHER,"Sunny and Clear",,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,"Northbound Vehicles",,,"N-Leg Peds",,"Southbound Vehicles",,,"S-Leg Peds",,"Eastbound Vehicles",,,"E-Leg Peds",,"Westbound Vehicles",,,"W-Leg Peds",
+,Time,Left,Thru,Right,,,Left,Thru,Right,,,Left,Thru,Right,,,Left,Thru,Right,,
+,"4:00 PM - 4:15 PM",3,73,0,12,,0,62,5,8,,0,0,0,0,,0,0,0,24,
+,"4:15 PM - 4:30 PM",3,100,0,9,,0,81,6,14,,3,0,1,0,,0,0,0,7,
+,"4:30 PM - 4:45 PM",5,99,0,9,,0,96,12,8,,0,0,3,0,,0,0,0,15,
+,"4:45 PM - 5:00 PM",2,78,0,12,,0,77,4,7,,0,0,1,0,,0,0,0,13,
+,"5:00 PM - 5:15 PM",3,119,0,5,,0,79,3,6,,2,0,0,0,,0,0,0,22,
+,"5:15 PM - 5:30 PM",2,113,0,13,,0,81,11,12,,1,0,2,0,,0,0,0,24,
+,"5:30 PM - 5:45 PM",10,126,0,15,,0,73,4,3,,1,0,2,0,,0,0,0,13,
+,"5:45 PM - 6:00 PM",2,82,0,12,,0,88,8,16,,3,0,0,0,,0,0,0,13,
+,TOTAL,30,790,0,87,,0,637,53,74,,10,0,9,0,,0,0,0,131,
+,,,,,,,,,,,,,,,,,,,,,
+,,"Northbound Bicyclists",,,,,"Southbound Bicyclists",,,,,"Eastbound Bicyclists",,,,,"Westbound Bicyclists",,,,
+,Time,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus
+,"4:00 PM - 4:15 PM",0,3,0,0,0,0,9,0,1,0,0,0,0,0,0,0,0,0,0,0
+,"4:15 PM - 4:30 PM",0,11,0,2,0,0,4,0,1,0,0,0,0,0,0,0,0,0,0,0
+,"4:30 PM - 4:45 PM",0,3,0,1,0,0,10,1,1,0,1,0,0,0,0,0,0,0,0,0
+,"4:45 PM - 5:00 PM",1,3,0,0,0,0,8,0,3,0,0,0,0,0,0,0,0,0,0,0
+,"5:00 PM - 5:15 PM",1,11,0,0,0,0,6,0,1,0,0,0,0,0,0,0,0,0,0,0
+,"5:15 PM - 5:30 PM",0,13,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+,"5:30 PM - 5:45 PM",0,15,0,1,0,0,8,0,1,0,0,0,0,0,0,0,0,0,0,0
+,"5:45 PM - 6:00 PM",0,11,0,2,0,0,6,1,0,0,0,0,0,0,0,0,0,0,0,0
+,TOTAL,2,70,0,7,0,0,52,3,9,0,1,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,
+,,"Northbound Vehicles",,,"N-Leg Peds",,"Southbound Vehicles",,,"S-Leg Peds",,"Eastbound Vehicles",,,"E-Leg Peds",,"Westbound Vehicles",,,"W-Leg Peds",
+,"PEAK HOUR",Left,Thru,Right,,,Left,Thru,Right,,,Left,Thru,Right,,,Left,Thru,Right,,
+,"5:00 PM - 6:00 PM",17,440,0,45,,0,321,26,37,,7,0,4,0,,0,0,0,72,
+,,"Northbound Bicyclists",,,,,"Southbound Bicyclists",,,,,"Eastbound Bicyclists",,,,,"Westbound Bicyclists",,,,
+,"PEAK HOUR",Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus
+,"5:00 PM - 6:00 PM",1,50,0,4,0,0,21,2,3,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,
+,,PHF,,,,,,"Telegraph Avenue",,,,,,,,,,,,,
+,AM,0.94328703703704,,,,,,Veh,26,321,0,"Peds <>",,,,,,,,,
+,,,,,,,,Bikes,2,21,0,45,,,,,,,,,
+,,,,,,"Peds <>",72,,,,,,Bikes,Veh,,,,,,,
+,,,,,,7,0,,,,,,0,0,,,,,,,
+,,"William Street",,,,0,0,,,,,,0,0,,,,,,,
+,,,,,,4,0,,,,,,0,0,,,,,,,
+,,,,,,Veh,Bikes,"Peds <>",,,,,0,"Peds <>",,,,,,,
+,,,,,,,,37,1,50,0,Bikes,,,,,,,,,
+,,,,,,,,,17,440,0,Veh,,,,,,,,,
+,,,,,,,,"Telegraph Avenue",,,,,,,,,,,,,

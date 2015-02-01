@@ -1,0 +1,56 @@
+,,,,,,,,"Turning Movement Report",,,,,,,,,,,,,
+,,,,"Metro Traffic Data Inc.",,,,,,,,,,,,,,,,,
+,,,,"310 N. Irwin Street - Suite 20",,,,,,,,,,,,,,,,,
+,,,,"Hanford, CA 93230",,,,,,,,,,,"Prepared For:",,,,,,"Debbie Yueh"
+,,,,,,,,,,,,,,,,,,,,,"Kittelson Associates, Inc."
+,,,,"800-975-6938  Phone/Fax",,,,,,,,,,,,,,,,,"180 Grand Avenue, Suite 250"
+,,,,www.metrotrafficdata.com,,,,,,,,,,,,,,,,,"Oakland, CA 94612"
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,LOCATION,"Tunnel Road @ Caldecott Lane",,,,,,,,,LATITUDE," 37.849946°",,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,COUNTY,Alameda,,,,,,,,,LONGITUDE,-122.226707°,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,"COLLECTION DATE",2012/09/15,,,,,,,,,WEATHER,"Sunny and Clear",,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,"Northbound Vehicles",,,"N-Leg Peds",,"Southbound Vehicles",,,"S-Leg Peds",,"Eastbound Vehicles",,,"E-Leg Peds",,"Westbound Vehicles",,,"W-Leg Peds",
+,Time,Left,Thru,Right,,,Left,Thru,Right,,,Left,Thru,Right,,,Left,Thru,Right,,
+,"10:00 AM - 10:15 AM",0,0,0,0,,24,0,7,0,,3,46,0,0,,0,21,5,0,
+,"10:15 AM - 10:30 AM",0,0,0,0,,17,0,7,0,,0,62,0,0,,0,28,12,0,
+,"10:30 AM - 10:45 AM",0,0,0,0,,18,0,10,0,,7,81,0,0,,0,29,8,0,
+,"10:45 AM - 11:00 AM",0,0,0,0,,19,0,7,0,,5,121,0,0,,0,26,8,0,
+,"11:00 AM - 11:15 AM",0,0,0,0,,22,0,10,0,,6,121,0,0,,0,22,8,0,
+,"11:15 AM - 11:30 AM",0,0,0,0,,12,0,10,0,,6,121,0,0,,0,25,11,0,
+,"11:30 AM - 11:45 AM",0,0,0,0,,17,0,10,0,,7,149,0,0,,0,25,13,0,
+,"11:45 AM - 12:00 PM",0,0,0,0,,14,0,6,0,,7,154,0,0,,0,29,18,0,
+,TOTAL,0,0,0,0,,143,0,67,0,,41,855,0,0,,0,205,83,0,
+,,,,,,,,,,,,,,,,,,,,,
+,,"Northbound Bicyclists",,,,,"Southbound Bicyclists",,,,,"Eastbound Bicyclists",,,,,"Westbound Bicyclists",,,,
+,Time,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus
+,"10:00 AM - 10:15 AM",0,0,0,0,0,0,0,3,0,0,13,0,0,0,0,0,0,7,0,0
+,"10:15 AM - 10:30 AM",0,0,0,0,0,0,0,0,0,0,9,4,0,0,0,0,0,6,0,0
+,"10:30 AM - 10:45 AM",0,0,0,0,0,1,0,4,0,0,11,0,0,0,0,0,1,2,0,0
+,"10:45 AM - 11:00 AM",0,0,0,0,0,0,0,1,0,0,4,0,0,0,0,0,0,8,0,0
+,"11:00 AM - 11:15 AM",0,0,0,0,0,2,0,2,0,0,14,0,0,0,0,0,0,7,0,0
+,"11:15 AM - 11:30 AM",0,0,0,0,0,4,0,9,0,0,8,0,0,0,0,0,0,4,0,0
+,"11:30 AM - 11:45 AM",0,0,0,0,0,3,0,4,0,0,10,0,0,0,0,0,1,1,0,0
+,"11:45 AM - 12:00 PM",0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,1,9,0,0
+,TOTAL,0,0,0,0,0,10,0,23,0,0,72,5,0,0,0,0,3,44,0,0
+,,,,,,,,,,,,,,,,,,,,,
+,,"Northbound Vehicles",,,"N-Leg Peds",,"Southbound Vehicles",,,"S-Leg Peds",,"Eastbound Vehicles",,,"E-Leg Peds",,"Westbound Vehicles",,,"W-Leg Peds",
+,"PEAK HOUR",Left,Thru,Right,,,Left,Thru,Right,,,Left,Thru,Right,,,Left,Thru,Right,,
+,"11:00 AM - 12:00 PM",0,0,0,0,,65,0,36,0,,26,545,0,0,,0,101,50,0,
+,,"Northbound Bicyclists",,,,,"Southbound Bicyclists",,,,,"Eastbound Bicyclists",,,,,"Westbound Bicyclists",,,,
+,"PEAK HOUR",Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus
+,"11:00 AM - 12:00 PM",0,0,0,0,0,9,0,15,0,0,35,1,0,0,0,0,2,21,0,0
+,,,,,,,,,,,,,,,,,,,,,
+,,PHF,,,,,,"Tunnel Road",,,,,,,,,,,,,
+,AM,0.90241228070175,,,,,,Veh,36,0,65,,,,,,,,,,
+,,,,,,,,Bikes,15,0,9,,,,,,,,,,
+,,,,,,,,,,,,,Bikes,Veh,,,,,,,
+,,,,,,26,35,,,,,,21,50,,,,,,,
+,,"Tunnel Road",,,,545,1,,,,,,2,101,"Caldecott Lane",,,,,,
+,,,,,,0,0,,,,,,0,0,,,,,,,
+,,,,,,Veh,Bikes,,,,,,,,,,,,,,
+,,,,,,,,,0,0,0,Bikes,,,,,,,,,
+,,,,,,,,,0,0,0,Veh,,,,,,,,,

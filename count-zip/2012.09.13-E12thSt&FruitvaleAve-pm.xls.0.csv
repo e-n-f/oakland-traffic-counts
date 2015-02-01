@@ -1,0 +1,57 @@
+,,,,,,,,"Turning Movement Report",,,,,,,,,,,,,
+,,,,"Metro Traffic Data Inc.",,,,,,,,,,,,,,,,,
+,,,,"310 N. Irwin Street - Suite 20",,,,,,,,,,,,,,,,,
+,,,,"Hanford, CA 93230",,,,,,,,,,,"Prepared For:",,,,,,"Debbie Yueh"
+,,,,,,,,,,,,,,,,,,,,,"Kittelson Associates, Inc."
+,,,,"800-975-6938  Phone/Fax",,,,,,,,,,,,,,,,,"180 Grand Avenue, Suite 250"
+,,,,www.metrotrafficdata.com,,,,,,,,,,,,,,,,,"Oakland, CA 94612"
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,LOCATION,"E 12th Street @ Fruitvale Avenue",,,,,,,,,LATITUDE," 37.776276°",,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,COUNTY,Alameda,,,,,,,,,LONGITUDE,-122.226515°,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,"COLLECTION DATE",2012/09/13,,,,,,,,,WEATHER,"Sunny and Clear",,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,"Northbound Vehicles",,,"N-Leg Peds",,"Southbound Vehicles",,,"S-Leg Peds",,"Eastbound Vehicles",,,"E-Leg Peds",,"Westbound Vehicles",,,"W-Leg Peds",
+,Time,Left,Thru,Right,,,Left,Thru,Right,,,Left,Thru,Right,,,Left,Thru,Right,,
+,"4:00 PM - 4:15 PM",58,97,24,13,,18,79,9,11,,21,42,101,5,,26,38,13,5,
+,"4:15 PM - 4:30 PM",62,99,20,33,,22,88,12,4,,25,36,84,7,,27,34,18,6,
+,"4:30 PM - 4:45 PM",53,113,36,7,,21,84,12,15,,22,43,89,9,,21,36,11,5,
+,"4:45 PM - 5:00 PM",62,111,30,8,,7,74,7,23,,27,51,114,13,,25,44,18,7,
+,"5:00 PM - 5:15 PM",66,110,22,9,,12,93,7,17,,31,40,113,7,,25,33,20,6,
+,"5:15 PM - 5:30 PM",68,106,33,8,,21,96,4,28,,43,65,139,3,,21,56,14,4,
+,"5:30 PM - 5:45 PM",74,103,25,11,,13,93,11,38,,30,50,163,3,,31,37,29,5,
+,"5:45 PM - 6:00 PM",57,95,30,5,,14,93,10,41,,23,48,98,7,,31,44,13,4,
+,TOTAL,500,834,220,94,,128,700,72,177,,222,375,901,54,,207,322,136,42,
+,,,,,,,,,,,,,,,,,,,,,
+,,"Northbound Bicyclists",,,,,"Southbound Bicyclists",,,,,"Eastbound Bicyclists",,,,,"Westbound Bicyclists",,,,
+,Time,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus
+,"4:00 PM - 4:15 PM",0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,2,0,1,0
+,"4:15 PM - 4:30 PM",0,4,0,4,1,1,1,0,0,0,0,0,1,0,1,0,5,1,2,0
+,"4:30 PM - 4:45 PM",0,2,2,1,0,2,3,0,1,0,0,2,1,0,0,1,0,3,1,0
+,"4:45 PM - 5:00 PM",0,2,0,0,0,0,0,0,0,0,0,3,0,1,0,1,3,2,0,0
+,"5:00 PM - 5:15 PM",0,2,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+,"5:15 PM - 5:30 PM",0,6,0,1,0,0,0,0,0,0,0,2,1,0,0,2,1,1,0,0
+,"5:30 PM - 5:45 PM",1,3,3,2,2,0,1,0,1,1,0,0,0,0,0,1,1,2,1,0
+,"5:45 PM - 6:00 PM",0,1,0,0,1,0,1,0,0,0,0,1,0,0,0,2,3,1,1,0
+,TOTAL,1,21,5,9,4,3,8,0,2,1,0,10,3,1,1,7,15,10,6,0
+,,,,,,,,,,,,,,,,,,,,,
+,,"Northbound Vehicles",,,"N-Leg Peds",,"Southbound Vehicles",,,"S-Leg Peds",,"Eastbound Vehicles",,,"E-Leg Peds",,"Westbound Vehicles",,,"W-Leg Peds",
+,"PEAK HOUR",Left,Thru,Right,,,Left,Thru,Right,,,Left,Thru,Right,,,Left,Thru,Right,,
+,"4:45 PM - 5:45 PM",265,414,110,33,,60,375,32,124,,127,203,513,20,,108,170,76,19,
+,,"Northbound Bicyclists",,,,,"Southbound Bicyclists",,,,,"Eastbound Bicyclists",,,,,"Westbound Bicyclists",,,,
+,"PEAK HOUR",Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus
+,"4:45 PM - 5:45 PM",1,12,3,4,3,0,3,0,1,1,0,4,1,0,0,5,5,4,2,0
+,,,,,,,,,,,,,,,,,,,,,
+,,PHF,,,,,,"Fruitvale Avenue",,,,,,,,,,,,,
+,AM,0.92605105105105,,,,,,Veh,32,375,60,,,,,,,,,,
+,,,,,,,,Bikes,0,3,0,,,,,,,,,,
+,,,,,,,,,,,,,Bikes,Veh,,,,,,,
+,,,,,,127,0,,,,,,4,76,,,,,,,
+,,"E. 12th Street",,,,203,4,,,,,,5,170,"E. 12th Street",,,,,,
+,,,,,,513,1,,,,,,5,108,,,,,,,
+,,,,,,Veh,Bikes,,,,,,,,,,,,,,
+,,,,,,,,,1,12,3,Bikes,,,,,,,,,
+,,,,,,,,,265,414,110,Veh,,,,,,,,,
+,,,,,,,,"Fruitvale Avenue",,,,,,,,,,,,,

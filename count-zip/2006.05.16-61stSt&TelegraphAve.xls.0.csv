@@ -1,0 +1,25 @@
+,"Telegraph Northbound",,,,,,,"Telegraph Southbound",,,,,
+Time,"Right Turn","Left Turn",Through,"Bikes on Sidewalk","Bikes on Buses",Peds,,"Right Turn","Left Turn",Through,"Bikes on Sidewalk","Bikes on Buses",Peds
+4:00-4:30,,,3,2,,6,,,,4,1,,4
+4:30-5:00,,,7,5,,8,,,,4,,,4
+"4-5pm Totals:",,,10,7,,14,,,,8,1,,8
+5:00-5:30,,,11,3,,15,,,3,16,1,,4
+5:30-6:00,1,,15,5,,3,,,,10,2,,7
+"5-6 pm Totals",1,,26,8,,18,,,3,26,3,,11
+"4-6 pm Totals",1,,36,15,,32,,,3,34,4,,19
+"Total # of Bikes NB: ",,52,,,,,,"Total # of Bikes SB: ",,,41,,
+,,,,,,,,,,,,,
+,"61st St. Eastbound",,,,,,,"61st St. Westbound",,,,,
+Time,"Right Turn","Left Turn",Through,"Bikes on Sidewalk","Bikes on Buses",Peds,,"Right Turn","Left Turn",Through,"Bikes on Sidewalk","Bikes on Buses",Peds
+4:00-4:30,,,,,,,,,,,,,3
+4:30-5:00,,,,,,,,,,,,,
+"4-5pm Totals:",,,,,,,,,,,,,3
+5:00-5:30,,,1,1,,2,,,,,,,2
+5:30-6:00,1,2,2,1,,2,,,,2,1,,2
+"5-6 pm Totals",1,2,3,2,,4,,,,2,1,,4
+"4-6 pm Totals",1,2,3,2,,4,,,,2,1,,7
+"Total # of Bikes EB: ",,8,,,,,,"Total # of Bikes WB: ",,,3,,
+,,,,,,,,,,,,,
+,,,,"Total # of Bikes Counted (4-6 pm): ",,,,,104,,,,
+,,,,,,,,,,,,,
+"Field Observations:",,,,"Total # of Bikes Using Facilities (4-6): ",,,,,82,,,,

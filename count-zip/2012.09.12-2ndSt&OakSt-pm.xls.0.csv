@@ -1,0 +1,57 @@
+,,,,,,,,"Turning Movement Report",,,,,,,,,,,,,
+,,,,"Metro Traffic Data Inc.",,,,,,,,,,,,,,,,,
+,,,,"310 N. Irwin Street - Suite 20",,,,,,,,,,,,,,,,,
+,,,,"Hanford, CA 93230",,,,,,,,,,,"Prepared For:",,,,,,"Debbie Yueh"
+,,,,,,,,,,,,,,,,,,,,,"Kittelson Associates, Inc."
+,,,,"800-975-6938  Phone/Fax",,,,,,,,,,,,,,,,,"180 Grand Avenue, Suite 250"
+,,,,www.metrotrafficdata.com,,,,,,,,,,,,,,,,,"Oakland, CA 94612"
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,LOCATION,"Oak Street @ 2nd Street",,,,,,,,,LATITUDE," 37.792747°",,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,COUNTY,Alameda,,,,,,,,,LONGITUDE,-122.268057°,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,"COLLECTION DATE",2012/09/12,,,,,,,,,WEATHER,"Sunny and Clear",,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,"Northbound Vehicles",,,"N-Leg Peds",,"Southbound Vehicles",,,"S-Leg Peds",,"Eastbound Vehicles",,,"E-Leg Peds",,"Westbound Vehicles",,,"W-Leg Peds",
+,Time,Left,Thru,Right,,,Left,Thru,Right,,,Left,Thru,Right,,,Left,Thru,Right,,
+,"4:00 PM - 4:15 PM",13,48,0,0,,0,37,1,0,,9,0,13,0,,0,0,0,5,
+,"4:15 PM - 4:30 PM",7,60,0,1,,0,66,8,0,,8,0,9,0,,0,0,0,11,
+,"4:30 PM - 4:45 PM",17,59,0,1,,0,52,6,4,,10,0,9,0,,0,0,0,8,
+,"4:45 PM - 5:00 PM",7,48,0,2,,0,54,6,0,,14,0,16,0,,0,0,0,8,
+,"5:00 PM - 5:15 PM",8,57,0,2,,0,60,8,2,,15,0,8,0,,0,0,0,1,
+,"5:15 PM - 5:30 PM",10,53,0,0,,0,64,6,0,,15,0,21,0,,0,0,0,3,
+,"5:30 PM - 5:45 PM",12,72,0,0,,0,73,2,0,,11,0,16,0,,0,0,0,9,
+,"5:45 PM - 6:00 PM",8,75,0,0,,0,78,5,0,,12,0,14,0,,0,0,0,7,
+,TOTAL,82,472,0,6,,0,484,42,6,,94,0,106,0,,0,0,0,52,
+,,,,,,,,,,,,,,,,,,,,,
+,,"Northbound Bicyclists",,,,,"Southbound Bicyclists",,,,,"Eastbound Bicyclists",,,,,"Westbound Bicyclists",,,,
+,Time,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus
+,"4:00 PM - 4:15 PM",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,"4:15 PM - 4:30 PM",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,"4:30 PM - 4:45 PM",0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0
+,"4:45 PM - 5:00 PM",0,3,0,0,0,0,7,0,0,0,0,0,1,0,0,0,0,0,0,0
+,"5:00 PM - 5:15 PM",3,1,0,0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0
+,"5:15 PM - 5:30 PM",1,5,0,0,0,0,5,0,0,0,2,0,0,0,0,0,0,0,0,0
+,"5:30 PM - 5:45 PM",2,2,0,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0
+,"5:45 PM - 6:00 PM",3,2,0,0,0,0,3,1,0,0,1,0,0,0,0,0,0,0,0,0
+,TOTAL,9,13,0,0,0,0,21,2,0,0,4,0,3,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,
+,,"Northbound Vehicles",,,"N-Leg Peds",,"Southbound Vehicles",,,"S-Leg Peds",,"Eastbound Vehicles",,,"E-Leg Peds",,"Westbound Vehicles",,,"W-Leg Peds",
+,"PEAK HOUR",Left,Thru,Right,,,Left,Thru,Right,,,Left,Thru,Right,,,Left,Thru,Right,,
+,"5:00 PM - 6:00 PM",38,257,0,2,,0,275,21,2,,53,0,59,0,,0,0,0,20,
+,,"Northbound Bicyclists",,,,,"Southbound Bicyclists",,,,,"Eastbound Bicyclists",,,,,"Westbound Bicyclists",,,,
+,"PEAK HOUR",Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus
+,"5:00 PM - 6:00 PM",9,10,0,0,0,0,12,1,0,0,4,0,2,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,
+,,PHF,,,,,,"Oak Street",,,,,,,,,,,,,
+,AM,0.91536458333333,,,,,,Veh,21,275,0,,,,,,,,,,
+,,,,,,,,Bikes,1,12,0,,,,,,,,,,
+,,,,,,,,,,,,,Bikes,Veh,,,,,,,
+,,,,,,53,4,,,,,,0,0,,,,,,,
+,,"2nd Street",,,,0,0,,,,,,0,0,,,,,,,
+,,,,,,59,2,,,,,,0,0,,,,,,,
+,,,,,,Veh,Bikes,,,,,,,,,,,,,,
+,,,,,,,,,9,10,0,Bikes,,,,,,,,,
+,,,,,,,,,38,257,0,Veh,,,,,,,,,
+,,,,,,,,"Oak Street",,,,,,,,,,,,,

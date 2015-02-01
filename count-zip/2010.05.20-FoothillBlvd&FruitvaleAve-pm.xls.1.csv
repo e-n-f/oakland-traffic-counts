@@ -1,0 +1,39 @@
+Location:,"Fruitvale Ave at Foothill Blvd",,,,,,Weather:,"sunny 55-60° ",,,
+Date:,2010/05/20,,,,,,,,,,
+,,,,,,,,,,,
+,"Northbound: Fruitvale Ave",,,,,,"Southbound: Fruitvale Ave",,,,
+" ","Right Turn","Left Turn",Through,"On buses",Peds,,"Right Turn","Left Turn",Through,"On buses",Peds
+4:00-4:15pm,,1,1,,31,,,,,,17
+4:15-4:30pm,2,1,1,,39,,,,,,34
+4:30-4:45pm,,,1,,54,,,,,,37
+4:45-5:00pm,,1,,,20,,1,1,,1,23
+"4:00-5:00pm Total:",2,3,3,0,144,,1,1,0,1,111
+5:00-5:15pm,,,4,,23,,1,,2,,24
+5:15-5:30pm,,2,3,,33,,,,,,26
+5:30-5:45pm,,,3,,27,,,,1,,10
+5:45-6:00pm,1,,3,,33,,,,3,,33
+"5:00-6:00pm Total:",1,2,13,0,116,,1,0,6,0,93
+"4:00-6:00pm Total:",3,5,16,0,260,,2,1,6,1,204
+,"Total # of Bikes NB: ",,,24,,,"Total # of Bikes SB: ",,,9,
+,"Eastbound: Foothill Blvd",,,,,,"Westbound: Foothill Blvd",,,,
+Time,"Right Turn","Left Turn",Through,"On buses",Peds,,"Right Turn","Left Turn",Through,"On buses",Peds
+4:00-4:15pm,1,,2,,36,,,,1,,28
+4:15-4:30pm,,,1,,32,,,,1,2,36
+4:30-4:45pm,,,2,1,33,,1,,2,,64
+4:45-5:00pm,1,,3,1,39,,,,2,,56
+"4:00-5:00pm Total:",2,0,8,2,140,,1,0,6,2,184
+5:00-5:15pm,,,,,23,,1,,,,26
+5:15-5:30pm,1,,1,1,38,,,,1,,34
+5:30-5:45pm,,1,4,,36,,,,1,,44
+5:45-6:00pm,,1,3,,31,,,,2,1,20
+"5:00-6:00pm Total:",1,2,8,1,128,,1,0,4,1,124
+"4:00-6:00pm Total:",3,2,16,3,268,,2,0,10,3,308
+,"Total # of Bikes EB: ",,,21,,,"Total # of Bikes WB: ",,,12,
+,,,,,,,,,,,
+"Totals (4:00pm - 6:00pm)",,,,,,,,,"Counted by:","Adam Shapiro",
+"Total # of Bicyclists: ",,66,"(This total includes cyclists on sidewalks but not bikes on buses)",,,,,,,,
+"Total # of Bikes on Buses:",,7,,,,,,,,,
+"Total # of Pedestrians",,1040,,,,,,,,,
+"Total # of Bikes on Sidewalk:",,36,"(This total is recorded in addition to the turning movements counts above. In other words, cyclists",,,,,,,,
+,,,"on the sidewalk should be recorded in the turning movement counts and on this line.)",,,,,,,,
+NOTE:," Construction on N.E. Corner; Sidewalk closed in SB direction for peds",,,,,,,,,,

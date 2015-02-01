@@ -1,0 +1,57 @@
+,,,,,,,,"Turning Movement Report",,,,,,,,,,,,,
+,,,,"Metro Traffic Data Inc.",,,,,,,,,,,,,,,,,
+,,,,"310 N. Irwin Street - Suite 20",,,,,,,,,,,,,,,,,
+,,,,"Hanford, CA 93230",,,,,,,,,,,"Prepared For:",,,,,,"Debbie Yueh"
+,,,,,,,,,,,,,,,,,,,,,"Kittelson Associates, Inc."
+,,,,"800-975-6938  Phone/Fax",,,,,,,,,,,,,,,,,"180 Grand Avenue, Suite 250"
+,,,,www.metrotrafficdata.com,,,,,,,,,,,,,,,,,"Oakland, CA 94612"
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,LOCATION,"Park Boulevard @ Monterey Boulevard",,,,,,,,,LATITUDE," 37.821054°",,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,COUNTY,Alameda,,,,,,,,,LONGITUDE,-122.207759°,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,"COLLECTION DATE",2012/09/13,,,,,,,,,WEATHER,"Sunny and Clear",,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,"Northbound Vehicles",,,"N-Leg Peds",,"Southbound Vehicles",,,"S-Leg Peds",,"Eastbound Vehicles",,,"E-Leg Peds",,"Westbound Vehicles",,,"W-Leg Peds",
+,Time,Left,Thru,Right,,,Left,Thru,Right,,,Left,Thru,Right,,,Left,Thru,Right,,
+,"4:00 PM - 4:15 PM",0,130,41,0,,87,87,0,1,,51,27,86,0,,8,0,12,0,
+,"4:15 PM - 4:30 PM",0,112,42,0,,68,88,0,0,,57,16,71,0,,10,0,12,0,
+,"4:30 PM - 4:45 PM",0,123,51,0,,93,90,0,0,,61,19,82,0,,7,0,15,0,
+,"4:45 PM - 5:00 PM",0,125,45,0,,89,84,0,0,,71,16,72,0,,9,0,16,0,
+,"5:00 PM - 5:15 PM",0,136,36,0,,104,91,0,3,,55,16,80,0,,13,0,19,0,
+,"5:15 PM - 5:30 PM",0,143,73,0,,100,97,0,0,,63,25,104,0,,6,0,18,0,
+,"5:30 PM - 5:45 PM",0,134,60,0,,85,90,0,0,,94,15,104,0,,17,0,8,0,
+,"5:45 PM - 6:00 PM",0,140,52,0,,72,102,0,0,,85,27,99,0,,16,0,18,0,
+,TOTAL,0,1043,400,0,,698,729,0,4,,537,161,698,0,,86,0,118,0,
+,,,,,,,,,,,,,,,,,,,,,
+,,"Northbound Bicyclists",,,,,"Southbound Bicyclists",,,,,"Eastbound Bicyclists",,,,,"Westbound Bicyclists",,,,
+,Time,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus
+,"4:00 PM - 4:15 PM",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,"4:15 PM - 4:30 PM",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,"4:30 PM - 4:45 PM",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,"4:45 PM - 5:00 PM",0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,1,0,1,0,0
+,"5:00 PM - 5:15 PM",0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,1,0,0
+,"5:15 PM - 5:30 PM",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+,"5:30 PM - 5:45 PM",0,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+,"5:45 PM - 6:00 PM",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+,TOTAL,0,1,0,0,0,3,6,0,0,0,0,1,0,0,0,2,0,4,0,0
+,,,,,,,,,,,,,,,,,,,,,
+,,"Northbound Vehicles",,,"N-Leg Peds",,"Southbound Vehicles",,,"S-Leg Peds",,"Eastbound Vehicles",,,"E-Leg Peds",,"Westbound Vehicles",,,"W-Leg Peds",
+,"PEAK HOUR",Left,Thru,Right,,,Left,Thru,Right,,,Left,Thru,Right,,,Left,Thru,Right,,
+,"5:00 PM - 6:00 PM",0,553,221,0,,361,380,0,3,,297,83,387,0,,52,0,63,0,
+,,"Northbound Bicyclists",,,,,"Southbound Bicyclists",,,,,"Eastbound Bicyclists",,,,,"Westbound Bicyclists",,,,
+,"PEAK HOUR",Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus
+,"5:00 PM - 6:00 PM",0,1,0,0,0,3,4,0,0,0,0,0,0,0,0,1,0,3,0,0
+,,,,,,,,,,,,,,,,,,,,,
+,,PHF,,,,,,"Park Boulevard",,,,,,,,,,,,,
+,AM,0.9527027027027,,,,,,Veh,0,380,361,,,,,,,,,,
+,,,,,,,,Bikes,0,4,3,,,,,,,,,,
+,,,,,,,,,,,,,Bikes,Veh,,,,,,,
+,,,,,,297,0,,,,,,3,63,,,,,,,
+,,"I580 EB Off / Trafalgar Place",,,,83,0,,,,,,0,0,"Monterey Boulevard",,,,,,
+,,,,,,387,0,,,,,,1,52,,,,,,,
+,,,,,,Veh,Bikes,,,,,,,,,,,,,,
+,,,,,,,,,0,1,0,Bikes,,,,,,,,,
+,,,,,,,,,0,553,221,Veh,,,,,,,,,
+,,,,,,,,"Park Boulevard",,,,,,,,,,,,,

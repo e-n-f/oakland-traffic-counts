@@ -1,0 +1,41 @@
+Location:,"20th Street @ Webster Street",,,,,,Weather:,"Sunny and Clear",,,
+Date:,2012/09/19,,,,,,Counter:,"Metro Traffic Data Inc.",,,
+,,,,,,,,,,,
+,"Primary street:",,"20th Street",,,,"Primary street:",,"20th Street",,
+,Approach:,,Eastbound,,WestLeg,,Approach:,,Westbound,,EastLeg
+Time,"Right Turn","Left Turn",Through,"On buses",Peds,,"Right Turn","Left Turn",Through,"On buses",Peds
+7:00-7:15am,0,0,1,0,6,,0,1,4,0,14
+7:15-7:30am,0,0,3,0,4,,0,0,4,0,12
+7:30-7:45am,0,0,1,0,4,,0,0,5,1,12
+7:45-8:00am,0,0,3,0,19,,0,3,4,0,39
+"7:00-8:00am Total:",0,0,8,0,33,,0,4,17,1,77
+8:00-8:15am,3,0,0,0,12,,0,0,8,2,43
+8:15-8:30am,0,0,0,3,20,,0,0,3,1,44
+8:30-8:45am,0,0,1,0,22,,0,5,7,0,40
+8:45-9:00am,0,0,1,0,15,,0,5,5,0,62
+"8:00-9:00am Total:",3,0,2,3,69,,0,10,23,3,189
+"7:00-9:00am Total:",3,0,10,3,102,,0,14,40,4,266
+,"Total # of Bicycles: ",,13,,,,"Total # of Bicycles: ",,54,,
+,,,,,,,,,,,
+,"Cross street:",,"Webster Street",,,,"Cross street:",,"Webster Street",,
+,Approach:,,Northbound,,SouthLeg,,Approach:,,Southbound,,NorthLeg
+Time,"Right Turn","Left Turn",Through,"On buses",Peds,,"Right Turn","Left Turn",Through,"On buses",Peds
+7:00-7:15am,0,0,0,0,15,,1,0,1,0,75
+7:15-7:30am,0,0,0,0,18,,2,0,8,0,84
+7:30-7:45am,0,0,0,0,22,,1,0,4,0,111
+7:45-8:00am,0,0,0,0,36,,0,0,8,0,161
+"7:00-8:00am Total:",0,0,0,0,91,,4,0,21,0,431
+8:00-8:15am,0,0,0,0,33,,1,0,11,0,158
+8:15-8:30am,0,0,0,0,43,,7,1,13,0,165
+8:30-8:45am,0,0,0,0,46,,0,1,16,1,200
+8:45-9:00am,0,0,0,0,64,,5,0,12,0,185
+"8:00-9:00am Total:",0,0,0,0,186,,13,2,52,1,708
+"7:00-9:00am Total:",0,0,0,0,277,,17,2,73,1,1139
+,"Total # of Bicycles: ",,0,,,,"Total # of Bicycles: ",,92,,
+,,,,,,,,,,,
+"Totals (7:00am - 9:00am)",,,,,,,,,,,
+"Total # of Bicycles: ",,159,"[Include bicycles on sidewalks but not bicycles on buses.]",,,,,,,,
+"Total # of Bikes on Buses:",,8,"[Count bicycles on the racks of buses.]",,,,,,,,
+"Total # of Pedestrians",,1784,"[Count pedestrians by crossing leg for each intersection approach.]",,,,,,,,
+"Total # of Bikes on Sidewalk:",,12,"[Subtotal of bicycles on sidewalks.]",,,,,,,,
+,,,"[Bicycles on sidewalks are also included in the turning movement counts.]",,,,,,,,

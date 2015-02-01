@@ -1,0 +1,22 @@
+"File Name:",,"C:\Petra Pro\Oakland\FP\Weekday\howe-pleasant-p.ppd",,,,,,,,,,,,,,
+"Start Date:",,5/11/2010,,,,,,,,,,,,,,
+"Start Time:",,"4:00:00 PM",,,,,,,,,,,,,,
+"Site Code:",,19,,,,,,,,,,,,,,
+"Comment 1:",,"CITY OF OAKLAND",,,,,,,,,,,,,,
+"Comment 2:",,,,,,,,,,,,,,,,
+"Comment 3:",,fp,,,,,,,,,,,,,,
+"Comment 4:",,"Mietek 916-806-0250",,,,,,,,,,,,,,
+,"HOWE ST
+Southbound",,,,"PLEASANT VALLEY AV
+Westbound",,,,"HOWE ST
+Northbound",,,,"PLEASANT VALLEY AV
+Eastbound",,,
+"Start Time",RT,TH,LT,Ped,RT,TH,LT,Ped,RT,TH,LT,Ped,RT,TH,LT,Ped
+16:00,0,1,0,2,0,1,0,0,0,0,0,1,0,0,0,0
+16:15,0,1,0,2,0,2,0,0,0,0,0,3,0,2,0,0
+16:30,0,0,0,3,1,3,0,0,0,0,0,4,0,0,0,1
+16:45,0,0,0,2,0,2,0,2,0,0,0,1,0,1,0,1
+17:00,0,2,0,2,0,0,0,0,0,0,0,5,0,5,0,0
+17:15,0,0,0,5,0,2,0,0,0,0,0,2,0,4,0,0
+17:30,0,0,0,6,0,4,0,0,0,0,0,2,0,5,0,1
+17:45,0,0,0,5,0,2,0,0,0,0,0,5,1,5,0,2

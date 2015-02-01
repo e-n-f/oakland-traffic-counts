@@ -1,0 +1,58 @@
+Location:,"Market Street/AdelineStreet/57th Street",,,,,,,,,Weather:,Sunny/Clear,,,,,,
+Date:,2014/06/05,,,,,,,,,Counter:,"Metro Traffic Data",,,,,,
+,,,,,,,,,,,,,,,,,
+,Street:,,"57th Street",,,,,,,Street:,,"57th Street",,,,,
+,Approach:,,Eastbound,,,,,WestLeg,,Approach:,,Westbound,,,,,EastLeg
+Time,"RT to Market","RT to Adeline","LT to Market","LT to Adeline",Thru,Sidewalk,"On buses",Peds,,"RT to Market","RT to Adeline","LT to Market","LT to Adeline",Thru,Sidewalk,"On buses",Peds
+4:00-4:15pm,0,0,0,0,2,0,0,0,,0,0,0,0,0,0,0,3
+4:15-4:30pm,0,0,0,0,2,1,0,3,,0,0,1,0,3,1,0,4
+4:30-4:45pm,0,2,0,0,2,0,0,1,,0,0,1,0,5,1,0,2
+4:45-5:00pm,0,0,0,0,2,1,0,1,,0,0,4,0,4,2,0,1
+"4:00-5:00pm Total:",0,2,0,0,8,2,0,5,,0,0,6,0,12,4,0,10
+5:00-5:15pm,0,0,0,1,0,0,0,9,,0,0,0,0,1,0,0,3
+5:15-5:30pm,0,0,0,0,0,0,0,4,,0,0,0,0,1,0,0,5
+5:30-5:45pm,0,0,0,0,0,0,0,4,,0,0,1,0,0,0,0,7
+5:45-6:00pm,0,0,0,0,0,0,0,3,,0,0,0,0,0,0,0,3
+"5:00-6:00pm Total:",0,0,0,1,0,0,0,20,,0,0,1,0,2,0,0,18
+"4:00-6:00pm Total:",0,2,0,1,8,2,0,25,,0,0,7,0,14,4,0,28
+,"Total # of Bicyclists: ",,13,,,,,,,"Total # of Bicyclists: ",,25,,,,,
+,,,,,,,,,,,,,,,,,
+,Street:,,"Market Street",,,,,,,Street:,,"Market Street",,,,,
+,Approach:,,Northbound,,,,,SouthLeg,,Approach:,,Southbound,,,,,NorthLeg
+Time,"RT to Adeline","RT to 57th ","LT to 57th","LT to Adeline",Thru,Sidewalk,"On buses",Peds,,"RT to Adeline","RT to 57th ","LT to 57th","LT to Adeline",Thru,Sidewalk,"On buses",Peds
+4:00-4:15pm,0,0,0,0,1,0,0,0,,3,0,0,0,3,3,0,2
+4:15-4:30pm,3,0,0,0,1,2,0,1,,3,0,0,0,5,5,1,6
+4:30-4:45pm,0,0,0,0,3,1,0,0,,4,1,0,0,7,6,0,0
+4:45-5:00pm,3,0,0,0,4,1,0,0,,7,1,0,0,11,11,0,2
+"4:00-5:00pm Total:",6,0,0,0,9,4,0,1,,17,2,0,0,26,25,1,10
+5:00-5:15pm,1,0,0,0,3,0,0,0,,3,0,0,0,2,3,0,8
+5:15-5:30pm,0,0,0,0,5,2,0,1,,6,0,0,0,4,5,0,3
+5:30-5:45pm,1,0,0,0,6,1,1,0,,13,0,0,0,2,8,0,2
+5:45-6:00pm,0,0,0,0,6,2,0,0,,3,0,0,0,4,2,0,0
+"5:00-6:00pm Total:",2,0,0,0,20,5,1,1,,25,0,0,0,12,18,0,13
+"4:00-6:00pm Total:",8,0,0,0,29,9,1,2,,42,2,0,0,38,43,1,23
+,"Total # of Bicyclists: ",,46,,,,,,,"Total # of Bicyclists: ",,125,,,,,
+,,,,,,,,,,,,,,,,,
+,Street:,,"Adeline Street",,,,,,,Street:,,"Adeline Street",,,,,
+,Approach:,,Northeastbound,,,,,"SW Leg",,Approach:,,Southwestbound,,,,,
+Time,"RT to 57th","RT to Market","LT to 57th","LT to Market",Thru,Sidewalk,"On buses",Peds,,"RT to 57th","RT to Market","LT to 57th","LT to Market",Thru,Sidewalk,"On buses",Peds
+4:00-4:15pm,0,0,0,0,6,3,0,0,,0,0,0,0,1,0,0,"Include in Market Street Counts"
+4:15-4:30pm,0,0,0,0,2,1,0,1,,0,0,0,1,3,0,0,
+4:30-4:45pm,0,0,0,1,1,1,0,1,,0,0,0,0,3,0,0,
+4:45-5:00pm,0,0,0,1,4,5,0,0,,1,0,0,1,5,1,0,
+"4:00-5:00pm Total:",0,0,0,2,13,10,0,2,,1,0,0,2,12,1,0,
+5:00-5:15pm,0,0,0,1,6,2,0,2,,0,0,0,1,2,1,0,
+5:15-5:30pm,0,0,0,0,3,0,0,0,,0,0,0,2,4,0,0,
+5:30-5:45pm,0,0,0,0,3,1,0,0,,0,0,0,3,7,3,0,
+5:45-6:00pm,0,0,0,0,5,3,0,1,,0,0,0,0,1,1,0,
+"5:00-6:00pm Total:",0,0,0,1,17,6,0,3,,0,0,0,6,14,5,0,
+"4:00-6:00pm Total:",0,0,0,3,30,16,0,5,,1,0,0,8,26,6,0,
+,"Total # of Bicyclists: ",,49,,,,,,,"Total # of Bicyclists: ",,41,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+"Totals (4:00pm - 6:00pm)",,,,,,,,,,,,,,,,,
+"Total # of Bicyclists: ",,299,"[Include bicyclists on sidewalks but not bicycles on buses.]",,,,,,,,,,,,,,
+"Total # of Bikes on Buses:",,2,"[Count bicycles on the racks of buses.]",,,,,,,,,,,,,,
+"Total # of Pedestrians",,83,"[Count pedestrians by crossing leg for each intersection approach.]",,,,,,,,,,,,,,
+"Total # of Bikes on Sidewalk:",,80,"[Subtotal of bicyclists on sidewalks.]",,,,,,,,,,,,,,
+,,,"[Bicyclists on sidewalks are also included in the turning movement counts.]",,,,,,,,,,,,,,

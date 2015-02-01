@@ -1,0 +1,41 @@
+Location:,"Park Boulevard @ Monterey Boulevard",,,,,,Weather:,"Sunny and Clear",,,
+Date:,2012/09/13,,,,,,Counter:,"Metro Traffic Data Inc.",,,
+,,,,,,,,,,,
+,"Primary street:",,"Monterey Boulevard",,,,"Primary street:",,"Monterey Boulevard",,
+,Approach:,,Eastbound,,WestLeg,,Approach:,,Westbound,,EastLeg
+Time,"Right Turn","Left Turn",Through,"On buses",Peds,,"Right Turn","Left Turn",Through,"On buses",Peds
+4:00-4:15pm,0,0,0,0,0,,0,0,0,0,0
+4:15-4:30pm,0,0,0,0,0,,0,0,0,0,0
+4:30-4:45pm,0,0,0,0,0,,0,0,0,0,0
+4:45-5:00pm,0,0,1,0,0,,1,1,0,0,0
+"4:00-5:00pm Total:",0,0,1,0,0,,1,1,0,0,0
+5:00-5:15pm,0,0,0,0,0,,1,0,0,0,0
+5:15-5:30pm,0,0,0,0,0,,1,1,0,0,0
+5:30-5:45pm,0,0,0,0,0,,1,0,0,0,0
+5:45-6:00pm,0,0,0,0,0,,0,0,0,0,0
+"5:00-6:00pm Total:",0,0,0,0,0,,3,1,0,0,0
+"4:00-6:00pm Total:",0,0,1,0,0,,4,2,0,0,0
+,"Total # of Bicyclists: ",,1,,,,"Total # of Bicyclists: ",,6,,
+,,,,,,,,,,,
+,"Cross street:",,"Park Boulevard",,,,"Cross street:",,"Park Boulevard",,
+,Approach:,,Northbound,,SouthLeg,,Approach:,,Southbound,,NorthLeg
+Time,"Right Turn","Left Turn",Through,"On buses",Peds,,"Right Turn","Left Turn",Through,"On buses",Peds
+4:00-4:15pm,0,0,0,0,1,,0,0,0,0,0
+4:15-4:30pm,0,0,0,0,0,,0,0,0,0,0
+4:30-4:45pm,0,0,0,0,0,,0,0,0,0,0
+4:45-5:00pm,0,0,0,0,0,,0,0,2,0,0
+"4:00-5:00pm Total:",0,0,0,0,1,,0,0,2,0,0
+5:00-5:15pm,0,0,0,0,3,,0,1,2,0,0
+5:15-5:30pm,0,0,0,0,0,,0,0,0,0,0
+5:30-5:45pm,0,0,1,0,0,,0,2,1,0,0
+5:45-6:00pm,0,0,0,0,0,,0,0,1,0,0
+"5:00-6:00pm Total:",0,0,1,0,3,,0,3,4,0,0
+"4:00-6:00pm Total:",0,0,1,0,4,,0,3,6,0,0
+,"Total # of Bicyclists: ",,1,,,,"Total # of Bicyclists: ",,9,,
+,,,,,,,,,,,
+"Totals (4:00pm - 6:00pm)",,,,,,,,,,,
+"Total # of Bicyclists: ",,17,"[Include bicyclists on sidewalks but not bicycles on buses.]",,,,,,,,
+"Total # of Bikes on Buses:",,0,"[Count bicycles on the racks of buses.]",,,,,,,,
+"Total # of Pedestrians",,4,"[Count pedestrians by crossing leg for each intersection approach.]",,,,,,,,
+"Total # of Bikes on Sidewalk:",,0,"[Subtotal of bicyclists on sidewalks.]",,,,,,,,
+,,,"[Bicyclists on sidewalks are also included in the turning movement counts.]",,,,,,,,

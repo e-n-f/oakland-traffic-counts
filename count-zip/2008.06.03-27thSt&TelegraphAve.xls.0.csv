@@ -1,0 +1,46 @@
+Location:,"Telegraph Ave and 27th St",,,,,,,Weather:,"Sunny, 63 degrees (about), breezy",,,,
+Date:,2008/06/03,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,"Northbound: primary street (Telegraph)",,,,,,,"Southbound: primary street (Telegraph)",,,,,
+" ","Right Turn","Left Turn",Through,"On sidewalk","On buses",Peds,,"Right Turn","Left Turn",Through,"On sidewalk","On buses",Peds
+3:00-3:15pm,0,0,4,2,0,13,,0,0,1,0,0,5
+3:15-3:30pm,0,0,5,2,0,7,,0,0,1,0,0,7
+3:30-3:45pm,0,0,1,0,0,18,,1,3,3,1,0,20
+3:45-4:00pm,0,0,1,1,0,17,,0,1,6,0,0,4
+"3:00-4:00pm Total:",0,0,11,5,0,55,,1,4,11,1,0,36
+4:00-4:15pm,0,1,5,0,0,10,,0,2,4,1,0,15
+4:15-4:30pm,1,0,4,0,1,9,,0,3,1,3,0,10
+4:30-4:45pm,1,0,3,2,0,23,,0,4,0,1,1,18
+4:45-5:00pm,0,0,8,2,0,9,,0,0,4,2,2,13
+"4:00-5:00pm Total:",2,1,20,4,1,51,,0,9,9,7,3,56
+5:00-5:15pm,0,0,4,3,0,17,,1,2,7,0,0,10
+5:15-5:30pm,0,0,10,1,1,22,,0,1,7,1,0,5
+5:30-5:45pm,0,0,9,1,0,9,,0,1,6,2,1,7
+5:45-6:00pm,2,1,12,1,0,14,,0,3,5,0,0,10
+"5:00-6:00pm Total:",2,1,35,6,1,62,,1,7,25,3,1,32
+"3:00-6:00pm Total:",4,2,66,15,2,168,,2,20,45,11,4,124
+,"Total # of Bikes NB: ",,,87,,,,"Total # of Bikes SB: ",,,78,,
+,"Eastbound: cross street (27th St)",,,,,,,"Westbound: cross street (27th St)",,,,,
+Time,"Right Turn","Left Turn",Through,"On sidewalk","On buses",Peds,,"Right Turn","Left Turn",Through,"On sidewalk","On buses",Peds
+3:00-3:15pm,0,1,1,0,0,3,,1,0,2,0,0,5
+3:15-3:30pm,0,0,1,0,0,5,,2,0,0,0,0,12
+3:30-3:45pm,0,1,1,0,0,5,,1,0,1,0,0,7
+3:45-4:00pm,0,0,1,0,0,1,,0,0,0,1,0,6
+"3:00-4:00pm Total:",0,2,4,0,0,14,,4,0,3,1,0,30
+4:00-4:15pm,0,0,2,0,0,5,,0,0,0,0,0,3
+4:15-4:30pm,0,1,0,0,0,1,,1,0,0,1,0,4
+4:30-4:45pm,0,0,0,0,0,2,,0,0,0,1,0,1
+4:45-5:00pm,0,0,1,1,0,3,,1,0,0,0,0,4
+"4:00-5:00pm Total:",0,1,3,1,0,11,,2,0,0,2,0,12
+5:00-5:15pm,0,1,1,2,0,2,,3,0,0,0,0,0
+5:15-5:30pm,0,0,3,0,0,2,,1,0,1,1,0,9
+5:30-5:45pm,0,0,1,2,0,1,,1,1,4,0,0,0
+5:45-6:00pm,1,0,3,1,0,7,,0,0,0,1,0,5
+"5:00-6:00pm Total:",1,1,8,5,0,12,,5,1,5,2,0,14
+"3:00-6:00pm Total:",1,4,15,6,0,37,,11,1,8,5,0,56
+,"Total # of Bikes EB: ",,,26,,,,"Total # of Bikes WB: ",,,25,,
+,,,,,,,,,,,,,
+"Totals (3:00pm - 6:00pm)",,,,,,,,,,"Counted by:",,,
+"Total # of Bicyclists: ",,216,"(does not include bicycles on buses)",,,,,,,"Jenn Donlon (3:00-4:30pm)",,,
+"Total # of Bikes on Buses:",,6,,,,,,,,"Jason Patton (4:30-6:00pm)",,,
+"Total # of Pedestrians",,385,,,,,,,,"CEDA, Transportation Services Division",,,

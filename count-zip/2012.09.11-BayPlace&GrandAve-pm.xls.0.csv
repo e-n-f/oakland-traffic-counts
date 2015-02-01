@@ -1,0 +1,56 @@
+,,,,,,,,"Turning Movement Report",,,,,,,,,,,,,
+,,,,"Metro Traffic Data Inc.",,,,,,,,,,,,,,,,,
+,,,,"310 N. Irwin Street - Suite 20",,,,,,,,,,,,,,,,,
+,,,,"Hanford, CA 93230",,,,,,,,,,,"Prepared For:",,,,,,"Debbie Yueh"
+,,,,,,,,,,,,,,,,,,,,,"Kittelson Associates, Inc."
+,,,,"800-975-6938  Phone/Fax",,,,,,,,,,,,,,,,,"180 Grand Avenue, Suite 250"
+,,,,www.metrotrafficdata.com,,,,,,,,,,,,,,,,,"Oakland, CA 94612"
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,LOCATION,"Grand Avenue @ Bay Place",,,,,,,,,LATITUDE," 37.810564°",,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,COUNTY,Alameda,,,,,,,,,LONGITUDE,-122.260505°,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,"COLLECTION DATE",2012/09/11,,,,,,,,,WEATHER,"Sunny and Clear",,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,"Northbound Vehicles",,,"N-Leg Peds",,"Southbound Vehicles",,,"S-Leg Peds",,"Eastbound Vehicles",,,"E-Leg Peds",,"Westbound Vehicles",,,"W-Leg Peds",
+,Time,Left,Thru,Right,,,Left,Thru,Right,,,Left,Thru,Right,,,Left,Thru,Right,,
+,"4:00 PM - 4:15 PM",0,0,0,6,,44,0,14,0,,15,217,0,0,,0,122,35,5,
+,"4:15 PM - 4:30 PM",0,0,0,12,,53,0,13,0,,18,242,0,0,,0,125,53,11,
+,"4:30 PM - 4:45 PM",0,0,0,12,,59,0,12,0,,10,260,0,0,,0,106,34,19,
+,"4:45 PM - 5:00 PM",0,0,0,15,,85,0,23,0,,18,287,0,0,,0,139,61,15,
+,"5:00 PM - 5:15 PM",0,0,0,13,,71,0,10,0,,22,349,0,0,,0,144,55,23,
+,"5:15 PM - 5:30 PM",0,0,0,9,,79,0,16,0,,31,285,0,0,,0,131,54,25,
+,"5:30 PM - 5:45 PM",0,0,0,16,,72,0,13,0,,21,298,0,0,,0,109,41,33,
+,"5:45 PM - 6:00 PM",0,0,0,18,,68,0,16,0,,18,272,0,0,,0,114,44,27,
+,TOTAL,0,0,0,101,,531,0,117,0,,153,2210,0,0,,0,990,377,158,
+,,,,,,,,,,,,,,,,,,,,,
+,,"Northbound Bicyclists",,,,,"Southbound Bicyclists",,,,,"Eastbound Bicyclists",,,,,"Westbound Bicyclists",,,,
+,Time,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus
+,"4:00 PM - 4:15 PM",0,0,0,0,0,1,0,0,0,0,1,15,0,0,0,0,1,3,0,1
+,"4:15 PM - 4:30 PM",0,0,0,0,0,3,0,0,0,0,2,14,0,0,1,0,5,5,0,0
+,"4:30 PM - 4:45 PM",0,0,0,0,0,11,0,1,0,0,0,24,0,3,0,0,7,7,0,0
+,"4:45 PM - 5:00 PM",0,0,0,0,0,9,0,4,0,0,1,32,0,1,0,0,8,5,0,1
+,"5:00 PM - 5:15 PM",0,0,0,0,0,10,0,1,3,0,0,46,0,8,2,0,6,7,0,0
+,"5:15 PM - 5:30 PM",0,0,0,0,0,14,0,0,0,0,7,34,0,4,0,0,7,4,2,1
+,"5:30 PM - 5:45 PM",0,0,0,0,0,9,0,3,0,0,1,48,0,3,0,0,8,4,0,0
+,"5:45 PM - 6:00 PM",0,0,0,0,0,6,0,2,0,0,1,32,0,0,0,0,7,3,0,0
+,TOTAL,0,0,0,0,0,63,0,11,3,0,13,245,0,19,3,0,49,38,2,3
+,,,,,,,,,,,,,,,,,,,,,
+,,"Northbound Vehicles",,,"N-Leg Peds",,"Southbound Vehicles",,,"S-Leg Peds",,"Eastbound Vehicles",,,"E-Leg Peds",,"Westbound Vehicles",,,"W-Leg Peds",
+,"PEAK HOUR",Left,Thru,Right,,,Left,Thru,Right,,,Left,Thru,Right,,,Left,Thru,Right,,
+,"4:45 PM - 5:45 PM",0,0,0,56,,290,0,55,0,,92,1204,0,0,,0,498,194,108,
+,,"Northbound Bicyclists",,,,,"Southbound Bicyclists",,,,,"Eastbound Bicyclists",,,,,"Westbound Bicyclists",,,,
+,"PEAK HOUR",Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus
+,"4:45 PM - 5:45 PM",0,0,0,0,0,39,0,6,3,0,9,160,0,15,2,0,28,18,2,1
+,,,,,,,,,,,,,,,,,,,,,
+,,PHF,,,,,,"Bay Place",,,,,,,,,,,,,
+,AM,0.92703533026114,,,,,,Veh,55,0,290,,,,,,,,,,
+,,,,,,,,Bikes,6,0,39,,,,,,,,,,
+,,,,,,,,,,,,,Bikes,Veh,,,,,,,
+,,,,,,92,9,,,,,,18,194,,,,,,,
+,,"Grand Avenue",,,,1204,160,,,,,,28,498,"Grand Avenue",,,,,,
+,,,,,,0,0,,,,,,0,0,,,,,,,
+,,,,,,Veh,Bikes,,,,,,,,,,,,,,
+,,,,,,,,,0,0,0,Bikes,,,,,,,,,
+,,,,,,,,,0,0,0,Veh,,,,,,,,,

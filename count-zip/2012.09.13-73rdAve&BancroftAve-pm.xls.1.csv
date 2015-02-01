@@ -1,0 +1,41 @@
+Location:,"Bancroft Avenue @ 73rd Avenue",,,,,,Weather:,"Sunny and Clear",,,
+Date:,2012/09/13,,,,,,Counter:,"Metro Traffic Data Inc.",,,
+,,,,,,,,,,,
+,"Primary street:",,"Bancroft Avenue",,,,"Primary street:",,"Bancroft Avenue",,
+,Approach:,,Eastbound,,WestLeg,,Approach:,,Westbound,,EastLeg
+Time,"Right Turn","Left Turn",Through,"On buses",Peds,,"Right Turn","Left Turn",Through,"On buses",Peds
+4:00-4:15pm,0,0,0,0,2,,0,0,0,0,4
+4:15-4:30pm,0,0,0,0,7,,0,0,0,0,0
+4:30-4:45pm,0,0,0,0,4,,0,0,0,0,2
+4:45-5:00pm,0,0,0,0,0,,0,0,0,0,0
+"4:00-5:00pm Total:",0,0,0,0,13,,0,0,0,0,6
+5:00-5:15pm,0,0,0,0,2,,0,0,0,0,0
+5:15-5:30pm,0,0,1,0,0,,0,0,0,0,0
+5:30-5:45pm,0,0,1,0,22,,0,1,0,0,2
+5:45-6:00pm,0,0,0,0,20,,0,0,0,0,0
+"5:00-6:00pm Total:",0,0,2,0,44,,0,1,0,0,2
+"4:00-6:00pm Total:",0,0,2,0,57,,0,1,0,0,8
+,"Total # of Bicyclists: ",,2,,,,"Total # of Bicyclists: ",,1,,
+,,,,,,,,,,,
+,"Cross street:",,"73rd Avenue",,,,"Cross street:",,"73rd Avenue",,
+,Approach:,,Northbound,,SouthLeg,,Approach:,,Southbound,,NorthLeg
+Time,"Right Turn","Left Turn",Through,"On buses",Peds,,"Right Turn","Left Turn",Through,"On buses",Peds
+4:00-4:15pm,0,1,0,0,2,,0,0,0,0,1
+4:15-4:30pm,0,0,0,0,2,,0,0,0,0,9
+4:30-4:45pm,0,1,0,0,7,,0,0,0,0,4
+4:45-5:00pm,0,1,0,0,3,,0,0,0,0,6
+"4:00-5:00pm Total:",0,3,0,0,14,,0,0,0,0,20
+5:00-5:15pm,0,0,0,0,1,,0,0,0,0,8
+5:15-5:30pm,0,0,1,0,6,,0,0,1,0,5
+5:30-5:45pm,0,1,0,0,3,,0,0,1,0,1
+5:45-6:00pm,0,0,0,0,1,,0,1,0,0,1
+"5:00-6:00pm Total:",0,1,1,0,11,,0,1,2,0,15
+"4:00-6:00pm Total:",0,4,1,0,25,,0,1,2,0,35
+,"Total # of Bicyclists: ",,5,,,,"Total # of Bicyclists: ",,3,,
+,,,,,,,,,,,
+"Totals (4:00pm - 6:00pm)",,,,,,,,,,,
+"Total # of Bicyclists: ",,11,"[Include bicyclists on sidewalks but not bicycles on buses.]",,,,,,,,
+"Total # of Bikes on Buses:",,0,"[Count bicycles on the racks of buses.]",,,,,,,,
+"Total # of Pedestrians",,125,"[Count pedestrians by crossing leg for each intersection approach.]",,,,,,,,
+"Total # of Bikes on Sidewalk:",,1,"[Subtotal of bicyclists on sidewalks.]",,,,,,,,
+,,,"[Bicyclists on sidewalks are also included in the turning movement counts.]",,,,,,,,

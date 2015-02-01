@@ -1,0 +1,57 @@
+,,,,,,,,"Turning Movement Report",,,,,,,,,,,,,
+,,,,"Metro Traffic Data Inc.",,,,,,,,,,,,,,,,,
+,,,,"310 N. Irwin Street - Suite 20",,,,,,,,,,,,,,,,,
+,,,,"Hanford, CA 93230",,,,,,,,,,,"Prepared For:",,,,,,"Debbie Yueh"
+,,,,,,,,,,,,,,,,,,,,,"Dowling Associates, Inc."
+,,,,"800-975-6938  Phone/Fax",,,,,,,,,,,,,,,,,"180 Grand Avenue, Suite 250"
+,,,,www.metrotrafficdata.com,,,,,,,,,,,,,,,,,"Oakland, CA 94612"
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,LOCATION,"12th Street @ 38th Avenue",,,,,,,,,LATITUDE," 37.773620°",,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,COUNTY,Alameda,,,,,,,,,LONGITUDE,-122.220820°,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,"COLLECTION DATE",2011/05/04,,,,,,,,,WEATHER,"Sunny and Clear",,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,"Northbound Vehicles",,,"N-Leg Peds",,"Southbound Vehicles",,,"S-Leg Peds",,"Eastbound Vehicles",,,"E-Leg Peds",,"Westbound Vehicles",,,"W-Leg Peds",
+,Time,Left,Thru,Right,CW,Jay,Left,Thru,Right,CW,Jay,Left,Thru,Right,CW,Jay,Left,Thru,Right,CW,Jay
+,"4:00 PM - 4:15 PM",0,0,0,6,0,11,0,8,0,0,11,23,0,0,0,0,2,7,5,0
+,"4:15 PM - 4:30 PM",0,0,0,2,0,20,0,18,0,0,32,48,0,2,1,0,17,13,0,0
+,"4:30 PM - 4:45 PM",0,0,0,0,0,16,0,19,0,0,37,56,0,0,0,0,6,10,1,0
+,"4:45 PM - 5:00 PM",0,0,0,4,1,16,0,21,0,0,27,48,0,1,0,0,13,10,2,1
+,"5:00 PM - 5:15 PM",0,0,0,3,0,27,0,31,0,0,36,85,0,0,0,0,5,10,2,0
+,"5:15 PM - 5:30 PM",0,0,0,1,0,13,0,24,0,0,47,51,0,0,0,0,11,11,3,0
+,"5:30 PM - 5:45 PM",0,0,0,3,0,29,0,13,0,0,36,44,0,1,1,0,17,9,1,0
+,"5:45 PM - 6:00 PM",0,0,0,4,1,30,0,29,0,0,45,52,0,0,0,0,10,8,4,1
+,TOTAL,0,0,0,23,2,162,0,163,0,0,271,407,0,4,2,0,81,78,18,2
+,,,,,,,,,,,,,,,,,,,,,
+,,"Northbound Bicycles",,,,,"Southbound Bicycles",,,,,"Eastbound Bicycles",,,,,"Westbound Bicycles",,,,
+,Time,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus
+,"4:00 PM - 4:15 PM",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,"4:15 PM - 4:30 PM",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0
+,"4:30 PM - 4:45 PM",0,0,0,0,0,0,0,1,0,0,1,2,0,0,0,0,0,0,0,0
+,"4:45 PM - 5:00 PM",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,1,1,0
+,"5:00 PM - 5:15 PM",0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0
+,"5:15 PM - 5:30 PM",0,0,0,0,0,0,0,1,0,0,1,4,0,0,0,0,0,0,0,0
+,"5:30 PM - 5:45 PM",0,0,0,0,0,1,0,0,0,0,1,2,0,0,0,0,0,1,0,0
+,"5:45 PM - 6:00 PM",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+,TOTAL,0,0,0,0,0,1,0,3,0,0,6,9,0,0,0,0,4,3,2,0
+,,,,,,,,,,,,,,,,,,,,,
+,,"Northbound Vehicles",,,"N-Leg Peds",,"Southbound Vehicles",,,"S-Leg Peds",,"Eastbound Vehicles",,,"E-Leg Peds",,"Westbound Vehicles",,,"W-Leg Peds",
+,"PEAK HOUR",Left,Thru,Right,SW,Jay,Left,Thru,Right,SW,Jay,Left,Thru,Right,SW,Jay,Left,Thru,Right,SW,Jay
+,"5:00 PM - 6:00 PM",0,0,0,11,1,99,0,97,0,0,164,232,0,1,1,0,43,38,10,1
+,,"Northbound Bicycles",,,,,"Southbound Bicycles",,,,,"Eastbound Bicycles",,,,,"Westbound Bicycles",,,,
+,"PEAK HOUR",Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus
+,"5:00 PM - 6:00 PM",0,0,0,0,0,1,0,2,0,0,4,7,0,0,0,0,0,2,0,0
+,,,,,,,,,,,,,,,,,,,,,
+,,PHF,,,,,,"38th Avenue",,,,,,,,,,,,,
+,AM,0.86726804123711,,,,,,Veh,97,0,99,,,,,,,,,,
+,,,,,,,,Bikes,2,0,1,,,,,,,,,,
+,,,,,,,,,,,,,Bikes,Veh,,,,,,,
+,,,,,,164,4,,,,,,2,38,,,,,,,
+,,"12th Street",,,,232,7,,,,,,0,43,"12th Street",,,,,,
+,,,,,,0,0,,,,,,0,0,,,,,,,
+,,,,,,Veh,Bikes,,,,,,,,,,,,,,
+,,,,,,,,,0,0,0,Bikes,,,,,,,,,
+,,,,,,,,,0,0,0,Veh,,,,,,,,,
+,,,,,,,,,,,,,,,,,,"Page 2 of 2",,,

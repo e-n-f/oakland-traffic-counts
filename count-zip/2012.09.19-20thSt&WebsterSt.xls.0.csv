@@ -1,0 +1,57 @@
+,,,,,,,,"Turning Movement Report",,,,,,,,,,,,,
+,,,,"Metro Traffic Data Inc.",,,,,,,,,,,,,,,,,
+,,,,"310 N. Irwin Street - Suite 20",,,,,,,,,,,,,,,,,
+,,,,"Hanford, CA 93230",,,,,,,,,,,"Prepared For:",,,,,,"Debbie Yueh"
+,,,,,,,,,,,,,,,,,,,,,"Kittelson Associates, Inc."
+,,,,"800-975-6938  Phone/Fax",,,,,,,,,,,,,,,,,"180 Grand Avenue, Suite 250"
+,,,,www.metrotrafficdata.com,,,,,,,,,,,,,,,,,"Oakland, CA 94612"
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,LOCATION,"20th Street @ Webster Street",,,,,,,,,LATITUDE," 37.808371°",,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,COUNTY,Alameda,,,,,,,,,LONGITUDE,-122.266072°,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,"COLLECTION DATE",2012/09/19,,,,,,,,,WEATHER,"Sunny and Clear",,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,"Northbound Vehicles",,,"N-Leg Peds",,"Southbound Vehicles",,,"S-Leg Peds",,"Eastbound Vehicles",,,"E-Leg Peds",,"Westbound Vehicles",,,"W-Leg Peds",
+,Time,Left,Thru,Right,CW,Jay,Left,Thru,Right,CW,Jay,Left,Thru,Right,CW,Jay,Left,Thru,Right,CW,Jay
+,"7:00 AM - 7:15 AM",0,0,0,73,2,9,25,15,15,0,0,15,8,14,0,11,18,0,6,0
+,"7:15 AM - 7:30 AM",0,0,0,84,0,5,28,9,18,0,0,21,9,11,1,15,33,0,4,0
+,"7:30 AM - 7:45 AM",0,0,0,108,3,9,30,12,22,0,0,20,6,11,1,36,32,0,4,0
+,"7:45 AM - 8:00 AM",0,0,0,157,4,9,51,10,35,1,0,44,17,38,1,18,36,0,19,0
+,"8:00 AM - 8:15 AM",0,0,0,158,0,9,68,12,33,0,0,48,27,43,0,34,48,0,12,0
+,"8:15 AM - 8:30 AM",0,0,0,163,2,10,61,12,43,0,0,47,26,41,3,45,54,0,18,2
+,"8:30 AM - 8:45 AM",0,0,0,200,0,18,69,13,44,2,0,31,15,40,0,37,65,0,21,1
+,"8:45 AM - 9:00 AM",0,0,0,184,1,13,83,19,64,0,0,51,18,62,0,48,61,0,15,0
+,TOTAL,0,0,0,1127,12,82,415,102,274,3,0,277,126,260,6,244,347,0,99,3
+,,,,,,,,,,,,,,,,,,,,,
+,,"Northbound Bicycles",,,,,"Southbound Bicycles",,,,,"Eastbound Bicycles",,,,,"Westbound Bicycles",,,,
+,Time,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus
+,"7:00 AM - 7:15 AM",0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1,4,0,0,0
+,"7:15 AM - 7:30 AM",0,0,0,0,0,0,8,2,1,0,0,3,0,0,0,0,4,0,0,0
+,"7:30 AM - 7:45 AM",0,0,0,0,0,0,4,1,0,0,0,1,0,0,0,0,5,0,0,1
+,"7:45 AM - 8:00 AM",0,0,0,1,0,0,8,0,1,0,0,3,0,0,0,3,4,0,0,0
+,"8:00 AM - 8:15 AM",0,0,0,0,0,0,11,1,1,0,0,0,3,0,0,0,8,0,0,2
+,"8:15 AM - 8:30 AM",0,0,0,0,0,1,13,7,1,0,0,0,0,3,0,0,3,0,1,1
+,"8:30 AM - 8:45 AM",0,0,0,0,0,1,16,0,0,1,0,1,0,0,0,5,7,0,1,0
+,"8:45 AM - 9:00 AM",0,0,0,0,0,0,12,5,0,0,0,1,0,0,0,5,5,0,2,0
+,TOTAL,0,0,0,1,0,2,73,17,4,1,0,10,3,3,0,14,40,0,4,4
+,,,,,,,,,,,,,,,,,,,,,
+,,"Northbound Vehicles",,,"N-Leg Peds",,"Southbound Vehicles",,,"S-Leg Peds",,"Eastbound Vehicles",,,"E-Leg Peds",,"Westbound Vehicles",,,"W-Leg Peds",
+,"PEAK HOUR",Left,Thru,Right,SW,Jay,Left,Thru,Right,SW,Jay,Left,Thru,Right,SW,Jay,Left,Thru,Right,SW,Jay
+,"8:00 AM - 9:00 AM",0,0,0,705,3,50,281,56,184,2,0,177,86,186,3,164,228,0,66,3
+,,"Northbound Bicycles",,,,,"Southbound Bicycles",,,,,"Eastbound Bicycles",,,,,"Westbound Bicycles",,,,
+,"PEAK HOUR",Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus,Left,Thru,Right,SW,Bus
+,"7:00 AM - 7:15 AM",0,0,0,0,0,2,52,13,2,1,0,2,3,3,0,10,23,0,4,3
+,,,,,,,,,,,,,,,,,,,,,
+,,PHF,,,,,,"Webster Street",,,,,,,,,,,,,
+,AM,0.88907849829352,,,,,,Veh,56,281,50,,,,,,,,,,
+,,,,,,,,Bikes,13,52,2,,,,,,,,,,
+,,,,,,,,,,,,,Bikes,Veh,,,,,,,
+,,,,,,0,0,,,,,,0,0,,,,,,,
+,,"20th Street",,,,177,2,,,,,,23,228,"20th Street",,,,,,
+,,,,,,86,3,,,,,,10,164,,,,,,,
+,,,,,,Veh,Bikes,,,,,,,,,,,,,,
+,,,,,,,,,0,0,0,Bikes,,,,,,,,,
+,,,,,,,,,0,0,0,Veh,,,,,,,,,
+,,,,,,,,"Webster Street",,,,,,,,,,"Page 2 of 2",,,

@@ -1,0 +1,38 @@
+Location:,"Fruitvale Ave at Foothill Blvd",,,,,,Weather:,"partly cloudy 55-60° ",,,
+Date:,2010/06/03,,,,,,,,,,
+,,,,,,,,,,,
+,"Northbound: Fruitvale Ave",,,,,,"Southbound: Fruitvale Ave",,,,
+" ","Right Turn","Left Turn",Through,"On buses",Peds,,"Right Turn","Left Turn",Through,"On buses",Peds
+4:00-4:15pm,,,2,,34,,,,1,,32
+4:15-4:30pm,,1,4,,32,,,,,,34
+4:30-4:45pm,,,3,,40,,,,2,,22
+4:45-5:00pm,,,3,,29,,,,2,,30
+"4:00-5:00pm Total:",0,1,12,0,135,,0,0,5,0,118
+5:00-5:15pm,,,2,,44,,,,,,25
+5:15-5:30pm,,,3,,33,,,,1,,40
+5:30-5:45pm,3,1,3,,34,,,2,4,,32
+5:45-6:00pm,,,3,,26,,1,1,1,,25
+"5:00-6:00pm Total:",3,1,11,0,137,,1,3,6,0,122
+"4:00-6:00pm Total:",3,2,23,0,272,,1,3,11,0,240
+,"Total # of Bikes NB: ",,,28,,,"Total # of Bikes SB: ",,,15,
+,"Eastbound: Foothill Blvd",,,,,,"Westbound: Foothill Blvd",,,,
+Time,"Right Turn","Left Turn",Through,"On buses",Peds,,"Right Turn","Left Turn",Through,"On buses",Peds
+4:00-4:15pm,,,,,50,,1,,1,,44
+4:15-4:30pm,1,,3,1,41,,,,2,,48
+4:30-4:45pm,,,6,1,54,,,,2,,35
+4:45-5:00pm,,,,,16,,,,,,29
+"4:00-5:00pm Total:",1,0,9,2,161,,1,0,5,0,156
+5:00-5:15pm,,,4,1,33,,,,3,2,35
+5:15-5:30pm,1,1,,,30,,,,,,51
+5:30-5:45pm,,,2,,44,,,,2,,23
+5:45-6:00pm,1,,4,,35,,2,1,3,,37
+"5:00-6:00pm Total:",2,1,10,1,142,,2,1,8,2,146
+"4:00-6:00pm Total:",3,1,19,3,303,,3,1,13,2,302
+,"Total # of Bikes EB: ",,,23,,,"Total # of Bikes WB: ",,,17,
+,,,,,,,,,,,
+"Totals (4:00pm - 6:00pm)",,,,,,,,,"Counted by:","Adam Shapiro",
+"Total # of Bicyclists: ",,83,"(This total includes cyclists on sidewalks but not bikes on buses)",,,,,,,,
+"Total # of Bikes on Buses:",,5,,,,,,,,,
+"Total # of Pedestrians",,1117,,,,,,,,,
+"Total # of Bikes on Sidewalk:",,39,"(This total is recorded in addition to the turning movements counts above. In other words, cyclists",,,,,,,,
+,,,"on the sidewalk should be recorded in the turning movement counts and on this line.)",,,,,,,,

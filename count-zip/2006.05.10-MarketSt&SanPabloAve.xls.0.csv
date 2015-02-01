@@ -1,0 +1,25 @@
+,"Market Northbound",,,,,,,"Market Southbound",,,,,
+Time,"Right Turn","Left Turn",Through,"Bikes on Sidewalk","Bikes on Buses",Peds,,"Right Turn","Left Turn",Through,"Bikes on Sidewalk","Bikes on Buses",Peds
+4:00-4:30,,,2,1,,8,,,1,1,,,4
+4:30-5:00,,,,,,7,,,,1,,,4
+"4-5pm Totals:",,,2,1,,15,,,1,2,,,8
+5:00-5:30,,,,,,16,,,,1,1,,6
+5:30-6:00,,,1,,1,10,,,,3,,2,19
+"5-6 pm Totals",,,1,,1,26,,,,4,1,2,25
+"4-6 pm Totals",,,3,1,1,41,,,1,6,1,2,33
+"Total # of Bikes NB: ",,5,,,,,,"Total # of Bikes SB: ",,,10,,
+,,,,,,,,,,,,,
+,"San Pablo Eastbound",,,,,,,"San Pablo Westbound",,,,,
+Time,"Right Turn","Left Turn",Through,"Bikes on Sidewalk","Bikes on Buses",Peds,,"Right Turn","Left Turn",Through,"Bikes on Sidewalk","Bikes on Buses",Peds
+4:00-4:30,,,3,3,,10,,,,2,4,,10
+4:30-5:00,,,10,,2,11,,1,,5,1,,11
+"4-5pm Totals:",,,13,3,2,21,,1,,7,5,,21
+5:00-5:30,3,,9,2,1,19,,,,5,2,1,13
+5:30-6:00,1,,5,1,3,11,,2,1,4,3,1,12
+"5-6 pm Totals",4,,14,3,4,30,,2,1,9,5,2,25
+"4-6 pm Totals",4,,27,6,6,51,,3,1,16,10,2,46
+"Total # of Bikes EB: ",,43,,,,,,"Total # of Bikes WB: ",,,32,,
+,,,,,,,,,,,,,
+,,,,"Total # of Bikes Counted (4-6 pm): ",,,,,90,,,,
+,,,,,,,,,,,,,
+"Field Observations:",,,,"Total # of Bikes Using Facilities (4-6): ",,,,,61,,,,

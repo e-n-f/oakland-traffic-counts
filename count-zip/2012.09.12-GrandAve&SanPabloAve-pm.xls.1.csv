@@ -1,0 +1,41 @@
+Location:,"San Pablo Avenue @ Grand Avenue",,,,,,Weather:,"Sunny and Clear",,,
+Date:,2012/09/12,,,,,,Counter:,"Metro Traffic Data Inc.",,,
+,,,,,,,,,,,
+,"Primary street:",,"Grand Ave",,,,"Primary street:",,"Grand Ave",,
+,Approach:,,Eastbound,,WestLeg,,Approach:,,Westbound,,EastLeg
+Time,"Right Turn","Left Turn",Through,"On buses",Peds,,"Right Turn","Left Turn",Through,"On buses",Peds
+4:00-4:15pm,0,1,1,0,1,,2,1,6,0,1
+4:15-4:30pm,1,0,3,0,5,,1,0,5,0,2
+4:30-4:45pm,1,0,3,0,1,,1,0,1,0,3
+4:45-5:00pm,1,0,5,0,4,,0,0,4,0,7
+"4:00-5:00pm Total:",3,1,12,0,11,,4,1,16,0,13
+5:00-5:15pm,0,0,7,0,6,,0,0,7,0,5
+5:15-5:30pm,2,0,10,0,2,,1,0,2,0,3
+5:30-5:45pm,0,0,5,0,3,,0,0,3,0,7
+5:45-6:00pm,0,0,7,0,0,,2,0,6,0,6
+"5:00-6:00pm Total:",2,0,29,0,11,,3,0,18,0,21
+"4:00-6:00pm Total:",5,1,41,0,22,,7,1,34,0,34
+,"Total # of Bicyclists: ",,47,,,,"Total # of Bicyclists: ",,42,,
+,,,,,,,,,,,
+,"Cross street:",,"San Pablo Avenue",,,,"Cross street:",,"San Pablo Avenue",,
+,Approach:,,Northbound,,SouthLeg,,Approach:,,Southbound,,NorthLeg
+Time,"Right Turn","Left Turn",Through,"On buses",Peds,,"Right Turn","Left Turn",Through,"On buses",Peds
+4:00-4:15pm,0,0,7,1,5,,0,0,1,0,2
+4:15-4:30pm,0,1,9,1,7,,0,0,3,1,0
+4:30-4:45pm,0,1,11,0,6,,0,1,5,1,2
+4:45-5:00pm,0,0,9,0,25,,0,2,5,0,1
+"4:00-5:00pm Total:",0,2,36,2,43,,0,3,14,2,5
+5:00-5:15pm,0,2,4,2,6,,0,0,9,2,6
+5:15-5:30pm,0,0,12,1,11,,0,3,9,1,0
+5:30-5:45pm,0,0,17,0,7,,0,0,4,0,2
+5:45-6:00pm,0,0,9,1,6,,0,0,4,5,2
+"5:00-6:00pm Total:",0,2,42,4,30,,0,3,26,8,10
+"4:00-6:00pm Total:",0,4,78,6,73,,0,6,40,10,15
+,"Total # of Bicyclists: ",,82,,,,"Total # of Bicyclists: ",,46,,
+,,,,,,,,,,,
+"Totals (4:00pm - 6:00pm)",,,,,,,,,,,
+"Total # of Bicyclists: ",,217,"[Include bicyclists on sidewalks but not bicycles on buses.]",,,,,,,,
+"Total # of Bikes on Buses:",,16,"[Count bicycles on the racks of buses.]",,,,,,,,
+"Total # of Pedestrians",,144,"[Count pedestrians by crossing leg for each intersection approach.]",,,,,,,,
+"Total # of Bikes on Sidewalk:",,7,"[Subtotal of bicyclists on sidewalks.]",,,,,,,,
+,,,"[Bicyclists on sidewalks are also included in the turning movement counts.]",,,,,,,,

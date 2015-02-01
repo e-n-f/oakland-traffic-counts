@@ -1,0 +1,22 @@
+"File Name:",,"C:\Petra Pro\Oakland\FP\broadway-terrace-a.ppd",,,,,,,,,,
+"Start Date:",,11/16/2010,,,,,,,,,,
+"Start Time:",,"7:00:00 AM",,,,,,,,,,
+"Site Code:",,1,,,,,,,,,,
+"Comment 1:",,"CITY OF OAKLAND",,,,,,,,,,
+"Comment 2:",,,,,,,,,,,,
+"Comment 3:",,,,,,,,,,,,
+"Comment 4:",,fp,,,,,,,,,,
+,"BROADWAY
+Southbound",,,"BROADWAY TERRACE
+Westbound",,,"BROADWAY                
+Northbound",,,"0
+Eastbound",,
+"Start Time",RT,TH,LT,RT,TH,LT,RT,TH,LT,RT,TH,LT
+07:00,0,80,1,1,0,32,12,42,0,0,0,0
+07:15,0,87,3,1,0,34,18,43,0,0,0,0
+07:30,0,93,6,6,0,55,29,53,0,0,0,0
+07:45,0,127,10,4,0,88,61,67,0,0,0,0
+08:00,0,109,2,6,0,125,62,89,0,0,0,0
+08:15,0,124,6,1,0,138,54,104,0,0,0,0
+08:30,0,165,6,8,0,110,36,87,0,0,0,0
+08:45,0,136,6,7,0,113,31,87,0,0,0,0

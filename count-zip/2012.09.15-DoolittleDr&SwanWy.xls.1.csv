@@ -1,0 +1,41 @@
+Location:,"Doolittle Drive @ Swan Way",,,,,,Weather:,"Sunny and Clear",,,
+Date:,2012/09/15,,,,,,Counter:,"Metro Traffic Data Inc.",,,
+,,,,,,,,,,,
+,"Primary street:",,"Swan Way",,,,"Primary street:",,"Swan Way",,
+,Approach:,,Eastbound,,WestLeg,,Approach:,,Westbound,,EastLeg
+Time,"Right Turn","Left Turn",Through,"On buses",Peds,,"Right Turn","Left Turn",Through,"On buses",Peds
+10:00-10:15am,0,0,0,0,0,,0,0,0,0,0
+10:15-10:30am,0,0,0,0,0,,0,0,0,0,0
+10:30-10:45am,0,0,0,0,0,,0,0,0,0,0
+10:45-11:00am,0,0,0,0,0,,0,0,0,0,0
+"10:00-11:00am Total:",0,0,0,0,0,,0,0,0,0,0
+11:00-11:15am,0,0,0,0,0,,0,0,0,0,0
+11:15-11:30am,0,0,0,0,0,,0,0,0,0,0
+11:30-11:45am,0,0,0,0,0,,0,0,0,0,0
+11:45am-noon,0,0,0,0,0,,0,0,0,0,0
+"11:00am-noon Total:",0,0,0,0,0,,0,0,0,0,0
+"4:00-6:00am Total:",0,0,0,0,0,,0,0,0,0,0
+,"Total # of Bicyclists: ",,0,,,,"Total # of Bicyclists: ",,0,,
+,,,,,,,,,,,
+,"Cross street:",,"Doolittle Drive",,,,"Cross street:",,"Doolittle Drive",,
+,Approach:,,Northbound,,SouthLeg,,Approach:,,Southbound,,NorthLeg
+Time,"Right Turn","Left Turn",Through,"On buses",Peds,,"Right Turn","Left Turn",Through,"On buses",Peds
+10:00-10:15am,0,0,0,0,0,,0,0,0,0,0
+10:15-10:30am,0,0,0,0,0,,0,0,1,0,0
+10:30-10:45am,0,0,0,0,0,,0,0,0,0,0
+10:45-11:00am,0,0,0,0,0,,0,0,0,0,0
+"10:00-11:00am Total:",0,0,0,0,0,,0,0,1,0,0
+11:00-11:15am,0,0,0,0,0,,0,0,2,0,0
+11:15-11:30am,0,0,0,0,0,,0,0,1,0,0
+11:30-11:45am,0,0,3,0,0,,0,0,0,0,0
+11:45am-noon,0,0,0,0,0,,0,0,0,0,0
+"11:00am-noon Total:",0,0,3,0,0,,0,0,3,0,0
+"10:00-noon Total:",0,0,3,0,0,,0,0,4,0,0
+,"Total # of Bicyclists: ",,3,,,,"Total # of Bicyclists: ",,4,,
+,,,,,,,,,,,
+"Totals (10:00am - noon)",,,,,,,,,,,
+"Total # of Bicyclists: ",,7,"[Include bicyclists on sidewalks but not bicycles on buses.]",,,,,,,,
+"Total # of Bikes on Buses:",,0,"[Count bicycles on the racks of buses.]",,,,,,,,
+"Total # of Pedestrians",,0,"[Count pedestrians by crossing leg for each intersection approach.]",,,,,,,,
+"Total # of Bikes on Sidewalk:",,2,"[Subtotal of bicyclists on sidewalks.]",,,,,,,,
+,,,"[Bicyclists on sidewalks are also included in the turning movement counts.]",,,,,,,,
