@@ -1,0 +1,79 @@
+                                     B.A.Y.M.E.T.R.I.C.S.
+                 INTERSECTION TURNING MOVEMENT SUMMARY
+PROJECT:      OAKLAND TRAFFIC STUDY                                     SURVEY DATE:       5/22/2012                      DAY:     TUESDAY
+N-S APPROACH: LAKE MERRITT BOULEVARD (12TH ST DAM)                      SURVEY TIME:       4:00 PM                        TO       6:00 PM
+E-W APPROACH:13TH STREET                                                JURISDICTION: OAKLAND                             FILE:    3205033-37PM
+
+        PEAK HOUR                                                                                 ARRIVAL / DEPARTURE VOLUMES
+ 5:00 PM   TO     6:00 PM                                    NORTH
+
+                               0       275      0                                              PHF =       0.76
+
+                                                                                                           275     329
+
+                                                                                                                                    PHF =
+            0                                                     0                                                                #DIV/0!
+
+           362                        1010                        0                     0                                            0
+
+           44                                                     0                    406                                           44
+
+13TH STREET                                                                           PHF =
+                                                                                       0.87
+    FALLON STREET
+                               0       329      0                                      44                  637     329
+                                                                                    FALLON STREET
+                             LAKE MERRITT BOULEVARD (12TH ST DAM)                                                 PHF =     0.86
+
+   TIME         PERIOD             NORTHBOUND              SOUTHBOUND                        EASTBOUND                   WESTBOUND           TOTAL
+ From               To        LEFT    THRU   RIGHT   LEFT     THRU          RIGHT     LEFT    FALLON ST   RIGHT   LEFT     THRU    RIGHT
+                                                       SURVEY                 DATA
+ 4:00 PM   to      4:15 PM             93                        72                              6         60                                 231
+ 4:15 PM   to      4:30 PM             168                       130                             18        113                                429
+ 4:30 PM   to      4:45 PM             238                       215                             28        185                                666
+ 4:45 PM   to      5:00 PM             301                       284                             39        259                                883
+ 5:00 PM   to      5:15 PM             397                       346                             59        356                                1158
+ 5:15 PM   to      5:30 PM             475                       397                             71        443                                1386
+ 5:30 PM   to      5:45 PM             553                       488                             79        533                                1653
+ 5:45 PM   to      6:00 PM             630                       559                             83        621                                1893
+                                                     TOTAL             BY     PERIOD
+ 4:00 PM   to      4:15 PM     0       93       0      0         72           0         0        6         60       0        0       0        231
+ 4:15 PM   to      4:30 PM     0       75       0      0         58           0         0        12        53       0        0       0        198
+ 4:30 PM   to      4:45 PM     0       70       0      0         85           0         0        10        72       0        0       0        237
+ 4:45 PM   to      5:00 PM     0       63       0      0         69           0         0        11        74       0        0       0        217
+ 5:00 PM   to      5:15 PM     0       96       0      0         62           0         0        20        97       0        0       0        275
+ 5:15 PM   to      5:30 PM     0       78       0      0         51           0         0        12        87       0        0       0        228
+ 5:30 PM   to      5:45 PM     0       78       0      0         91           0        0         8         90      0         0       0        267
+ 5:45 PM   to      6:00 PM     0       77       0      0         71           0        0         4         88      0         0       0        240
+                                                     HOURLY                  TOTALS
+ 4:00 PM   to      5:00 PM     0       301      0      0         284          0        0         39        259     0         0       0        883
+ 4:15 PM   to      5:15 PM     0       304      0      0         274          0        0         53        296     0         0       0        927
+ 4:30 PM   to      5:30 PM     0       307      0      0         267          0        0         53        330     0         0       0        957
+ 4:45 PM   to      5:45 PM     0       315      0      0         273          0        0         51        348     0         0       0        987
+ 5:00 PM   to      6:00 PM     0       329      0      0         275          0        0         44        362     0         0       0        1010
+                                         TEL: (510) 232 - 1271                    FAX: (510) 232 - 1272
+
+                                                                                                                                                     N in
+
+                                                                                                                                                     93
+                                                                                                                                                     75
+                                                                                                                                                     70
+                                                                                                                                                     63
+                                                                                                                                                     96
+                                                                                                                                                     78
+                                                                                                                                                     78
+                                                                                                                                                     77
+                                                                                                                                                     630
+
+                                                                                                                                                     E out
+
+                                                                                                                                                       6
+                                                                                                                                                      12
+                                                                                                                                                      10
+                                                                                                                                                      11
+                                                                                                                                                      20
+                                                                                                                                                      12
+                                                                                                                                                       8
+                                                                                                                                                       4
+                                                                                                                                                      83
+

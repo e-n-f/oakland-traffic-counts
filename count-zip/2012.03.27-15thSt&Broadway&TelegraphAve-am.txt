@@ -1,0 +1,133 @@
+City of Oakland
+                                            File Name                  : TM Broadway and Telegraph & 15th AM 3-27-12 (1)
+                                            Site Code                  : 00000000
+                                            Start Date                 : 3/27/2012
+                                            Page No                    :1
+
+
+                                                                Groups Printed- Unshifted
+              BROADWAY                                   TELEGRAPH             BROADWAY                                                      TELEGRAPH
+                 From North                                  From East             From South                                                    From West
+Start Time   Right   Thru   Left   Peds   App. Total   Right   Thru   Left   Peds   App. Total   Right   Thru   Left   Peds   App. Total   Right   Thru   Left   Peds   App. Total   Int. Total
+
+07:55 AM    43 70             0      0     113            0      0      0      0           0        0      0      0      0           0 28            0      0   7         35          148
+08:10 AM     0 86             0      0      86            0      0      0      0           0        0      0      0      0           0 48            0      0   4         52          138
+08:25 AM     0 86             0      0      86            0      0      0      0           0        0      0      0      0           0 54            0      0   4         58          144
+08:40 AM     0 105            0      0     105            0      0      0      0           0        0      0      0      0           0 57            0      0   5         62          167
+Grand Total 43 347            0      0     390            0      0      0      0           0        0      0      0      0           0 187           0      0 20         207          597
+Apprch % 11 89                0      0                    0      0      0      0                    0      0      0      0                 90.3      0      0 9.7
+ Total % 7.2 58.1             0      0    65.3            0      0      0      0           0        0      0      0      0           0     31.3      0      0 3.4       34.7
+City of Oakland
+                                                         File Name                  : TM Broadway and Telegraph & 15th AM 3-27-12 (1)
+                                                         Site Code                  : 00000000
+                                                         Start Date                 : 3/27/2012
+                                                         Page No                    :2
+                                                                                           BROADWAY
+                                                                                           Out   In                    Total
+                                                                                               0  390                   390
+
+
+                                                                                             43  347               0   0
+                                                                                          Right Thru           Left Peds
+                       250
+
+
+                                     0
+
+
+
+
+                                                                                                                                                                    Right Thru
+                      Total
+
+
+
+
+                                 Left
+
+
+
+
+                                                                                                                                                                                    Out
+                                                                                                                                                                                    TELEGRAPH
+                                                                                                                                                                        0
+
+
+                                                                                                                                                                                        0
+                                                                                                      North
+                                                0
+                                 Peds Right Thru
+                         207
+                        In
+                TELEGRAPH
+
+
+
+
+                                                                                                                                                                              0
+
+
+
+                                                                                                                                                                                           In
+                                                                                            3/27/2012 07:55 AM
+                                        187
+
+
+
+
+                                                                                                                                                                    Left Peds
+                                                                                            3/27/2012 08:40 AM
+
+
+
+
+                                                                                                                                                                                              0
+                                                                                                                                                                        0
+                   43
+
+
+
+
+                                                                                            Unshifted
+                 Out
+
+
+
+
+                                                                                                                                                                                    Total
+                                   20
+
+
+
+
+                                                                                                                                                                                        0
+                                                                                                                                                                            0
+
+
+
+
+                                                                                          Left Thru Right Peds
+                                                                                              0    0    0    0
+
+
+                                                                                            534     0                   534
+                                                                                           Out   In                    Total
+                                                                                           BROADWAY
+
+
+
+
+               BROADWAY                                               TELEGRAPH                                 BROADWAY                                    TELEGRAPH
+                  From North                                              From East                                From South                                   From West
+ Start Time   Right    Thru    Left             Peds   App. Total   Right   Thru   Left    Peds   App. Total   Right    Thru   Left   Peds   App. Total   Right   Thru       Left   Peds      App. Total   Int. Total
+
+Peak Hour Analysis From 7:55:00 AM to 8:55:00 AM - Peak 1 of 1
+Peak Hour for Entire Intersection Begins at 7:55:00 AM
+ 7:55:00 AM    43 70     0    0 113       0     0    0 0     0                                                    0       0      0      0           0 28            0             0   7           35        148
+ 8:10:00 AM     0 86     0    0    86     0     0    0 0     0                                                    0       0      0      0           0 48            0             0   4           52        138
+ 8:25:00 AM     0 86     0    0    86     0     0    0 0     0                                                    0       0      0      0           0 54            0             0   4           58        144
+ 8:40:00 AM     0 105    0    0 105       0     0    0 0     0                                                    0       0      0      0           0 57            0             0   5            62       167
+ Total Volume  43 347    0    0 390       0     0    0 0     0                                                    0       0      0      0           0 187           0             0 20            207       597
+  % App. Total 11 89     0    0           0     0    0 0                                                          0       0      0      0                 90.3      0             0 9.7
+       PHF .250 .826 .000 .000 .863 .000 .000 .000 .000 .000                                                   .000     .000   .000   .000   .000         .820    .000       .000   .714      .835         .894
+

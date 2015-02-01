@@ -1,0 +1,56 @@
+                                                                         B.A.Y.M.E.T.R.I.C.S.
+                                                     INTERSECTION TURNING MOVEMENT SUMMARY
+PROJECT:      OAKLAND TRAFFIC STUDY                                                              SURVEY DATE:                                 5/23/2012                                DAY:    WEDNESDAY
+N-S APPROACH: HARRISON STREET                                                                    SURVEY TIME:                                 4:00 PM                                    TO    6:00 PM
+E-W APPROACH: 20TH STREET                                                                        CITY:                      OAKLAND                                                    FILE:   3205033-29PM
+
+        PEAK HOUR                     KAISER CENTER                            KAISER CENTER                                                              ARRIVAL / DEPARTURE VOLUMES
+ 05:00 PM   TO       06:00 PM         PARKING GARAGE                           DRIVEWAY                     NORTH                                                KAISER CENTER        KAISER CENTER
+                                        54     0     0              0            18     31                                                                       PARKING GARAGE       DRIVEWAY
+                                                                                                                                                                    PHF=   0.45        PHF=    0.45
+
+                                                     B                                  F                                                                             54       60                  49
+
+20TH STREET                                                                                      HARRISON STREET                                                                                                    PHF=
+   10                                                                                                     2                                                                B                            F            0.81
+                                                                                                                                    20TH STREET                                                             HARRISON ST
+  218                                                    TOTAL                                                  122                    319                                                                            233
+            C                                             1,325                                       E                                          C                                                            E
+   65                                                                                                           108                   312                                                                            718
+
+   19                                                                                                            1                   PHF=                         A                            D
+                                                                                                                                      0.87
+                                      A                                        D
+                                                                                                                                                            136     586                  74      91
+                                                                                                                                                          HARRISON STREET              THOMAS BERKLEY WAY
+                    66      12    500           8                   9     46   36            0                                                             PHF=    0.86                 PHF=    0.78
+                  HARRISON STREET                                 THOMAS BERKLEY WAY
+
+   TIME     PERIOD              A NB (HARRISON ST - NB)             D NB (THOMAS BERKLEY)         B SB (P. G.)        F SB (DWAY)            C EB (20TH STREET)                     E WB (HARRISON ST - SB)
+ From                 To        AC        AB   AE          AD      DA     DC       DB       DE        BC               FB    FC       CB         CE         CD        CA       ED        EA        EC         EB    TOTAL
+                                                                                            SURVEY                   DATA
+  4:00 PM   ---      4:15 PM     12       1     75         3       2      9        7         0        5                8     12        1         45         11         4       1         28        28          1     253
+  4:15 PM   ---      4:30 PM     27       5    156         4       6      16       11        0        11               16    19        3         94         23        13       2         62        61          5     534
+  4:30 PM   ---      4:45 PM     42       8    276         8       8      28       20        0        15               33    29        7         132        28        21       3         86        96          6     846
+  4:45 PM   ---      5:00 PM     53       8    368         12      10     34       30        0        25               46    37       13         183        38        29       4         106       127         7    1,130
+  5:00 PM   ---      5:15 PM     71       11   494         13      12     53       38        0        35               52    43       17         234        45        34       5         141       152         9    1,459
+  5:15 PM   ---      5:30 PM     81       12   623         16      12     60       49        0        40               55    47       18         283        61        39       5         165       181         9    1,756
+  5:30 PM   ---      5:45 PM    104       18   762         19      14     71       59        0        49               61    58       21         342        85        43       5         195       211         9    2,126
+  5:45 PM   ---      6:00 PM    119       20   868         20      19     80       66        0        79               64    68       23         401        103       48       5         214       249         9    2,455
+                                                                                        TOTAL              BY       PERIOD
+  4:00 PM   ---      4:15 PM    12        1     75         3        2     9        7         0        5         0      8     12        1         45         11        4        1         28        28          1     253
+  4:15 PM   ---      4:30 PM    15        4     81         1        4     7        4         0        6         0      8     7         2         49         12        9        1         34        33          4     281
+  4:30 PM   ---      4:45 PM    15        3    120         4        2     12       9         0        4         0      17    10        4         38          5        8        1         24        35          1     312
+  4:45 PM   ---      5:00 PM    11        0     92         4        2     6        10        0        10        0      13    8         6         51         10        8        1         20        31          1     284
+  5:00 PM   ---      5:15 PM    18        3    126         1        2     19       8         0        10        0      6     6         4         51          7        5        1         35        25          2     329
+  5:15 PM   ---      5:30 PM    10        1    129         3        0     7        11        0        5         0      3     4         1         49         16        5        0         24        29          0     297
+  5:30 PM   ---      5:45 PM    23        6    139         3        2     11       10        0        9         0      6     11        3         59         24        4        0         30        30          0     370
+  5:45 PM   ---      6:00 PM    15        2    106         1        5     9        7         0        30        0      3     10        2         59         18        5        0         19        38          0     329
+                                                                                            HOURLY              TOTALS
+  4:00 PM   ---      5:00 PM    53        8    368         12      10     34      30        0         25        0      46    37       13       183          38        29       4         106       127         7    1,130
+  4:15 PM   ---      5:15 PM    59        10   419         10      10     44      31        0         30        0      44    31       16       189          34        30       4         113       124         8    1,206
+  4:30 PM   ---      5:30 PM    54        7    467         12      6      44      38        0         29        0      39    28       15       189          38        26       3         103       120         4    1,222
+  4:45 PM   ---      5:45 PM    62        10   486         11      6      43      39        0         34        0      28    29       14       210          57        22       2         109       115         3    1,280
+  5:00 PM   ---      6:00 PM    66        12   500         8       9      46      36        0         54        0      18    31       10       218          65        19       1         108       122         2    1,325
+                                                                           Telephone: (510)232-1271                                   Fax: (510)232-1272
+

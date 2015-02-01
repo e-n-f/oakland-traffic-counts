@@ -1,0 +1,51 @@
+           B.A.Y.M.E.T.R.I.C.S.
+PEDESTRIAN MOVEMENT SUMMARY
+PROJECT:      OAKLAND TRAFFIC STUDY                                          SURVEY DATE: 5/16/2012
+N-S APPROACH: MADISO STREET                                                  DAY: WEDNESDAY
+E-W APPROACH:LAKESIDE DRIVE                                                  CITY: OAKLAND
+SURVEY PERIOD:  4:00 PM     TO    6:00 PM                                    FILE: 3205033-PED-42PM
+
+       PEAK HOUR                                                                   PEAK HOUR
+04:45 PM    TO    05:45 PM               F    8                             TOTAL PEDESTRIAN VOLUMES
+                                                             NORTH                     69
+
+                                                                                               C&D
+                     11              B             D    10             A&B     19                     16
+
+                     8       A                C         6
+
+                                     E        4                                                12
+            H        G                                                         22                    E&F
+            11       11                                                       G&H
+
+
+                             MADISO STREET
+
+     TIME   PERIOD           NORTH X-WALK              EAST X-WALK   SOUTH X-WALK     WEST X-WALK
+ From                To        A      B                 C       D      E      F        G      H      TOTAL
+                                             SURVEY           DATA
+04:00 PM    ---   04:15 PM       0            2         2      0        2       5       2       4      17
+04:15 PM    ---   04:30 PM       0             4        2       1       2       6       2       7      24
+04:30 PM    ---   04:45 PM       0             8        2       5       2       9       7      12      45
+04:45 PM    ---   05:00 PM       5             8        3       7       6       9      11      14      63
+05:00 PM    ---   05:15 PM       6             9        5       7       6      11      13      19      76
+05:15 PM    ---   05:30 PM       8             9        8       9       6      12      18      22      92
+05:30 PM    ---   05:45 PM       8            19        8      15       6      17      18      23     114
+05:45 PM    ---   06:00 PM       8            24        8      20       7      17      19      25     128
+                                 TOTAL                 BY     PERIOD
+04:00 PM    ---   04:15 PM       0             2        2      0        2       5          2    4     17
+04:15 PM    ---   04:30 PM       0             2        0      1        0       1          0    3      7
+04:30 PM    ---   04:45 PM       0             4        0      4        0       3          5    5     21
+04:45 PM    ---   05:00 PM       5             0        1      2        4       0          4    2     18
+05:00 PM    ---   05:15 PM       1             1        2      0        0       2          2    5     13
+05:15 PM    ---   05:30 PM       2             0        3      2        0       1          5    3     16
+05:30 PM    ---   05:45 PM       0            10        0      6        0       5          0    1     22
+05:45 PM    ---   06:00 PM       0             5        0      5        1       0          1    2     14
+                                     HOURLY                  TOTALS
+04:00 PM    ---   05:00 PM       5             8        3       7       6       9      11      14     63
+04:15 PM    ---   05:15 PM       6             7        3       7       4       6      11      15     59
+04:30 PM    ---   05:30 PM       8             5        6       8       4       6      16      15     68
+04:45 PM    ---   05:45 PM       8            11        6      10       4       8      11      11     69
+05:00 PM    ---   06:00 PM       3            16        5      13       1       8       8      11     65
+                   Tel : (510) 232-1271                              Fax: (510) 232-1272
+

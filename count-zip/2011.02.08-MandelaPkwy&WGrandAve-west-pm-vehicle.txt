@@ -1,0 +1,41 @@
+                                                VEHICLE TURNING MOVEMENT COUNT
+                                               #004 Mandela Pkwy & West Grand Avenue (W) - PM PEAK
+    LOCATION#:            004                                                    QTD PROJ#:        600113
+   NORTH / SOUTH:         Mandela Pkwy                                             DATE:           Tuesday, February 08, 2011
+    EAST / WEST:          West Grand Avenue (W)                                   VICINITY:        Oakland, CA
+
+
+
+    DIRECTION:               NL         NT          NR   SL      ST      SR     EL          ET         ER          WL          WT          WR
+                                                                                                                                                     TOTALS
+       LANES:                 0          0          0     0       2      0       0         2.5         0.5           1           2           0
+    3:00 PM
+    3:15 PM
+    3:30 PM
+    3:45 PM
+    4:00 PM                   0          0          0     13     60      33      0         79           12          20         106           0        323
+    4:15 PM                   0          0          0     18     50      47      0         94           23          11         119           0        362
+    4:30 PM                   0          0          0     10     75      34      0         76           16          35         118           0        364
+    4:45 PM                   0          0          0      9     56      45      0         105          21          20         136           0        392
+    5:00 PM                   0          0          0     30     46      51      0         113          23          22         137           0        422
+    5:15 PM                   0          0          0     18     75      30      0         126           7          26         137           0        419
+    5:30 PM                   0          0          0     21     73      37      0         92           21          27         137           0        408
+    5:45 PM                   0          0          0     24     76      36      0         94           14          34         137           0        415
+    6:00 PM
+    6:15 PM
+    6:30 PM
+    6:45 PM
+
+  VOLUME STATS:              NL         NT          NR   SL      ST      SR     EL          ET         ER          WL          WT          WR
+              TOTAL:          0          0          0    143     511    313      0         779         137         195        1027           0        3105
+               P.H.V: ₁       0          0          0    93      270    154      0         425         65          109         548           0        1664
+               P.H.F: ₂                0.000                    0.950                     0.901                               0.961                   0.986
+
+(1) Peak Hour Volume (Peak Hour Begins At 500 PM)
+(2) Peak Hour Factor (directional aggregate)
+
+
+                                                                                 QUALITY TRAFFIC DATA, LLC
+                                                                                 9701 W Pico Blvd, Suite 205, Los Angeles, CA 90035
+                                                                                 Phone: 310-341-0019 Fax: 310-807-9247 Info@QualityTrafficData.com
+

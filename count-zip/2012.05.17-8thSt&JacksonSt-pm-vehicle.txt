@@ -1,0 +1,55 @@
+                                       B.A.Y.M.E.T.R.I.C.S.
+                   INTERSECTION TURNING MOVEMENT SUMMARY
+PROJECT:      OAKLAND TRAFFIC STUDY                                    SURVEY DATE:       5/17/2012                     DAY:     THURSDAY
+N-S APPROACH: JACKSON STREET                                           SURVEY TIME:        4:00 PM                      TO       6:00 PM
+E-W APPROACH:8TH STREET                                                JURISDICTION: OAKLAND                            FILE:    3205033-18PM
+
+        PEAK HOUR                                                                                ARRIVAL / DEPARTURE VOLUMES
+ 5:00 PM   TO     6:00 PM                                      NORTH
+
+                                 69     276       0                                            PHF =     0.92
+
+                                                                                                         345     180
+
+                                                                                                                                  PHF =
+             0                                                   28                                                                0.90
+
+             0                         1101                      435                   602                                         506
+
+             0                                                   43                     0                                           0
+
+8TH STREET                                                                            PHF =
+                                                                                     #DIV/0!
+
+                                 98     152       0                                                      319     250
+
+                               JACKSON STREET                                                                   PHF =     0.93
+
+   TIME           PERIOD           NORTHBOUND                SOUTHBOUND                      EASTBOUND                 WESTBOUND          TOTAL
+ From                 To        LEFT   THRU     RIGHT   LEFT    THRU       RIGHT      LEFT     THRU    RIGHT    LEFT     THRU    RIGHT
+                                                         SURVEY              DATA
+ 4:00 PM     to      4:15 PM     18     28                       70         13                                   11       85        9      234
+ 4:15 PM     to      4:30 PM     35     44                       144        28                                   21       172      16      460
+ 4:30 PM     to      4:45 PM     60     72                       207        45                                   34       271      18      707
+ 4:45 PM     to      5:00 PM     88    109                       274        56                                   44       362      24      957
+ 5:00 PM     to      5:15 PM     110   154                       345        73                                   57       479      34      1252
+ 5:15 PM     to      5:30 PM     135   185                       423        89                                   71       580      36      1519
+ 5:30 PM     to      5:45 PM     161   226                       491        109                                  78       685      44      1794
+ 5:45 PM     to      6:00 PM     186   261                       550        125                                  87       797      52      2058
+                                                        TOTAL         BY     PERIOD
+ 4:00 PM     to      4:15 PM     18     28        0      0       70         13          0        0        0      11       85        9      234
+ 4:15 PM     to      4:30 PM     17     16        0      0       74         15          0        0        0      10       87        7      226
+ 4:30 PM     to      4:45 PM     25     28        0      0       63         17          0        0        0      13       99        2      247
+ 4:45 PM     to      5:00 PM     28     37        0      0       67         11          0        0        0      10       91        6      250
+ 5:00 PM     to      5:15 PM     22     45        0      0       71         17          0        0        0      13       117      10      295
+ 5:15 PM     to      5:30 PM     25     31        0      0       78         16          0        0        0      14       101       2      267
+ 5:30 PM     to      5:45 PM     26     41        0      0       68         20          0        0        0       7       105       8      275
+ 5:45 PM     to      6:00 PM     25     35        0      0       59         16          0        0        0       9       112       8      264
+                                                        HOU RLY             TO TALS
+ 4:00 PM     to      5:00 PM     88    109        0      0       274        56         0         0        0      44       362      24      957
+ 4:15 PM     to      5:15 PM     92    126        0      0       275        60         0         0        0      46       394      25      1018
+ 4:30 PM     to      5:30 PM     100   141        0      0       279        61         0         0        0      50       408      20      1059
+ 4:45 PM     to      5:45 PM     101   154        0      0       284        64         0         0        0      44       414      26      1087
+ 5:00 PM     to      6:00 PM     98    152        0      0       276        69         0         0        0      43       435      28      1101
+                                         TEL: (510) 232 - 1271                    FAX: (510) 232 - 1272
+

@@ -1,0 +1,56 @@
+WILTEC                                                     Phone: (626) 564-1944 Fax: (626) 564-0969
+INTERSECTION PEDESTRIAN AND BICYCLE COUNT SUMMARY
+
+
+CLIENT:                         DOWLING ASSOCIATES, INC.
+PROJECT:                        OAKLAND WEST STREET COUNTS
+DATE:                           WEDNESDAY, MAY 9, 2007
+PERIOD:                         7:00 AM TO 9:00 AM AND 4:00 TO 6:00 PM
+INTERSECTION:       N/S         WEST STREET
+                    E/W         MACARTHUR BOULEVARD
+CITY:                           OAKLAND
+
+15 MIN COUNTS
+                           PEDESTRIANS                                        BICYCLES
+           NB         EB       SB      WB                      NB            EB      SB        WB
+PERIOD
+700-715         1           0          2        2                   0           0         1         1
+715-730         2           1          3        0                   0           0         0         2
+730-745         1           2          0        2                   0           0         1         1
+745-800         3           2          0        1                   0           0         1         1
+800-815         3           5          2        0                   1           3         0         1
+815-830         2           0          0        1                   1           2         0         1
+830-845         1           0          0        2                   0           0         2         1
+845-900         0           0          0        2                   0           0         0         0
+HOUR TOTALS
+                           PEDESTRIANS                                        BICYCLES
+           NB         EB       SB      WB                 NB            EB        SB          WB
+PERIOD
+700-800         7           5          5        5                   0           0         3         5
+715-815         9          10          5        3                   1           3         2         5
+730-830         9           9          2        4                   2           5         2         4
+745-845         9           7          2        4                   2           5         3         4
+800-900         6           5          2        5                   2           5         2         3
+
+15 MIN COUNTS
+                           PEDESTRIANS                                        BICYCLES
+           NB         EB       SB      WB                      NB            EB      SB        WB
+PERIOD
+400-415         5           2          1        2                   0           0         1         0
+415-430         1           0          0        5                   0           0         0         0
+430-445         1           0          0        1                   0           0         0         0
+445-500         2           2          1        3                   2           0         0         0
+500-515         3           2          0        5                   0           0         1         3
+515-530         0           0          1        1                   0           0         0         2
+530-545         1           2          0        1                   0           1         0         1
+545-600         3           0          4        4                   3           2         0         0
+HOUR TOTALS
+                           PEDESTRIANS                                        BICYCLES
+           NB         EB       SB      WB                 NB            EB        SB          WB
+PERIOD
+400-500         9           4          2       11                   2           0         1         0
+415-515         7           4          1       14                   2           0         1         3
+430-530         6           4          2       10                   2           0         1         5
+445-545         6           6          2       10                   2           1         1         6
+500-600         7           4          5       11                   3           3         1         6
+

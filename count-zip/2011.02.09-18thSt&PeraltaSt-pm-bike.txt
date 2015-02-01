@@ -1,0 +1,37 @@
+                                                            BICYCLE APPROACH COUNTS
+                                                           #003 Peralta Street & 18th Street - PM PEAK
+    LOCATION#:             003                                                            QTD PROJ#:       600113
+   NORTH / SOUTH:          Peralta Street                                                   DATE:          Wednesday, February 09, 2011
+    EAST / WEST:           18th Street                                                     VICINITY:       Oakland, CA
+
+
+
+    DIRECTION:               NORTHERN CROSSWALK                SOUTHERN CROSSWALK        EASTERN CROSSWALK                 WESTERN CROSSWALK                   TOTALS
+    4:00 PM                                  0                           0                          0                                    0
+    4:15 PM                                  0                           0                          0                                    0
+    4:30 PM                                  0                           0                          1                                    1                       2
+    4:45 PM                                  0                           0                          1                                    0                       1
+    5:00 PM                                  0                           0                          0                                    0
+    5:15 PM                                  0                           0                          1                                    0                       1
+    5:30 PM                                  0                           0                          0                                    1                       1
+    5:45 PM                                  0                           0                          0                                    0
+    6:00 PM
+    6:15 PM
+    6:30 PM
+    6:45 PM
+
+  VOLUME STATS:                     FROM NORTH                      FROM SOUTH                FROM EAST                           FROM WEST
+               TOTAL:                         0                          0                          3                                   2                         5
+                P.H.V: ₁                      0                          0                          3                                   1                         4
+                P.H.F: ₂                    0.000                      0.000                      0.750                               0.250                     0.500
+
+(1) Peak Hour Volume (Peak hour begins at:       430 PM)
+(2) Peak Hour Factor
+
+
+
+
+                                                                                           QUALITY TRAFFIC DATA, LLC
+                                                                                           9701 W Pico Blvd, Suite 205, Los Angeles, CA 90035
+                                                                                           Phone: 310-341-0019 Fax: 310-807-9247 Info@QualityTrafficData.com
+

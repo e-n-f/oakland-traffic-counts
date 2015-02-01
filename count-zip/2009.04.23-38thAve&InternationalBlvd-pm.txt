@@ -1,0 +1,159 @@
+                                                                                          Turning Movement Report
+                                         Metro Traffic Data Inc.
+                                         310 N. Irwin Street - Suite 20                                                    Prepared For:                            Debbie Yueh
+                                         Hanford, CA 93230                                                                                              Dowling Associates Inc.
+                                                                                                                                                   180 Grand Avenue, Suite 250
+                                         800-975-6938 Phone/Fax                                                                                             Oakland, CA 94612
+                                         www.metrotrafficdata.com
+                                                                                                                                                                 510-839-1742
+
+
+                    LOCATION         Internation Boulevard @ 38th Avenue                        LATITUDE                  37°46'29.16"N
+
+                     COUNTY                        Alameda                                  LONGITUDE                   122°13'11.87"W
+
+
+         COLLECTION DATE                           4/23/2009                                    WEATHER                      Clear
+
+
+
+                                   Northbound                              Southbound                       Eastbound                                 Westbound
+      Time              Left      Thru    Right     Trucks       Left     Thru    Right   Trucks   Left    Thru   Right     Trucks        Left       Thru   Right       Trucks
+7:00 AM - 7:15 AM         4        121     10          x           1       87       3        x      0        3      1          x           13         27     18            x
+7:15 AM - 7:30 AM         2        140     12          x           3       97       4        x      0        8      0          x            8         31     10            x
+7:30 AM - 7:45 AM         5        198      8          x           7       110      5        x      2       11      1          x           13         36     14            x
+7:45 AM - 8:00 AM         8        293      7          x           7       130      2        x      0        9      1          x           10         44     23            x
+8:00 AM - 8:15 AM        11        302      3          x           7       160      3        x      1       19      0          x           20         46     31            x
+8:15 AM - 8:30 AM         9        277      7          x           6       135     17        x      3       21      1          x           13         55     24            x
+8:30 AM - 8:45 AM         9        240      7          x           6       162      2        x      2       26      0          x           21         46     20            x
+8:45 AM - 9:00 AM         7        230     10          x          10       158      5        x      0       18      0          x           14         37     14            x
+     TOTAL               55       1801     64          x          47      1039     41        x      8      115      4          x          112        322     154           x
+
+                                   Northbound                              Southbound                       Eastbound                                 Westbound
+      Time              Left      Thru    Right     Trucks       Left     Thru    Right   Trucks   Left    Thru   Right     Trucks        Left       Thru   Right       Trucks
+4:00 PM - 4:15 PM        13        210     17          x          22       215      5        x       2      37      0          x            9         31     10            x
+4:15 PM - 4:30 PM         3        213     20          x          12       224      5        x       2      32      0          x           11         25      7            x
+4:30 PM - 4:45 PM        10        171     20          x          19       212      7        x       2      20      1          x           12         27      6            x
+4:45 PM - 5:00 PM         6        224     18          x          15       210      5        x       3      18      0          x            9         22     12            x
+5:00 PM - 5:15 PM         7        190     15          x          25       235      2        x       3      20      0          x           14         34      8            x
+5:15 PM - 5:30 PM         7        169     18          x          24       250      7        x       6      37      0          x            9         37     12            x
+5:30 PM - 5:45 PM        10        168     25          x          21       223      8        x       5      32      0          x           16         37     14            x
+5:45 PM - 6:00 PM         4        165     20          x          12       209      2        x       2      31      0          x           17         36     15            x
+     TOTAL               60       1510     153         x         150      1778     41        x      25     227      1          x           97        249     84            x
+
+                                   Northbound                              Southbound                       Eastbound                                 Westbound
+  PEAK HOUR             Left      Thru    Right     Trucks       Left     Thru    Right   Trucks   Left    Thru   Right     Trucks        Left       Thru   Right       Trucks
+
+7:45 AM - 8:45 AM       37        1112       24        x         26       587      24       x       6      75       2          x          64         191       98         x
+
+4:45 PM - 5:45 PM       30         751       76        x         85       918      22       x       17     107      0          x          48         130       46         x
+
+
+
+                                                                                 International Boulevard
+                       PHF
+
+
+                                                                          PM       22      918      85
+      AM               0.931
+
+                                                                          AM       24      587      26
+      PM               0.968
+
+
+
+                                                      PM        AM                                                 AM         PM
+
+                                                      17          6                                                98         46
+
+
+                               38th Avenue            107        75                                               191         130                38th Avenue
+
+
+                                                       0          2                                                64         48
+
+
+
+
+                                                                          AM       37     1112      24
+
+
+                                                                          PM       30      751      76
+
+                                                                                 International Boulevard
+                                                                                                                                                                    Page 1 of 3
+                                                                                      Turning Movement Report
+                                      Metro Traffic Data Inc.
+                                      310 N. Irwin Street - Suite 20                                                     Prepared For:                       Debbie Yueh
+                                      Hanford, CA 93230                                                                                            Dowling Associates Inc.
+                                                                                                                                              180 Grand Avenue, Suite 250
+                                      800-975-6938 Phone/Fax                                                                                           Oakland, CA 94612
+                                      www.metrotrafficdata.com
+                                                                                                                                                            510-839-1742
+
+
+                    LOCATION       Internation Boulevard @ 38th Avenue                      LATITUDE                    37°46'29.16"N
+
+                     COUNTY                     Alameda                                 LONGITUDE                   122°13'11.87"W
+
+
+         COLLECTION DATE                        4/23/2009                                   WEATHER                        Clear
+
+
+
+                          Northbound Bikes        N.Leg         Southbound Bikes      S.Leg       Eastbound Bikes          E.Leg           Westbound Bikes        W.Leg
+      Time              Left    Thru    Right     Peds        Left    Thru    Right   Peds     Left    Thru     Right      Peds         Left    Thru    Right     Peds
+7:00 AM - 7:15 AM        0        1       0          4         0       1        0       0       0        0        0         20           0        3        0         2
+7:15 AM - 7:30 AM        0        0       0          4         0       0        0       5       0        1        0         21           0        0        0         0
+7:30 AM - 7:45 AM        0        3       0          4         0       1        0      10       0        1        0         16           0        3        0         1
+7:45 AM - 8:00 AM        0        4       0         10         0       0        0       8       0        1        0         16           0        3        0         3
+8:00 AM - 8:15 AM        0        1       0         12         0       0        0       7       0        1        0         13           0        1        0         2
+8:15 AM - 8:30 AM        1        2       0         10         0       2        0       3       0        1        0          6           0        3        0         6
+8:30 AM - 8:45 AM        0        2       0         12         0       0        0       3       0        0        0          6           0        0        0         3
+8:45 AM - 9:00 AM        0        0       0          5         0       0        0       4       0        0        0         11           0        0        0         0
+     TOTAL               1       13       0         61         0       4        0      40       0        5        0         109          0       13        0        17
+
+                          Northbound Bikes        N.Leg         Southbound Bikes      S.Leg       Eastbound Bikes          E.Leg           Westbound Bikes        W.Leg
+      Time              Left    Thru    Right     Peds        Left    Thru    Right   Peds     Left    Thru     Right      Peds         Left    Thru    Right     Peds
+4:00 PM - 4:15 PM        0        3       0          1         0       0        0       17      0        1        0          23          0        4        1        3
+4:15 PM - 4:30 PM        0        0       0          9         0       1        0       25      0        0        0          31          0        0        0        0
+4:30 PM - 4:45 PM        0        0       0          6         0       2        0       20      0        0        0          38          0        3        0        1
+4:45 PM - 5:00 PM        0        2       0         15         0       0        0       23      0        0        0          54          0        2        0        0
+5:00 PM - 5:15 PM        0        4       0          9         0       1        0       25      0        0        0          37          0        5        0        2
+5:15 PM - 5:30 PM        0        3       0         13         0       1        0       13      0        0        0          47          0        2        0        4
+5:30 PM - 5:45 PM        0        0       0         21         0       0        0       24      0        0        0          48          0        5        0        7
+5:45 PM - 6:00 PM        0        2       0          9         0       1        0       27      0        0        0          31          0        5        0        3
+     TOTAL               0       14       0         83         0       6        0      174      0        1        0         309          0       26        1       20
+
+
+
+
+                                                                                                                                                              Page 2 of 3
+                     Metro Traffic Data Inc.                   Turning Movement Report
+                     310 N. Irwin Street - Suite 20
+                     Hanford, CA 93230                                                     Prepared For:                          Debbie Yueh
+                                                                                                                        Dowling Associates Inc.
+                     800-975-6938 Phone/Fax                                                                        180 Grand Avenue, Suite 250
+                     www.metrotrafficdata.com                                                                               Oakland, CA 94612
+
+
+                                                                                                                                 510-839-1742
+      LOCATION    Internation Boulevard @ 38th Avenue     N/S STREET                International Boulevard
+
+        COUNTY                 Alameda                    E/W STREET                      38th Avenue
+
+
+COLLECTION DATE                4/23/2009                    WEATHER                          Clear
+
+     CYCLE TIME               82 Seconds                CONTROL TYPE                         Signal
+
+
+
+
+                                                         COMMENTS      All approaches have permitted left turns.
+
+
+
+
+                                                                                                                                   Page 3 of 3
+

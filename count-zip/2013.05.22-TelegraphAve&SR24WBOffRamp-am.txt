@@ -1,0 +1,298 @@
+                                                              B.A.Y.M.E.T.R.I.C.S.
+                               INTERSECTION TURNING MOVEMENT SUMMARY
+PROJECT:                     CALDECOTT TRAFFIC STUDY                                                   SURVEY DATE:                     5/22/2013                           DAY: WEDNESDAY
+N-S APPROACH:                TELEGRAPH AVENUE                                                          SURVEY TIME:                      6:00 AM                            TO       9:00 AM
+E-W APPROACH:                SR-24 WB OFF-RAMP                                                         JURISDICTION:                 OAKLAND                                FILE: 3305058-7AM
+                                                                                                                                                                                                Approach   Departure
+      PEAK HOUR                                                                                                               ARRIVAL / DEPARTURE VOLUMES                                       Volumes    Volumes
+ 8:00 AM to     9:00 AM               TELEGRAPH AVENUE                                     NORTH
+                                        0    732    0                     0                                                                                                          2             732
+                                              2                                                                                                                                N-END Total         732        1426
+
+                                                                                 SR-24 WB OFF-RAMP                                                                                    4            672
+                                                                                                                                                 2                                    6            450
+                    0                                                                           672    4                                                                        E-END Total       1122          0
+                                                                                                                     Aileen Street
+            12      9                                                                            0                                                                          4 SR-24 WB
+                                                           2631                                                             12                                              6 Off-Ramp
+                    0                                                                           450    6                    10                                                          8          745
+                                                                                                                                                                                   S-ENDTotal      745        1203
+            10      21                                                                           0
+                                                                                                                                                           8
+AILEEN STREET                                                                                                                                                                        10            21
+                                                                                                                                   Telegraph Avenue                                  12            9
+                                                    8                                                                                                                          W-END Total         30           0
+                                        2     0    745                    0
+                                      TELEGRAPH AVENUE
+
+                                  NORTHBOUND                                 SOUTHBOUND                                     EASTBOUND                                         WESTBOUND
+  TIME          PERIOD         TELEGRAPH AVENUE                           TELEGRAPH AVENUE                                 AILEEN STREET                                  SR-24 WB OFF-RAMP                TOTAL
+ From              To        U-TURN                    8              U-TURN                     2                U-TURN     12                       10        U-TURN         6                    4
+                                                                                     SURVEY                       DATA
+ 6:00 AM   to      6:15 AM     0                        27                                        35                          1                        1                      38                    24         126
+ 6:15 AM   to      6:30 AM     0                        76                                        85                          2                        2                      76                    63         304
+ 6:30 AM   to      6:45 AM     1                       132                                       150                          2                        2                      128                  138         553
+ 6:45 AM   to      7:00 AM     1                       205                                       220                          2                        2                      196                  219         845
+ 7:00 AM   to      7:15 AM     1                       260                                       304                          2                        7                      245                  317        1136
+ 7:15 AM   to      7:30 AM     1                       354                                       397                          3                       11                      311                  441        1518
+ 7:30 AM   to      7:45 AM     1                       455                                       524                          5                       15                      398                  586        1984
+ 7:45 AM   to      8:00 AM     1                       587                                       665                          8                       21                      496                  757        2535
+ 8:00 AM   to      8:15 AM     2                       746                                       829                         12                       26                      611                  940        3166
+ 8:15 AM   to      8:30 AM     3                       945                                      1026                         14                       32                      706                 1100        3826
+ 8:30 AM   to      8:45 AM     3                      1131                                      1225                         16                       38                      833                 1287        4533
+ 8:45 AM   to      9:00 AM     3                      1332                                      1397                         17                       42                      946                 1429        5166
+                                                                                 TOTAL                 BY         PERIOD
+ 6:00 AM   to      6:15 AM     0         0             27         0       0         0            35         0        0       1             0          1               0       38            0       24         126
+ 6:15 AM   to      6:30 AM     0         0             49         0       0         0            50         0        0       1             0          1               0       38            0       39         178
+ 6:30 AM   to      6:45 AM     1         0             56         0       0         0            65         0        0       0             0          0               0       52            0       75         249
+ 6:45 AM   to      7:00 AM     0         0             73         0       0         0            70         0        0       0             0          0               0       68            0       81         292
+ 7:00 AM   to      7:15 AM     0         0             55         0       0         0            84         0        0       0             0          5               0       49            0       98         291
+ 7:15 AM   to      7:30 AM     0         0             94         0       0         0            93         0        0       1             0          4               0       66            0      124         382
+ 7:30 AM   to      7:45 AM     0         0            101         0       0         0           127         0        0       2             0          4               0       87            0      145         466
+ 7:45 AM   to      8:00 AM     0         0            132         0       0         0           141         0        0       3             0          6               0       98            0      171         551
+ 8:00 AM   to      8:15 AM     1         0            159         0       0         0           164         0        0       4             0          5               0       115           0      183         631
+ 8:15 AM   to      8:30 AM     1         0            199         0       0         0           197         0        0       2             0          6               0       95            0      160         660
+ 8:30 AM   to      8:45 AM     0         0            186         0       0         0           199         0        0       2             0          6               0       127           0      187         707
+ 8:45 AM   to      9:00 AM     0         0            201         0       0         0           172         0        0       1             0          4               0       113           0      142         633
+MOVEMENT TOTAL                 3         0         1131           0       0         0        1225           0        0       16            0          38              0       833           0     1287
+APPROACH TOTAL                                 1134                                      1225                                      54                                                2120
+                                                                                  HOURLY                        TOTALS
+ 6:00 AM   to      7:00 AM     1         0            205         0       0         0           220         0        0        2            0           2              0       196           0      219         845
+ 6:15 AM   to      7:15 AM     1         0            233         0       0         0           269         0        0        1            0           6              0       207           0      293        1010
+ 6:30 AM   to      7:30 AM     1         0            278         0       0         0           312         0        0        1            0           9              0       235           0      378        1214
+ 6:45 AM   to      7:45 AM     0         0            323         0       0         0           374         0        0        3            0          13              0       270           0      448        1431
+ 7:00 AM   to      8:00 AM     0         0            382         0       0         0           445         0        0        6            0          19              0       300           0      538        1690
+ 7:15 AM   to      8:15 AM     1         0            486         0       0         0           525         0        0       10            0          19              0       366           0      623        2030
+ 7:30 AM   to      8:30 AM     2         0            591         0       0         0           629         0        0       11            0          21              0       395           0      659        2308
+ 7:45 AM   to      8:45 AM     2         0            676         0       0         0           701         0        0       11            0          23              0       435           0      701        2549
+ 8:00 AM   to      9:00 AM     2         0            745         0       0         0           732         0        0        9            0          21              0       450           0      672        2631
+                                                                              PEAK          HOUR                SUMMARY
+ 8:00 AM to   9:00 AM U-TURN                           8              U-TURN                     2                U-TURN     12                       10        U-TURN         6                    4       TOTAL
+VOLUME                    2               0           745        0        0         0           732         0        0        9             0         21               0      450         0       672        2631
+PHF BY MOVEMENT         0.50            0.00          0.93     0.00     0.00      0.00          0.92       0.00    0.00     0.56          0.00       0.88            0.00     0.89      0.00      0.90     OVERALL
+PHF BY APPROACH                                0.93                                      0.92                                      0.83                                              0.89                     0.93
+
+
+                                Approach              Link     Peak Hour Vol       Peak Hour Vol           Peak Hour Vol    Peak Hour Vol            Peak Hour Vol
+                                                              (included Truck)    (without Truck)             (Truck)         (Bicycle)               (Pedestrian)
+                                   SB                   2            732                709                     23               30
+                                                      Total          732                709                     23               30
+                                   WB                   4            672                663                      9                0                            P14
+                                                        6            450                445                      5                0
+                                                      Total         1122               1108                     14                0                             12
+                                   NB                   8            745                730                     15               20                            P15
+                                                      Total          745                730                     15               20                             4
+                                   EB                  10             21                 21                      0                1                            P13
+                                                       12              9                  9                      0                0
+                                                      Total           30                 30                      0                1                             6
+
+                                                                  TEL: (510) 232 - 1271                           FAX: (510) 232 - 1272
+                                                       B.A.Y.M.E.T.R.I.C.S.
+                                         TRUCK TURNING MOVEMENT SUMMARY
+PROJECT:                     CALDECOTT TRAFFIC STUDY                                       SURVEY DATE:                    5/22/2013                DAY: WEDNESDAY
+N-S APPROACH:                TELEGRAPH AVENUE                                              SURVEY TIME:                     6:00 AM                 TO       9:00 AM
+E-W APPROACH:                SR-24 WB OFF-RAMP                                             JURISDICTION:                OAKLAND                     FILE: 3305058-7AM
+                                                                                                                                                                        Approach   Departure
+      PEAK HOUR                                                                                                 ARRIVAL / DEPARTURE VOLUMES                             Volumes    Volumes
+ 8:00 AM to     9:00 AM               TELEGRAPH AVENUE                            NORTH
+                                        0     23    0                0                                                                                       2             23
+                                               2                                                                                                       N-END Total         23          24
+
+                                                                           SR-24 WB OFF-RAMP                                                                 4             9
+                                                                                                                              2                              6             5
+                    0                                                                 9    4                                                           E-END Total         14           0
+                                                                                                        Aileen Street
+            12      0                                 1.98%                           0                                                             4 SR-24 WB
+                                                       52                                                      12                                   6 Off-Ramp
+                    0                                                                 5    6                   10                                               8          15
+                                                                                                                                                           S-ENDTotal      15          28
+            10      0                                                                 0
+                                                                                                                                       8
+AILEEN STREET                                                                                                                                                10             0
+                                                                                                                     Telegraph Avenue                        12             0
+                                                    8                                                                                                  W-END Total          0           0
+                                        0     0     15               0
+                                      TELEGRAPH AVENUE
+
+                                  NORTHBOUND                            SOUTHBOUND                             EASTBOUND                             WESTBOUND
+  TIME          PERIOD         TELEGRAPH AVENUE                      TELEGRAPH AVENUE                         AILEEN STREET                      SR-24 WB OFF-RAMP                 TOTAL
+ From              To        U-TURN              8                U-TURN              2              U-TURN     12                10       U-TURN      6                    4
+                                                                              SURVEY                DATA
+ 6:00 AM   to      6:15 AM                        5                                   2                                                                0                   1            8
+ 6:15 AM   to      6:30 AM                        8                                   5                                                                1                   6            20
+ 6:30 AM   to      6:45 AM                       14                                   13                                                               1                   8            36
+ 6:45 AM   to      7:00 AM                       20                                   20                                                               1                   8            49
+ 7:00 AM   to      7:15 AM                       27                                   25                                                               1                   10           63
+ 7:15 AM   to      7:30 AM                       34                                   31                                                               2                   10           77
+ 7:30 AM   to      7:45 AM                       39                                   40                                                               3                   11           93
+ 7:45 AM   to      8:00 AM                       42                                   47                                                               3                   11          103
+ 8:00 AM   to      8:15 AM                       46                                   57                                                               5                   14          122
+ 8:15 AM   to      8:30 AM                       48                                   59                                                               6                   16          129
+ 8:30 AM   to      8:45 AM                       48                                   63                                                               8                   17          136
+ 8:45 AM   to      9:00 AM                       57                                   70                                                               8                   20          155
+                                                                           TOTAL           BY       PERIOD
+ 6:00 AM   to      6:15 AM     0        0        5            0      0       0        2         0      0        0         0       0          0         0          0         1          8
+ 6:15 AM   to      6:30 AM     0        0        3            0      0       0        3         0      0        0         0       0          0         1          0         5          12
+ 6:30 AM   to      6:45 AM     0        0        6            0      0       0        8         0      0        0         0       0          0         0          0         2          16
+ 6:45 AM   to      7:00 AM     0        0        6            0      0       0        7         0      0        0         0       0          0         0          0         0          13
+ 7:00 AM   to      7:15 AM     0        0        7            0      0       0        5         0      0        0         0       0          0         0          0         2          14
+ 7:15 AM   to      7:30 AM     0        0        7            0      0       0        6         0      0        0         0       0          0         1          0         0          14
+ 7:30 AM   to      7:45 AM     0        0        5            0      0       0        9         0      0        0         0       0          0         1          0         1          16
+ 7:45 AM   to      8:00 AM     0        0        3            0      0       0        7         0      0        0         0       0          0         0          0         0          10
+ 8:00 AM   to      8:15 AM     0        0        4            0      0       0        10        0      0        0         0       0          0         2          0         3          19
+ 8:15 AM   to      8:30 AM     0        0        2            0      0       0        2         0      0        0         0       0          0         1          0         2          7
+ 8:30 AM   to      8:45 AM     0        0        0            0      0       0        4         0      0        0         0       0          0         2          0         1          7
+ 8:45 AM   to      9:00 AM     0        0        9            0      0       0        7         0      0        0         0       0          0         0          0         3          19
+MOVEMENT TOTAL                 0        0        48           0      0       0        63       0       0        0         0       0          0         8          0        17
+APPROACH TOTAL                              48                                   63                                  0                                       25
+                                                                            HOURLY                  TOTALS
+ 6:00 AM   to      7:00 AM     0        0        20           0      0       0        20        0      0        0         0       0          0         1          0         8          49
+ 6:15 AM   to      7:15 AM     0        0        22           0      0       0        23        0      0        0         0       0          0         1          0         9          55
+ 6:30 AM   to      7:30 AM     0        0        26           0      0       0        26        0      0        0         0       0          0         1          0         4          57
+ 6:45 AM   to      7:45 AM     0        0        25           0      0       0        27        0      0        0         0       0          0         2          0         3          57
+ 7:00 AM   to      8:00 AM     0        0        22           0      0       0        27        0      0        0         0       0          0         2          0         3          54
+ 7:15 AM   to      8:15 AM     0        0        19           0      0       0        32        0      0        0         0       0          0         4          0         4          59
+ 7:30 AM   to      8:30 AM     0        0        14           0      0       0        28        0      0        0         0       0          0         4          0         6          52
+ 7:45 AM   to      8:45 AM     0        0         9           0      0       0        23        0      0        0         0       0          0         5          0         6          43
+ 8:00 AM   to      9:00 AM     0        0        15           0      0       0        23        0      0        0         0       0          0         5          0         9          52
+                                                              TEL: (510) 232 - 1271                  FAX: (510) 232 - 1272
+                                                      B.A.Y.M.E.T.R.I.C.S.
+                                       BICYCLE TURNING MOVEMENT SUMMARY
+PROJECT:                     CALDECOTT TRAFFIC STUDY                                    SURVEY DATE:                    5/22/2013                DAY: WEDNESDAY
+N-S APPROACH:                TELEGRAPH AVENUE                                           SURVEY TIME:                     6:00 AM                 TO       9:00 AM
+E-W APPROACH:                SR-24 WB OFF-RAMP                                          JURISDICTION:                OAKLAND                     FILE: 3305058-7AM
+                                                                                                                                                                     Approach   Departure
+      PEAK HOUR                                                                                              ARRIVAL / DEPARTURE VOLUMES                             Volumes    Volumes
+ 8:00 AM to     9:00 AM               TELEGRAPH AVENUE                         NORTH
+                                        0     30    0             0                                                                                       2             30
+                                               2                                                                                                    N-END Total         30          20
+
+                                                                        SR-24 WB OFF-RAMP                                                                 4              0
+                                                                                                                           2                              6              0
+                    0                                                              0    4                                                           E-END Total          0           0
+                                                                                                     Aileen Street
+            12      0                                                              0                                                             4 SR-24 WB
+                                                      51                                                    12                                   6 Off-Ramp
+                    0                                                              0    6                   10                                               8          20
+                                                                                                                                                        S-ENDTotal      20          31
+            10      1                                                              0
+                                                                                                                                    8
+AILEEN STREET                                                                                                                                             10             1
+                                                                                                                  Telegraph Avenue                        12             0
+                                                    8                                                                                               W-END Total          1           0
+                                        0     0     20            0
+                                      TELEGRAPH AVENUE
+
+                                  NORTHBOUND                         SOUTHBOUND                             EASTBOUND                             WESTBOUND
+  TIME          PERIOD         TELEGRAPH AVENUE                   TELEGRAPH AVENUE                         AILEEN STREET                      SR-24 WB OFF-RAMP                 TOTAL
+ From              To        U-TURN              8             U-TURN              2              U-TURN     12                10       U-TURN      6                    4
+                                                                           SURVEY                DATA
+ 6:00 AM   to      6:15 AM                        1                                1                                           0                                                     2
+ 6:15 AM   to      6:30 AM                        5                                3                                           0                                                     8
+ 6:30 AM   to      6:45 AM                       10                                6                                           0                                                     16
+ 6:45 AM   to      7:00 AM                       11                                9                                           0                                                     20
+ 7:00 AM   to      7:15 AM                       13                                9                                           0                                                     22
+ 7:15 AM   to      7:30 AM                       15                                13                                          0                                                     28
+ 7:30 AM   to      7:45 AM                       20                                15                                          0                                                     35
+ 7:45 AM   to      8:00 AM                       30                                25                                          0                                                     55
+ 8:00 AM   to      8:15 AM                       33                                30                                          0                                                     63
+ 8:15 AM   to      8:30 AM                       35                                38                                          1                                                     74
+ 8:30 AM   to      8:45 AM                       43                                47                                          1                                                     91
+ 8:45 AM   to      9:00 AM                       50                                55                                          1                                                    106
+                                                                        TOTAL           BY       PERIOD
+ 6:00 AM   to      6:15 AM     0        0         1        0      0       0        1         0      0        0         0       0          0         0          0         0          2
+ 6:15 AM   to      6:30 AM     0        0         4        0      0       0        2         0      0        0         0       0          0         0          0         0          6
+ 6:30 AM   to      6:45 AM     0        0         5        0      0       0        3         0      0        0         0       0          0         0          0         0          8
+ 6:45 AM   to      7:00 AM     0        0         1        0      0       0        3         0      0        0         0       0          0         0          0         0          4
+ 7:00 AM   to      7:15 AM     0        0         2        0      0       0        0         0      0        0         0       0          0         0          0         0          2
+ 7:15 AM   to      7:30 AM     0        0         2        0      0       0        4         0      0        0         0       0          0         0          0         0          6
+ 7:30 AM   to      7:45 AM     0        0         5        0      0       0        2         0      0        0         0       0          0         0          0         0          7
+ 7:45 AM   to      8:00 AM     0        0        10        0      0       0        10        0      0        0         0       0          0         0          0         0          20
+ 8:00 AM   to      8:15 AM     0        0         3        0      0       0        5         0      0        0         0       0          0         0          0         0          8
+ 8:15 AM   to      8:30 AM     0        0         2        0      0       0        8         0      0        0         0       1          0         0          0         0          11
+ 8:30 AM   to      8:45 AM     0        0         8        0      0       0        9         0      0        0         0       0          0         0          0         0          17
+ 8:45 AM   to      9:00 AM     0        0         7        0      0       0        8         0      0        0         0       0          0         0          0         0          15
+MOVEMENT TOTAL                 0        0        43        0      0       0        47       0       0        0         0       1          0         0          0         0
+APPROACH TOTAL                              43                                47                                  1                                        0
+                                                                         HOURLY                  TOTALS
+ 6:00 AM   to      7:00 AM     0        0        11        0      0       0        9         0      0        0         0       0          0         0          0         0          20
+ 6:15 AM   to      7:15 AM     0        0        12        0      0       0        8         0      0        0         0       0          0         0          0         0          20
+ 6:30 AM   to      7:30 AM     0        0        10        0      0       0        10        0      0        0         0       0          0         0          0         0          20
+ 6:45 AM   to      7:45 AM     0        0        10        0      0       0        9         0      0        0         0       0          0         0          0         0          19
+ 7:00 AM   to      8:00 AM     0        0        19        0      0       0        16        0      0        0         0       0          0         0          0         0          35
+ 7:15 AM   to      8:15 AM     0        0        20        0      0       0        21        0      0        0         0       0          0         0          0         0          41
+ 7:30 AM   to      8:30 AM     0        0        20        0      0       0        25        0      0        0         0       1          0         0          0         0          46
+ 7:45 AM   to      8:45 AM     0        0        23        0      0       0        32        0      0        0         0       1          0         0          0         0          56
+ 8:00 AM   to      9:00 AM     0        0        20        0      0       0        30        0      0        0         0       1          0         0          0         0          51
+                                                           TEL: (510) 232 - 1271                  FAX: (510) 232 - 1272
+                                                      B.A.Y.M.E.T.R.I.C.S.
+                                    PEDESTRIAN TURNING MOVEMENT SUMMARY
+PROJECT:                     CALDECOTT TRAFFIC STUDY                                   SURVEY DATE:                     5/22/2013                  DAY: WEDNESDAY
+N-S APPROACH:                TELEGRAPH AVENUE                                          SURVEY TIME:                      6:00 AM                   TO       9:00 AM
+E-W APPROACH:                SR-24 WB OFF-RAMP                                         JURISDICTION:                 OAKLAND                       FILE: 3305058-7AM
+                                                                                                                                                                     Approach   Departure
+      PEAK HOUR                                                                                              ARRIVAL / DEPARTURE VOLUMES                             Volumes    Volumes
+ 8:00 AM to     9:00 AM             TELEGRAPH AVENUE                          NORTH
+                                      0     0     0               0
+                                            2
+
+                                                                        SR-24 WB OFF-RAMP                                                                      P14      12
+                                                                                                                                                               P15      4
+           P13      6                                                              0   4                                                                       P13      6
+                                                                                                                             2
+            12      0                                                              0
+                                                      22                                             Aileen Street
+                    0                                                              0   6                                                           4 SR-24 WB
+                                                                                                                           P13         P14
+                                                                                                            12                                     6 Off-Ramp
+            10      0                                                             12   P14                  10                   P15
+
+AILEEN STREET
+                                                                                                                                       8
+                                    P15           8
+                                      4     0     0               0                                              Telegraph Avenue
+                                    TELEGRAPH AVENUE
+
+                                  NORTHBOUND                         SOUTHBOUND                           EASTBOUND                                  WESTBOUND
+  TIME          PERIOD         TELEGRAPH AVENUE                   TELEGRAPH AVENUE                       AILEEN STREET                           SR-24 WB OFF-RAMP              TOTAL
+ From              To         P15                 8            U-TURN              2               P13      12                    10         P14      6                  4
+                                                                           SURVEY                DATA
+ 6:00 AM   to      6:15 AM    0                                                                      1                                        1                                     2
+ 6:15 AM   to      6:30 AM    0                                                                      4                                        2                                     6
+ 6:30 AM   to      6:45 AM    0                                                                      5                                        5                                     10
+ 6:45 AM   to      7:00 AM    0                                                                      5                                        6                                     11
+ 7:00 AM   to      7:15 AM    1                                                                      7                                        8                                     16
+ 7:15 AM   to      7:30 AM    2                                                                     10                                       10                                     22
+ 7:30 AM   to      7:45 AM    2                                                                     12                                       12                                     26
+ 7:45 AM   to      8:00 AM    2                                                                     14                                       13                                     29
+ 8:00 AM   to      8:15 AM    3                                                                     14                                       16                                     33
+ 8:15 AM   to      8:30 AM    5                                                                     15                                       19                                     39
+ 8:30 AM   to      8:45 AM    6                                                                     19                                       19                                     44
+ 8:45 AM   to      9:00 AM    6                                                                     20                                       25                                     51
+                                                                        TOTAL          BY        PERIOD
+ 6:00 AM   to      6:15 AM    0           0       0        0      0       0        0         0      1       0          0          0          1        0         0        0           2
+ 6:15 AM   to      6:30 AM    0           0       0        0      0       0        0         0      3       0          0          0          1        0         0        0           4
+ 6:30 AM   to      6:45 AM    0           0       0        0      0       0        0         0      1       0          0          0          3        0         0        0           4
+ 6:45 AM   to      7:00 AM    0           0       0        0      0       0        0         0      0       0          0          0          1        0         0        0           1
+ 7:00 AM   to      7:15 AM    1           0       0        0      0       0        0         0      2       0          0          0          2        0         0        0           5
+ 7:15 AM   to      7:30 AM    1           0       0        0      0       0        0         0      3       0          0          0          2        0         0        0           6
+ 7:30 AM   to      7:45 AM    0           0       0        0      0       0        0         0      2       0          0          0          2        0         0        0           4
+ 7:45 AM   to      8:00 AM    0           0       0        0      0       0        0         0      2       0          0          0          1        0         0        0           3
+ 8:00 AM   to      8:15 AM    1           0       0        0      0       0        0         0      0       0          0          0          3        0         0        0           4
+ 8:15 AM   to      8:30 AM    2           0       0        0      0       0        0         0      1       0          0          0          3        0         0        0           6
+ 8:30 AM   to      8:45 AM    1           0       0        0      0       0        0         0      4       0          0          0          0        0         0        0           5
+ 8:45 AM   to      9:00 AM    0           0       0        0      0       0        0         0      1       0          0          0          6        0         0        0           7
+MOVEMENT TOTAL                6           0       0        0      0       0        0         0      19      0          0          0          19       0        0         0
+APPROACH TOTAL                                6                               0                                  19                                       19
+                                                                         HOURLY                  TOTALS
+ 6:00 AM   to      7:00 AM    0           0       0        0      0       0        0         0      5       0          0          0           6       0         0        0          11
+ 6:15 AM   to      7:15 AM    1           0       0        0      0       0        0         0      6       0          0          0           7       0         0        0          14
+ 6:30 AM   to      7:30 AM    2           0       0        0      0       0        0         0      6       0          0          0           8       0         0        0          16
+ 6:45 AM   to      7:45 AM    2           0       0        0      0       0        0         0      7       0          0          0           7       0         0        0          16
+ 7:00 AM   to      8:00 AM    2           0       0        0      0       0        0         0      9       0          0          0           7       0         0        0          18
+ 7:15 AM   to      8:15 AM    2           0       0        0      0       0        0         0      7       0          0          0           8       0         0        0          17
+ 7:30 AM   to      8:30 AM    3           0       0        0      0       0        0         0      5       0          0          0           9       0         0        0          17
+ 7:45 AM   to      8:45 AM    4           0       0        0      0       0        0         0      7       0          0          0           7       0         0        0          18
+ 8:00 AM   to      9:00 AM    4           0       0        0      0       0        0         0      6       0          0          0          12       0         0        0          22
+                                                           TEL: (510) 232 - 1271                  FAX: (510) 232 - 1272
+

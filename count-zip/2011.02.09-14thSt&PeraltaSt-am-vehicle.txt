@@ -1,0 +1,44 @@
+                                                   VEHICLE TURNING MOVEMENT COUNT
+                                                         #002 Peralta Street & 14th Street - AM PEAK
+    LOCATION#:            002                                                           QTD PROJ#:           600113
+   NORTH / SOUTH:         Peralta Street                                                  DATE:              Wednesday, February 09, 2011
+    EAST / WEST:          14th Street                                                    VICINITY:           Oakland, CA
+
+
+
+    DIRECTION:               NL             NT      NR        SL      ST       SR      EL            ET          ER          WL          WT          WR
+                                                                                                                                                                TOTALS
+        LANES:                0             1       0          0       1       0        0             1           0           0           1           0
+    6:00 AM
+    6:15 AM
+    6:30 AM
+    6:45 AM
+    7:00 AM                   3              8       7         2        5      0        0             6           2           3          10           2           48
+    7:15 AM                   0             11      11         1        7      0        2            14           0           6          12           1           65
+    7:30 AM                   1              7       3         0       12      0        0            14           1           5           8           0           51
+    7:45 AM                   1              7      12         2       14      1        0            26           1           5           5           1           75
+    8:00 AM                   1             14       7         3       15      3        0            12           3          11           8           1           78
+    8:15 AM                   0              8      16         1       16      6        0            13           2          10           7           3           82
+    8:30 AM                   1             18      14         0       14      1        2            12           1          11          12           2           88
+    8:45 AM                   0              8       6         1       19      6        3            14           1           5           8           0           71
+    9:00 AM
+    9:15 AM
+    9:30 AM
+    9:45 AM
+   10:00 AM
+   10:15 AM
+   10:30 AM
+
+  VOLUME STATS:              NL             NT      NR        SL      ST       SR      EL            ET          ER          WL          WT          WR
+              TOTAL:          7             81      76        10      102      17       7           111          11          56          70          10           558
+               P.H.V: ₁       3             47      49         6      59       11       2           63            7          37          32           7           323
+               P.H.F: ₂                    0.750                     0.826                         0.667                                0.760                    0.918
+
+(1) Peak Hour Volume (Peak Hour Begins At 745 AM)
+(2) Peak Hour Factor (directional aggregate)
+
+
+                                                                                            QUALITY TRAFFIC DATA, LLC
+                                                                                            9701 W Pico Blvd, Suite 205, Los Angeles, CA 90035
+                                                                                            Phone: 310-341-0019 Fax: 310-807-9247 Info@QualityTrafficData.com
+

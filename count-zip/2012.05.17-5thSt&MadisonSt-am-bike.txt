@@ -1,0 +1,79 @@
+                                       B.A.Y.M.E.T.R.I.C.S.
+                                    BICYCLE                 MOVEMENT                            SUMMARY
+PROJECT:      OAKLAND TRAFFIC STUDY                                         SURVEY DATE:       5/17/2012                  DAY:    THURSDAY
+N-S APPROACH: MADISON STREET                                                SURVEY TIME:       7:00 AM                    TO      9:00 AM
+E-W APPROACH:5TH STREET                                                     JURISDICTION: OAKLAND                         FILE:   3205033-B-11AM
+
+       PEAK HOUR                                                                                   ARRIVAL / DEPARTURE VOLUMES
+8:00 AM   TO     9:00 AM                                         NORTH
+                                                                                                        N-LEG TOTAL
+                                0         9         0                                                      9
+                                      NORTH - LEG
+                                                                                                              9     0
+
+     WEST - LEG                                                  EAST - LEG                                                       E-LEG TOTAL
+           0                                                        0                                                                0
+
+             0                            9                           0                     0                                        0
+
+             0                                                        0                    0                                         0
+                                                                                        W-LEG TOTAL
+5TH STREET                                                                                 0
+
+                                      SOUTH - LEG
+                                0         0         0                                                       9       0
+                                                                                                        S-LEG TOTAL
+                              MADISON STREET                                                                9
+
+   TIME          PERIOD         NB (SOUTH - LEG)            SB (NORTH - LEG)                EB (WEST - LEG)           WB (EAST - LEG)     TOTAL
+ From                 To       LEFT      THRU     RIGHT   LEFT    THRU          RIGHT     LEFT   THRU    RIGHT    LEFT     THRU   RIGHT
+                                                            SURVEY                DATA
+7:00 AM      to     7:15 AM                                           3                                                                     3
+7:15 AM      to     7:30 AM                                           6                                                                     6
+7:30 AM      to     7:45 AM                                           7                                                                     7
+7:45 AM      to     8:00 AM                                           7                                                                     7
+8:00 AM      to     8:15 AM                                           8                                                                     8
+8:15 AM      to     8:30 AM                                           11                                                                    11
+8:30 AM      to     8:45 AM                                           13                                                                    13
+8:45 AM      to     9:00 AM                                           16                                                                    16
+                                                          TOTAL            BY     PERIOD
+7:00 AM      to     7:15 AM     0         0         0       0         3           0         0      0          0     0        0       0      3
+7:15 AM      to     7:30 AM     0         0         0       0         3           0         0      0          0     0        0       0      3
+7:30 AM      to     7:45 AM     0         0         0       0         1           0         0      0          0     0        0       0      1
+7:45 AM      to     8:00 AM     0         0         0       0         0           0         0      0          0     0        0       0      0
+8:00 AM      to     8:15 AM     0         0         0       0         1           0        0       0          0     0        0       0      1
+8:15 AM      to     8:30 AM     0         0         0       0         3           0        0       0          0     0        0       0      3
+8:30 AM      to     8:45 AM     0         0         0       0         2           0        0       0          0     0        0       0      2
+8:45 AM      to     9:00 AM     0         0         0       0         3           0        0       0          0     0        0       0      3
+                                                          HOURLY                 TOTALS
+7:00 AM      to     8:00 AM     0         0         0       0         7           0        0       0          0     0        0       0      7
+7:15 AM      to     8:15 AM     0         0         0       0         5           0        0       0          0    0         0       0      5
+7:30 AM      to     8:30 AM     0         0         0       0         5           0        0       0          0    0         0       0      5
+7:45 AM      to     8:45 AM     0         0         0       0         6           0        0       0          0    0         0       0      6
+8:00 AM      to     9:00 AM     0         0         0       0         9           0        0       0          0    0         0       0      9
+                                              TEL: (510) 232 - 1271                   FAX: (510) 232 - 1272
+
+                                                                                                                                                   N in
+
+                                                                                                                                                    0
+                                                                                                                                                    0
+                                                                                                                                                    0
+                                                                                                                                                    0
+                                                                                                                                                    0
+                                                                                                                                                    0
+                                                                                                                                                    0
+                                                                                                                                                    0
+                                                                                                                                                    0
+
+                                                                                                                                                   E out
+
+                                                                                                                                                    0
+                                                                                                                                                    0
+                                                                                                                                                    0
+                                                                                                                                                    0
+                                                                                                                                                    0
+                                                                                                                                                    0
+                                                                                                                                                    0
+                                                                                                                                                    0
+                                                                                                                                                    0
+

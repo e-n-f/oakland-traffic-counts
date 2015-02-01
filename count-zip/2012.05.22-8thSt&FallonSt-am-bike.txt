@@ -1,0 +1,55 @@
+                                        B.A.Y.M.E.T.R.I.C.S.
+                                       BICYCLE MOVEMENT SUMMARY
+PROJECT:      OAKLAND TRAFFIC STUDY                                       SURVEY DATE:       5/22/2012                  DAY:    TUESDAY
+N-S APPROACH: FALLSON STREET                                              SURVEY TIME:        7:00 AM                   TO      9:00 AM
+E-W APPROACH:8TH STREET                                                   JURISDICTION: OAKLAND                         FILE:   3205033-B-33AM
+
+       PEAK HOUR                                                                                 ARRIVAL / DEPARTURE VOLUMES
+7:15 AM   TO     8:15 AM                                        NORTH
+                                                                                                      N-LEG TOTAL
+                                 0         13        0                                                   14
+                                       NORTH - LEG
+                                                                                                         13       1
+
+     WEST - LEG                                                 EAST - LEG                                                      E-LEG TOTAL
+           0                                                       0                                                                0
+
+             0                             20                       0                    6                                         0
+
+             0                                                      0                    0                                         0
+                                                                                      W-LEG TOTAL
+8TH STREET                                                                               6
+
+                                       SOUTH - LEG
+                                 6         1         0                                                   13       7
+                                                                                                      S-LEG TOTAL
+                               FALLSON STREET                                                            20
+
+  TIME            PERIOD         NB (SOUTH - LEG)         SB (NORTH - LEG)                EB (WEST - LEG)           WB (EAST - LEG)     TOTAL
+ From                 To        LEFT      THRU   RIGHT   LEFT    THRU         RIGHT     LEFT   THRU    RIGHT    LEFT     THRU   RIGHT
+                                                          SURVEY                DATA
+7:00 AM      to      7:15 AM     1          0                       1                                                                     2
+7:15 AM      to      7:30 AM     3          1                       6                                                                     10
+7:30 AM      to      7:45 AM     5          1                       7                                                                     13
+7:45 AM      to      8:00 AM     6          1                       8                                                                     15
+8:00 AM      to      8:15 AM     7          1                       14                                                                    22
+8:15 AM      to      8:30 AM     8          1                       17                                                                    26
+8:30 AM      to      8:45 AM     9          1                       17                                                                    27
+8:45 AM      to      9:00 AM     9          1                       18                                                                    28
+                                                         TOTAL           BY     PERIOD
+7:00 AM      to      7:15 AM     1          0        0    0         1           0        0       0          0     0        0       0      2
+7:15 AM      to      7:30 AM     2          1        0    0         5           0        0       0          0     0        0       0      8
+7:30 AM      to      7:45 AM     2          0        0    0         1           0        0       0          0     0        0       0      3
+7:45 AM      to      8:00 AM     1          0        0    0         1           0        0       0          0     0        0       0      2
+8:00 AM      to      8:15 AM     1          0        0    0         6           0        0       0          0     0        0       0      7
+8:15 AM      to      8:30 AM     1          0        0    0         3           0        0       0          0     0        0       0      4
+8:30 AM      to      8:45 AM     1          0        0    0         0           0        0       0          0     0        0       0      1
+8:45 AM      to      9:00 AM     0          0        0    0         1           0        0       0          0     0        0       0      1
+                                                         HOU RLY               TO TALS
+7:00 AM      to      8:00 AM     6          1        0    0         8           0        0       0          0     0        0       0      15
+7:15 AM      to      8:15 AM     6          1        0    0         13          0        0       0          0    0         0       0      20
+7:30 AM      to      8:30 AM     5          0        0    0         11          0        0       0          0    0         0       0      16
+7:45 AM      to      8:45 AM     4          0        0    0         10          0        0       0          0    0         0       0      14
+8:00 AM      to      9:00 AM     3          0        0    0         10          0        0       0          0    0         0       0      13
+                                            TEL: (510) 232 - 1271                   FAX: (510) 232 - 1272
+

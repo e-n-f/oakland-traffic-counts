@@ -1,0 +1,51 @@
+           B.A.Y.M.E.T.R.I.C.S.
+ PEDESTRIAN MOVEMENT SUMMARY
+PROJECT:      OAKLAND TRAFFIC STUDY                                      SURVEY DATE: 5/22/2012
+N-S APPROACH: LAKE MERRITT BOULEVARD                                     DAY: TUESDAY
+E-W APPROACH:12TH STREET - 11TH STREET                                   CITY: OAKLAND
+SURVEY PERIOD: 7:00 AM       TO     9:00 AM                              FILE: 3205033-PED-36AM
+
+       PEAK HOUR                                                               PEAK HOUR
+07:45 AM     TO    08:45 AM                                             TOTAL PEDESTRIAN VOLUMES
+                                                         NORTH                     130
+                                                         LAKE
+           COURT HOUSE                         B   118                                     A&B
+                              A                     12                                     130
+             0        0                                            G&H      0
+             H                                      C
+
+                      G                                    D
+12TH STREET - 11TH STREET                           0      0                                0    C&D
+                      0                        E                           0
+                      0       F                                           E&F
+
+                              LAKE MERRITT BOULEVARD
+
+     TIME    PERIOD           NORTH X-WALK         EAST X-WALK   SOUTH X-WALK     WEST X-WALK
+ From                 To        A      B            C       D      E      F        G      H      TOTAL
+                                        SURVEY            DATA
+07:00 AM     ---   07:15 AM       4       9                                                        13
+07:15 AM     ---   07:30 AM        8      19                                                       27
+07:30 AM     ---   07:45 AM       10      43                                                       53
+07:45 AM     ---   08:00 AM       12      68                                                       80
+08:00 AM     ---   08:15 AM       13     102                                                      115
+08:15 AM     ---   08:30 AM       16     128                                                      144
+08:30 AM     ---   08:45 AM       22     161                                                      183
+08:45 AM     ---   09:00 AM       24     184                                                      208
+                                  TOTAL            BY     PERIOD
+07:00 AM     ---   07:15 AM       4       9         0      0        0       0          0    0     13
+07:15 AM     ---   07:30 AM       4      10         0      0        0       0          0    0     14
+07:30 AM     ---   07:45 AM       2      24         0      0        0       0          0    0     26
+07:45 AM     ---   08:00 AM       2      25         0      0        0       0          0    0     27
+08:00 AM     ---   08:15 AM       1      34         0      0        0       0          0    0     35
+08:15 AM     ---   08:30 AM       3      26         0      0        0       0          0    0     29
+08:30 AM     ---   08:45 AM       6      33         0      0        0       0          0    0     39
+08:45 AM     ---   09:00 AM       2      23         0      0        0       0          0    0     25
+                                       HOURLY            TOTALS
+07:00 AM     ---   08:00 AM       12      68        0      0        0       0          0    0      80
+07:15 AM     ---   08:15 AM        9      93        0      0        0       0          0    0     102
+07:30 AM     ---   08:30 AM        8     109        0      0        0       0          0    0     117
+07:45 AM     ---   08:45 AM       12     118        0      0        0       0          0    0     130
+08:00 AM     ---   09:00 AM       12     116        0      0        0       0          0    0     128
+                    Tel : (510) 232-1271                         Fax: (510) 232-1272
+

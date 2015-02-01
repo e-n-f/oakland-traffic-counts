@@ -1,0 +1,219 @@
+                                                   PEAK HOUR ITM SUMMARY
+                                                   #002   MacArthur Blvd  &  77th Ave
+
+ LOCATION#:          002                                               QTD PROJ#:           500137                                                                  AM PEAK:           745 AM
+NORTH / SOUTH:       MacArthur Blvd                                      DATE:              Wednesday, December 15, 2010                                            MD PEAK:
+
+ EAST / WEST:        77th Ave                                           VICINITY:           City of Oakland, CA                                                     PM PEAK:           500 PM
+
+
+
+
+                                                                                                                 MacArthur Blvd
+                                                    LN            0        2        0
+
+
+
+
+                                                                                                                                                 TOTAL
+                                                    AM            9       295       0                                                                    987
+
+
+
+
+                                                                                                                                                 PM
+                                                    MD            0        0        0                                                                    388
+
+
+
+
+                                                                                                                                                 MD
+                                                    PM            24      478       0                                                                     0
+
+
+
+
+                                                                                                                                                 AM
+                                                   TOTAL          33      773       0                                                                    599
+
+
+
+
+            TOTAL     PM    MD    AM                                                                                                                                           TOTAL    PM      MD    AM     LN
+
+
+
+                53    31    0     22                                                                                                                                            0       0       0     0      0
+
+                                                                                                         NORTH                                                                  0       0       0     0      0
+
+                                                                                                                                                                                0       0       0     0      0
+                     77th Ave
+                                                                          WEST              3-WAY STOP                                    EAST
+
+
+
+
+                                                                                                                                                                                       77th Ave
+      LN        AM    MD    PM   TOTAL
+
+
+
+      0         27     0    16    43                                                                     SOUTH
+
+
+
+      1         0      0    0     0                                                                                                                                             0       0       0     0
+
+      0         12     0    13    25                                                                                                                                            AM      MD      PM   TOTAL
+                                                                                        MacArthur Blvd
+
+
+
+
+                                                                                                                                  TOTAL   20             944   0
+                                                    AM
+
+
+
+
+                                                                 307                                                               PM      7             372   0
+                                                    MD
+
+
+
+
+                                                                  0                                                                MD      0             0     0
+                                                    TOTAL PM
+
+
+
+
+                                                                 491                                                               AM     13             572   0
+
+                                                                 798                                                               LN      0             2     0
+
+
+
+
+AM COUNT              7:00 AM    TO      9:00 AM                      MD COUNT                             -                      TO                -              PM COUNT             4:00 PM      TO      6:00 PM
+
+
+
+
+                                                               QUALITY  TRAFFIC  DATA,  LLC
+                                                               9701 W Pico Blvd, Suite 205,   Los Angeles, CA 90035
+                                                               Phone: 310‐341‐0019     Fax: 310‐807‐9247     Info@QualityTrafficData.com
+                                                VEHICLE TURNING MOVEMENT COUNT
+                                                         #002   MacArthur Blvd  &  77th Ave  ‐  PM PEAK
+    LOCATION#:            002                                                             QTD PROJ#:           500137
+   NORTH / SOUTH:         MacArthur Blvd                                                    DATE:              Wednesday, December 15, 2010
+    EAST / WEST:          77th Ave                                                         VICINITY:           City of Oakland, CA
+
+
+
+    DIRECTION:               NL         NT          NR         SL      ST       SR       EL           ET           ER            WL           WT           WR
+                                                                                                                                                                      TOTALS
+        LANES:                0            2        0          0        2        0        0            1            0             0             0            0
+    3:00 PM
+    3:15 PM
+    3:30 PM
+    3:45 PM
+    4:00 PM                   2          80         0          0        92       5        2            0            4             0             0            0         185
+    4:15 PM                   2          87         0          0       105      10        6            0            5             0             0            0         215
+    4:30 PM                   3          88         0          0       100       5        6            0            5             0             0            0         207
+    4:45 PM                   1          97         0          0        99       4        4            0            3             0             0            0         208
+    5:00 PM                   1         115         0          0       127       5        2            0            3             0             0            0         253
+    5:15 PM                   1          86         0          0       104       3        3            0            2             0             0            0         199
+    5:30 PM                   1          76         0          0       117       5        3            0            4             0             0            0         206
+    5:45 PM                   4          95         0          0       130      11        8            0            4             0             0            0         252
+    6:00 PM
+    6:15 PM
+    6:30 PM
+    6:45 PM
+
+  VOLUME STATS:              NL         NT          NR         SL      ST       SR       EL           ET           ER            WL           WT           WR
+              TOTAL:         15         724         0          0       874      48       34           0             30            0            0             0         1725
+               P.H.V: ₁       7         372         0          0       478      24       16           0             13            0            0             0          910
+               P.H.F: ₂                0.817                          0.890                         0.604                                    0.000                     0.899
+
+(1) Peak Hour Volume (Peak Hour Begins At 500 PM)
+(2) Peak Hour Factor (directional aggregate)
+
+
+                                                                                          QUALITY  TRAFFIC  DATA,  LLC
+                                                                                          9701 W Pico Blvd, Suite 205,   Los Angeles, CA 90035
+                                                                                          Phone: 310‐341‐0019     Fax: 310‐807‐9247     Info@QualityTrafficData.com
+                                                            PEDESTRIAN CROSSWALK COUNTS
+                                                             #002   MacArthur Blvd  &  77th Ave  ‐  PM PEAK
+    LOCATION#:             002                                                                QTD PROJ#:           500137
+   NORTH / SOUTH:          MacArthur Blvd                                                       DATE:              Wednesday, December 15, 2010
+    EAST / WEST:           77th Ave                                                            VICINITY:           City of Oakland, CA
+
+
+
+    DIRECTION:               NORTHERN CROSSWALK                  SOUTHERN CROSSWALK          EASTERN CROSSWALK                      WESTERN CROSSWALK                     TOTALS
+    4:00 PM                                  13                              5                             6                                        4                       28
+    4:15 PM                                   4                             21                             8                                        7                       40
+    4:30 PM                                   7                              7                             0                                        1                       15
+    4:45 PM                                   6                             10                             3                                        0                       19
+    5:00 PM                                  12                             10                             0                                        2                       24
+    5:15 PM                                   6                              4                             0                                        1                       11
+    5:30 PM                                  10                              6                             3                                        1                       20
+    5:45 PM                                   4                              7                             0                                        2                       13
+    6:00 PM
+    6:15 PM
+    6:30 PM
+    6:45 PM
+
+  VOLUME STATS:              NORTHERN CROSSWALK                  SOUTHERN CROSSWALK          EASTERN CROSSWALK                      WESTERN CROSSWALK
+               TOTAL:                     62                                70                            20                                       18                       170
+                P.H.V: ₁                  30                                43                            17                                       12                       102
+                P.H.F: ₂                0.577                             0.512                         0.531                                    0.429                     0.638
+
+(1) Peak Hour Volume (Peak hour begins at:        400 PM)
+(2) Peak Hour Factor
+
+
+
+
+                                                                                              QUALITY  TRAFFIC  DATA,  LLC
+                                                                                              9701 W Pico Blvd, Suite 205,   Los Angeles, CA 90035
+                                                                                              Phone: 310‐341‐0019     Fax: 310‐807‐9247     Info@QualityTrafficData.com
+                                                            BICYCLE APPROACH COUNTS
+                                                           #002   MacArthur Blvd  &  77th Ave  ‐ PM PEAK
+    LOCATION#:             002                                                             QTD PROJ#:           500137
+   NORTH / SOUTH:          MacArthur Blvd                                                    DATE:              Wednesday, December 15, 2010
+    EAST / WEST:           77th Ave                                                         VICINITY:           City of Oakland, CA
+
+
+
+    DIRECTION:                     FROM NORTH                       FROM SOUTH                   FROM EAST                               FROM WEST                       TOTALS
+    4:00 PM                                  0                            0                             0                                       0
+    4:15 PM                                  1                            1                             0                                       0                          2
+    4:30 PM                                  0                            0                             0                                       0
+    4:45 PM                                  0                            1                             0                                       0                          1
+    5:00 PM                                  0                            2                             0                                       0                          2
+    5:15 PM                                  0                            0                             0                                       0
+    5:30 PM                                  0                            0                             0                                       0
+    5:45 PM                                  0                            0                             0                                       0
+    6:00 PM
+    6:15 PM
+    6:30 PM
+    6:45 PM
+
+  VOLUME STATS:                    FROM NORTH                       FROM SOUTH                   FROM EAST                               FROM WEST
+               TOTAL:                     1                               4                            0                                        0                           5
+                P.H.V: ₁                  1                               4                            0                                        0                           5
+                P.H.F: ₂                0.250                           0.500                        0.000                                    0.000                       0.625
+
+(1) Peak Hour Volume (Peak hour begins at:       415 PM)
+(2) Peak Hour Factor
+
+
+
+
+                                                                                            QUALITY  TRAFFIC  DATA,  LLC
+                                                                                             9701 W Pico Blvd, Suite 205,   Los Angeles, CA 90035
+                                                                                             Phone: 310‐341‐0019     Fax: 310‐807‐9247     Info@QualityTrafficData.com
+

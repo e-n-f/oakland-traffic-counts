@@ -1,0 +1,51 @@
+           B.A.Y.M.E.T.R.I.C.S.
+PEDESTRIAN MOVEMENT SUMMARY
+PROJECT:      OAKLAND TRAFFIC STUDY                                        SURVEY DATE: 5/17/2012
+N-S APPROACH: OAK STREET                                                   DAY: THURSDAY
+E-W APPROACH:6TH STREET                                                    CITY: OAKLAND
+SURVEY PERIOD: 7:00 AM     TO     9:00 AM                                  FILE: 3205033-PED-12AM
+
+       PEAK HOUR                                                                 PEAK HOUR
+07:30 AM      TO        08:30 AM                                          TOTAL PEDESTRIAN VOLUMES
+                                                           NORTH                     43
+
+                                                 B    0                                      A&B
+                                   A                  0                                       0
+              3            2                                         G&H      5
+              H                                       C
+
+                           G                                 D
+6TH STREET                                            17     12                              29    C&D
+                           4                     E                           9
+                           5       F                                        E&F
+    Underconstruction
+                                   OAK STREET
+
+     TIME      PERIOD              NORTH X-WALK      EAST X-WALK   SOUTH X-WALK     WEST X-WALK
+ From                     To         A      B         C       D      E      F        G      H      TOTAL
+                                            SURVEY          DATA
+07:00 AM      ---       07:15 AM                      2      2        1      1           0    0      6
+07:15 AM      ---       07:30 AM                       5      3       2      4           0    0     14
+07:30 AM      ---       07:45 AM                      10     6        2      6           1    1     26
+07:45 AM      ---       08:00 AM                      14     10       5      8           1    2     40
+08:00 AM      ---       08:15 AM                      20     12       5      8           1    2     48
+08:15 AM      ---       08:30 AM                      22     15       6      9           2    3     57
+08:30 AM      ---       08:45 AM                      27     19       6      9           2    3     66
+08:45 AM      ---       09:00 AM                      30     21       6      10          2    5     74
+                                       TOTAL         BY     PERIOD
+07:00 AM      ---       07:15 AM       0     0        2      2        1       1          0    0      6
+07:15 AM      ---       07:30 AM       0     0        3      1        1       3          0    0      8
+07:30 AM      ---       07:45 AM       0     0        5      3        0       2          1    1     12
+07:45 AM      ---       08:00 AM       0     0        4      4        3       2          0    1     14
+08:00 AM      ---       08:15 AM       0     0        6      2        0       0          0    0      8
+08:15 AM      ---       08:30 AM       0     0        2      3        1       1          1    1      9
+08:30 AM      ---       08:45 AM       0     0        5      4        0       0          0    0      9
+08:45 AM      ---       09:00 AM       0     0        3      2        0       1          0    2      8
+                                           HOURLY          TOTALS
+07:00 AM      ---       08:00 AM       0     0        14     10       5       8          1    2     40
+07:15 AM      ---       08:15 AM       0     0        18     10       4       7          1    2     42
+07:30 AM      ---       08:30 AM       0     0        17     12       4       5          2    3     43
+07:45 AM      ---       08:45 AM       0     0        17     13       4       3          1    2     40
+08:00 AM      ---       09:00 AM       0     0        16     11       1       2          1    3     34
+                         Tel : (510) 232-1271                      Fax: (510) 232-1272
+

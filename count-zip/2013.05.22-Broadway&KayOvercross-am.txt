@@ -1,0 +1,327 @@
+                                                                B.A.Y.M.E.T.R.I.C.S.
+                              INTERSECTION TURNING MOVEMENT SUMMARY
+PROJECT:                     CALDECOTT TRAFFIC STUDY                                                    SURVEY DATE:                    5/22/2013                         DAY: WEDNESDAY
+N-S APPROACH:                KAY OVERCROSSING                                                           SURVEY TIME:                     6:00 AM                          TO       9:00 AM
+E-W APPROACH:                BROADWAY                                                                   JURISDICTION:                OAKLAND                              FILE: 3305058-2AM
+                                                                                                                                                                                            Approach   Departure
+      PEAK HOUR                                                                                                              ARRIVAL / DEPARTURE VOLUMES                                    Volumes    Volumes
+ 7:30 AM to     8:30 AM               KAY OVERCROSSING                                      NORTH                                                                                     1         67
+                                        67    9     554                     0                                                                                                         2          9
+                                        1     2      3                                                                                                                                3        554
+                                                                                                                                                                                N-END Total    630         56
+                                                                                                                                          Kay Overcrossing
+                                                                                                                                                                                      4          16
+                    0                                                                            16     4                                                                             5           2
+                                                                                                                                                                                      6           0
+            12      34                                                                            2     5                                        123                            E-END Total      18        910
+                                                             1063
+            11     354                                                                            0     6             Broadway                                                        7          2
+                                                                                                                                                  P15                    4            8          6
+                                                                                                                                                           P14             5
+            10      8                                                                             0                           12            P13                          6            9         11
+                                                                                                                            11
+                                                                                                                             10                                                  S-ENDTotal     19         17
+BROADWAY                                                                                                                                                                              10         8
+                                                                                                                                                                                      11        354
+                                              9      8     7                                                                                        987                               12        34
+                                        0    11      6     2                                                                                                                    W-END Total     396        80
+                                      DRIVEWAY (PARKING LOT)                                                                                Parking Lot
+
+                                      NORTHBOUND                                   SOUTHBOUND                               EASTBOUND                                          WESTBOUND
+  TIME          PERIOD                    DRIVEWAY                          KAY OVERCROSSING                                BROADWAY                                           BROADWAY                TOTAL
+ From               To       U-TURN        9             8          7   U-TURN       3            2          1     U-TURN    12            11       10       U-TURN             6          5     4
+                                                                                      SURVEY                       DATA
+ 6:00 AM   to      6:15 AM                0              0          0               18           0           4               0             0           0                        0          0      3        25
+ 6:15 AM   to      6:30 AM                0              0          0               45           0           5               0             2           0                        0          0      4        56
+ 6:30 AM   to      6:45 AM                0              1          0               73           1           9               0             3           0                        0          1      9        97
+ 6:45 AM   to      7:00 AM                0              1          0              109           1           13              3             11          0                        0          4     15       157
+ 7:00 AM   to      7:15 AM                0              1          0              191           2           18              7             30          0                        1          6     29       285
+ 7:15 AM   to      7:30 AM                1              2          0              295           4           31              14            83          0                        1          7     40       478
+ 7:30 AM   to      7:45 AM                11             7          0              445           12          46              22           180          7                        1          8     46       785
+ 7:45 AM   to      8:00 AM                11             8          1              582           12          85              33           260          8                        1          8     49       1058
+ 8:00 AM   to      8:15 AM                12             8          1              707           13          93              42           361          8                        1          9     54       1309
+ 8:15 AM   to      8:30 AM                12             8          2              849           13          98              48           437          8                        1          9     56       1541
+ 8:30 AM   to      8:45 AM                12             8          2              988           13         103              57           515          9                        1          9     66       1783
+ 8:45 AM   to      9:00 AM                12             8          2              1135          15         114              64           575          9                        2          10    72       2018
+                                                                                   TOTAL                BY         PERIOD
+ 6:00 AM   to      6:15 AM     0          0              0          0       0        18           0          4        0      0             0           0           0            0          0      3         25
+ 6:15 AM   to      6:30 AM     0          0              0          0       0        27           0          1        0      0             2           0           0            0          0      1         31
+ 6:30 AM   to      6:45 AM     0          0              1          0       0        28           1          4        0      0             1           0           0            0          1      5         41
+ 6:45 AM   to      7:00 AM     0          0              0          0       0        36           0          4        0      3             8           0           0            0          3      6         60
+ 7:00 AM   to      7:15 AM     0          0              0          0       0        82           1          5        0      4             19          0           0            1          2     14        128
+ 7:15 AM   to      7:30 AM     0          1              1          0       0       104           2          13       0      7             53          0           0            0          1     11        193
+ 7:30 AM   to      7:45 AM     0          10             5          0       0       150           8          15       0      8             97          7           0            0          1      6        307
+ 7:45 AM   to      8:00 AM     0          0              1          1       0       137           0          39       0      11            80          1           0            0          0      3        273
+ 8:00 AM   to      8:15 AM     0          1              0          0       0       125           1          8        0      9            101          0           0            0          1      5        251
+ 8:15 AM   to      8:30 AM     0          0              0          1       0       142           0          5        0      6             76          0           0            0          0      2        232
+ 8:30 AM   to      8:45 AM     0          0              0          0       0       139           0          5        0      9             78          1           0            0          0     10        242
+ 8:45 AM   to      9:00 AM     0          0              0          0       0       147           2          11       0      7             60          0           0            1          1      6        235
+MOVEMENT TOTAL                 0          12             8          2       0       988          13         103       0      57           515          9           0            1          9     66
+APPROACH TOTAL                                   22                                       1104                                     581                                                76
+                                                                                   HOURLY                         TOTALS
+ 6:00 AM   to      7:00 AM     0          0              1          0       0       109          1           13       0      3             11          0           0            0          4     15       157
+ 6:15 AM   to      7:15 AM     0          0              1          0       0       173          2           14       0      7             30          0           0            1          6     26       260
+ 6:30 AM   to      7:30 AM     0          1              2          0       0       250          4           26       0      14            81          0           0            1          7     36       422
+ 6:45 AM   to      7:45 AM     0          11             6          0       0       372          11          37       0      22           177          7           0            1          7     37       688
+ 7:00 AM   to      8:00 AM     0          11             7          1       0       473          11          72       0      30           249          8           0            1          4     34       901
+ 7:15 AM   to      8:15 AM     0          12             7          1       0       516          11          75       0      35           331          8           0            0          3     25       1024
+ 7:30 AM   to      8:30 AM     0          11             6          2       0       554          9           67       0      34           354          8           0            0          2     16       1063
+ 7:45 AM   to      8:45 AM     0          1              1          2       0       543          1           57       0      35           335          2           0            0          1     20       998
+ 8:00 AM   to      9:00 AM     0          1              0          1       0       553          3           29       0      31           315          1           0            1          2     23       960
+                                                                                PEAK         HOUR                 SUMMARY
+ 7:30 AM to   8:30 AM         NBU         NBL           NBT     NBR       SBU      SBL           SBT        SBR     EBU     EBL           EBT      EBR            WBU          WBL       WBT    WBR     TOTAL
+VOLUME                         0           11            6       2         0       554            9          67      0       34           354       8              0            0          2     16      1063
+PHF BY MOVEMENT               0.00        0.28          0.30    0.50      0.00     0.92          0.28       0.43    0.00    0.77          0.88     0.29           0.00         0.00      0.50   0.67   OVERALL
+PHF BY APPROACH                                  0.32                                     0.89                                     0.88                                               0.64                0.87
+
+
+                                Approach                Link     Peak Hour Vol      Peak Hour Vol           Peak Hour Vol   Peak Hour Vol          Peak Hour Vol
+                                                                (included Truck)   (without Truck)             (Truck)        (Bicycle)             (Pedestrian)
+                                     SB                  1              67                67                      0               1
+                                                         2              9                 9                       0               0                         P15
+                                                         3             554               535                     19               0
+                                                        Total          630               611                     19               1                          0
+                                     WB                  4              16                15                      1               0
+                                                         5              2                 2                       0               0                         P14
+                                                         6              0                 0                       0               0
+                                                        Total           18                17                      1               0                          0
+                                     NB                  7              2                 2                       0               0
+                                                         8              6                 6                       0               0
+                                                         9              11                11                      0               0
+                                                        Total           19                19                      0               0
+                                     EB                  10             8                 8                       0               0
+                                                         11            354               346                      8               0                         P13
+                                                         12             34                34                      0               1
+                                                        Total          396               388                      8               1                          0
+
+
+                                                                    TEL: (510) 232 - 1271                          FAX: (510) 232 - 1272
+                                                            B.A.Y.M.E.T.R.I.C.S.
+                                        TRUCK TURNING MOVEMENT SUMMARY
+PROJECT:                     CALDECOTT TRAFFIC STUDY                                              SURVEY DATE:                   5/22/2013                    DAY: WEDNESDAY
+N-S APPROACH:                KAY OVERCROSSING                                                     SURVEY TIME:                    6:00 AM                     TO       9:00 AM
+E-W APPROACH:                BROADWAY                                                             JURISDICTION:               OAKLAND                         FILE: 3305058-2AM
+                                                                                                                                                                                 Approach   Departure
+      PEAK HOUR                                                                                                        ARRIVAL / DEPARTURE VOLUMES                               Volumes    Volumes
+ 7:30 AM to     8:30 AM               KAY OVERCROSSING                                   NORTH                                                                             1          0
+                                        0     0     19                    0                                                                                                2          0
+                                        1     2      3                                                                                                                     3         19
+                                                                                                                                                                     N-END Total     19          1
+                                                                                                                                  Kay Overcrossing
+                                                                                                                                                                           4         1
+                    0                                                                        1    4                                                                        5         0
+                                                                                                                                                                           6         0
+            12      0                                     2.63%                              0    5                                      123                         E-END Total     1          27
+                                                            28
+            11      8                                                                        0    6             Broadway                                                  7          0
+                                                                                                                                                             4            8          0
+                                                                                                                                                               5
+            10      0                                                                        0                          12                                   6            9          0
+                                                                                                                      11
+                                                                                                                       10                                            S-ENDTotal      0           0
+BROADWAY                                                                                                                                                                  10         0
+                                                                                                                                                                          11         8
+                                              9      8     7                                                                                 987                          12         0
+                                        0     0      0     0                                                                                                        W-END Total      8           0
+                                      DRIVEWAY (PARKING LOT)                                                                           Parking Lot
+
+                                      NORTHBOUND                                 SOUTHBOUND                           EASTBOUND                                    WESTBOUND
+  TIME          PERIOD                 DRIVEWAY                            KAY OVERCROSSING                           BROADWAY                                     BROADWAY                 TOTAL
+ From               To       U-TURN     9             8           7     U-TURN     3          2        1     U-TURN    12         11         10      U-TURN         6        5       4
+                                                                                    SURVEY                   DATA
+ 6:00 AM   to      6:15 AM                                                         1                   0               0          0                                                  1          2
+ 6:15 AM   to      6:30 AM                                                         1                   0               0          0                                                  1          2
+ 6:30 AM   to      6:45 AM                                                         1                   0               0          0                                                  1          2
+ 6:45 AM   to      7:00 AM                                                         2                   0               1          0                                                  2          5
+ 7:00 AM   to      7:15 AM                                                         2                   1               2          0                                                  2          7
+ 7:15 AM   to      7:30 AM                                                         3                   1               2          2                                                  2          10
+ 7:30 AM   to      7:45 AM                                                         9                   1               2          5                                                  3          20
+ 7:45 AM   to      8:00 AM                                                         17                  1               2          6                                                  3          29
+ 8:00 AM   to      8:15 AM                                                         20                  1               2          8                                                  3          34
+ 8:15 AM   to      8:30 AM                                                         22                  1               2          10                                                 3          38
+ 8:30 AM   to      8:45 AM                                                         27                  1               2          11                                                 3          44
+ 8:45 AM   to      9:00 AM                                                         27                  1               2          12                                                 3          45
+                                                                                 TOTAL            BY         PERIOD
+ 6:00 AM   to      6:15 AM     0        0             0           0       0        1         0         0       0       0           0           0       0            0        0       1          2
+ 6:15 AM   to      6:30 AM     0        0             0           0       0        0         0         0       0       0           0           0       0            0        0       0          0
+ 6:30 AM   to      6:45 AM     0        0             0           0       0        0         0         0       0       0           0           0       0            0        0       0          0
+ 6:45 AM   to      7:00 AM     0        0             0           0       0        1         0         0       0       1           0           0       0            0        0       1          3
+ 7:00 AM   to      7:15 AM     0        0             0           0       0        0         0         1       0       1           0           0       0            0        0       0          2
+ 7:15 AM   to      7:30 AM     0        0             0           0       0        1         0         0       0       0           2           0       0            0        0       0          3
+ 7:30 AM   to      7:45 AM     0        0             0           0       0        6         0         0       0       0           3           0       0            0        0       1          10
+ 7:45 AM   to      8:00 AM     0        0             0           0       0        8         0         0       0       0           1           0       0            0        0       0          9
+ 8:00 AM   to      8:15 AM     0        0             0           0       0        3         0         0       0       0           2           0       0            0        0       0          5
+ 8:15 AM   to      8:30 AM     0        0             0           0       0        2         0         0       0       0           2           0       0            0        0       0          4
+ 8:30 AM   to      8:45 AM     0        0             0           0       0        5         0         0       0       0           1           0       0            0        0       0          6
+ 8:45 AM   to      9:00 AM     0        0             0           0       0        0         0         0       0       0           1           0       0            0        0       0          1
+MOVEMENT TOTAL                 0        0             0           0       0        27        0         1       0       2          11           0       0            0        0       3
+APPROACH TOTAL                                 0                                        28                                   13                                          3
+                                                                                  HOURLY                   TOTALS
+ 6:00 AM   to      7:00 AM     0        0             0           0       0        2         0         0       0       1           0           0       0            0        0       2          5
+ 6:15 AM   to      7:15 AM     0        0             0           0       0        1         0         1       0       2           0           0       0            0        0       1          5
+ 6:30 AM   to      7:30 AM     0        0             0           0       0        2         0         1       0       2           2           0       0            0        0       1          8
+ 6:45 AM   to      7:45 AM     0        0             0           0       0        8         0         1       0       2           5           0       0            0        0       2          18
+ 7:00 AM   to      8:00 AM     0        0             0           0       0        15        0         1       0       1           6           0       0            0        0       1          24
+ 7:15 AM   to      8:15 AM     0        0             0           0       0        18        0         0       0       0           8           0       0            0        0       1          27
+ 7:30 AM   to      8:30 AM     0        0             0           0       0        19        0         0       0       0           8           0       0            0        0       1          28
+ 7:45 AM   to      8:45 AM     0        0             0           0       0        18        0         0       0       0           6           0       0            0        0       0          24
+ 8:00 AM   to      9:00 AM     0        0             0           0       0        10        0         0       0       0           6           0       0            0        0       0          16
+                                                                              PEAK           HOUR          SUMMARY
+ 7:30 AM to   8:30 AM         NBU      NBL           NBT         NBR     SBU      SBL     SBT         SBR     EBU     EBL     EBT           EBR       WBU          WBL     WBT      WBR     TOTAL
+VOLUME                         0        0             0           0       0        19        0         0       0       0         8           0         0            0        0        1       28
+PHF BY MOVEMENT               0.00     0.00          0.00        0.00    0.00    #DIV/0! 0.00         0.00    0.00    0.00 #DIV/0!          0.00      0.00         0.00    0.00    #DIV/0! OVERALL
+PHF BY APPROACH                               0.00                                   #DIV/0!                             #DIV/0!                                       #DIV/0!              #DIV/0!
+                                                                  TEL: (510) 232 - 1271                      FAX: (510) 232 - 1272
+                                                            B.A.Y.M.E.T.R.I.C.S.
+                                       BICYCLE TURNING MOVEMENT SUMMARY
+PROJECT:                     CALDECOTT TRAFFIC STUDY                                           SURVEY DATE:                    5/22/2013                    DAY: WEDNESDAY
+N-S APPROACH:                KAY OVERCROSSING                                                  SURVEY TIME:                     6:00 AM                     TO       9:00 AM
+E-W APPROACH:                BROADWAY                                                          JURISDICTION:                OAKLAND                         FILE: 3305058-2AM
+                                                                                                                                                                              Approach   Departure
+      PEAK HOUR                                                                                                       ARRIVAL / DEPARTURE VOLUMES                             Volumes    Volumes
+ 7:30 AM to     8:30 AM               KAY OVERCROSSING                                NORTH                                                                             1         1
+                                        1     0      0                   0                                                                                              2         0
+                                        1     2      3                  P15                                                                                             3         0
+                                                                                                                                                                  N-END Total     1           1
+                                                                                                                                Kay Overcrossing
+                                                                                                                                                                        4          0
+           P13      0                                                                    0     4                                                                        5          0
+                                                                                                                                                                        6          0
+            12      1                                                                    0     5                                       123                        E-END Total      0          0
+                                                            2
+            11      0                                                                    0     6             Broadway                                                   7          0
+                                                                                                                                                           4            8          0
+                                                                                                                                                             5
+            10      0                                                                    0     P14                    12                                   6            9          0
+                                                                                                                    11
+                                                                                                                     10                                            S-ENDTotal      0          0
+BROADWAY                                                                                                                                                                10         0
+                                                                                                                                                                        11         0
+                                              9      8     7                                                                               987                          12         1
+                                        0     0      0     0                                                                                                      W-END Total      1          1
+                                      DRIVEWAY (PARKING LOT)                                                                         Parking Lot
+
+                                      NORTHBOUND                                SOUTHBOUND                          EASTBOUND                                    WESTBOUND
+  TIME          PERIOD                 DRIVEWAY                           KAY OVERCROSSING                         BROADWAY                                      BROADWAY                TOTAL
+ From               To       U-TURN     9             8          7     U-TURN    3        2          1    U-TURN     12         11         10      U-TURN         6          5     4
+                                                                                  SURVEY                 DATA
+ 6:00 AM   to      6:15 AM                                                                           0               4                                                                       4
+ 6:15 AM   to      6:30 AM                                                                           0               6                                                                       6
+ 6:30 AM   to      6:45 AM                                                                           1               7                                                                       8
+ 6:45 AM   to      7:00 AM                                                                           1               10                                                                      11
+ 7:00 AM   to      7:15 AM                                                                           1               11                                                                      12
+ 7:15 AM   to      7:30 AM                                                                           1               12                                                                      13
+ 7:30 AM   to      7:45 AM                                                                           1               12                                                                      13
+ 7:45 AM   to      8:00 AM                                                                           1               12                                                                      13
+ 8:00 AM   to      8:15 AM                                                                           2               12                                                                      14
+ 8:15 AM   to      8:30 AM                                                                           2               13                                                                      15
+ 8:30 AM   to      8:45 AM                                                                           2               13                                                                      15
+ 8:45 AM   to      9:00 AM                                                                           2               14                                                                      16
+                                                                                TOTAL          BY        PERIOD
+ 6:00 AM   to      6:15 AM     0        0             0          0       0       0       0           0      0         4          0           0       0            0          0     0          4
+ 6:15 AM   to      6:30 AM     0        0             0          0       0       0       0           0      0         2          0           0       0            0          0     0          2
+ 6:30 AM   to      6:45 AM     0        0             0          0       0       0       0           1      0         1          0           0       0            0          0     0          2
+ 6:45 AM   to      7:00 AM     0        0             0          0       0       0       0           0      0         3          0           0       0            0          0     0          3
+ 7:00 AM   to      7:15 AM     0        0             0          0       0       0       0           0      0         1          0           0       0            0          0     0          1
+ 7:15 AM   to      7:30 AM     0        0             0          0       0       0       0           0      0         1          0           0       0            0          0     0          1
+ 7:30 AM   to      7:45 AM     0        0             0          0       0       0       0           0      0         0          0           0       0            0          0     0          0
+ 7:45 AM   to      8:00 AM     0        0             0          0       0       0       0           0      0         0          0           0       0            0          0     0          0
+ 8:00 AM   to      8:15 AM     0        0             0          0       0       0       0           1      0         0          0           0       0            0          0     0          1
+ 8:15 AM   to      8:30 AM     0        0             0          0       0       0       0           0      0         1          0           0       0            0          0     0          1
+ 8:30 AM   to      8:45 AM     0        0             0          0       0       0       0           0      0         0          0           0       0            0          0     0          0
+ 8:45 AM   to      9:00 AM     0        0             0          0       0       0       0           0      0         1          0           0       0            0          0     0          1
+MOVEMENT TOTAL                 0        0             0          0       0       0       0         2        0        13          0           0       0            0          0     0
+APPROACH TOTAL                                 0                                     2                                     13                                            0
+                                                                                HOURLY                   TOTALS
+ 6:00 AM   to      7:00 AM     0        0             0          0       0       0       0           1      0        10          0           0       0            0          0     0         11
+ 6:15 AM   to      7:15 AM     0        0             0          0       0       0       0           1      0        7           0           0       0            0          0     0         8
+ 6:30 AM   to      7:30 AM     0        0             0          0       0       0       0           1      0        6           0           0       0            0          0     0         7
+ 6:45 AM   to      7:45 AM     0        0             0          0       0       0       0           0      0        5           0           0       0            0          0     0         5
+ 7:00 AM   to      8:00 AM     0        0             0          0       0       0       0           0      0        2           0           0       0            0          0     0         2
+ 7:15 AM   to      8:15 AM     0        0             0          0       0       0       0           1      0        1           0           0       0            0          0     0         2
+ 7:30 AM   to      8:30 AM     0        0             0          0       0       0       0           1      0        1           0           0       0            0          0     0         2
+ 7:45 AM   to      8:45 AM     0        0             0          0       0       0       0           1      0        1           0           0       0            0          0     0         2
+ 8:00 AM   to      9:00 AM     0        0             0          0       0       0       0           1      0        2           0           0       0            0          0     0         3
+                                                                             PEAK        HOUR            SUMMARY
+ 7:30 AM to   8:30 AM         NBU      NBL           NBT        NBR     SBU     SBL     SBT     SBR        EBU      EBL      EBT          EBR       WBU          WBL       WBT    WBR     TOTAL
+VOLUME                         0        0             0          0       0       0         0      1         0         1         0          0         0            0          0      0        2
+PHF BY MOVEMENT               0.00     0.00          0.00       0.00    0.00    0.00    0.00   #DIV/0!     0.00    #DIV/0! 0.00           0.00      0.00         0.00      0.00   0.00   OVERALL
+PHF BY APPROACH                               0.00                                 #DIV/0!                              #DIV/0!                                         0.00              #DIV/0!
+                                                                 TEL: (510) 232 - 1271                    FAX: (510) 232 - 1272
+                                                            B.A.Y.M.E.T.R.I.C.S.
+                                   PEDESTRIAN TURNING MOVEMENT SUMMARY
+PROJECT:                     CALDECOTT TRAFFIC STUDY                                               SURVEY DATE:                   5/22/2013                        DAY: WEDNESDAY
+N-S APPROACH:                KAY OVERCROSSING                                                      SURVEY TIME:                    6:00 AM                         TO       9:00 AM
+E-W APPROACH:                BROADWAY                                                              JURISDICTION:               OAKLAND                             FILE: 3305058-2AM
+
+     PEAK HOUR                                                                                                         ARRIVAL / DEPARTURE VOLUMES
+ 7:30 AM to    8:30 AM                KAY OVERCROSSING                                 NORTH
+                                        0     0      0                  0
+                                        1     2      3                 P15
+
+                                                                                                                                    Kay Overcrossing
+
+           P13      0                                                                        0     4
+
+            12      0                                                                        0     5                                       123                                      P13    0
+                                                            0                                                                                                                       P14    0
+            11      0                                                                        0     6             Broadway                      P15                                  P15    0
+                                                                                                                                                                  4
+                                                                                                                                                     P14            5
+            10      0                                                                        0     P14                  12               P13                      6
+                                                                                                                      11
+                                                                                                                       10
+BROADWAY
+
+                                              9      8     7                                                                                   987
+                                        0     0      0     0
+                                      DRIVEWAY (PARKING LOT)                                                                             Parking Lot
+
+                                      NORTHBOUND                              SOUTHBOUND                              EASTBOUND                                         WESTBOUND
+  TIME          PERIOD                 DRIVEWAY                          KAY OVERCROSSING                             BROADWAY                                          BROADWAY                 TOTAL
+ From               To       U-TURN     9             8          7     P15     3             2           1     P13     12            11         10         P14           6           5     4
+                                                                                SURVEY                        DATA
+ 6:00 AM   to      6:15 AM                                                                                      0                                           0                                       0
+ 6:15 AM   to      6:30 AM                                                                                      0                                           0                                       0
+ 6:30 AM   to      6:45 AM                                                                                      1                                           0                                       1
+ 6:45 AM   to      7:00 AM                                                                                      1                                           0                                       1
+ 7:00 AM   to      7:15 AM                                                                                      1                                           1                                       2
+ 7:15 AM   to      7:30 AM                                                                                      1                                           1                                       2
+ 7:30 AM   to      7:45 AM                                                                                      1                                           1                                       2
+ 7:45 AM   to      8:00 AM                                                                                      1                                           1                                       2
+ 8:00 AM   to      8:15 AM                                                                                      1                                           1                                       2
+ 8:15 AM   to      8:30 AM                                                                                      1                                           1                                       2
+ 8:30 AM   to      8:45 AM                                                                                      1                                           1                                       2
+ 8:45 AM   to      9:00 AM                                                                                      1                                           1                                       2
+                                                                              TOTAL                BY         PERIOD
+ 6:00 AM   to      6:15 AM     0        0             0          0      0      0             0           0      0      0             0           0          0            0           0     0        0
+ 6:15 AM   to      6:30 AM     0        0             0          0      0      0             0           0      0      0             0           0          0            0           0     0        0
+ 6:30 AM   to      6:45 AM     0        0             0          0      0      0             0           0      1      0             0           0          0            0           0     0        1
+ 6:45 AM   to      7:00 AM     0        0             0          0      0      0             0           0      0      0             0           0          0            0           0     0        0
+ 7:00 AM   to      7:15 AM     0        0             0          0      0      0             0           0      0      0             0           0          1            0           0     0        1
+ 7:15 AM   to      7:30 AM     0        0             0          0      0      0             0           0      0      0             0           0          0            0           0     0        0
+ 7:30 AM   to      7:45 AM     0        0             0          0      0      0             0           0      0      0             0           0          0            0           0     0        0
+ 7:45 AM   to      8:00 AM     0        0             0          0      0      0             0           0      0      0             0           0          0            0           0     0        0
+ 8:00 AM   to      8:15 AM     0        0             0          0      0      0             0           0      0      0             0           0          0            0           0     0        0
+ 8:15 AM   to      8:30 AM     0        0             0          0      0      0             0           0      0      0             0           0          0            0           0     0        0
+ 8:30 AM   to      8:45 AM     0        0             0          0      0      0             0           0      0      0             0           0          0            0           0     0        0
+ 8:45 AM   to      9:00 AM     0        0             0          0      0      0             0           0      0      0             0           0          0            0           0     0        0
+MOVEMENT TOTAL                 0        0             0          0      0      0             0          0       1      0             0           0          1            0          0      0
+APPROACH TOTAL                                 0                                      0                                       1                                                 1
+                                                                              HOURLY                         TOTALS
+ 6:00 AM   to      7:00 AM     0        0             0          0      0      0             0           0      1      0             0           0          0            0           0     0        1
+ 6:15 AM   to      7:15 AM     0        0             0          0      0      0             0           0      1      0             0           0          1            0           0     0        2
+ 6:30 AM   to      7:30 AM     0        0             0          0      0      0             0           0      1      0             0           0          1            0           0     0        2
+ 6:45 AM   to      7:45 AM     0        0             0          0      0      0             0           0      0      0             0           0          1            0           0     0        1
+ 7:00 AM   to      8:00 AM     0        0             0          0      0      0             0           0      0      0             0           0          1            0           0     0        1
+ 7:15 AM   to      8:15 AM     0        0             0          0      0      0             0           0      0      0             0           0          0            0           0     0        0
+ 7:30 AM   to      8:30 AM     0        0             0          0      0      0             0           0      0      0             0           0          0            0           0     0        0
+ 7:45 AM   to      8:45 AM     0        0             0          0      0      0             0           0      0      0             0           0          0            0           0     0        0
+ 8:00 AM   to      9:00 AM     0        0             0          0      0      0             0           0      0      0             0           0          0            0           0     0        0
+                                                                            PEAK          HOUR               SUMMARY
+ 7:30 AM to   8:30 AM         NBU      NBL           NBT        NBR    SBU    SBL           SBT        SBR     EBU    EBL           EBT        EBR         WBU          WBL       WBT     WBR     TOTAL
+VOLUME                         0        0             0          0      0      0             0          0       0      0             0          0           0            0          0       0        0
+PHF BY MOVEMENT               0.00     0.00          0.00       0.00   0.00   0.00          0.00       0.00    0.00   0.00          0.00       0.00        0.00         0.00      0.00    0.00   OVERALL
+PHF BY APPROACH                               0.00                                   0.00                                    0.00                                              0.00                 0.00
+                                                                 TEL: (510) 232 - 1271                        FAX: (510) 232 - 1272
+

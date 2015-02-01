@@ -1,0 +1,37 @@
+                                                            BICYCLE APPROACH COUNTS
+                                                     #013 Martin Luther King Jr. Way & 34th Street - PM PEAK
+    LOCATION#:             013                                                            QTD PROJ#:       600113
+   NORTH / SOUTH:          Martin Luther King Jr. Way                                       DATE:          Wednesday, February 09, 2011
+    EAST / WEST:           34th Street                                                     VICINITY:       Oakland, CA
+
+
+
+    DIRECTION:               NORTHERN CROSSWALK                SOUTHERN CROSSWALK        EASTERN CROSSWALK                 WESTERN CROSSWALK                   TOTALS
+    4:00 PM                                  1                           0                          2                                    1                       4
+    4:15 PM                                  0                           0                          5                                    2                       7
+    4:30 PM                                  0                           1                          1                                    0                       2
+    4:45 PM                                  1                           2                          0                                    2                       5
+    5:00 PM                                  0                           0                          3                                    1                       4
+    5:15 PM                                  1                           2                          2                                    2                       7
+    5:30 PM                                  0                           1                          5                                    2                       8
+    5:45 PM                                  0                           1                          1                                    0                       2
+    6:00 PM
+    6:15 PM
+    6:30 PM
+    6:45 PM
+
+  VOLUME STATS:                    FROM NORTH                       FROM SOUTH                FROM EAST                           FROM WEST
+               TOTAL:                     3                              7                         19                                  10                        39
+                P.H.V: ₁                  2                              5                         10                                   7                        24
+                P.H.F: ₂                0.500                          0.625                      0.500                               0.875                     0.750
+
+(1) Peak Hour Volume (Peak hour begins at:       445 PM)
+(2) Peak Hour Factor
+
+
+
+
+                                                                                           QUALITY TRAFFIC DATA, LLC
+                                                                                           9701 W Pico Blvd, Suite 205, Los Angeles, CA 90035
+                                                                                           Phone: 310-341-0019 Fax: 310-807-9247 Info@QualityTrafficData.com
+

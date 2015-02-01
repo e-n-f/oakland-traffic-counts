@@ -1,0 +1,79 @@
+                                    B.A.Y.M.E.T.R.I.C.S.
+                 INTERSECTION TURNING MOVEMENT SUMMARY
+PROJECT:      OAKLAND TRAFFIC STUDY                                    SURVEY DATE:       5/23/2012                    DAY:     WEDNESDAY
+N-S APPROACH: BROADWAY                                                 SURVEY TIME:       4:00 PM                      TO       6:00 PM
+E-W APPROACH:11TH STREET                                               JURISDICTION: OAKLAND                           FILE:    3205033-24PM
+
+        PEAK HOUR                                                                               ARRIVAL / DEPARTURE VOLUMES
+ 5:00 PM   TO     6:00 PM                                  NORTH
+
+                              0       601    112                                              PHF =     0.90
+
+                                                                                                        713     552
+
+                                                                                                                                 PHF =
+           95                                                    0                                                              #DIV/0!
+
+           428                       1921                        0                     0                                           0
+
+           148                                                   0                    671                                         620
+
+11TH STREET                                                                          PHF =
+                                                                                      0.94
+
+                              0       457     80                                                        749     537
+
+                            BROADWAY                                                                           PHF =     0.89
+
+   TIME       PERIOD              NORTHBOUND           SOUTHBOUND                           EASTBOUND                 WESTBOUND           TOTAL
+ From              To        LEFT    THRU   RIGHT   LEFT    THRU           RIGHT     LEFT     THRU    RIGHT    LEFT     THRU    RIGHT
+                                                      SURVEY                 DATA
+ 4:00 PM   to     4:15 PM             105     15      28        171                   17       84        33                                453
+ 4:15 PM   to     4:30 PM             205     23      48        312                   33       128       62                                811
+ 4:30 PM   to     4:45 PM             313     34      83        470                   58       196       92                                1246
+ 4:45 PM   to     5:00 PM             411     54     111        610                   79       271      119                                1655
+ 5:00 PM   to     5:15 PM             537     79     141        760                   98       371      153                                2139
+ 5:15 PM   to     5:30 PM             659    100     169        926                   122      483      196                                2655
+ 5:30 PM   to     5:45 PM             775    119     196    1096                      147      597      236                                3166
+ 5:45 PM   to     6:00 PM             868    134     223    1211                      174      699      267                                3576
+                                                    TOTAL             BY     PERIOD
+ 4:00 PM   to     4:15 PM     0       105     15     28         171          0        17       84        33      0        0       0        453
+ 4:15 PM   to     4:30 PM     0       100      8     20         141          0        16       44        29      0        0       0        358
+ 4:30 PM   to     4:45 PM     0       108     11     35         158          0        25       68        30      0        0       0        435
+ 4:45 PM   to     5:00 PM     0        98     20     28         140          0        21       75        27     0         0       0        409
+ 5:00 PM   to     5:15 PM     0       126     25     30         150          0        19       100       34     0         0       0        484
+ 5:15 PM   to     5:30 PM     0       122     21     28         166          0        24       112       43     0         0       0        516
+ 5:30 PM   to     5:45 PM     0       116     19     27         170          0        25       114       40     0         0       0        511
+ 5:45 PM   to     6:00 PM     0        93     15     27         115          0        27       102       31     0         0       0        410
+                                                    HOURLY                  TOTALS
+ 4:00 PM   to     5:00 PM     0       411     54     111        610          0        79       271      119     0         0       0        1655
+ 4:15 PM   to     5:15 PM     0       432     64     113        589          0        81       287      120     0         0       0        1686
+ 4:30 PM   to     5:30 PM     0       454     77     121        614          0        89       355      134     0         0       0        1844
+ 4:45 PM   to     5:45 PM     0       462     85     113        626          0        89       401      144     0         0       0        1920
+5:00 PM    to     6:00 PM     0       457     80     112        601          0        95       428      148     0         0       0        1921
+                                        TEL: (510) 232 - 1271                    FAX: (510) 232 - 1272
+
+                                                                                                                                                  N in
+
+                                                                                                                                                   120
+                                                                                                                                                   108
+                                                                                                                                                   119
+                                                                                                                                                   118
+                                                                                                                                                   151
+                                                                                                                                                   143
+                                                                                                                                                   135
+                                                                                                                                                   108
+                                                                                                                                                  1002
+
+                                                                                                                                                  E out
+
+                                                                                                                                                   127
+                                                                                                                                                   72
+                                                                                                                                                   114
+                                                                                                                                                   123
+                                                                                                                                                   155
+                                                                                                                                                   161
+                                                                                                                                                   160
+                                                                                                                                                   144
+                                                                                                                                                  1056
+

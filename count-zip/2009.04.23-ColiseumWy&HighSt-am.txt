@@ -1,0 +1,160 @@
+                                                                                           Turning Movement Report
+                                         Metro Traffic Data Inc.
+                                         310 N. Irwin Street - Suite 20                                                     Prepared For:                            Debbie Yueh
+                                         Hanford, CA 93230                                                                                              Dowling Associates Inc.
+                                                                                                                                                   180 Grand Avenue, Suite 250
+                                         800-975-6938 Phone/Fax                                                                                             Oakland, CA 94612
+                                         www.metrotrafficdata.com
+                                                                                                                                                                  510-839-1742
+
+
+                    LOCATION             High Street @ Coliseum Way                              LATITUDE                  37°46'6.53"N
+
+                     COUNTY                        Alameda                                   LONGITUDE                    122°13'11.84"W
+
+
+         COLLECTION DATE                           4/23/2009                                     WEATHER                      Clear
+
+
+
+                                   Northbound                              Southbound                        Eastbound                                 Westbound
+      Time              Left      Thru    Right     Trucks       Left     Thru    Right    Trucks   Left    Thru   Right     Trucks        Left      Thru    Right       Trucks
+7:00 AM - 7:15 AM        80        36      76          x          0         0       0         x      25      52      81         x            3        91      19            x
+7:15 AM - 7:30 AM        58        57      130         x          0         0       0         x      22      76     107         x            0        106     19            x
+7:30 AM - 7:45 AM        53        68      112         x          0         0       0         x      26      60      91         x            4        149     23            x
+7:45 AM - 8:00 AM        45        89      126         x          0         0       0         x      44     106      93         x            1        188     15            x
+8:00 AM - 8:15 AM        53        88      104         x          0         0       0         x      36     106      97         x            6        160     21            x
+8:15 AM - 8:30 AM        55        44      96          x          0         0       0         x      33      96     111         x            5        114     23            x
+8:30 AM - 8:45 AM        53        59      88          x          0         0       0         x      26      93     103         x            3        141     17            x
+8:45 AM - 9:00 AM        56        52      114         x          0         0       0         x      28      87     104         x            2        132     22            x
+     TOTAL              453       493      846         x          0         0       0         x     240     676     787         x           24       1081     159           x
+
+                                   Northbound                              Southbound                        Eastbound                                 Westbound
+      Time              Left      Thru    Right     Trucks       Left     Thru    Right    Trucks   Left    Thru   Right     Trucks        Left      Thru    Right       Trucks
+4:00 PM - 4:15 PM        51        98      101         x          0         0       0         x     123     103      10         x           2         113     46            x
+4:15 PM - 4:30 PM        48       101      120         x          0         0       0         x     114      98      19         x           2         111     20            x
+4:30 PM - 4:45 PM        61       120      116         x          0         0       0         x     106     115      25         x           2         138     22            x
+4:45 PM - 5:00 PM        46        85      129         x          0         0       0         x     141     107       9         x           0         131     28            x
+5:00 PM - 5:15 PM        51       139      147         x          0         0       0         x     114     103      15         x           0         129     29            x
+5:15 PM - 5:30 PM        68       144      119         x          0         0       0         x     124     107       7         x           2         130     33            x
+5:30 PM - 5:45 PM        66       113      132         x          0         0       0         x     111     109      12         x           0         161     18            x
+5:45 PM - 6:00 PM        46        83      104         x          0         0       0         x     100     100       9         x           1         163     25            x
+     TOTAL              437       883      968         x          0         0       0         x     933     842     106         x           9        1076     221           x
+
+                                   Northbound                              Southbound                        Eastbound                                Westbound
+  PEAK HOUR             Left      Thru    Right     Trucks       Left     Thru    Right    Trucks   Left    Thru   Right     Trucks        Left      Thru   Right        Trucks
+
+7:30 AM - 8:30 AM       206        289       438       x          0        0        0        x      139     368     392         x          16         611       82          x
+
+4:45 PM - 5:45 PM       231        481       527       x          0        0        0        x      490     426     43          x           2         551       108         x
+
+
+
+                                                                                        Coliseum Way
+                       PHF
+
+
+                                                                          PM       0         0         0
+      AM               0.899
+
+                                                                          AM       0         0         0
+      PM               0.974
+
+
+
+                                                      PM        AM                                                  AM         PM
+
+                                                      490       139                                                 82         108
+
+
+                               High Street            426       368                                                611         551                High Street
+
+
+                                                      43        392                                                 16          2
+
+
+
+
+                                                                          AM      206       289     438
+
+
+                                                                          PM      231       481     527
+
+                                                                                        Coliseum Way
+                                                                                                                                                                      Page 1 of 3
+                                                                                      Turning Movement Report
+                                      Metro Traffic Data Inc.
+                                      310 N. Irwin Street - Suite 20                                                     Prepared For:                      Debbie Yueh
+                                      Hanford, CA 93230                                                                                           Dowling Associates Inc.
+                                                                                                                                             180 Grand Avenue, Suite 250
+                                      800-975-6938 Phone/Fax                                                                                          Oakland, CA 94612
+                                      www.metrotrafficdata.com
+                                                                                                                                                           510-839-1742
+
+
+                    LOCATION          High Street @ Coliseum Way                            LATITUDE                    37°46'6.53"N
+
+                     COUNTY                     Alameda                                 LONGITUDE                   122°13'11.84"W
+
+
+         COLLECTION DATE                        4/23/2009                                   WEATHER                        Clear
+
+
+
+                          Northbound Bikes        N.Leg         Southbound Bikes      S.Leg       Eastbound Bikes         E.Leg           Westbound Bikes        W.Leg
+      Time              Left    Thru    Right     Peds        Left    Thru    Right   Peds     Left    Thru     Right     Peds         Left    Thru    Right     Peds
+7:00 AM - 7:15 AM        0       0        1          0         0       0        0       0       0        0        0          0          0        0        0         0
+7:15 AM - 7:30 AM        0       0        0          0         0       0        0       3       0        0        0          0          0        1        0         0
+7:30 AM - 7:45 AM        0       0        0          4         0       0        0       3       0        1        0          1          0        1        0         0
+7:45 AM - 8:00 AM        0       0        0          3         0       0        0       3       0        0        0          1          0        0        0         0
+8:00 AM - 8:15 AM        0       0        0          3         0       0        0       3       0        0        0          0          0        0        1         0
+8:15 AM - 8:30 AM        0       0        0          3         0       0        0       2       0        0        0          2          0        0        0         0
+8:30 AM - 8:45 AM        0       0        0          2         0       0        0       3       0        0        0          0          0        1        0         0
+8:45 AM - 9:00 AM        0       0        0          1         0       0        0       0       0        3        0          0          0        2        0         0
+     TOTAL               0       0        1         16         0       0        0      17       0        4        0          4          0        5        1         0
+
+                          Northbound Bikes        N.Leg         Southbound Bikes      S.Leg       Eastbound Bikes         E.Leg           Westbound Bikes        W.Leg
+      Time              Left    Thru    Right     Peds        Left    Thru    Right   Peds     Left    Thru     Right     Peds         Left    Thru    Right     Peds
+4:00 PM - 4:15 PM        0       0        0          5         0       0        0        1      0        2        0          0          0        0        0        0
+4:15 PM - 4:30 PM        0       0        0          5         0       0        0        0      0        0        0          3          0        2        1        0
+4:30 PM - 4:45 PM        0       1        1          1         0       0        0        4      0        1        0          1          0        1        0        1
+4:45 PM - 5:00 PM        0       0        1          4         0       0        0        6      0        0        0          1          0        1        0        1
+5:00 PM - 5:15 PM        0       0        0          5         0       0        0        5      0        2        0          2          0        0        0        0
+5:15 PM - 5:30 PM        0       0        0          0         0       0        0        3      0        0        0          2          0        1        0        0
+5:30 PM - 5:45 PM        0       0        0          2         0       0        0        2      0        1        0          0          0        0        0        0
+5:45 PM - 6:00 PM        0       0        0          4         0       0        0        6      0        2        0          1          0        0        0        0
+     TOTAL               0       1        2         26         0       0        0       27      0        8        0         10          0        5        1        2
+
+
+
+
+                                                                                                                                                             Page 2 of 3
+                  Metro Traffic Data Inc.                 Turning Movement Report
+                  310 N. Irwin Street - Suite 20
+                  Hanford, CA 93230                                                   Prepared For:                         Debbie Yueh
+                                                                                                                  Dowling Associates Inc.
+                  800-975-6938 Phone/Fax                                                                   180 Grand Avenue, Suite 250
+                  www.metrotrafficdata.com                                                                          Oakland, CA 94612
+
+
+                                                                                                                           510-839-1742
+      LOCATION    High Street @ Coliseum Way         N/S STREET                     Coliseum Way
+
+        COUNTY              Alameda                  E/W STREET                      High Street
+
+
+COLLECTION DATE             4/23/2009                  WEATHER                          Clear
+
+     CYCLE TIME            91 Seconds              CONTROL TYPE                         Signal
+
+
+
+
+                                                    COMMENTS      Eastbound left turns are protected/permitted,
+                                                                  westbound left turns are permitted.
+
+
+
+
+                                                                                                                             Page 3 of 3
+

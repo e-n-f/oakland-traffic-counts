@@ -1,0 +1,304 @@
+                                                                 B.A.Y.M.E.T.R.I.C.S.
+                               INTERSECTION TURNING MOVEMENT SUMMARY
+PROJECT:                     CALDECOTT TRAFFIC STUDY                                                      SURVEY DATE:                    5/22/2013                         DAY: WEDNESDAY
+N-S APPROACH:                TELEGRAPH AVENUE                                                             SURVEY TIME:                     3:00 PM                          TO       6:00 PM
+E-W APPROACH:                SR-24 EB ON-RAMP                                                             JURISDICTION:                OAKLAND                              FILE: 3305058-8PM
+                                                                                                                                                                                           Approach   Departure
+      PEAK HOUR                                                                                                                 ARRIVAL / DEPARTURE VOLUMES                                Volumes    Volumes
+ 4:45 PM to     5:45 PM                TELEGRAPH AVENUE                                       NORTH                                                                                  1          27
+                                         27   1056  319                      0                                                                                                       2        1056
+                                          1     2    3                                                                                                                               3         319
+                                                                                                                                                                               N-END Total    1402        975
+                                                                                    SR-24 EB ON-RAMP                                        Telegraph Avenue                         7         374
+                                                                                                                                                                                     8         969
+                    0                                                                               0                                                                                9          11
+                                                                                                                                                                                S-ENDTotal    1355       1086
+            12      6                                                                               0                                              123
+                                                              2928                                                                                                                E-ENDTotal              829
+            11     136                                                                              0                   56th Street
+                                                                                                                                                                     SR-24 EB       10          29
+            10     29                                                                               0                           12            P13            P14                    11         136
+                                                                                                                              11                                     On-Ramp
+                                                                                                                               10                                                   12          6
+56TH STREET                                                                                                                                          P15                      W-END Total      171        38
+
+                                                9    8                      7                                                                         987
+                                         1     11   969                    374
+                                       TELEGRAPH AVENUE
+
+                                    NORTHBOUND                                  SOUTHBOUND                                   EASTBOUND                                       WESTBOUND
+  TIME          PERIOD           TELEGRAPH AVENUE                            TELEGRAPH AVENUE                                56TH STREET                                   SR-24 EB ON-RAMP           TOTAL
+ From              To        U-Turn         9             8          7   U-Turn        3            2          1    U-Turn     12            11       10       U-Turn
+                                                                                        SURVEY                     DATA
+ 3:00 PM   to      3:15 PM      0           2             168      94                  62           221     7                   0           26         3                                                  583
+ 3:15 PM   to      3:30 PM      1           3             351      196                130           451     10                  1           52         6                                                 1201
+ 3:30 PM   to      3:45 PM      2           3             532      305                212           705     17                  6           99        12                                                 1893
+ 3:45 PM   to      4:00 PM      3           3             708      378                278           934     24                  7           132       14                                                 2481
+ 4:00 PM   to      4:15 PM      5           4             891      461                357          1145     31                  9           174       18                                                 3095
+ 4:15 PM   to      4:30 PM      5           4            1094      568                429          1366     37                  9           212       23                                                 3747
+ 4:30 PM   to      4:45 PM      5           8            1312      669                499          1615     43                  9           239       24                                                 4423
+ 4:45 PM   to      5:00 PM      5          11            1563      767                552          1865     48                 10           271       32                                                 5124
+ 5:00 PM   to      5:15 PM      6          11            1815      856                638          2135     50                 11           304       38                                                 5864
+ 5:15 PM   to      5:30 PM      6          16            2051      955                724          2415     60                 13           344       44                                                 6628
+ 5:30 PM   to      5:45 PM      6          19            2281     1043                818          2671     70                 15           375       53                                                 7351
+ 5:45 PM   to      6:00 PM      6          21            2507     1093                899          2916     73                 16           413       58                                                 8002
+                                                                                    TOTAL                 BY       PERIOD
+ 3:00 PM   to      3:15 PM      0           2            168      94         0        62           221      7          0       0            26           3           0        0          0      0         583
+ 3:15 PM   to      3:30 PM      1           1            183      102        0        68           230      3          0       1            26           3           0        0          0      0         618
+ 3:30 PM   to      3:45 PM      1           0            181      109        0        82           254      7          0       5            47           6           0        0          0      0         692
+ 3:45 PM   to      4:00 PM      1           0            176      73         0        66           229      7          0       1            33           2           0        0          0      0         588
+ 4:00 PM   to      4:15 PM      2           1            183      83         0        79           211      7          0       2            42           4           0        0          0      0         614
+ 4:15 PM   to      4:30 PM      0           0            203      107        0        72           221      6          0       0            38           5           0        0          0      0         652
+ 4:30 PM   to      4:45 PM      0           4            218      101        0        70           249      6          0       0            27           1           0        0          0      0         676
+ 4:45 PM   to      5:00 PM      0           3            251      98         0        53           250      5          0       1            32           8           0        0          0      0         701
+ 5:00 PM   to      5:15 PM      1           0            252      89         0        86           270      2          0       1            33           6           0        0          0      0         740
+ 5:15 PM   to      5:30 PM      0           5            236      99         0        86           280      10         0       2            40           6           0        0          0      0         764
+ 5:30 PM   to      5:45 PM      0           3            230      88         0        94           256      10         0       2            31           9           0        0          0      0         723
+ 5:45 PM   to      6:00 PM      0           2            226      50         0        81           245      3          0       1            38           5           0        0          0      0         651
+MOVEMENT TOTAL                  6          19       2281         1043        0       818        2671        70         0       15           375       53             0        0          0      0
+APPROACH TOTAL                                  3349                                        3559                                     443                                             0
+                                                                                     HOURLY                        TOTALS
+ 3:00 PM   to      4:00 PM      3           3            708      378        0        278           934     24         0       7            132       14             0        0          0      0        2481
+ 3:15 PM   to      4:15 PM      5           2            723      367        0        295           924     24         0       9            148       15             0        0          0      0        2512
+ 3:30 PM   to      4:30 PM      4           1            743      372        0        299           915     27         0       8            160       17             0        0          0      0        2546
+ 3:45 PM   to      4:45 PM      3           5            780      364        0        287           910     26         0       3            140       12             0        0          0      0        2530
+ 4:00 PM   to      5:00 PM      2           8            855      389        0        274           931     24         0       3            139       18             0        0          0      0        2643
+ 4:15 PM   to      5:15 PM      1           7            924      395        0        281           990     19         0       2            130       20             0        0          0      0        2769
+ 4:30 PM   to      5:30 PM      1          12            957      387        0        295          1049     23         0       4            132       21             0        0          0      0        2881
+ 4:45 PM   to      5:45 PM      1          11            969      374        0        319          1056     27         0       6            136       29             0        0          0      0        2928
+ 5:00 PM   to      6:00 PM      1          10            944      326        0        347          1051     25         0       6            142       26             0        0          0      0        2878
+                                                                                 PEAK          HOUR                SUMMARY
+ 4:45 PM to   5:45 PM         NBU          NBL           NBT     NBR       SBU       SBL           SBT     SBR       EBU      EBL           EBT      EBR            WBU      WBL       WBT     WBR     TOTAL
+VOLUME                          1           11           969     374         0       319           1056     27         0        6           136       29              0        0         0      0       2928
+PHF BY MOVEMENT               0.25         0.55          0.96    0.94      0.00      0.85          0.94    0.68      0.00     0.75          0.85     0.81           0.00     0.00      0.00    0.00   OVERALL
+PHF BY APPROACH                                   0.96                                      0.93                                     0.89                                           0.00                 0.96
+
+
+                                 Approach                Link     Peak Hour Vol       Peak Hour Vol        Peak Hour Vol      Peak Hour Vol          Peak Hour Vol
+                                                                 (included Truck)    (without Truck)          (Truck)           (Bicycle)             (Pedestrian)
+                                      SB                   1             27                 27                   0                  0
+                                                           2           1056               1017                  39                 45                         P15
+                                                           3            319                318                   1                  0
+                                                         Total         1402               1362                  40                 45                          0
+                                      NB                   7            374                373                   1                  0
+                                                           8            969                939                  30                 38                         P14
+                                                           9             11                 11                   0                  0
+                                                         Total         1354               1323                  31                 38                          8
+                                      EB                  10             29                 29                   0                  3
+                                                          11            136                135                   1                  0                         P13
+                                                          12              6                  6                   0                  1
+                                                         Total          171                170                   1                  4                          4
+
+
+                                                                     TEL: (510) 232 - 1271                          FAX: (510) 232 - 1272
+                                                        B.A.Y.M.E.T.R.I.C.S.
+                                         TRUCK TURNING MOVEMENT SUMMARY
+PROJECT:                     CALDECOTT TRAFFIC STUDY                                          SURVEY DATE:                   5/22/2013                 DAY: WEDNESDAY
+N-S APPROACH:                TELEGRAPH AVENUE                                                 SURVEY TIME:                    3:00 PM                  TO       6:00 PM
+E-W APPROACH:                SR-24 EB ON-RAMP                                                 JURISDICTION:               OAKLAND                      FILE: 3305058-8PM
+                                                                                                                                                                      Approach   Departure
+      PEAK HOUR                                                                                                     ARRIVAL / DEPARTURE VOLUMES                       Volumes    Volumes
+ 4:45 PM to     5:45 PM               TELEGRAPH AVENUE                             NORTH                                                                        1         0
+                                        0     39    1                 0                                                                                         2         39
+                                        1      2    3                                                                                                           3         1
+                                                                                                                                                          N-END Total     40         30
+                                                                            SR-24 EB ON-RAMP                                  Telegraph Avenue                  7         1
+                                                                                                                                                                8         30
+                    0                                                                    0                                                                      9         0
+                                                                                                                                                           S-ENDTotal     31         39
+            12      0                                  2.46%                             0                                         123
+                                                        72                                                                                                   E-ENDTotal               3
+            11      1                                                                    0                  56th Street
+                                                                                                                                                 SR-24 EB      10         0
+            10      0                                                                    0                          12                           On-Ramp       11         1
+                                                                                                                  11
+                                                                                                                   10                                          12         0
+56TH STREET                                                                                                                                              W-END Total      1           0
+
+                                              9     8                 7                                                               987
+                                        0     0     30                1
+                                      TELEGRAPH AVENUE
+
+                                    NORTHBOUND                            SOUTHBOUND                             EASTBOUND                              WESTBOUND
+  TIME          PERIOD           TELEGRAPH AVENUE                      TELEGRAPH AVENUE                          56TH STREET                          SR-24 EB ON-RAMP           TOTAL
+ From              To        U-Turn     9          8           7   U-Turn     3          2         1    U-Turn     12         11      10     U-Turn
+                                                                               SURVEY                  DATA
+ 3:00 PM   to      3:15 PM              0         11           0              1          6                                     0         0                                            18
+ 3:15 PM   to      3:30 PM              0         23           0              2          18                                    0         0                                            43
+ 3:30 PM   to      3:45 PM              0         27           1              3          36                                    0         0                                            67
+ 3:45 PM   to      4:00 PM              0         41           1              3          45                                    0         0                                            90
+ 4:00 PM   to      4:15 PM              0         56           3              4          51                                    1         1                                           116
+ 4:15 PM   to      4:30 PM              0         64           3              4          58                                    1         2                                           132
+ 4:30 PM   to      4:45 PM              1         71           4              4          71                                    1         2                                           154
+ 4:45 PM   to      5:00 PM              1         76           4              4          78                                    1         2                                           166
+ 5:00 PM   to      5:15 PM              1         88           4              4          90                                    1         2                                           190
+ 5:15 PM   to      5:30 PM              1         93           5              5         101                                    1         2                                           208
+ 5:30 PM   to      5:45 PM              1         101          5              5         110                                    2         2                                           226
+ 5:45 PM   to      6:00 PM              1         111          5              5         124                                    2         2                                           250
+                                                                            TOTAL             BY       PERIOD
+ 3:00 PM   to      3:15 PM      0       0         11           0      0       1         6          0       0       0           0         0       0       0          0     0          18
+ 3:15 PM   to      3:30 PM      0       0         12           0      0       1         12         0       0       0           0         0       0       0          0     0          25
+ 3:30 PM   to      3:45 PM      0       0          4           1      0       1         18         0       0       0           0         0       0       0          0     0          24
+ 3:45 PM   to      4:00 PM      0       0         14           0      0       0         9          0       0       0           0         0       0       0          0     0          23
+ 4:00 PM   to      4:15 PM      0       0         15           2      0       1         6          0       0       0           1         1       0       0          0     0          26
+ 4:15 PM   to      4:30 PM      0       0          8           0      0       0         7          0       0       0           0         1       0       0          0     0          16
+ 4:30 PM   to      4:45 PM      0       1          7           1      0       0         13         0       0       0           0         0       0       0          0     0          22
+ 4:45 PM   to      5:00 PM      0       0          5           0      0       0         7          0       0       0           0         0       0       0          0     0          12
+ 5:00 PM   to      5:15 PM      0       0         12           0      0       0         12         0       0       0           0         0       0       0          0     0          24
+ 5:15 PM   to      5:30 PM      0       0          5           1      0       1         11         0       0       0           0         0       0       0          0     0          18
+ 5:30 PM   to      5:45 PM      0       0          8           0      0       0         9          0       0       0           1         0       0       0          0     0          18
+ 5:45 PM   to      6:00 PM      0       0         10           0      0       0         14         0       0       0           0         0       0       0          0     0          24
+MOVEMENT TOTAL                  0       1         101          5      0       5         110     0          0       0           2         2       0       0          0     0
+APPROACH TOTAL                              107                                   115                                     4                                     0
+                                                                             HOURLY                    TOTALS
+ 3:00 PM   to      4:00 PM      0       0         41           1      0       3         45         0       0       0           0         0       0       0          0     0          90
+ 3:15 PM   to      4:15 PM      0       0         45           3      0       3         45         0       0       0           1         1       0       0          0     0          98
+ 3:30 PM   to      4:30 PM      0       0         41           3      0       2         40         0       0       0           1         2       0       0          0     0          89
+ 3:45 PM   to      4:45 PM      0       1         44           3      0       1         35         0       0       0           1         2       0       0          0     0          87
+ 4:00 PM   to      5:00 PM      0       1         35           3      0       1         33         0       0       0           1         2       0       0          0     0          76
+ 4:15 PM   to      5:15 PM      0       1         32           1      0       0         39         0       0       0           0         1       0       0          0     0          74
+ 4:30 PM   to      5:30 PM      0       1         29           2      0       1         43         0       0       0           0         0       0       0          0     0          76
+ 4:45 PM   to      5:45 PM      0       0         30           1      0       1         39         0       0       0           1         0       0       0          0     0          72
+ 5:00 PM   to      6:00 PM      0       0         35           1      0       1         46         0       0       0           1         0       0       0          0     0          84
+                                                               TEL: (510) 232 - 1271                    FAX: (510) 232 - 1272
+                                                      B.A.Y.M.E.T.R.I.C.S.
+                                       BICYCLE TURNING MOVEMENT SUMMARY
+PROJECT:                     CALDECOTT TRAFFIC STUDY                                    SURVEY DATE:                   5/22/2013                 DAY: WEDNESDAY
+N-S APPROACH:                TELEGRAPH AVENUE                                           SURVEY TIME:                    3:00 PM                  TO       6:00 PM
+E-W APPROACH:                SR-24 EB ON-RAMP                                           JURISDICTION:               OAKLAND                      FILE: 3305058-8PM
+                                                                                                                                                                Approach   Departure
+      PEAK HOUR                                                                                               ARRIVAL / DEPARTURE VOLUMES                       Volumes    Volumes
+ 4:45 PM to     5:45 PM               TELEGRAPH AVENUE                         NORTH                                                                      1         0
+                                        0     45    0             0                                                                                       2         45
+                                        1      2    3                                                                                                     3         0
+                                                                                                                                                    N-END Total     45         39
+                                                                        SR-24 EB ON-RAMP                                Telegraph Avenue                  7         0
+                                                                                                                                                          8         38
+                    0                                                              0                                                                      9         0
+                                                                                                                                                     S-ENDTotal     38         48
+            12      1                                                              0                                         123
+                                                      87                                                                                               E-ENDTotal               0
+            11      0                                                              0                  56th Street
+                                                                                                                                           SR-24 EB      10         3
+            10      3                                                              0                          12                           On-Ramp       11         0
+                                                                                                            11
+                                                                                                             10                                          12         1
+56TH STREET                                                                                                                                        W-END Total      4           0
+
+                                              9     8             7                                                             987
+                                        0     0     38            0
+                                      TELEGRAPH AVENUE
+
+                                    NORTHBOUND                        SOUTHBOUND                           EASTBOUND                              WESTBOUND
+  TIME          PERIOD           TELEGRAPH AVENUE                  TELEGRAPH AVENUE                        56TH STREET                          SR-24 EB ON-RAMP           TOTAL
+ From              To        U-Turn     9        8         7   U-Turn     3        2         1    U-Turn     12         11      10     U-Turn
+                                                                           SURVEY                DATA
+ 3:00 PM   to      3:15 PM                        9                                2                         0                     0                                            11
+ 3:15 PM   to      3:30 PM                       15                                6                         0                     0                                            21
+ 3:30 PM   to      3:45 PM                       20                                13                        0                     0                                            33
+ 3:45 PM   to      4:00 PM                       26                                15                        1                     0                                            42
+ 4:00 PM   to      4:15 PM                       35                                19                        1                     0                                            55
+ 4:15 PM   to      4:30 PM                       43                                29                        1                     0                                            73
+ 4:30 PM   to      4:45 PM                       51                                39                        1                     1                                            92
+ 4:45 PM   to      5:00 PM                       59                                48                        2                     1                                           110
+ 5:00 PM   to      5:15 PM                       69                                63                        2                     3                                           137
+ 5:15 PM   to      5:30 PM                       79                                77                        2                     3                                           161
+ 5:30 PM   to      5:45 PM                       89                                84                        2                     4                                           179
+ 5:45 PM   to      6:00 PM                       98                                89                        2                     4                                           193
+                                                                        TOTAL           BY       PERIOD
+ 3:00 PM   to      3:15 PM      0       0         9        0      0       0        2         0       0       0           0         0       0       0          0     0          11
+ 3:15 PM   to      3:30 PM      0       0         6        0      0       0        4         0       0       0           0         0       0       0          0     0          10
+ 3:30 PM   to      3:45 PM      0       0         5        0      0       0        7         0       0       0           0         0       0       0          0     0          12
+ 3:45 PM   to      4:00 PM      0       0         6        0      0       0        2         0       0       1           0         0       0       0          0     0          9
+ 4:00 PM   to      4:15 PM      0       0         9        0      0       0        4         0       0       0           0         0       0       0          0     0          13
+ 4:15 PM   to      4:30 PM      0       0         8        0      0       0        10        0       0       0           0         0       0       0          0     0          18
+ 4:30 PM   to      4:45 PM      0       0         8        0      0       0        10        0       0       0           0         1       0       0          0     0          19
+ 4:45 PM   to      5:00 PM      0       0         8        0      0       0        9         0       0       1           0         0       0       0          0     0          18
+ 5:00 PM   to      5:15 PM      0       0        10        0      0       0        15        0       0       0           0         2       0       0          0     0          27
+ 5:15 PM   to      5:30 PM      0       0        10        0      0       0        14        0       0       0           0         0       0       0          0     0          24
+ 5:30 PM   to      5:45 PM      0       0        10        0      0       0        7         0       0       0           0         1       0       0          0     0          18
+ 5:45 PM   to      6:00 PM      0       0         9        0      0       0        5         0       0       0           0         0       0       0          0     0          14
+MOVEMENT TOTAL                  0       0        89        0      0       0        84      0         0       2           0         4       0       0          0     0
+APPROACH TOTAL                              89                                84                                    6                                     0
+                                                                         HOURLY                  TOTALS
+ 3:00 PM   to      4:00 PM      0       0        26        0      0       0        15        0       0       1           0         0       0       0          0     0          42
+ 3:15 PM   to      4:15 PM      0       0        26        0      0       0        17        0       0       1           0         0       0       0          0     0          44
+ 3:30 PM   to      4:30 PM      0       0        28        0      0       0        23        0       0       1           0         0       0       0          0     0          52
+ 3:45 PM   to      4:45 PM      0       0        31        0      0       0        26        0       0       1           0         1       0       0          0     0          59
+ 4:00 PM   to      5:00 PM      0       0        33        0      0       0        33        0       0       1           0         1       0       0          0     0          68
+ 4:15 PM   to      5:15 PM      0       0        34        0      0       0        44        0       0       1           0         3       0       0          0     0          82
+ 4:30 PM   to      5:30 PM      0       0        36        0      0       0        48        0       0       1           0         3       0       0          0     0          88
+ 4:45 PM   to      5:45 PM      0       0        38        0      0       0        45        0       0       1           0         3       0       0          0     0          87
+ 5:00 PM   to      6:00 PM      0       0        39        0      0       0        41        0       0       0           0         3       0       0          0     0          83
+                                                           TEL: (510) 232 - 1271                  FAX: (510) 232 - 1272
+                                                  B.A.Y.M.E.T.R.I.C.S.
+                                    PEDESTRIAN TURNING MOVEMENT SUMMARY
+PROJECT:                     CALDECOTT TRAFFIC STUDY                               SURVEY DATE:                    5/22/2013                      DAY: WEDNESDAY
+N-S APPROACH:                TELEGRAPH AVENUE                                      SURVEY TIME:                     3:00 PM                       TO       6:00 PM
+E-W APPROACH:                SR-24 EB ON-RAMP                                      JURISDICTION:                OAKLAND                           FILE: 3305058-8PM
+                                                                                                                                                                   Approach   Departure
+      PEAK HOUR                                                                                          ARRIVAL / DEPARTURE VOLUMES                               Volumes    Volumes
+ 4:45 PM to     5:45 PM             TELEGRAPH AVENUE                       NORTH
+                                      0     0     0           0
+                                      1     2     3
+
+                                                                    SR-24 EB ON-RAMP                                Telegraph Avenue                         P15       0
+                                                                                                                                                             P14       8
+           P13      4                                                          0                                                                             P13       4
+
+            12      0                                                          0                                          123
+                                                  12
+            11      0                                                          0                 56th Street
+                                                                                                                                            SR-24 EB
+            10      0                                                          8   P14                   12              P13         P14
+                                                                                                       11                                   On-Ramp
+                                                                                                        10
+56TH STREET                                                                                                                    P15
+
+                                       P15  9     8           7                                                                987
+                                      0     0     0           0
+                                    TELEGRAPH AVENUE
+
+                                  NORTHBOUND                      SOUTHBOUND                         EASTBOUND                                     WESTBOUND
+  TIME          PERIOD         TELEGRAPH AVENUE                TELEGRAPH AVENUE                      56TH STREET                                 SR-24 EB ON-RAMP             TOTAL
+ From              To         P15     9       8        7   U-Turn     3        2         1     P13      12          11          10         P14
+                                                                       SURVEY                DATA
+ 3:00 PM   to      3:15 PM    0                                                                  6                                         10                                     16
+ 3:15 PM   to      3:30 PM    0                                                                  9                                         13                                     22
+ 3:30 PM   to      3:45 PM    0                                                                 12                                         18                                     30
+ 3:45 PM   to      4:00 PM    1                                                                 15                                         19                                     35
+ 4:00 PM   to      4:15 PM    1                                                                 15                                         19                                     35
+ 4:15 PM   to      4:30 PM    2                                                                 21                                         24                                     47
+ 4:30 PM   to      4:45 PM    3                                                                 23                                         27                                     53
+ 4:45 PM   to      5:00 PM    3                                                                 23                                         28                                     54
+ 5:00 PM   to      5:15 PM    3                                                                 27                                         28                                     58
+ 5:15 PM   to      5:30 PM    3                                                                 27                                         35                                     65
+ 5:30 PM   to      5:45 PM    3                                                                 27                                         35                                     65
+ 5:45 PM   to      6:00 PM    3                                                                 28                                         35                                     66
+                                                                    TOTAL          BY        PERIOD
+ 3:00 PM   to      3:15 PM    0       0       0        0      0       0        0         0      6       0            0          0          10       0         0        0          16
+ 3:15 PM   to      3:30 PM    0       0       0        0      0       0        0         0      3       0            0          0           3       0         0        0          6
+ 3:30 PM   to      3:45 PM    0       0       0        0      0       0        0         0      3       0            0          0           5       0         0        0          8
+ 3:45 PM   to      4:00 PM    1       0       0        0      0       0        0         0      3       0            0          0           1       0         0        0          5
+ 4:00 PM   to      4:15 PM    0       0       0        0      0       0        0         0      0       0            0          0           0       0         0        0          0
+ 4:15 PM   to      4:30 PM    1       0       0        0      0       0        0         0      6       0            0          0           5       0         0        0          12
+ 4:30 PM   to      4:45 PM    1       0       0        0      0       0        0         0      2       0            0          0           3       0         0        0          6
+ 4:45 PM   to      5:00 PM    0       0       0        0      0       0        0         0      0       0            0          0           1       0         0        0          1
+ 5:00 PM   to      5:15 PM    0       0       0        0      0       0        0         0      4       0            0          0           0       0         0        0          4
+ 5:15 PM   to      5:30 PM    0       0       0        0      0       0        0         0      0       0            0          0           7       0         0        0          7
+ 5:30 PM   to      5:45 PM    0       0       0        0      0       0        0         0      0       0            0          0           0       0         0        0          0
+ 5:45 PM   to      6:00 PM    0       0       0        0      0       0        0         0      1       0            0          0           0       0         0        0          1
+MOVEMENT TOTAL                3       0       0        0      0       0        0         0      27      0            0          0          35       0        0         0
+APPROACH TOTAL                            3                               0                                    27                                       35
+                                                                     HOURLY                  TOTALS
+ 3:00 PM   to      4:00 PM    1       0       0        0      0       0        0         0      15      0            0          0          19       0         0        0          35
+ 3:15 PM   to      4:15 PM    1       0       0        0      0       0        0         0       9      0            0          0           9       0         0        0          19
+ 3:30 PM   to      4:30 PM    2       0       0        0      0       0        0         0      12      0            0          0          11       0         0        0          25
+ 3:45 PM   to      4:45 PM    3       0       0        0      0       0        0         0      11      0            0          0           9       0         0        0          23
+ 4:00 PM   to      5:00 PM    2       0       0        0      0       0        0         0       8      0            0          0           9       0         0        0          19
+ 4:15 PM   to      5:15 PM    2       0       0        0      0       0        0         0      12      0            0          0           9       0         0        0          23
+ 4:30 PM   to      5:30 PM    1       0       0        0      0       0        0         0       6      0            0          0          11       0         0        0          18
+ 4:45 PM   to      5:45 PM    0       0       0        0      0       0        0         0       4      0            0          0           8       0         0        0          12
+ 5:00 PM   to      6:00 PM    0       0       0        0      0       0        0         0       5      0            0          0           7       0         0        0          12
+                                                       TEL: (510) 232 - 1271                  FAX: (510) 232 - 1272
+

@@ -1,0 +1,37 @@
+                                                           PEDESTRIAN CROSSWALK COUNTS
+                                                    #013 Martin Luther King Jr. Way & 34th Street - PM PEAK
+    LOCATION#:             013                                                           QTD PROJ#:        600113
+   NORTH / SOUTH:          Martin Luther King Jr. Way                                      DATE:           Wednesday, February 09, 2011
+    EAST / WEST:           34th Street                                                    VICINITY:        Oakland, CA
+
+
+
+    DIRECTION:               NORTHERN CROSSWALK                SOUTHERN CROSSWALK       EASTERN CROSSWALK                  WESTERN CROSSWALK                 TOTALS
+    4:00 PM                                  7                           2                          6                                    7                     22
+    4:15 PM                                  5                           1                          6                                    4                     16
+    4:30 PM                                  7                           8                          7                                    3                     25
+    4:45 PM                                  3                           2                          8                                    4                     17
+    5:00 PM                                  2                           3                          5                                    3                     13
+    5:15 PM                                  9                          12                          9                                    8                     38
+    5:30 PM                                  1                           5                          2                                    1                     9
+    5:45 PM                                  7                          10                          4                                    2                     23
+    6:00 PM
+    6:15 PM
+    6:30 PM
+    6:45 PM
+
+  VOLUME STATS:              NORTHERN CROSSWALK                SOUTHERN CROSSWALK       EASTERN CROSSWALK                  WESTERN CROSSWALK
+               TOTAL:                    41                            43                          47                                  32                      163
+                P.H.V: ₁                 21                            25                          29                                  18                      93
+                P.H.F: ₂                0.583                         0.521                       0.806                               0.563                   0.612
+
+(1) Peak Hour Volume (Peak hour begins at:       430 PM)
+(2) Peak Hour Factor
+
+
+
+
+                                                                                         QUALITY TRAFFIC DATA, LLC
+                                                                                         9701 W Pico Blvd, Suite 205, Los Angeles, CA 90035
+                                                                                         Phone: 310-341-0019 Fax: 310-807-9247 Info@QualityTrafficData.com
+

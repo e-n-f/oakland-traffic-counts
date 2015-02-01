@@ -1,0 +1,37 @@
+                                                            BICYCLE APPROACH COUNTS
+                                                           #001   MacArthur Blvd  &  108th Ave  ‐ PM PEAK
+    LOCATION#:             001                                                              QTD PROJ#:          500137
+   NORTH / SOUTH:          MacArthur Blvd                                                     DATE:             Wednesday, December 15, 2010
+    EAST / WEST:           108th Ave                                                         VICINITY:          City of Oakland, CA
+
+
+
+    DIRECTION:                     FROM NORTH                        FROM SOUTH                  FROM EAST                               FROM WEST                       TOTALS
+    4:00 PM                                  1                            0                             0                                       0                          1
+    4:15 PM                                  1                            0                             0                                       0                          1
+    4:30 PM                                  1                            0                             1                                       1                          3
+    4:45 PM                                  0                            0                             0                                       0
+    5:00 PM                                  0                            0                             1                                       0                          1
+    5:15 PM                                  0                            0                             0                                       0
+    5:30 PM                                  0                            0                             0                                       0
+    5:45 PM                                  1                            0                             0                                       0                          1
+    6:00 PM
+    6:15 PM
+    6:30 PM
+    6:45 PM
+
+  VOLUME STATS:                    FROM NORTH                        FROM SOUTH                  FROM EAST                               FROM WEST
+               TOTAL:                     4                               0                            2                                        1                           7
+                P.H.V: ₁                  2                               0                            2                                        1                           5
+                P.H.F: ₂                0.500                           0.000                        0.500                                    0.250                       0.417
+
+(1) Peak Hour Volume (Peak hour begins at:       415 PM)
+(2) Peak Hour Factor
+
+
+
+
+                                                                                             QUALITY  TRAFFIC  DATA,  LLC
+                                                                                             9701 W Pico Blvd, Suite 205,   Los Angeles, CA 90035
+                                                                                             Phone: 310‐341‐0019     Fax: 310‐807‐9247     Info@QualityTrafficData.com
+

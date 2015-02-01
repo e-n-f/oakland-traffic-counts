@@ -1,0 +1,55 @@
+                                    B.A.Y.M.E.T.R.I.C.S.
+                INTERSECTION TURNING MOVEMENT SUMMARY
+PROJECT:      OAKLAND TRAFFIC STUDY                                    SURVEY DATE:        5/22/2012               DAY:     TUESDAY
+N-S APPROACH: LAKE MERRITT BLVD   - 1ST AVENUE PL                      SURVEY TIME:        7:00 AM                 TO       9:00 AM
+E-W APPROACH:INTERNATIONAL BLVD                                        JURISDICTION: OAKLAND                       FILE:    3205033-34AM
+                            LAKE MERRITT BLVD
+       PEAK HOUR               0    811      6                                             ARRIVAL / DEPARTURE VOLUMES
+8:00 AM   TO     9:00 AM                                      NORTH                      PHF =   0.89
+                                               *                                                  817     322
+                                                     1ST AVENUE PLACE
+                                                                                                                             PHF =
+                                                                0                                                             0.25
+
+                                                                1                                                              1
+
+                                                                                                                              119
+                                    1897                        5
+                                                                                                                              565
+                                                               109
+                                                                                                                              193
+                                                               451
+                                                                                                                             PHF =
+                                                     INTERNATIONAL BLVD                                                       0.89
+
+                              213   108     193                                                   1263      514
+* ILLEGAL MOVEMENT          LAKE MERRITT BLVD                                                              PHF =     0.95
+  (NO LEFT TURN)
+  TIME         PERIOD       NB (LAKE MERRITT BL) SB (LAKE MERRITT BL)             WB (1 ST AVENUE PL)      WB (INTERNATIONAL BL) TOTAL
+ From              To        THRU   1ST AV   RIGHT    LEFT*    THRU    RIGHT      LEFT    THRU   RIGHT     LM (SB) LM (NB) 1ST AV
+                                                        SURVEY                 DATA
+7:00 AM   to      7:15 AM     22      11      18        3       95                  0                  0     30      13        2     194
+7:15 AM   to      7:30 AM     48      24      51        3      232                  0                  0     97      30        2     487
+7:30 AM   to      7:45 AM     98      39      97        3      376                  0                  0    193      42        2     850
+7:45 AM   to      8:00 AM     149     62      145       3      580                  0                  0    317      63        2     1321
+8:00 AM   to      8:15 AM     198     88      182       3      758                  1                  0    427      89        3     1749
+8:15 AM   to      8:30 AM     249    117      237       3      970                  1                  0    527      108       3     2215
+8:30 AM   to      8:45 AM     308    140      288       5      1165                 1                  0    650      134       4     2695
+8:45 AM   to      9:00 AM     362    170      338       9      1391                 1                  0    768      172       7     3218
+                                                      TOTAL           BY   PERIOD
+7:00 AM   to      7:15 AM     22      11      18        3       95         0        0      0           0     30      13        2     194
+7:15 AM   to      7:30 AM     26      13      33        0      137         0        0      0           0     67      17        0     293
+7:30 AM   to      7:45 AM     50      15      46        0      144         0        0      0           0     96      12        0     363
+7:45 AM   to      8:00 AM     51      23      48        0      204         0        0      0           0    124      21        0     471
+8:00 AM   to      8:15 AM     49      26      37        0      178         0        1      0           0    110      26        1     428
+8:15 AM   to      8:30 AM     51      29      55        0      212         0        0      0           0    100      19        0     466
+8:30 AM   to      8:45 AM     59      23      51        2      195         0        0      0           0    123      26        1     480
+8:45 AM   to      9:00 AM     54      30      50        4      226         0        0      0           0    118      38        3     523
+                                                      HOU RLY              TO TALS
+7:00 AM   to      8:00 AM     149     62      145       3      580         0        0      0           0    317      63        2     1321
+7:15 AM   to      8:15 AM     176     77      164       0      663         0        1      0           0    397      76        1     1555
+7:30 AM   to      8:30 AM     201     93      186       0      738         0        1      0           0    430      78        1     1728
+7:45 AM   to      8:45 AM     210    101      191       2      789         0        1      0           0    457      92        2     1845
+8:00 AM   to      9:00 AM     213    108      193       6      811         0        1      0           0    451      109       5     1897
+                                       TEL: (510) 232 - 1271                   FAX: (510) 232 - 1272
+

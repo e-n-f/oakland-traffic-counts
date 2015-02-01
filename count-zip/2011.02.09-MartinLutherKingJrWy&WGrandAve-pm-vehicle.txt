@@ -1,0 +1,41 @@
+                                                VEHICLE TURNING MOVEMENT COUNT
+                                          #010 Martin Luther King Jr. Way & West Grand Avenue - PM PEAK
+    LOCATION#:            010                                                    QTD PROJ#:         600113
+   NORTH / SOUTH:         Martin Luther King Jr. Way                               DATE:            Wednesday, February 09, 2011
+    EAST / WEST:          West Grand Avenue                                       VICINITY:         Oakland, CA
+
+
+
+    DIRECTION:               NL         NT          NR      SL    ST     SR      EL          ET         ER          WL          WT          WR
+                                                                                                                                                      TOTALS
+       LANES:                 0          2             0    0     2      0       1           2           0            1           2           0
+    3:00 PM
+    3:15 PM
+    3:30 PM
+    3:45 PM
+    4:00 PM                   5          39            61    8    17     20      24         164          4            7         186           5        540
+    4:15 PM                   7          37            60   10    22     26      17         140          5            7         174          11        516
+    4:30 PM                   4          58            48   11    20     14      15         123          1            6         178          15        493
+    4:45 PM                   4          39            49    6    19     38      12         127          0            6         147           9        456
+    5:00 PM                   5          56            40    4    36     16      11         101          0            7         124           8        408
+    5:15 PM                   1          65            36   10    17     19      11         127          0            5         120          12        423
+    5:30 PM                   2          47            37    5    31     17       9         74           0            4         100          12        338
+    5:45 PM                   0          49            33    6    35     17       9         70           0            7         102           9        337
+    6:00 PM
+    6:15 PM
+    6:30 PM
+    6:45 PM
+
+  VOLUME STATS:              NL         NT          NR      SL    ST     SR      EL          ET         ER          WL          WT          WR
+              TOTAL:          28        390         364     60    197    167    108         926          10          49        1131          81        3511
+               P.H.V: ₁       20        173         218     35    78     98     68          554          10          26         685          40        2005
+               P.H.F: ₂                0.934                     0.837                     0.823                               0.943                   0.928
+
+(1) Peak Hour Volume (Peak Hour Begins At 400 PM)
+(2) Peak Hour Factor (directional aggregate)
+
+
+                                                                                 QUALITY TRAFFIC DATA, LLC
+                                                                                  9701 W Pico Blvd, Suite 205, Los Angeles, CA 90035
+                                                                                  Phone: 310-341-0019 Fax: 310-807-9247 Info@QualityTrafficData.com
+

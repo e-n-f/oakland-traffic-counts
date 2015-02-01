@@ -1,0 +1,37 @@
+                                                           BICYCLE APPROACH COUNTS
+                                                    #004 Mandela Pkwy & West Grand Avenue (W) - PM PEAK
+    LOCATION#:             004                                                        QTD PROJ#:       600113
+   NORTH / SOUTH:          Mandela Pkwy                                                 DATE:          Tuesday, February 08, 2011
+    EAST / WEST:           West Grand Avenue (W)                                       VICINITY:       Oakland, CA
+
+
+
+    DIRECTION:               NORTHERN CROSSWALK              SOUTHERN CROSSWALK      EASTERN CROSSWALK                 WESTERN CROSSWALK                   TOTALS
+    4:00 PM                                  2                         1                         2                                   1                       6
+    4:15 PM                                  2                         1                         8                                   0                       11
+    4:30 PM                                  1                         0                         4                                   3                       8
+    4:45 PM                                  4                         0                         6                                   2                       12
+    5:00 PM                                  0                         1                         7                                   1                       9
+    5:15 PM                                  4                         3                        12                                   1                       20
+    5:30 PM                                  2                         1                         4                                   3                       10
+    5:45 PM                                  1                         2                         6                                   2                       11
+    6:00 PM
+    6:15 PM
+    6:30 PM
+    6:45 PM
+
+  VOLUME STATS:                    FROM NORTH                     FROM SOUTH              FROM EAST                           FROM WEST
+               TOTAL:                    16                            9                       49                                  13                        87
+                P.H.V: ₁                 10                            5                       29                                   7                        51
+                P.H.F: ₂                0.625                        0.417                    0.604                               0.583                     0.638
+
+(1) Peak Hour Volume (Peak hour begins at:       445 PM)
+(2) Peak Hour Factor
+
+
+
+
+                                                                                       QUALITY TRAFFIC DATA, LLC
+                                                                                       9701 W Pico Blvd, Suite 205, Los Angeles, CA 90035
+                                                                                       Phone: 310-341-0019 Fax: 310-807-9247 Info@QualityTrafficData.com
+

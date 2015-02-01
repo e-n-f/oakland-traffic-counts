@@ -1,0 +1,79 @@
+                                    B.A.Y.M.E.T.R.I.C.S.
+                INTERSECTION TURNING MOVEMENT SUMMARY
+PROJECT:      OAKLAND TRAFFIC STUDY                                      SURVEY DATE:       5/22/2012                DAY:     TUESDAY
+N-S APPROACH: LAKE MERRITT BLVD   - 1ST AVENUE PL                        SURVEY TIME:        4:00 PM                 TO       6:00 PM
+E-W APPROACH:INTERNATIONAL BLVD                                          JURISDICTION: OAKLAND                       FILE:    3205033-34PM
+                            LAKE MERRITT BLVD
+        PEAK HOUR              0    466      9                                                ARRIVAL / DEPARTURE VOLUMES
+ 5:00 PM   TO     6:00 PM                                      NORTH                        PHF =   0.84
+                                                 *                                                  475      762
+                                                      1ST AVENUE PLACE
+                                                                                                                               PHF =
+                                                                   1                                                            0.13
+
+                                                                   0                                                             1
+
+                                                                                                                                209
+                                    2185                           5
+                                                                                                                                403
+                                                                114
+                                                                                                                                464
+                                                                284
+                                                                                                                               PHF =
+                                                      INTERNATIONAL BLVD                                                        0.88
+
+                              647   195     464                                                      750      1306
+* ILLEGAL MOVEMENT          LAKE MERRITT BLVD                                                                PHF =     0.96
+  (NO LEFT TURN)
+   TIME      PERIOD         NB (LAKE MERRITT BL) SB (LAKE MERRITT BL)               WB (1 ST AVENUE PL)      WB (INTERNATIONAL BL) TOTAL
+ From              To        THRU   1ST AV    RIGHT    LEFT*    THRU     RIGHT      LEFT    THRU    RIGHT    LM (SB) LM (NB) 1ST AV
+                                                         SURVEY                  DATA
+ 4:00 PM   to     4:15 PM     88      43        84       1      131                   0                  0     73      23        1     444
+ 4:15 PM   to     4:30 PM     202     70        174      4      228                   0                  0    137      47        3     865
+ 4:30 PM   to     4:45 PM     340    121        272      6      328                   0                  0    195      73        3     1338
+ 4:45 PM   to     5:00 PM     481    168        377      7      428                   1                  1    256      95        5     1819
+ 5:00 PM   to     5:15 PM     636    212        482     12      530                   1                  2    329      118       5     2327
+ 5:15 PM   to     5:30 PM     815    252        603     14      669                   1                  2    412      147       8     2923
+ 5:30 PM   to     5:45 PM     969    319        719     15      789                   1                  2    471      174       8     3467
+ 5:45 PM   to     6:00 PM    1128    363        841     16      894                   1                  2    540      209      10     4004
+                                                       TOTAL            BY       PERIOD
+ 4:00 PM   to     4:15 PM     88      43        84       1      131          0        0       0          0     73      23        1     444
+ 4:15 PM   to     4:30 PM     114     27        90       3         97        0        0       0          0     64      24       2      421
+4:30 PM    to     4:45 PM     138     51        98       2      100          0        0       0          0     58      26       0      473
+4:45 PM    to     5:00 PM     141     47        105      1      100          0        1       0          1     61      22       2      481
+5:00 PM    to     5:15 PM     155     44        105     5       102          0        0       0          1     73      23       0      508
+5:15 PM    to     5:30 PM     179     40        121     2       139          0        0       0          0     83      29       3      596
+5:30 PM    to     5:45 PM     154     67        116     1       120          0        0       0          0     59      27       0      544
+5:45 PM    to     6:00 PM     159     44        122     1       105          0        0       0          0     69      35       2      537
+                                                       HOURLY                TOTALS
+4:00 PM    to     5:00 PM     481    168        377     7       428          0        1       0          1    256      95       5      1819
+4:15 PM    to     5:15 PM     548    169        398     11      399          0        1       0          2    256      95       4      1883
+4:30 PM    to     5:30 PM     613    182        429     10      441          0        1       0          2    275      100      5      2058
+4:45 PM    to     5:45 PM     629    198        447     9       461          0        1       0          2    276      101      5      2129
+5:00 PM    to     6:00 PM     647    195        464     9       466          0        0       0          1    284      114      5      2185
+                                           TEL: (510) 232 - 1271                 FAX: (510) 232 - 1272
+
+                                                                                                                                              N in
+
+                                                                                                                                               215
+                                                                                                                                               231
+                                                                                                                                               287
+                                                                                                                                               293
+                                                                                                                                               304
+                                                                                                                                               340
+                                                                                                                                               337
+                                                                                                                                               325
+                                                                                                                                              2332
+
+                                                                                                                                              E out
+
+                                                                                                                                              85
+                                                                                                                                              93
+                                                                                                                                              100
+                                                                                                                                              106
+                                                                                                                                              110
+                                                                                                                                              123
+                                                                                                                                              117
+                                                                                                                                              123
+                                                                                                                                              857
+

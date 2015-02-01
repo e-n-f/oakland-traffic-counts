@@ -1,0 +1,161 @@
+                                                                                        Turning Movement Report
+                                     Metro Traffic Data Inc.
+                                     310 N. Irwin Street - Suite 20                                                         Prepared For:                          Debbie Yueh
+                                     Hanford, CA 93230                                                                                                 Dowling Associates Inc.
+                                                                                                                                                  180 Grand Avenue, Suite 250
+                                     800-975-6938 Phone/Fax                                                                                                Oakland, CA 94612
+                                     www.metrotrafficdata.com
+                                                                                                                                                                510-839-1742
+
+
+                    LOCATION         Fruitvale Avenue @ 12th Street                            LATITUDE                    37°46'34.55"N
+
+                     COUNTY                    Alameda                                     LONGITUDE                      122°13'35.45"W
+
+
+         COLLECTION DATE                       4/23/2009                                       WEATHER                        Clear
+
+
+
+                                Northbound                             Southbound                            Eastbound                               Westbound
+      Time              Left   Thru    Right    Trucks       Left     Thru    Right     Trucks      Left   Thru    Right     Trucks        Left     Thru   Right       Trucks
+7:00 AM - 7:15 AM         6     13       0         x           8       13      32          x         23     91       15         x            6       67     11            x
+7:15 AM - 7:30 AM         5     15       5         x           2       21      49          x         34     101      22         x           15       61     12            x
+7:30 AM - 7:45 AM         8     24       6         x          15       16      43          x         35     149      20         x           10       90     17            x
+7:45 AM - 8:00 AM        10     42       2         x          15       37      58          x         32     184      26         x            6      105     16            x
+8:00 AM - 8:15 AM        25     70      10         x          15       42      50          x         41     211      36         x            8       89     15            x
+8:15 AM - 8:30 AM        17     53       8         x          17       51      62          x         57     194      43         x            6      102     15            x
+8:30 AM - 8:45 AM        11     40      12         x          14       29      58          x         59     147      37         x           10       96     17            x
+8:45 AM - 9:00 AM        13     25       3         x           7       10      10          x         32     98       24         x           16       51     10            x
+     TOTAL               95    282      46         x          93      219      362         x        313    1175     223         x           77      661     113           x
+
+                                Northbound                             Southbound                            Eastbound                               Westbound
+      Time              Left   Thru    Right    Trucks       Left     Thru    Right     Trucks      Left   Thru    Right     Trucks        Left     Thru   Right       Trucks
+4:00 PM - 4:15 PM        21     20      14         x          17       54      70          x         21     175      26         x           10       86     11            x
+4:15 PM - 4:30 PM        16     39      13         x          20       47      68          x         36     143      31         x           13      104      7            x
+4:30 PM - 4:45 PM        28     29      22         x          15       58      84          x         36     155      32         x            9      119      5            x
+4:45 PM - 5:00 PM        21     28      15         x          17       52      61          x         36     168      22         x           10       83      9            x
+5:00 PM - 5:15 PM        30     46       9         x          26       53      81          x         46     159      35         x           10      104      3            x
+5:15 PM - 5:30 PM        23     49      20         x          33       64      87          x         40     148      33         x           11      107     10            x
+5:30 PM - 5:45 PM        30     45      22         x          25       53      86          x         47     134      30         x           14       88      9            x
+5:45 PM - 6:00 PM        31     37      12         x          29       57      102         x         49     151      23         x           11       88      7            x
+     TOTAL              200    293      127        x         182      438      639         x        311    1233     232         x           88      779     61            x
+
+                                Northbound                             Southbound                           Eastbound                                Westbound
+  PEAK HOUR             Left   Thru    Right    Trucks       Left     Thru    Right     Trucks      Left   Thru   Right      Trucks        Left     Thru   Right       Trucks
+
+7:45 AM - 8:45 AM       63     205       32        x         61       159      228         x        189    736      142         x          30       392       63         x
+
+5:00 PM - 6:00 PM       114    177       63        x         113      227      356         x        182    592      121         x          46       387       29         x
+
+
+
+                                                                                      12th Street
+                       PHF
+
+
+                                                                      PM      356        227        113
+      AM               0.920
+
+                                                                      AM      228        159        61
+      PM               0.963
+
+
+
+                                                  PM        AM                                                     AM          PM
+
+                                                  182       189                                                     63         29
+
+
+                         Fruitvale Avenue         592       736                                                    392         387          Fruitvale Avenue
+
+
+                                                  121       142                                                     30         46
+
+
+
+
+                                                                      AM       63        205        32
+
+
+                                                                      PM      114        177        63
+
+                                                                                      12th Street
+                                                                                                                                                                   Page 1 of 3
+                                                                                      Turning Movement Report
+                                      Metro Traffic Data Inc.
+                                      310 N. Irwin Street - Suite 20                                                     Prepared For:                       Debbie Yueh
+                                      Hanford, CA 93230                                                                                            Dowling Associates Inc.
+                                                                                                                                              180 Grand Avenue, Suite 250
+                                      800-975-6938 Phone/Fax                                                                                           Oakland, CA 94612
+                                      www.metrotrafficdata.com
+                                                                                                                                                            510-839-1742
+
+
+                    LOCATION          Fruitvale Avenue @ 12th Street                        LATITUDE                    37°46'34.55"N
+
+                     COUNTY                     Alameda                                 LONGITUDE                   122°13'35.45"W
+
+
+         COLLECTION DATE                        4/23/2009                                   WEATHER                        Clear
+
+
+
+                          Northbound Bikes        N.Leg         Southbound Bikes      S.Leg       Eastbound Bikes          E.Leg           Westbound Bikes        W.Leg
+      Time              Left    Thru    Right     Peds        Left    Thru    Right   Peds     Left    Thru     Right      Peds         Left    Thru    Right     Peds
+7:00 AM - 7:15 AM        0       1        0          8         0       0        0       1       0        0        5           3          2        2        0         6
+7:15 AM - 7:30 AM        0       0        0         11         0       0        0       5       4        3        1           3          1        2        0         2
+7:30 AM - 7:45 AM        1       0        1          5         0       0        0       4       0        0        6           1          0        3        0         0
+7:45 AM - 8:00 AM        0       0        0          7         0       0        0       2       0        0        5           1          0        3        0         2
+8:00 AM - 8:15 AM        0       1        0          9         0       0        0      45       0        1        2           1          0        0        0         3
+8:15 AM - 8:30 AM        0       0        1          6         0       0        0      10       1        1        4           3          0        2        0         6
+8:30 AM - 8:45 AM        0       0        0         12         0       0        0       8       0        1        4           4          1        1        0        10
+8:45 AM - 9:00 AM        0       0        0          0         1       1        0       2       0        0        0           1          0        1        0         4
+     TOTAL               1       2        2         58         1       1        0      77       5        6       27          17          4       14        0        33
+
+                          Northbound Bikes        N.Leg         Southbound Bikes      S.Leg       Eastbound Bikes          E.Leg           Westbound Bikes        W.Leg
+      Time              Left    Thru    Right     Peds        Left    Thru    Right   Peds     Left    Thru     Right      Peds         Left    Thru    Right     Peds
+4:00 PM - 4:15 PM        0        0       0          8         1       1        0        3      0        0        0           2          0        0        0        9
+4:15 PM - 4:30 PM        0        1       0          7         0       0        0        3      0        0        0           2          0        0        0        8
+4:30 PM - 4:45 PM        1        0       1          6         0       1        0        2      0        4        1           3          0        1        0        9
+4:45 PM - 5:00 PM        1        0       1          6         0       0        0       15      0        4        0           7          0        0        0        8
+5:00 PM - 5:15 PM        0        2       0          8         0       0        0       15      0        1        2           8          0        0        0       14
+5:15 PM - 5:30 PM        0        1       0          5         0       1        0       12      0        1        2           4          0        2        0       11
+5:30 PM - 5:45 PM        0        5       2          9         0       0        1        3      0        3        1           6          1        0        0       11
+5:45 PM - 6:00 PM        0        1       0         11         0       0        0        7      0        2        1           2          0        2        0       11
+     TOTAL               2       10       4         60         1       3        1       60      0       15        7          34          1        5        0       81
+
+
+
+
+                                                                                                                                                              Page 2 of 3
+                  Metro Traffic Data Inc.                 Turning Movement Report
+                  310 N. Irwin Street - Suite 20
+                  Hanford, CA 93230                                                   Prepared For:                        Debbie Yueh
+                                                                                                                 Dowling Associates Inc.
+                  800-975-6938 Phone/Fax                                                                   180 Grand Avenue, Suite 250
+                  www.metrotrafficdata.com                                                                          Oakland, CA 94612
+
+
+                                                                                                                          510-839-1742
+      LOCATION    Fruitvale Avenue @ 12th Street     N/S STREET                      12th Street
+
+        COUNTY              Alameda                  E/W STREET                   Fruitvale Avenue
+
+
+COLLECTION DATE             4/23/2009                  WEATHER                          Clear
+
+     CYCLE TIME            98 Seconds              CONTROL TYPE                         Signal
+
+
+
+
+                                                    COMMENTS      Westbound approach has permitted left turns, all
+                                                                  other approaches have protected left turns.
+                                                                  Southbound right turn is a separate intersection.
+
+
+
+
+                                                                                                                            Page 3 of 3
+

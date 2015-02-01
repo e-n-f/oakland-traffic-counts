@@ -1,0 +1,37 @@
+                                                        PEDESTRIAN CROSSWALK COUNTS
+                                              #010 Martin Luther King Jr. Way & West Grand Avenue - PM PEAK
+    LOCATION#:             010                                                       QTD PROJ#:         600113
+   NORTH / SOUTH:          Martin Luther King Jr. Way                                  DATE:            Wednesday, February 09, 2011
+    EAST / WEST:           West Grand Avenue                                          VICINITY:         Oakland, CA
+
+
+
+    DIRECTION:               NORTHERN CROSSWALK             SOUTHERN CROSSWALK       EASTERN CROSSWALK                  WESTERN CROSSWALK                 TOTALS
+    4:00 PM                                   6                       3                          16                                   2                     27
+    4:15 PM                                   3                       5                          13                                   6                     27
+    4:30 PM                                  10                       6                           4                                  25                     45
+    4:45 PM                                   3                       5                          10                                  12                     30
+    5:00 PM                                   7                      10                          13                                   6                     36
+    5:15 PM                                   6                       9                           6                                   4                     25
+    5:30 PM                                   5                       2                           5                                   4                     16
+    5:45 PM                                   3                       3                           5                                   0                     11
+    6:00 PM
+    6:15 PM
+    6:30 PM
+    6:45 PM
+
+  VOLUME STATS:              NORTHERN CROSSWALK             SOUTHERN CROSSWALK       EASTERN CROSSWALK                  WESTERN CROSSWALK
+               TOTAL:                    43                          43                         72                                  59                      217
+                P.H.V: ₁                 23                          26                         40                                  49                      138
+                P.H.F: ₂                0.575                       0.650                      0.769                               0.490                   0.767
+
+(1) Peak Hour Volume (Peak hour begins at:    415 PM)
+(2) Peak Hour Factor
+
+
+
+
+                                                                                     QUALITY TRAFFIC DATA, LLC
+                                                                                      9701 W Pico Blvd, Suite 205, Los Angeles, CA 90035
+                                                                                      Phone: 310-341-0019 Fax: 310-807-9247 Info@QualityTrafficData.com
+

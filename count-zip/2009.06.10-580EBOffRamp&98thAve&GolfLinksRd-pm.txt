@@ -1,0 +1,23 @@
+City of Oakland
+                                                                                                                                                File Name    : Not Named 2
+                                                                                                                                                Site Code    : 00000000
+                                                                                                                                                Start Date   : 6/10/2009
+                                                                                                                                                Page No      :1
+
+
+                                                                         Groups Printed- Unshifted
+                           98TH AVE                          GOLF LINKS RD                         98TH AVE                          GOLF LINKS RD
+                              From North                         From East                            From South                         From West
+     Start Time    Right      Thru       Left   Peds   Right     Thru      Left    Peds     Right      Thru      Left   Peds   Right     Thru      Left      Peds   Int. Total
+      04:15 PM        5         73        21       0      0        18       76        0         83        0        9       0     16         9        0          0         310
+      04:30 PM        7        109        37       2      0        34      131        0       126         1        8       0     28        13        0          1         497
+      04:45 PM        6        131        37       0      0        42      136        0       152         0        9       0     29        15        0          0         557
+           Total     18        313        95       2      0        94      343        0       361         1       26       0     73        37        0          1        1364
+
+      05:00 PM       12        115        34       0      0       24      116          0      126         0         9      0    23        12          0         0        471
+      05:15 PM         8       116        35       1      0       34      115          0      161         0       10       0    45        14          0         1        540
+      05:30 PM         9        87        37       0      0       34       87          0       73         0         7      0    27          6         0         0        367
+    Grand Total      47        631       201       3      0      186      661          0      721         1       52       0   168        69          0         2       2742
+     Apprch %        5.3       71.5      22.8    0.3      0       22       78          0      93.2      0.1       6.7      0   70.3      28.9         0       0.8
+        Total %      1.7        23        7.3    0.1      0      6.8      24.1         0      26.3        0       1.9      0    6.1       2.5         0       0.1
+

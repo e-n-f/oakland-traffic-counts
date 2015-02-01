@@ -1,0 +1,55 @@
+                                     B.A.Y.M.E.T.R.I.C.S.
+                 INTERSECTION TURNING MOVEMENT SUMMARY
+PROJECT:      OAKLAND TRAFFIC STUDY                                    SURVEY DATE:       5/22/2012                    DAY:       TUESDAY
+N-S APPROACH: LAKE MERRITT BOULEVARD (12TH ST DAM)                     SURVEY TIME:        4:00 PM                     TO         6:00 PM
+E-W APPROACH:12TH / 11TH STREET                                        JURISDICTION: OAKLAND                           FILE:      3205033-36PM
+
+        PEAK HOUR                                                                               ARRIVAL / DEPARTURE VOLUMES
+ 5:00 PM   TO     6:00 PM                                 NORTH
+                             LAKE MERRITT BOULEVARD (12TH ST DAM)
+                                3     0      634                                              PHF =     0.88
+
+                                                                                                        637     329
+                                                      LAKE MERRITT BLVD
+                                                                                                                                   PHF =
+            0                                                    329                                                                0.90
+
+           647                         2032                      419                  422                                           748
+
+            0                                                     0                   647                                          1281
+
+12TH / 11TH STREET                                                                  PHF =
+                                                                                     0.88
+
+                                0       0        0                                                       0       0
+
+                                                                                                               PHF =    #DIV/0!
+
+   TIME         PERIOD              NORTHBOUND            SOUTHBOUND                        EASTBOUND                 WESTBOUND            TOTAL
+ From                To       LEFT     THRU   RIGHT    LEFT   THRU         RIGHT     LEFT     THRU    RIGHT    LEFT     THRU      RIGHT
+                                                         SURVEY              DATA
+ 4:00 PM   to      4:15 PM                              131                  1                 114                       108        95      449
+ 4:15 PM   to      4:30 PM                              241                  2                 230                       201        168     842
+ 4:30 PM   to      4:45 PM                              397                  3                 355                       278        239     1272
+ 4:45 PM   to      5:00 PM                              538                  5                 497                       349        301     1690
+ 5:00 PM   to      5:15 PM                              697                  5                 660                       458        399     2219
+ 5:15 PM   to      5:30 PM                              835                  5                 836                       552        475     2703
+ 5:30 PM   to      5:45 PM                             1014                  7                 1019                      669        554     3263
+ 5:45 PM   to      6:00 PM                             1172                  8                 1144                      768        630     3722
+                                                      TOTAL           BY     PERIOD
+ 4:00 PM   to      4:15 PM      0       0        0      131      0           1        0        114       0       0       108        95      449
+ 4:15 PM   to      4:30 PM      0       0        0      110      0           1        0        116       0       0        93        73      393
+ 4:30 PM   to      4:45 PM      0       0        0      156      0           1        0        125       0       0        77        71      430
+ 4:45 PM   to      5:00 PM      0       0        0      141      0           2        0        142       0       0        71        62      418
+ 5:00 PM   to      5:15 PM      0       0        0      159      0           0        0        163       0       0       109        98      529
+ 5:15 PM   to      5:30 PM      0       0        0      138      0           0        0        176       0       0        94        76      484
+ 5:30 PM   to      5:45 PM      0       0        0      179      0           2        0        183       0       0       117        79      560
+ 5:45 PM   to      6:00 PM      0       0        0      158      0           1        0        125       0       0        99        76      459
+                                                       HOU RLY              TO TALS
+ 4:00 PM   to      5:00 PM      0       0        0      538      0           5        0        497       0       0       349        301     1690
+ 4:15 PM   to      5:15 PM      0       0        0      566      0           4        0        546       0       0       350        304     1770
+ 4:30 PM   to      5:30 PM     0        0        0      594      0           3        0        606       0       0       351        307     1861
+ 4:45 PM   to      5:45 PM     0        0        0      617      0           4        0        664       0       0       391        315     1991
+ 5:00 PM   to      6:00 PM     0        0        0      634      0           3        0        647       0       0       419        329     2032
+                                         TEL: (510) 232 - 1271                   FAX: (510) 232 - 1272
+

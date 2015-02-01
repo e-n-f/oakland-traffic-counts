@@ -1,0 +1,55 @@
+                                    B.A.Y.M.E.T.R.I.C.S.
+                                    BICYCLE MOVEMENT SUMMARY
+PROJECT:      OAKLAND TRAFFIC STUDY                                   SURVEY DATE:       5/16/2012                    DAY:       WEDNESDAY
+N-S APPROACH: MADISON STREET                                          SURVEY TIME:        7:00 AM                     TO         9:00 AM
+E-W APPROACH:LAKESIDE DRIVE                                           JURISDICTION: OAKLAND                           FILE:      3205033-B-42AM
+
+       PEAK HOUR                                                                             ARRIVAL / DEPARTURE VOLUMES
+8:00 AM   TO     9:00 AM      0       0        0              NORTH                              N-LEG TOTAL
+                                                                                                    0
+
+                                                     LAKESIDE DRIVE                                  0        0
+           0                                                                      LAKESIDE -LEG TOTAL
+                                                                29                   32
+           0                                                                      LAKESIDE DRIVE                                 E-LEG TOTAL
+                                                                                                                                   37
+          3                                                                          29                               LAKESIDE DRIVE
+LAKESIDE DRIVE                        40                                              3                                         37
+                                                                1
+                                                                                     4                                              0
+                                                                7                 19TH STREET
+19TH STREET                                                                       19TH ST-LEG TOTAL
+                                                                                     4
+
+                                                                                                     7      0
+                              0       0        0                                                  MADISON STREET
+                            MADISON STREET                                                N-LEG TOTAL       7
+
+   TIME        PERIOD             NORTHBOUND                SOUTHBOUND               EB (LAKESIDE DR)        WB (LAKESIDE DR)               TOTAL
+ From              To        LEFT    THRU    RIGHT    LEFT     THRU       RIGHT     LEFT Madison 19th St    Madison    19th St   Lakeside
+                                                        SURVEY              DATA
+7:00 AM   to      7:15 AM                                                                    0          0     0          0          4         4
+7:15 AM   to      7:30 AM                                                                    0          0     0          0          9         9
+7:30 AM   to      7:45 AM                                                                    0          0     1          0         10         11
+7:45 AM   to      8:00 AM                                                                    1          0     1          0         18         20
+8:00 AM   to      8:15 AM                                                                    1          0     2          0         22         25
+8:15 AM   to      8:30 AM                                                                    1          0     3          0         32         36
+8:30 AM   to      8:45 AM                                                                    1          2     6          0         36         45
+8:45 AM   to      9:00 AM                                                                    1          3     8          1         47         60
+                                                     TOTAL           BY     PERIOD
+7:00 AM   to      7:15 AM     0       0        0        0       0           0        0       0          0     0          0          4         4
+7:15 AM   to      7:30 AM     0       0        0        0       0           0        0       0          0     0          0          5         5
+7:30 AM   to      7:45 AM     0       0        0        0       0           0        0       0          0     1          0          1         2
+7:45 AM   to      8:00 AM     0       0        0        0       0           0        0       1          0     0          0          8         9
+8:00 AM   to      8:15 AM     0       0        0        0       0           0        0       0          0     1          0          4         5
+8:15 AM   to      8:30 AM     0       0        0       0        0           0        0       0          0     1          0         10         11
+8:30 AM   to      8:45 AM     0       0        0       0        0           0        0       0          2     3          0          4         9
+8:45 AM   to      9:00 AM     0       0        0       0        0           0        0       0          1     2          1         11         15
+                                                      HOU RLY              TO TALS
+7:00 AM   to      8:00 AM     0       0        0       0        0           0        0       1          0     1          0         18         20
+7:15 AM   to      8:15 AM     0       0        0       0        0           0        0       1          0     2          0         18         21
+7:30 AM   to      8:30 AM     0       0        0       0        0           0        0       1          0     3          0         23         27
+7:45 AM   to      8:45 AM     0       0        0       0        0           0        0       1          2     5          0         26         34
+8:00 AM   to      9:00 AM     0       0        0       0        0           0        0       0          3     7          1         29         40
+                                       TEL: (510) 232 - 1271                    FAX: (510) 232 - 1272
+

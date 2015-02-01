@@ -1,0 +1,230 @@
+                                                                                    Your Company Name Here
+                                                                                                This is your address
+                                                                                              Your City, State ZipCode
+Default Comments                                                                                 Your Tagline HereFile Name                    : 73rd Ave _Garfield Ave 8-26-08 8-9am
+Change These in The Preferences Window                                                                                              Site Code : 00000000
+Select File/Preference in the Main Scree                                                                                            Start Date : 8/26/2008
+Then Click the Comments Tab                                                                                                         Page No : 1
+
+
+                                                                                                Groups Printed- Unshifted
+                        73RD AVE                                                   GARFIELD AVE                         73RD AVE                                                  GARFIELD AVE
+                            From North                                                  From East                           From South                                                From West
+ Start Time     Right   Thru   Left Peds                 App. Total          Right Thru    Left Peds App. Total Right Thru     Left Peds                  App. Total        Right Thru   Left Peds                    App. Total   Int. Total
+   08:00 AM        3     188     7      0                        198           14     0     10      6       30      4    179    19      2                     204               5    2     5      0                         12        444
+   08:15 AM        8     211    11      0                        230             4    0     14      7       25      7    175    25      6                     213               7    1     2      0                         10        478
+   08:30 AM        6     164    13      0                        183             4    2      5      5       16      6    159    27      7                     199               9    1     5      0                         15        413
+   08:45 AM        6     162    12      0                        180             5    0      4      3       12    10     148    17      9                     184               3    0     4      0                          7        383
+        Total     23     725    43      0                        791           27     2     33    21        83    27     661    88     24                     800             24     4    16      0                         44       1718
+
+ Grand Total      23     725    43                   0           791           27      2     33       21            83        27      661     88     24       800               24             4          16     0          44       1718
+   Apprch %      2.9    91.7   5.4                   0                       32.5    2.4   39.8     25.3                     3.4     82.6     11      3                       54.5           9.1        36.4     0
+     Total %     1.3    42.2   2.5                   0                46      1.6    0.1    1.9      1.2           4.8       1.6     38.5    5.1    1.4      46.6              1.4           0.2         0.9     0         2.6
+
+
+
+
+                        73RD AVE                            GARFIELD AVE                                                            73RD AVE                                     GARFIELD AVE
+                              From North                          From East                                                             From South                                     From West
+  Start Time Right Thru          Left Peds App. Total Right Thru     Left Peds                                App. Total    Right   Thru   Left Peds      App. Total        Right Thru    Left Peds                   App. Total   Int. Total
+Peak Hour Analysis From 8:00:00 AM to 8:45:00 AM - Peak 1 of 1
+Peak Hour for Entire Intersection Begins at 8:00:00 AM
+ 8:00:00 AM         3 188           7       0      198   14     0     10      6                                     30         4     179     19      2        204                    5           2         5      0         12         444
+ 8:15:00 AM         8     211      11       0      230    4     0     14      7                                     25         7      175    25      6        213                    7         1           2      0         10         478
+ 8:30:00 AM         6 164          13       0      183    4     2      5      5                                     16         6      159    27      7        199                    9         1           5      0         15        413
+ 8:45:00 AM         6 162          12       0      180    5     0      4      3                                     12        10      148     17     9        184                3             0           4      0          7        383
+ Total Volume      23     725      43       0      791   27     2     33    21                                      83         27     661     88     24       800               24             4          16      0         44       1718
+  % App. Total    2.9 91.7        5.4       0          32.5   2.4 39.8 25.3                                                   3.4    82.6     11      3                       54.5           9.1        36.4      0
+         PHF .719 .859 .827 .000                  .860 .482 .250 .589 .750                                       .692       .675     .923   .815   .667      .939             .667         .500         .800   .000      .733         .899
+
+                                                                                                        73RD AVE
+                                                                                                       Out     In              Total
+                                                                                                        704     791             1495
+
+
+                                                                                                        23  725              43    0
+                                                                                                     Right Thru            Left Peds
+
+
+
+
+                                                                                                   Peak Hour Data
+                                          157
+
+
+                                                            16
+
+
+
+
+                                                                                                                                                                       Right Thru
+                                         Total
+
+
+
+
+                                                          Left
+
+
+
+
+                                                                                                                                                                                         GARFIELD AVE
+                                                                                                                                                                                         Out
+                                                                                                                                                                          27
+
+
+                                                                                                                                                                                           74
+
+
+
+
+                                                                                                                   North
+                                                                         4
+                                                          Peds Right Thru
+                                                44
+                                     GARFIELD AVE
+                                              In
+
+
+
+
+                                                                                                                                                                                 2
+
+
+
+                                                                                                                                                                                                 In
+
+
+
+
+                                                                                                  Peak Hour Begins at 08:00 AM
+                                                                                                                                                                                                   83
+                                                                  24
+
+
+
+
+                                                                                                                                                                       Left Peds
+                                                                                                                                                                         33
+
+
+
+
+                                                                                                  Unshifted
+                                       113
+                                      Out
+
+
+
+
+                                                                                                                                                                                         Total
+                                                             0
+
+
+
+
+                                                                                                                                                                                          157
+                                                                                                                                                                              21
+
+
+
+
+                                                                                                      Left Thru Right Peds
+                                                                                                        88  661    27   24
+
+
+                                                                                                        782     800             1582
+                                                                                                       Out     In              Total
+                                                                                                        73RD AVE
+                                                                                                   Your Company Name Here
+                                                                                                                    This is your address
+                                                                                                                  Your City, State ZipCode
+                                                                                                                     Your Tagline HereFile Name                     : 73rd Ave _Garfield Ave 8-26-08 8-9am
+                                                                                                                                                         Site Code : 00000000
+                                                                                                                                                         Start Date : 8/26/2008
+                                                                                                                                                         Page No : 2
+                      73RD AVE                            GARFIELD AVE                                                                                73RD AVE                                           GARFIELD AVE
+                           From North                          From East                                                                                  From South                                          From West
+  Start Time Right Thru Left Peds App. Total Right Thru Left Peds                                                                 App. Total    Right Thru   Left Peds            App. Total        Right Thru   Left Peds                                App. Total   Int. Total
+Peak Hour Analysis From 8:00:00 AM to 8:45:00 AM - Peak 1 of 1
+Peak Hour for Each Approach Begins at:
+                8:00:00 AM                                                                8:00:00 AM                                            8:00:00 AM                                          8:00:00 AM
+   +0 mins.          3       188       7                  0                   198             14          0     10          6           30           4       179     19      2        204                    5                    2           5       0         12
+   +5 mins.           8      211      11                  0                   230            4            0     14          7           25           7        175    25      6        213                    7           1                     2      0         10
+  +10 mins.         6         164     13                  0                   183            4            2       5        5            16           6        159    27      7        199                    9           1                     5      0         15
+  +15 mins.         6         162      12                 0                   180            5             0      4        3            12          10        148     17     9        184                3               0                     4      0          7
+ Total Volume      23         725      43                 0                   791           27             2     33       21            83         27         661     88     24       800               24               4                    16      0         44
+ % App. Total     2.9        91.7     5.4                 0                               32.5           2.4   39.8     25.3                      3.4        82.6     11      3                       54.5             9.1                  36.4      0
+        PHF     .719         .859   .827               .000                .860           .482         .250    .589     .750         .692       .675         .923   .815   .667      .939             .667           .500                   .800   .000      .733
+                                                                                                                             73RD AVE
+                                                                                                                           In - Peak Hour: 08:00 AM
+                                                                                                                                      281
+
+
+                                                                                                                             4  268                9   0
+                                                                                                                         Right Thru            Left Peds
+
+
+
+
+                                                                                                                       Peak Hour Data
+                                                                           5
+
+
+
+
+                                                                                                                                                                                               Right Thru
+                                            In - Peak Hour: 08:00 AM
+
+
+
+
+                                                                       Left
+
+
+
+
+                                                                                                                                                                                                                 In - Peak Hour: 08:00 AM
+                                                                                                                                                                                                                  GARFIELD AVE
+                                                                                                                                                                                                  15
+                                                                                                                                       North
+                                                                                      2
+                                                                       Peds Right Thru
+                                                         14
+                                            GARFIELD AVE
+
+
+
+
+                                                                                                                                                                                                         0
+                                                                                                                      Unshifted
+
+
+
+
+                                                                                                                                                                                                                              39
+                                                                                7
+
+
+
+
+                                                                                                                                                                                               Left Peds
+                                                                                                                                                                                                 15
+                                                                          0
+
+
+
+
+                                                                                                                                                                                                       9
+
+
+
+
+                                                                                                                          Left Thru Right Peds
+                                                                                                                            30  238     5    3
+
+
+                                                                                                                                      276
+                                                                                                                           In - Peak Hour: 08:00 AM
+                                                                                                                             73RD AVE
+

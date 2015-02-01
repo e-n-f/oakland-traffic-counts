@@ -1,0 +1,51 @@
+           B.A.Y.M.E.T.R.I.C.S.
+PEDESTRIAN MOVEMENT SUMMARY
+PROJECT:      OAKLAND TRAFFIC STUDY                                      SURVEY DATE: 5/22/2012
+N-S APPROACH: FALLON STREET                                              DAY: TUESDAY
+E-W APPROACH:8TH STREET                                                  CITY: OAKLAND
+SURVEY PERIOD: 7:00 AM      TO    9:00 AM                                FILE: 3205033-PED-33AM
+
+       PEAK HOUR                                                               PEAK HOUR
+08:00 AM     TO    09:00 AM                                             TOTAL PEDESTRIAN VOLUMES
+                                                        NORTH                     140
+
+                      H                       B    9                       H              A&B
+                              A                   60                                       69
+             3        5                                           G&H       8
+                                                   C
+
+                      G                                   D
+8TH STREET                                        18      19                              37    C&D
+                      10                      E                            26
+                      16      F                                           E&F
+       SIDEWALK
+ * JAYWALK                    FALLON STREET
+
+     TIME    PERIOD           NORTH X-WALK        EAST S-WALK   SOUTH X-WALK     WEST X-WALK
+ From                 To       A*      B*          C       D      E*     F*       G*     H      TOTAL
+                                        SURVEY           DATA
+07:00 AM     ---   07:15 AM        13     1         5      1        9       2         2   6       39
+07:15 AM     ---   07:30 AM       20     3         15     5        12      7          2   7       71
+07:30 AM     ---   07:45 AM       29     4         31     9        16      10         2   7      108
+07:45 AM     ---   08:00 AM       41     5         35     11       23      14         2   7      138
+08:00 AM     ---   08:15 AM       56     6         38     15       26      17         5   7      170
+08:15 AM     ---   08:30 AM       72     7         41     21       28      22         6   7      204
+08:30 AM     ---   08:45 AM       81     13        50     25       31      25         7   8      240
+08:45 AM     ---   09:00 AM       101    14        53     30       33      30         7   10     278
+                                  TOTAL           BY     PERIOD
+07:00 AM     ---   07:15 AM       13     1          5     1        9        2         2    6     39
+07:15 AM     ---   07:30 AM        7     2         10     4        3        5         0    1     32
+07:30 AM     ---   07:45 AM        9     1         16     4        4        3         0    0     37
+07:45 AM     ---   08:00 AM       12     1         4      2        7        4         0    0     30
+08:00 AM     ---   08:15 AM       15     1         3      4        3        3         3    0     32
+08:15 AM     ---   08:30 AM       16     1         3      6        2        5         1    0     34
+08:30 AM     ---   08:45 AM        9     6          9     4        3        3         1    1     36
+08:45 AM     ---   09:00 AM       20     1          3     5        2        5         0    2     38
+                                       HOURLY           TOTALS
+07:00 AM     ---   08:00 AM       41     5         35     11       23      14         2    7     138
+07:15 AM     ---   08:15 AM       43     5         33     14       17      15         3    1     131
+07:30 AM     ---   08:30 AM       52     4         26     16       16      15         4    0     133
+07:45 AM     ---   08:45 AM       52     9         19     16       15      15         5    1     132
+08:00 AM     ---   09:00 AM       60     9         18     19       10      16         5    3     140
+                    Tel : (510) 232-1271                        Fax: (510) 232-1272
+

@@ -1,0 +1,56 @@
+                                                                            B.A.Y.M.E.T.R.I.C.S.
+                                                                           BICYCLE                    MOVEMENT SUMMARY
+PROJECT:      OAKLAND TRAFFIC STUDY                                                                   SURVEY DATE:                              5/23/2012                                  DAY:    WEDNESDAY
+N-S APPROACH: HARRISON STREET                                                                         SURVEY TIME:                              4:00 PM                                      TO    6:00 PM
+E-W APPROACH: 20TH STREET                                                                             CITY:                     OAKLAND                                                    FILE:   3205033-B-29PM
+
+       PEAK HOUR                      KAISER CENTER                                KAISER CENTER                                                            ARRIVAL / DEPARTURE VOLUMES
+ 05:00 PM   TO        06:00 PM        PARKING GARAGE                               DRIVEWAY                   NORTH                                                KAISER CENTER        KAISER CENTER
+                                        0      0     0                0              0      0                                                                      PARKING GARAGE       DRIVEWAY
+                                               NORTH - LEG                         NORTH - LEG                                                           N-LEG TOTAL      0
+
+                                                        B                                    F                                                                            0        0                     0
+        WEST - LEG                                                                                            EAST - LEG
+20TH STREET                                                                                           HARRISON STREET                                                                                                    E-LEG TOTAL
+   0                                                                                                           0                                                               B                              F                 25
+                                                                                                                                      20TH STREET                                                                 HARRISON ST
+   7                                                        TOTAL                                                 2                      3                                                                                  4
+            C                                                 31                                         E                                         C                                                                E
+   2                                                                                                              2                       11                                                                                  21
+                                                                                                                                      W-LEG TOTAL
+   2                                                                                                              0                      14                         A                              D
+
+                                      A                                            D
+                                                                                                                                                               5      15                      2      1
+                            SOUTH - LEG                                   SOUTH - LEG                                                                       HARRISON STREET                THOMAS BERKLEY WAY
+                        1      0     14            0                  1     0     0               0                                                         S-LEG TOTAL                    S-LEG TOTAL
+                     HARRISON STREET                                THOMAS BERKLEY WAY                                                                          20                             3
+
+   TIME     PERIOD               A NB (HARRISON ST - NB)              D NB (THOMAS BERKLEY)            B SB (P. G.)     F SB (DWAY)            C EB (20TH STREET)                       E WB (HARRISON ST - SB)
+ From                  To        AC       AB       AE        AD      DA       DC        DB       DE      BC                FB    FC       CB        CE         CD         CA       ED         EA         EC         EB      TOTAL
+                                                                                                 SURVEY               DATA
+  4:00 PM   ---        4:15 PM   0                 1                  0       0                                                                      1         0          0                   0          0                     2
+  4:15 PM   ---        4:30 PM   0                 4                  0       0                                                                      5         0          0                   0          3                    12
+  4:30 PM   ---        4:45 PM   0                 5                  0       1                                                                      6         0          0                   0          4                    16
+  4:45 PM   ---        5:00 PM   0                 6                  0       1                                                                      8         0          0                   0          5                    20
+  5:00 PM   ---        5:15 PM   0                 11                 0       1                                                                      9         0          1                   0          6                    28
+  5:15 PM   ---        5:30 PM   0                 13                 0       1                                                                      9         0          1                   0          6                    30
+  5:30 PM   ---        5:45 PM   0                 16                 0       1                                                                     11         0          2                   1          6                    37
+  5:45 PM   ---        6:00 PM   1                 20                 1       1                                                                     15         2          2                   2          7                    51
+                                                                                             TOTAL           BY       PERIOD
+  4:00 PM   ---        4:15 PM   0        0        1          0       0       0         0         0      0        0        0      0       0         1          0          0        0          0          0          0          2
+  4:15 PM   ---        4:30 PM   0        0        3          0       0       0         0         0      0        0        0      0       0         4          0          0        0          0          3          0         10
+  4:30 PM   ---        4:45 PM   0        0        1          0       0       1         0         0      0        0        0      0       0         1          0          0        0          0          1          0          4
+  4:45 PM   ---        5:00 PM   0        0        1          0       0       0         0         0      0        0        0      0       0         2          0          0        0          0          1          0          4
+  5:00 PM   ---        5:15 PM   0        0        5          0       0       0         0         0      0        0        0      0       0         1          0          1        0          0          1          0          8
+  5:15 PM   ---        5:30 PM   0        0        2          0       0       0         0         0      0        0        0      0       0         0          0          0        0          0          0          0          2
+  5:30 PM   ---        5:45 PM   0        0        3          0       0       0         0         0      0        0        0      0       0         2          0          1        0          1          0          0          7
+  5:45 PM   ---        6:00 PM   1        0        4          0       1       0         0         0      0        0        0      0       0         4          2          0        0          1          1          0         14
+                                                                                                 HOURLY           TOTALS
+  4:00 PM   ---        5:00 PM   0        0        6          0       0       1       0        0         0        0        0      0       0          8         0          0        0          0          5          0         20
+  4:15 PM   ---        5:15 PM   0        0        10         0       0       1       0        0         0        0        0      0       0          8         0          1        0          0          6          0         26
+  4:30 PM   ---        5:30 PM   0        0        9          0       0       1       0        0         0        0        0      0       0          4         0          1        0          0          3          0         18
+  4:45 PM   ---        5:45 PM   0        0        11         0       0       0       0        0         0        0        0      0       0          5         0          2        0          1          2          0         21
+  5:00 PM   ---        6:00 PM   1        0        14         0       1       0       0        0         0        0        0      0       0          7         2          2        0          2          2          0         31
+                                                                              Telephone: (510)232-1271                                    Fax: (510)232-1272
+

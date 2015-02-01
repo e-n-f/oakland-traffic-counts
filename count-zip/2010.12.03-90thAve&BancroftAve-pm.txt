@@ -1,0 +1,246 @@
+City of Oakland
+                                                                        File Name                  : TM BancroftAve 90th Ave 12-3-10 PM (2)
+                                                                        Site Code                  : 00000000
+                                                                        Start Date                 : 12/3/2010
+                                                                        Page No                    :1
+
+
+                                                                     Groups Printed- Unshifted
+                BANCROFT                                        90TH                 BANCROFT                                                        90TH
+                   From North                                     From East             From South                                                     From West
+Start Time    Right   Thru   Left   Peds   App. Total   Right    Thru   Left   Peds   App. Total   Right   Thru   Left   Peds   App. Total   Right   Thru   Left   Peds   App. Total   Int. Total
+
+04:55 PM         0      0      0      0           0       7      12      7     3        29   6              80     10      2      98            0      0      0      0           0      127
+05:10 PM         0      0      0      0           0      16      21      6     3        46   8             111     18      6     143            0      0      0      0           0      189
+05:25 PM         0      0      0      0           0      18      25      8     1        52  12             102     29      2     145            0      0      0      0           0      197
+05:40 PM         0      0      0      0           0       8      30      4     4        46   7             101     25      4     137            0      0      0      0           0      183
+Grand Total      0      0      0      0           0      49      88     25    11       173  33             394     82     14     523            0      0      0      0           0      696
+Apprch %         0      0      0      0                 28.3    50.9    14.5 6.4           6.3             75.3   15.7   2.7                    0      0      0      0
+Total %          0      0      0      0           0        7    12.6    3.6 1.6       24.9 4.7             56.6   11.8     2    75.1            0      0      0      0           0
+
+
+                                                                          See page 2 for rest
+                                                                          of count
+City of Oakland
+                                                                       File Name                  : TM BancroftAve 90th Ave 12-3-10 PM (1)
+                                                                       Site Code                  : 00000000
+                                                                       Start Date                 : 12/3/2010
+                                                                       Page No                    :1
+
+
+                                                                  Groups Printed- Unshifted
+              BANCROFT AVE                                                      BANCROFT AVE
+                                                            90TH AVE                                                                            90TH AVE
+                                                               From East                                                                           From West
+                       From North                                                    From South
+Start Time    Right   Thru   Left   Peds   App. Total   Right   Thru   Left   Peds   App. Total   Right   Thru   Left   Peds   App. Total   Right   Thru   Left   Peds   App. Total   Int. Total
+
+04:55 PM       30     154     18   5        207            0      0      0      0           0        0      0      0      0           0      18 25         16     2        61          268
+05:10 PM       19     139     18   2        178            0      0      0      0           0        0      0      0      0           0      15 25         15     5        60          238
+05:25 PM       22     116     12   1        151            0      0      0      0           0        0      0      0      0           0      17 32         18     2        69          220
+05:40 PM       28     141     18   9        196            0      0      0      0           0        0      0      0      0           0      15 31         22     6        74          270
+Grand Total    99     550     66 17         732            0      0      0      0           0        0      0      0      0           0      65 113        71   15        264          996
+Apprch %      13.5    75.1     9 2.3                       0      0      0      0                    0      0      0      0                 24.6    42.8   26.9 5.7
+Total %       9.9     55.2   6.6 1.7       73.5            0      0      0      0           0        0      0      0      0           0     6.5     11.3   7.1 1.5       26.5
+City of Oakland
+                                        File Name       : TM BancroftAve 90th Ave 12-3-10 PM (1)
+                                        Site Code       : 00000000
+                                        Start Date      : 12/3/2010
+                                        Page No         :2
+                                           BANCROFT AVE
+                                           Out    In    Total
+                                             71    732   803
+
+
+                                             99  550      66   17
+                                          Right Thru    Left Peds
+           363
+
+
+                        71
+
+
+
+
+                                                                              Right Thru
+          Total
+
+
+
+
+                      Left
+
+
+
+
+                                                                                            Out
+                                                                                             179
+
+                                                                                             90TH AVE
+                                                                                  0
+                                                   North
+                                  113
+                      Peds Right Thru
+                264
+               In
+
+
+
+
+                                                                                        0
+
+
+
+                                                                                                    In
+                                            12/3/2010 04:55 PM
+      90TH AVE
+
+
+
+
+                              65
+
+
+
+
+                                                                              Left Peds
+                                            12/3/2010 05:40 PM
+
+
+
+
+                                                                                                       0
+                                                                                  0
+        99
+
+
+
+
+                                            Unshifted
+      Out
+
+
+
+
+                                                                                            Total
+                        15
+
+
+
+
+                                                                                             179
+                                                                                      0
+
+
+
+
+                                          Left Thru Right Peds
+                                              0    0    0    0
+
+
+                                            615      0   615
+                                           Out    In    Total
+                                           BANCROFT AVE
+City of Oakland
+                                   File Name       : TM BancroftAve 90th Ave 12-3-10 PM (2)
+                                   Site Code       : 00000000
+                                   Start Date      : 12/3/2010
+                                   Page No         :2
+                                       BANCROFT
+                                      Out    In        Total
+                                       443      0       443
+
+
+                                         0     0       0   0
+                                     Right Thru    Left Peds
+        170
+
+
+                    0
+
+
+
+
+                                                                         Right Thru
+       Total
+
+
+
+
+                Left
+
+
+
+
+                                                                                      Out
+                                                                            49
+
+
+                                                                                        33
+
+                                                                                        90TH
+                                              North
+                               0
+                Peds Right Thru
+            0
+
+
+
+
+                                                                                 88
+       In
+
+
+
+
+                                                                                      In
+                                       12/3/2010 05:05 PM
+
+
+
+
+                                                                                       173
+                         0
+
+
+
+
+                                                                         Left Peds
+                                       12/3/2010 05:50 PM
+       90TH
+
+
+
+
+                                                                           25
+       170
+
+
+
+
+                                       Unshifted
+      Out
+
+
+
+
+                                                                                      Total
+                   0
+
+
+
+
+                                                                                       206
+                                                                                11
+
+
+
+
+                                     Left Thru Right Peds
+                                       82  394    33   14
+
+
+                                        25    523       548
+                                      Out    In        Total
+                                       BANCROFT
+

@@ -1,0 +1,52 @@
+                             B.A.Y.M.E.T.R.I.C.S.
+                   PEDESTRIAN                                        MOVEMENT                          SUMMARY
+PROJECT:      OAKLAND TRAFFIC STUDY                                                                      SURVEY DATE:       5/23/2012
+N-S APPROACH: WEBSTER STREET                                                                             DAY: WEDNESDAY
+E-W APPROACH:9TH STREET                                                                                  CITY: OAKLAND
+SURVEY PERIOD:  4:00 PM    TO     6:00 PM                                                                FILE: 3205033-PED-26PM
+
+       PEAK HOUR                                                                                                PEAK HOUR
+04:15 PM     TO    05:15 PM                                                                             TOTAL PEDESTRIAN VOLUMES
+                                                                 NORTH                                              883
+                                                                                                 I&J
+                   I
+                                                  B        78                                    161                       A&B
+                            85       A                     72          K                                                   150
+             92        58                             87                                          G&H      150
+             H                                             C
+
+                       G                                             D
+9TH STREET                  71                             66        73                          K&L                       139   C&D
+             L         73                    E        76                                         158
+                       52        F                                                                        125
+                                                                 J                                        E&F
+                                 WEBSTER STREET
+
+     TIME PERIOD                 NORTH X-WALK          EAST X-WALK         SOUTH X-WALK WEST X-WALK               DIAGONAL X-WALK
+ From            To                A      B             C       D            E      F     G      H            I      J      K       L     TOTAL
+                                                                 SURVEY           DATA
+04:00 PM     ---   04:15 PM           15     21             16        16     11     7      15      13       20        12    21       25    192
+04:15 PM     ---   04:30 PM           27     35             35        36     28    11      24      41       39        24    36       49    385
+04:30 PM     ---   04:45 PM           59     58             52        48     44    31      39      63       56        50    70       62    632
+04:45 PM     ---   05:00 PM           71     60             64        65     63    38      50      78       82        67    88       80    806
+05:00 PM     ---   05:15 PM           87     99             82        89     84    59      73     105      105        88   108       96   1,075
+05:15 PM     ---   05:30 PM          113    118             90       101    104    70      88     122      127        96   123      109   1,261
+05:30 PM     ---   05:45 PM          140    134            102       126    131    90     116     137      145       107   132      122   1,482
+05:45 PM     ---   06:00 PM          151    147            117       137    138    95     123     144      156       121   133      123   1,585
+                                                           TOTAL            BY     PERIOD
+04:00 PM     ---   04:15 PM          15      21            16        16     11      7     15      13        20       12     21      25     192
+04:15 PM     ---   04:30 PM          12      14            19        20     17      4      9      28        19       12     15      24     193
+04:30 PM     ---   04:45 PM          32      23            17        12     16     20     15      22        17       26     34      13     247
+04:45 PM     ---   05:00 PM          12       2            12        17     19      7     11      15        26       17     18      18     174
+05:00 PM     ---   05:15 PM          16      39            18        24     21     21     23      27        23       21     20      16     269
+05:15 PM     ---   05:30 PM          26      19             8        12     20     11     15      17        22        8     15      13     186
+05:30 PM     ---   05:45 PM          27      16            12        25     27     20     28      15        18       11     9       13     221
+05:45 PM     ---   06:00 PM          11      13            15        11     7      5      7       7         11       14     1       1      103
+                                                                HOURLY            TOTALS
+04:00 PM     ---   05:00 PM          71      60            64        65     63     38     50      78        82       67     88      80     806    0
+04:15 PM     ---   05:15 PM          72      78            66        73     73     52     58      92        85       76     87      71     883    1
+04:30 PM     ---   05:30 PM          86      83            55        65     76     59     64      81        88       72     87      60     876    0
+04:45 PM     ---   05:45 PM          81      76            50        78     87     59     77      74        89       57     62      60     850    0
+05:00 PM     ---   06:00 PM          80      87            53        72     75     57     73      66        74       54     45      43     779    0
+                                           Tel : (510) 232-1271                         Fax: (510) 232-1272
+

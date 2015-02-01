@@ -1,0 +1,41 @@
+                                                VEHICLE TURNING MOVEMENT COUNT
+                                                #012 Martin Luther King Jr. Way & 29th Street - PM PEAK
+    LOCATION#:            012                                                        QTD PROJ#:        600113
+   NORTH / SOUTH:         Martin Luther King Jr. Way                                   DATE:           Wednesday, February 09, 2011
+    EAST / WEST:          29th Street                                                 VICINITY:        Oakland, CA
+
+
+
+    DIRECTION:               NL         NT          NR      SL     ST       SR      EL          ET         ER          WL          WT          WR
+                                                                                                                                                         TOTALS
+       LANES:                 0          2             0    0       2       0        0          1           0            0           1           0
+    3:00 PM
+    3:15 PM
+    3:30 PM
+    3:45 PM
+    4:00 PM                   2          51            9    3       44      0        4          1           7            6           1           9        137
+    4:15 PM                   5          51            3    4       37      2        3          3           8            4           0          12        132
+    4:30 PM                   6          64            8    4       46      4        0          2           5            5           3           7        154
+    4:45 PM                   0          56            2    5       70      1        1          4           8            4           1           7        159
+    5:00 PM                   2          74            3    4       41      2        3          1           9            9           2          10        160
+    5:15 PM                   5          81            8    8       48      0        3          3           8            4           1           8        177
+    5:30 PM                   2          68            6    7       51      1        4          5           9            5           1           8        167
+    5:45 PM                   6          57            9    5       39      0        2          3           3            3           2           9        138
+    6:00 PM
+    6:15 PM
+    6:30 PM
+    6:45 PM
+
+  VOLUME STATS:              NL         NT          NR      SL     ST       SR      EL          ET         ER          WL          WT          WR
+              TOTAL:          28        502            48   40     376      10      20         22           57          40         11           70        1224
+               P.H.V: ₁        9        279            19   24     210       4      11         13           34          22          5           33         663
+               P.H.F: ₂                0.816                      0.783                       0.806                               0.714                   0.936
+
+(1) Peak Hour Volume (Peak Hour Begins At 445 PM)
+(2) Peak Hour Factor (directional aggregate)
+
+
+                                                                                     QUALITY TRAFFIC DATA, LLC
+                                                                                     9701 W Pico Blvd, Suite 205, Los Angeles, CA 90035
+                                                                                     Phone: 310-341-0019 Fax: 310-807-9247 Info@QualityTrafficData.com
+

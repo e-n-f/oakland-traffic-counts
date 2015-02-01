@@ -1,0 +1,37 @@
+                                                         PEDESTRIAN CROSSWALK COUNTS
+                                                          #001 Peralta Street & 12th Street - PM PEAK
+    LOCATION#:             001                                                           QTD PROJ#:        600113
+   NORTH / SOUTH:          Peralta Street                                                  DATE:           Wednesday, February 09, 2011
+    EAST / WEST:           12th Street                                                    VICINITY:        Oakland, CA
+
+
+
+    DIRECTION:               NORTHERN CROSSWALK               SOUTHERN CROSSWALK        EASTERN CROSSWALK                  WESTERN CROSSWALK                 TOTALS
+    4:00 PM                                   1                         0                           0                                    3                     4
+    4:15 PM                                   4                         3                           2                                    6                     15
+    4:30 PM                                   4                         3                           7                                    2                     16
+    4:45 PM                                  17                         9                           3                                    3                     32
+    5:00 PM                                   9                         6                           3                                    4                     22
+    5:15 PM                                   7                         2                           3                                   12                     24
+    5:30 PM                                  16                         1                           1                                    4                     22
+    5:45 PM                                  12                         3                           0                                    3                     18
+    6:00 PM
+    6:15 PM
+    6:30 PM
+    6:45 PM
+
+  VOLUME STATS:              NORTHERN CROSSWALK               SOUTHERN CROSSWALK        EASTERN CROSSWALK                  WESTERN CROSSWALK
+               TOTAL:                        70                        27                          19                                  37                      153
+                P.H.V: ₁                     49                        18                          10                                  23                      100
+                P.H.F: ₂                    0.721                     0.500                       0.833                               0.479                   0.781
+
+(1) Peak Hour Volume (Peak hour begins at:     445 PM)
+(2) Peak Hour Factor
+
+
+
+
+                                                                                         QUALITY TRAFFIC DATA, LLC
+                                                                                         9701 W Pico Blvd, Suite 205, Los Angeles, CA 90035
+                                                                                         Phone: 310-341-0019 Fax: 310-807-9247 Info@QualityTrafficData.com
+

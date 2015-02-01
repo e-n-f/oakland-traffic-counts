@@ -1,0 +1,32 @@
+                                                                    PM PEAK HOUR
+                                                                    SEMINARY AVE & BANCROFT AVE
+                        Seminary from North       Bancoft from East         Seminary from South          Bancroft from West
+                                         App                        App                      App                        App
+       Start Time Right Thru Left Ped Total Right Thru Left Ped Total Right Thru Left Ped Total Right Thru Left Ped Total Peak
+         3:00 PM     18   109     13    0     140   3   112    26      0    141      24    132      11   0   167    7   132   21   0   160
+         3:15 PM      6     65     5    0      76   1    66     8      0        75   11        72    7   0    90    4    85   11   0   100
+         3:30 PM     17     78     5    0     100   4    72    11      0        87   16        64    4   0    84    5    60    6   0    71
+         3:45 PM     11     19     3    0      33   1    23     2      0        26    3        19    0   0    22    0    28    1   0    29
+           Total     11   271     26    0     349   9   273    47      0    329      54    287      22   0   363   16   305   39   0   360   709
+
+
+       PM PEAK HOUR: 3:00-4:00
+       INTERSECTION       N/S SEMINARY AVE.
+                     E/W BANCROFT AVE.
+       DATE:       Tuesday, June 12th, 2007
+       Counted by sokari Frank
+       Prepared by sokari Frank
+                                                        11 271             26
+
+Incorrect total here.                                                                     BANCROFT AVE.
+                                              39                                          9
+
+                                              305                                         273
+
+                                              16                                          47
+
+
+                                                        22 287             54
+
+                                                              SEMINARY AVE
+

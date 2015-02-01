@@ -1,0 +1,51 @@
+           B.A.Y.M.E.T.R.I.C.S.
+PEDESTRIAN MOVEMENT SUMMARY
+PROJECT:      OAKLAND TRAFFIC STUDY                                 SURVEY DATE: 5/22/2012
+N-S APPROACH: 1ST AVENUE                                            DAY: TUESDAY
+E-W APPROACH:INTERNATIONAL BLVD                                     CITY: OAKLAND
+SURVEY PERIOD: 7:00 AM     TO     9:00 AM                           FILE: 3205033-PED-34AM
+
+       PEAK HOUR                                                            PEAK HOUR
+07:15 AM    TO    08:15 AM                           NORTH         TOTAL PEDESTRIAN VOLUMES
+                                                                              173
+                                   B     21                                           A&B
+                  A                      29                                            50
+                                       1ST AVENUE                                     G&H
+                                                                                       25
+
+                                         H      G
+                                         23     2
+                                         C
+                  LAKE MERRITT
+                  BLVD                         D
+                                         31    67                                      98
+                                       INTERNATIONAL BLVD                             C&D
+
+     TIME   PERIOD           NORTH X-WALK     EAST X-WALK    SOUTH X-WALK    WEST X-WALK
+ From                 To       A      B        C       D       E      F       G      H       TOTAL
+                                       SURVEY         DATA
+07:00 AM    ---   07:15 AM    9          0      3     23                          0     1      36
+07:15 AM    ---   07:30 AM    13         2      12    45                          0     9      81
+07:30 AM    ---   07:45 AM    16         14     20     60                         0     14    124
+07:45 AM    ---   08:00 AM    27         21     29     75                         2     18    172
+08:00 AM    ---   08:15 AM    38         21     34     90                         2     24    209
+08:15 AM    ---   08:30 AM    48         23     39    103                         3     28    244
+08:30 AM    ---   08:45 AM    56         29     47    118                         9     34    293
+08:45 AM    ---   09:00 AM    64         38     55    130                         9     36    332
+                              TOTAL            BY     PERIOD
+07:00 AM    ---   07:15 AM     9          0     3     23       0       0          0     1     36
+07:15 AM    ---   07:30 AM     4          2     9     22       0       0          0     8     45
+07:30 AM    ---   07:45 AM     3         12     8     15       0       0          0     5     43
+07:45 AM    ---   08:00 AM    11         7      9     15       0       0          2     4     48
+08:00 AM    ---   08:15 AM    11         0      5     15       0       0          0     6     37
+08:15 AM    ---   08:30 AM    10         2      5     13       0       0          1     4     35
+08:30 AM    ---   08:45 AM     8          6     8     15       0       0          6     6     49
+08:45 AM    ---   09:00 AM     8          9     8     12       0       0          0     2     39
+                                   HOURLY            TOTALS
+07:00 AM    ---   08:00 AM    27         21     29    75       0       0          2     18    172
+07:15 AM    ---   08:15 AM    29         21     31    67       0       0          2     23    173
+07:30 AM    ---   08:30 AM    35         21     27    58       0       0          3     19    163
+07:45 AM    ---   08:45 AM    40         15     27    58       0       0          9     20    169
+08:00 AM    ---   09:00 AM    37         17     26    55       0       0          7     18    160
+                   Tel : (510) 232-1271                     Fax: (510) 232-1272
+

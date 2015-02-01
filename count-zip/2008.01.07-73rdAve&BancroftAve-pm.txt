@@ -1,0 +1,276 @@
+                                               Your Company Name Here
+                                                                  This is your address
+                                                                Your City, State ZipCode
+Default Comments                                                   Your Tagline Here                                        File Name       : Not Named
+Change These in The Preferences Window                                                                                      Site Code       : 00007316
+Select File/Preference in the Main Scree                                                                                    Start Date      : 1/17/2008
+Then Click the Comments Tab                                                                                                 Page No         :1
+
+
+                                                          Groups Printed- Unshifted - Bank 1 - Bank 2
+
+                       From North                             From East                          From South                       From West
+Start Time     Right   Thru   Left      Peds       Right      Thru   Left     Peds       Right   Thru   Left      Peds    Right   Thru  Left    Peds Int. Total
+      Factor     1.0    1.0    1.0       1.0         1.0       1.0    1.0      1.0         1.0    1.0    1.0       1.0      1.0    1.0   1.0     1.0
+   04:00 PM       48    117     18         0          24       165     40        0         26     106     38         0       57    191    51       0       881
+   04:15 PM       77    134      8         0          19       159     32        0         25     107     30         0       38    186    34       0       849
+   04:30 PM       57    113     12         0          22       184     36        0         46      99     38         0       57    183    50       0       897
+   04:45 PM       44    108     21         0          26       177     39        0         27     105     43         0       45    163    65       0       863
+       Total    226     472     59         0          91       685   147         0        124     417   149          0     197     723  200        0     3490
+
+ Grand Total    226     472    59             0          91    685     147         0      124        417    149       0    197     723   200       0     3490
+   Apprch %    29.9    62.4   7.8             0         9.9   74.2    15.9         0       18       60.4   21.6       0   17.6    64.6   17.9      0
+    Total %     6.5    13.5   1.7             0         2.6   19.6     4.2         0      3.6       11.9    4.3       0    5.6    20.7    5.7      0
+   Unshifted    226     472    59             0          91    685     147         0      124        417    149       0    197     723   200       0     3490
+ % Unshifted    100     100   100             0         100    100     100         0      100        100    100       0    100     100   100       0      100
+     Bank 1       0       0     0             0           0      0       0         0        0          0      0       0      0       0      0      0        0
+   % Bank 1       0       0     0             0           0      0       0         0        0          0      0       0      0       0      0      0        0
+     Bank 2       0       0     0             0           0      0       0         0        0          0      0       0      0       0      0      0        0
+   % Bank 2       0       0     0             0           0      0       0         0        0          0      0       0      0       0      0      0        0
+
+
+
+
+                                                                      Out         In        Total
+                                                                       708         757       1465
+                                                                          0          0          0
+                                                                          0          0          0
+                                                                       708         757       1465
+
+
+                                                                       226  472          59    0
+                                                                         0     0           0   0
+                                                                         0     0           0   0
+                                                                       226  472          59    0
+                                                                     Right Thru        Left Peds
+                   2180
+
+
+                   2180
+
+
+
+
+                                      200
+                       0
+                       0
+
+
+
+                                      200
+                                         0
+                                         0
+
+
+
+
+                                                                                                                  Right Thru
+                   Total
+
+
+
+
+                                     Left
+
+
+
+
+                                                                                                                                  Out
+                                                                                                                     91
+
+
+                                                                                                                     91
+
+
+                                                                                                                                   906
+
+
+                                                                                                                                   906
+                                                                                                                      0
+                                                                                                                      0
+
+
+
+
+                                                                                                                                      0
+                                                                                                                                      0
+
+
+
+
+                                                                               North
+                                                 723
+                                                 723
+                                                    0
+                                                    0
+
+                                     Peds Right Thru
+
+
+
+
+                                                                                                                         685
+
+
+                                                                                                                         685
+                   1120
+
+
+                   1120
+                       0
+                       0
+
+
+
+
+                                                                      1/17/2008 04:00 PM
+                    In
+
+
+
+
+                                                                                                                            0
+                                                                                                                            0
+
+
+
+
+                                                                      1/17/2008 04:45 PM
+                                                                                                                                  In
+                                                                                                                                   923
+
+
+                                                                                                                                   923
+                                            197
+                                              0
+                                              0
+                                            197
+
+
+
+
+                                                                                                                  Left Peds
+
+
+
+
+                                                                                                                                     0
+                                                                                                                                     0
+                                                                                                                   147
+
+
+                                                                                                                   147
+
+
+
+
+                                                                      Unshifted
+                                                                                                                      0
+                                                                                                                      0
+                   1060
+
+
+                   1060
+                       0
+                       0
+
+
+
+
+                                                                      Bank 1
+                   Out
+
+
+
+
+                                                                                                                                  Total
+                                        0
+
+
+
+
+                                                                      Bank 2
+                                                                                                                                  1829
+
+
+                                                                                                                                  1829
+                                        0
+                                        0
+                                        0
+
+
+
+
+                                                                                                                                      0
+                                                                                                                                      0
+                                                                                                                          0
+                                                                                                                          0
+                                                                                                                          0
+                                                                                                                          0
+
+
+
+
+                                                                     Left Thru Right Peds
+                                                                      149  417   124    0
+                                                                         0    0    0    0
+                                                                         0    0    0    0
+                                                                      149  417   124    0
+
+
+                                                                       816         690       1506
+                                                                          0          0          0
+                                                                          0          0          0
+                                                                       816         690       1506
+                                                                      Out         In        Total
+                                             Your Company Name Here
+                                                            This is your address
+                                                          Your City, State ZipCode
+                                                             Your Tagline Here                                                File Name          : Not Named
+                                                                                                                              Site Code          : 00007316
+                                                                                                                              Start Date         : 1/17/2008
+                                                                                                                              Page No            :2
+
+                       From North                        From East                             From South                              From West
+ Start Time   Right   ThruLeft Peds App. Total Right Thru Left Peds    App. Total   Right   Thru  Left Peds    App. Total   Right   Thru  Left Peds    App. Total   Int. Total
+Peak Hour Analysis From 04:00 PM to 04:45 PM - Peak 1 of 1
+Peak Hour for Entire Intersection Begins at 04:00 PM
+ 04:00 PM      48 117       18     0    183      24 165 40         0     229         26 106         38    0      170         57 191         51    0      299          881
+ 04:15 PM      77 134        8     0    219      19 159     32     0     210         25 107         30    0      162         38 186         34    0      258          849
+ 04:30 PM      57 113       12     0    182      22 184     36     0     242         46   99        38    0      183         57 183         50    0      290          897
+ 04:45 PM      44 108      21      0    173      26 177     39     0     242         27 105         43    0      175         45 163         65    0      273          863
+ Total Volume 226 472       59     0    757      91 685 147        0     923        124 417        149    0      690        197 723        200    0     1120         3490
+              29. 62.                                 74. 15.                            60.       21.                      17. 64.        17.
+ % App. Total              7.8     0            9.9                0                 18                   0                                       0
+                9     4                                 2    9                             4         6                        6   6          9
+              .73 .88 .70 .00                   .87 .93 .91 .00                     .67 .97        .86   .00                .86 .94        .76   .00
+        PHF                            .864                             .954                                     .943                                    .936         .973
+                4     1      2     0              5     1    9     0                  4    4         6     0                  4   6          9     0
+ Unshifted 226 472          59     0    757      91 685 147        0      923       124 417        149     0      690       197 723        200     0    1120         3490
+ % Unshifted 100 100 100           0    100 100 100 100            0      100       100 100        100     0      100       100 100        100     0     100          100
+    Bank 1      0     0      0     0       0      0     0    0     0        0         0    0         0     0        0         0   0          0     0       0            0
+ % Bank 1       0     0      0     0       0      0     0    0     0        0         0    0         0     0        0         0   0          0     0       0            0
+    Bank 2      0     0      0     0       0      0     0    0     0        0         0    0         0     0        0         0   0          0     0       0            0
+ % Bank 2       0     0      0     0       0      0     0    0     0        0         0    0         0     0        0         0   0          0     0       0            0
+
+Peak Hour Analysis From 04:00 PM to 04:45 PM - Peak 1 of 1
+Peak Hour for Each Approach Begins at:
+              04:00 PM                    04:00 PM                                  04:00 PM                                04:00 PM
+  +0 mins.      48 117   18    0     183    24 165 40      0             229          26 106        38    0      170          57 191        51    0      299
+ +15 mins.      77 134    8    0     219    19 159    32   0             210          25 107        30    0      162          38 186        34    0      258
+ +30 mins.      57 113   12    0     182    22 184    36   0             242          46   99       38    0      183          57 183        50    0      290
+ +45 mins.      44 108  21     0     173    26 177    39   0             242          27 105        43    0      175          45 163        65    0      273
+ Total Volume 226 472    59    0     757    91 685 147     0             923        124 417        149    0      690        197 723        200    0     1120
+               29. 62.                          74. 15.                                   60.      21.                       17. 64.       17.
+ % App. Total           7.8    0           9.9             0                          18                  0                                       0
+                 9    4                           2     9                                   4        6                         6    6        9
+               .73 .88 .70 .00             .87 .93 .91 .00                           .67 .97       .86   .00                 .86 .94       .76   .00
+        PHF                         .864                                .954                                     .943                                    .936
+                 4    1   2    0             5    1     9  0                           4    4        6     0                   4    6        9     0
+ Unshifted 226 472       59    0     757    91 685 147     0              923       124 417        149     0      690       197 723        200     0    1120
+ % Unshifted 100 100 100       0     100 100 100 100       0              100       100 100        100     0      100       100 100        100     0     100
+    Bank 1       0    0   0    0       0     0    0     0  0                0          0    0        0     0        0          0    0        0     0       0
+ % Bank 1        0    0   0    0       0     0    0     0  0                0          0    0        0     0        0          0    0        0     0       0
+    Bank 2       0    0   0    0       0     0    0     0  0                0          0    0        0     0        0          0    0        0     0       0
+ % Bank 2        0    0   0    0       0     0    0     0  0                0          0    0        0     0        0          0    0        0     0       0
+

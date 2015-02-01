@@ -1,0 +1,161 @@
+                                                                                            Turning Movement Report
+                                           Metro Traffic Data Inc.
+                                           310 N. Irwin Street - Suite 20                                                    Prepared For:                            Debbie Yueh
+                                           Hanford, CA 93230                                                                                              Dowling Associates Inc.
+                                                                                                                                                     180 Grand Avenue, Suite 250
+                                           800-975-6938 Phone/Fax                                                                                             Oakland, CA 94612
+                                           www.metrotrafficdata.com
+                                                                                                                                                                   510-839-1742
+
+
+                    LOCATION             San Leandro Street @ 35th Avenue                         LATITUDE                  37°46'26.48"N
+
+                     COUNTY                          Alameda                                  LONGITUDE                   122°13'27.33"W
+
+
+         COLLECTION DATE                             4/22/2009                                    WEATHER                      Clear
+
+
+
+                                   Northbound                                Southbound                       Eastbound                                 Westbound
+      Time              Left      Thru    Right       Trucks       Left     Thru    Right   Trucks   Left    Thru   Right     Trucks        Left       Thru   Right       Trucks
+7:00 AM - 7:15 AM        0         43      19            x          27       62       0        x      0       0       0          x           18         2       9            x
+7:15 AM - 7:30 AM        0         73      28            x          30       64       0        x      0       1       0          x           19         0      11            x
+7:30 AM - 7:45 AM        0        107      22            x          18       63       0        x      0       0       0          x           20         1      21            x
+7:45 AM - 8:00 AM        0        134      44            x          29       57       0        x      0       0       0          x           35         0      22            x
+8:00 AM - 8:15 AM        1        198      39            x          31       79       0        x      1       2       1          x           24         0      25            x
+8:15 AM - 8:30 AM        0        155      34            x          28       89       1        x      0       2       1          x           22         1      20            x
+8:30 AM - 8:45 AM        0        117      34            x          26       85       1        x      2       0       0          x           42         2      28            x
+8:45 AM - 9:00 AM        1        133      25            x          38       90       2        x      1       0       0          x           21         2      22            x
+     TOTAL               2        960      245           x         227      589       4        x      4       5       2          x          201         8      158           x
+
+                                   Northbound                                Southbound                       Eastbound                                 Westbound
+      Time              Left      Thru    Right       Trucks       Left     Thru    Right   Trucks   Left    Thru   Right     Trucks        Left       Thru   Right       Trucks
+4:00 PM - 4:15 PM        1         85      50            x          40      125       0        x      0       0        2         x           28         0      22            x
+4:15 PM - 4:30 PM        0         95      32            x          37       84       2        x      2       1        1         x           32         1      23            x
+4:30 PM - 4:45 PM        2         88      37            x          40      105       0        x      0       1        1         x           35         1      24            x
+4:45 PM - 5:00 PM        1         82      38            x          49      124       2        x      2       0        1         x           20         2      23            x
+5:00 PM - 5:15 PM        2         90      40            x          45      107       2        x      0       0        1         x           37         0      26            x
+5:15 PM - 5:30 PM        1         79      30            x          51      137       0        x      1       2        1         x           32         1      19            x
+5:30 PM - 5:45 PM        1         97      32            x          47      139       1        x      0       1        2         x           24         2      31            x
+5:45 PM - 6:00 PM        0         59      39            x          51      116       1        x      1       0        2         x           20         0      24            x
+     TOTAL               8        675      298           x         360      937       8        x      6       5       11         x          228         7      192           x
+
+                                   Northbound                                Southbound                       Eastbound                                 Westbound
+  PEAK HOUR             Left      Thru    Right       Trucks       Left     Thru    Right   Trucks   Left    Thru   Right     Trucks        Left       Thru   Right       Trucks
+
+8:00 AM - 9:00 AM        2         603        132        x         123      343       4       x       4       4       2          x          109         5        95         x
+
+4:45 PM - 5:45 PM        5         348        140        x         192      507       5       x       3       3       5          x          113         5        99         x
+
+
+
+                                                                                    San Leandro Street
+                       PHF
+
+
+                                                                            PM       5       507     192
+      AM               0.889
+
+                                                                            AM       4       343     123
+      PM               0.945
+
+
+
+                                                        PM        AM                                                 AM         PM
+
+                                                         3          4                                                95         99
+
+
+                               35th Avenue               3          4                                                 5          5                 35th Avenue
+
+
+                                                         5          2                                               109         113
+
+
+
+
+                                                                            AM       2       603     132
+
+
+                                                                            PM       5       348     140
+
+                                                                                    San Leandro Street
+                                                                                                                                                                      Page 1 of 3
+                                                                                      Turning Movement Report
+                                      Metro Traffic Data Inc.
+                                      310 N. Irwin Street - Suite 20                                                     Prepared For:                       Debbie Yueh
+                                      Hanford, CA 93230                                                                                            Dowling Associates Inc.
+                                                                                                                                              180 Grand Avenue, Suite 250
+                                      800-975-6938 Phone/Fax                                                                                           Oakland, CA 94612
+                                      www.metrotrafficdata.com
+                                                                                                                                                            510-839-1742
+
+
+                    LOCATION        San Leandro Street @ 35th Avenue                        LATITUDE                    37°46'26.48"N
+
+                     COUNTY                     Alameda                                 LONGITUDE                   122°13'27.33"W
+
+
+         COLLECTION DATE                        4/22/2009                                   WEATHER                        Clear
+
+
+
+                          Northbound Bikes        N.Leg         Southbound Bikes      S.Leg       Eastbound Bikes          E.Leg           Westbound Bikes        W.Leg
+      Time              Left    Thru    Right     Peds        Left    Thru    Right   Peds     Left    Thru     Right      Peds         Left    Thru    Right     Peds
+7:00 AM - 7:15 AM        0       1        1          4         0       1        0       0       0        0        0           2          0        0        0         3
+7:15 AM - 7:30 AM        0       0        0          1         0       0        0       0       0        0        0           1          0        0        0         1
+7:30 AM - 7:45 AM        0       0        0          3         0       0        0       2       0        0        0           1          0        0        0         1
+7:45 AM - 8:00 AM        0       0        0          3         0       0        0       3       0        0        0           0          0        1        0         0
+8:00 AM - 8:15 AM        0       0        0          2         0       0        0       0       0        0        0           1          1        0        0         2
+8:15 AM - 8:30 AM        0       0        0          2         0       0        0       1       0        0        0           1          0        0        0         1
+8:30 AM - 8:45 AM        0       1        0          2         0       0        0       1       0        0        0           0          0        0        0         1
+8:45 AM - 9:00 AM        0       0        0          2         0       0        0       2       0        0        0           5          0        0        0         1
+     TOTAL               0       2        1         19         0       1        0       9       0        0        0          11          1        1        0        10
+
+                          Northbound Bikes        N.Leg         Southbound Bikes      S.Leg       Eastbound Bikes          E.Leg           Westbound Bikes        W.Leg
+      Time              Left    Thru    Right     Peds        Left    Thru    Right   Peds     Left    Thru     Right      Peds         Left    Thru    Right     Peds
+4:00 PM - 4:15 PM        0       0        0          1         0       1        0        1      0        0        0          0           0        0        0        0
+4:15 PM - 4:30 PM        0       0        0          2         0       0        0        1      0        1        0          1           0        0        1        1
+4:30 PM - 4:45 PM        0       0        0          1         0       1        0        3      0        1        0          0           0        0        0        0
+4:45 PM - 5:00 PM        0       0        0          0         0       2        0        0      0        0        0          1           0        0        1        1
+5:00 PM - 5:15 PM        0       0        0          3         0       1        0        1      0        0        0          0           0        0        0        0
+5:15 PM - 5:30 PM        0       0        0          1         0       1        0        5      0        2        0          2           0        1        0        0
+5:30 PM - 5:45 PM        0       0        0          3         0       0        0        3      0        0        0          0           0        1        0        0
+5:45 PM - 6:00 PM        0       1        0          3         0       0        0        0      0        2        0          0           0        0        0        0
+     TOTAL               0       1        0         14         0       6        0       14      0        6        0          4           0        2        2        2
+
+
+
+
+                                                                                                                                                              Page 2 of 3
+                    Metro Traffic Data Inc.                 Turning Movement Report
+                    310 N. Irwin Street - Suite 20
+                    Hanford, CA 93230                                                  Prepared For:                       Debbie Yueh
+                                                                                                                 Dowling Associates Inc.
+                    800-975-6938 Phone/Fax                                                                 180 Grand Avenue, Suite 250
+                    www.metrotrafficdata.com                                                                        Oakland, CA 94612
+
+
+                                                                                                                          510-839-1742
+      LOCATION    San Leandro Street @ 35th Avenue     N/S STREET                 San Leandro Street
+
+        COUNTY                Alameda                  E/W STREET                     35th Avenue
+
+
+COLLECTION DATE               4/22/2009                  WEATHER                         Clear
+
+     CYCLE TIME             174 Seconds              CONTROL TYPE                        Signal
+
+
+
+
+                                                      COMMENTS      Eastbound and westbound approaches have
+                                                                    permitted left turns. Northbound and southbound
+                                                                    approaches have protected/permitted left turns.
+
+
+
+
+                                                                                                                            Page 3 of 3
+

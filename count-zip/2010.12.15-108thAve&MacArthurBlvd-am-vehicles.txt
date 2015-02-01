@@ -1,0 +1,150 @@
+                                                   PEAK HOUR ITM SUMMARY
+                                                   #001   MacArthur Blvd  &  108th Ave
+
+ LOCATION#:          001                                               QTD PROJ#:            500137                                                                   AM PEAK:           745 AM
+NORTH / SOUTH:       MacArthur Blvd                                      DATE:               Wednesday, December 15, 2010                                             MD PEAK:
+
+ EAST / WEST:        108th Ave                                          VICINITY:            City of Oakland, CA                                                      PM PEAK:           500 PM
+
+
+
+
+                                                                                                                  MacArthur Blvd
+                                                    LN            0        1        0
+
+
+
+
+                                                                                                                                                  TOTAL
+                                                    AM            3       186       4                                                                     683
+
+
+
+
+                                                                                                                                                  PM
+                                                    MD            0        0        0                                                                     273
+
+
+
+
+                                                                                                                                                  MD
+                                                    PM            7       275       23                                                                     0
+
+
+
+
+                                                                                                                                                  AM
+                                                   TOTAL          10      461       27                                                                    410
+
+
+
+
+            TOTAL     PM    MD    AM                                                                                                                                             TOTAL    PM      MD    AM     LN
+
+
+
+                37    28    0     9                                                                                                                                               39      22      0     17     0
+
+                                                                                                          NORTH                                                                   8       6       0     2      1
+
+                                                                                                                                                                                  18      12      0     6      0
+                     108th Ave
+                                                                          WEST       2-WAY STOP (E/W)                                      EAST
+
+
+
+
+                                                                                                                                                                                         108th Ave
+      LN        AM    MD    PM   TOTAL
+
+
+
+      0         11     0    8     19                                                                      SOUTH
+
+
+
+      1         3      0    6     9                                                                                                                                               12      0       55    67
+
+      0         10     0    26    36                                                                                                                                              AM      MD      PM   TOTAL
+                                                                                         MacArthur Blvd
+
+
+
+
+                                                                                                                                   TOTAL   19             625   31
+                                                    AM
+
+
+
+
+                                                                 202                                                                PM     15             243   26
+                                                    MD
+
+
+
+
+                                                                  0                                                                 MD      0             0     0
+                                                    TOTAL PM
+
+
+
+
+                                                                 313                                                                AM      4             382   5
+
+                                                                 515                                                                LN      0             1     0
+
+
+
+
+AM COUNT              7:00 AM    TO      9:00 AM                      MD COUNT                              -                      TO                -               PM COUNT             4:00 PM      TO      6:00 PM
+
+
+
+
+                                                               QUALITY  TRAFFIC  DATA,  LLC
+                                                               9701 W Pico Blvd, Suite 205,   Los Angeles, CA 90035
+                                                               Phone: 310‐341‐0019     Fax: 310‐807‐9247     Info@QualityTrafficData.com
+                                                VEHICLE TURNING MOVEMENT COUNT
+                                                        #001   MacArthur Blvd  &  108th Ave  ‐  AM PEAK
+    LOCATION#:            001                                                            QTD PROJ#:             500137
+   NORTH / SOUTH:         MacArthur Blvd                                                   DATE:                Wednesday, December 15, 2010
+    EAST / WEST:          108th Ave                                                       VICINITY:             City of Oakland, CA
+
+
+
+    DIRECTION:               NL         NT          NR        SL       ST       SR       EL            ET            ER           WL           WT            WR
+                                                                                                                                                                         TOTALS
+       LANES:                 0            1        0          0        1       0        0              1             0            0             1            0
+    6:00 AM
+    6:15 AM
+    6:30 AM
+    6:45 AM
+    7:00 AM                   0          37         0          0       39       0        1              0             2            0             0            3            82
+    7:15 AM                   1          37         0          1       39       1        0              1             1            3             0            2            86
+    7:30 AM                   0          49         0          0       45       0        0              1             2            1             0            2           100
+    7:45 AM                   0          96         1          1       51       0        4              1             3            1             0            4           162
+    8:00 AM                   2         132         0          0       52       1        1              1             4            2             1            3           199
+    8:15 AM                   2          89         3          3       32       1        4              0             2            2             1            5           144
+    8:30 AM                   0          65         1          0       51       1        2              1             1            1             0            5           128
+    8:45 AM                   0          49         0          3       49       0        0              1             4            4             1            7           118
+    9:00 AM
+    9:15 AM
+    9:30 AM
+    9:45 AM
+   10:00 AM
+   10:15 AM
+   10:30 AM
+
+  VOLUME STATS:              NL         NT          NR        SL       ST       SR       EL            ET            ER           WL           WT            WR
+              TOTAL:          5         554         5          8       358      4        12            6             19           14            3             31          1019
+               P.H.V: ₁       4         382         5          4       186      3        11            3             10            6            2             17           633
+               P.H.F: ₂                0.729                          0.910                          0.750                                    0.781                       0.795
+
+(1) Peak Hour Volume (Peak Hour Begins At 745 AM)
+(2) Peak Hour Factor (directional aggregate)
+
+
+                                                                                             QUALITY  TRAFFIC  DATA,  LLC
+                                                                                             9701 W Pico Blvd, Suite 205,   Los Angeles, CA 90035
+                                                                                             Phone: 310‐341‐0019     Fax: 310‐807‐9247     Info@QualityTrafficData.com
+

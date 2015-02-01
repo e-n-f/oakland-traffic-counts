@@ -1,0 +1,41 @@
+                                                VEHICLE TURNING MOVEMENT COUNT
+                                                          #007 Mandela & Peralta - PM PEAK
+    LOCATION#:            007                                                     QTD PROJ#:        600113
+   NORTH / SOUTH:         Mandela                                                   DATE:           Tuesday, February 08, 2011
+    EAST / WEST:          Peralta                                                  VICINITY:        Oakland, CA
+
+
+
+    DIRECTION:               NL         NT          NR     SL      ST     SR      EL         ET         ER          WL          WT          WR
+                                                                                                                                                      TOTALS
+       LANES:                 0          2           0     0       0       0      0          0           0            0           0           0
+    3:00 PM
+    3:15 PM
+    3:30 PM
+    3:45 PM
+    4:00 PM                   0         59          35     0       0       0      0          0           0            0           0           0         94
+    4:15 PM                   0         85          36     0       0       0      0          0           0            0           0           0        121
+    4:30 PM                   0         78          29     0       0       0      0          0           0            0           0           0        107
+    4:45 PM                   0         91          32     0       0       0      0          0           0            0           0           0        123
+    5:00 PM                   0         117         50     0       0       0      0          0           0            0           0           0        167
+    5:15 PM                   0         100         38     0       0       0      0          0           0            0           0           0        138
+    5:30 PM                   0         96          34     0       0       0      0          0           0            0           0           0        130
+    5:45 PM                   0         79          39     0       0       0      0          0           0            0           0           0        118
+    6:00 PM
+    6:15 PM
+    6:30 PM
+    6:45 PM
+
+  VOLUME STATS:              NL         NT          NR     SL      ST     SR      EL         ET         ER          WL          WT          WR
+              TOTAL:          0         705         293    0        0      0      0          0           0            0          0            0         998
+               P.H.V: ₁       0         404         154    0        0      0      0          0           0            0          0            0         558
+               P.H.F: ₂                0.835                      0.000                    0.000                               0.000                   0.835
+
+(1) Peak Hour Volume (Peak Hour Begins At 445 PM)
+(2) Peak Hour Factor (directional aggregate)
+
+
+                                                                                  QUALITY TRAFFIC DATA, LLC
+                                                                                  9701 W Pico Blvd, Suite 205, Los Angeles, CA 90035
+                                                                                  Phone: 310-341-0019 Fax: 310-807-9247 Info@QualityTrafficData.com
+

@@ -1,0 +1,245 @@
+                                                               B.A.Y.M.E.T.R.I.C.S.
+                                INTERSECTION TURNING MOVEMENT SUMMARY
+PROJECT:                        CALDECOTT TRAFFIC STUDY                                               SURVEY DATE:                 5/22/2013                 DAY: WEDNESDAY
+N-S APPROACH:                   TUNNEL ROAD    - HILLER DRIVE                                         SURVEY TIME:                  3:00 PM                  TO       6:00 PM
+E-W APPROACH:                   SR-13                                                                 JURISDICTION:             OAKLAND                      FILE: 3305058-4PM
+                                                                                                                           ARRIVAL / DEPARTURE VOLUMES                              Approach   Departure
+       PEAK HOUR                                                                                                  Tunnel Road                   Hiller Drive                        Volumes    Volumes
+ 3:45 PM    to   4:45 PM                                                                   NORTH                                                                            1          877
+         TUNNEL ROAD                                                    HILLER DRIVE                                                                                        2          432
+           877    432             68          12                  47      56     33            1                                                                            3           68
+            1      2               3                               4       5      6                                                             4                       U-Turn 3        12
+                                                                                                                   1 2 3
+                                                                                                                                                    56           TUNNEL Total         1389         949
+                                                                                                                                                                        4               36
+                                                                                                                                                                        5               65
+                                                                                                                                                                        6               30
+                                                                                                                                                                        U-Turn 6         1
+                                                   2745                                                                                                           HILLERTotal          137         158
+                                                                                                                                                                            7           36
+                                                                                                                                                                            8           65
+                                                                                                                                                         9 8 7              9           30
+                                                                                                                           12 11 10
+                                                                                                                                                                        U-Turn 9         0
+                                                                                                                                                                 TUNNELTotal           131         675
+                       12         11           10                          9          8        7                                                                       10              210
+              0       825         53          210                 0        30        65       36                                                                       11               53
+                                                                                                                                                                       12              825
+           SR-13                                                        TUNNEL ROAD                                                                                     U-Turn 12        0
+                                                                                                                      SR-13                     Tunnel Road SR-13 Total               1088         963
+                                         NORTHBOUND                                SOUTHBOUND                             EASTBOUND                       WESTBOUND
+   TIME           PERIOD                 TUNNEL ROAD                               TUNNEL ROAD                               SR-13                       HILLER DRIVE                          TOTAL
+ From                 To        U-Turn         9          8       7     U-Turn        3        2          1    U-Turn      12     11      10        U-Turn        6         5           4
+                                                                                      SURVEY                  DATA
+ 3:00 PM     to       3:15 PM                  4        17         8       1           9       93       145               186     15      17           1          10       16           13         535
+ 3:15 PM     to       3:30 PM                 13        33        14       3          32      210       327               356     36      37           1          20       39           27        1148
+ 3:30 PM     to       3:45 PM                 18        48        23       7          54      332       537               546     48      75           1          29       56           40        1814
+ 3:45 PM     to       4:00 PM                 24        62        35       8          66      455       738               778     60     128           1          34       70           54        2513
+ 4:00 PM     to       4:15 PM                 30        79        43       10         79      538       960               986     78     187           1          48       86           64        3189
+ 4:15 PM     to       4:30 PM                 38       100        52       15        100      646      1190              1157     87     235           2          54      101           73        3850
+ 4:30 PM     to       4:45 PM                 48       113        59       19        122      764      1414              1371     101    285           2          62      112           87        4559
+ 4:45 PM     to       5:00 PM                 55       132        67       22        135      902      1650              1559     114    340           2          66      117           96        5257
+ 5:00 PM     to       5:15 PM                 62       153        72       24        158     1011      1858              1754     129    375           2          66      134           99        5897
+ 5:15 PM     to       5:30 PM                 73       171        75       27        176     1115      2091              1923     139    417           2          69      150          111        6539
+ 5:30 PM     to       5:45 PM                 82       187        80       31        200     1224      2366              2131     150    472           3          76      160          118        7280
+ 5:45 PM     to       6:00 PM                 95       199        82       34        220     1339      2583              2338     158    519           4          92      169          132        7964
+                                                                                   TOTAL             BY       PERIOD
+ 3:00 PM     to       3:15 PM      0           4          17       8        1         9        93      145        0       186     15      17           1          10       16          13          535
+ 3:15 PM     to       3:30 PM      0           9          16       6        2        23       117      182        0       170     21      20           0          10       23          14          613
+ 3:30 PM     to       3:45 PM      0           5          15       9        4        22       122      210        0       190     12      38           0          9        17          13          666
+ 3:45 PM     to       4:00 PM      0           6          14      12        1        12       123      201        0       232     12      53           0          5        14          14          699
+ 4:00 PM     to       4:15 PM      0           6          17       8        2        13        83      222        0       208     18      59           0          14       16          10          676
+ 4:15 PM     to       4:30 PM      0           8          21       9        5        21       108      230        0       171      9      48           1          6        15           9          661
+ 4:30 PM     to       4:45 PM      0          10          13       7        4        22       118      224        0       214     14      50           0          8        11          14          709
+ 4:45 PM     to       5:00 PM      0           7          19       8        3        13       138      236        0       188     13      55           0          4         5           9          698
+ 5:00 PM     to       5:15 PM      0           7          21       5        2        23       109      208        0       195     15      35           0          0        17           3          640
+ 5:15 PM     to       5:30 PM      0          11          18       3        3        18       104      233        0       169     10      42           0          3        16          12          642
+ 5:30 PM     to       5:45 PM      0           9          16       5        4        24       109      275        0       208     11      55           1          7        10           7          741
+ 5:45 PM     to       6:00 PM      0          13          12       2        3        20       115      217        0       207      8      47           1          16        9          14          684
+MOVEMENT TOTAL                     0          82       187       80        31       200      1224     2366        0      2131     150     472          3         76       160          118
+APPROACH TOTAL                                                   349                                  3821                               2753                                          357
+                                                                                    HOURLY                TOTALS
+ 3:00 PM     to       4:00 PM      0          24          62      35       8         66       455      738        0       778     60     128           1          34       70          54         2513
+ 3:15 PM     to       4:15 PM      0          26          62      35       9         70       445      815        0       800     63     170           0          38       70          51         2654
+ 3:30 PM     to       4:30 PM      0          25          67      38       12        68       436      863        0       801     51     198           1          34       62          46         2702
+ 3:45 PM     to       4:45 PM      0          30          65      36       12        68       432      877        0       825     53     210           1          33       56          47         2745
+ 4:00 PM     to       5:00 PM      0          31          70      32       14        69       447      912        0       781     54     212           1          32       47          42         2744
+ 4:15 PM     to       5:15 PM      0          32          74      29       14        79       473      898        0       768     51     188           1          18       48          35         2708
+ 4:30 PM     to       5:30 PM      0          35          71      23       12        76       469      901        0       766     52     182           0          15       49          38         2689
+ 4:45 PM     to       5:45 PM      0          34          74      21       12        78       460      952        0       760     49     187           1          14       48          31         2721
+ 5:00 PM     to       6:00 PM      0          40          67      15       12        85       437      933        0       779     44     179           2          26       52          36         2707
+                                                                                PEAK       HOUR               SUMMARY
+ 3:45 PM   to   4:45 PM          NBU          NBL     NBT       NBR       SBU       SBL       SBT      SBR       EBU     EBL     EBT     EBR         WBU         WBL      WBT         WBR        TOTAL
+VOLUME                            0            30      65        36        12        68       432      877        0      825      53     210          1           33       56          47         2745
+PHF BY MOVEMENT                  0.00         0.75    0.77      0.75      0.60      0.77      0.88     0.95      0.00    0.89    0.74    0.89        0.25        0.59     0.88        0.84     OVERALL
+PHF BY APPROACH                  0.86                                     0.94                                   0.92                                0.86                                         0.97
+
+
+                                    Approach           Link      Peak Hour Vol       Peak Hour Vol     Peak Hour Vol     Peak Hour Vol
+                                                                (included Truck)    (without Truck)       (Truck)          (Bicycle)
+                                         SB             1              877                876                1                 0
+                                                        2              432                430                2                12
+                                                        3               68                 68                0                 0
+                                                     U-Turn3            12                 12                0                 0
+                                                      Total           1389               1386                3                12
+                                         WB             4               47                 47                0                 2
+                                                        5               56                 55                1                 0
+                                                        6               33                 33                0                 0
+                                                     U-Turn6             1                 1                 0                 0
+                                                      Total            137                136                1                 2
+                                         NB             7               36                 36                0                 0
+                                                        8               65                 63                2                 7
+                                                        9               30                 30                0                 0
+                                                     U-Turn9             0                 0                 0                 0
+                                                      Total            131                129                2                 7
+                                         EB            10              210                210                0                 0
+                                                       11               53                 52                1                 0
+                                                       12              825                820                5                 0
+                                                     U-Turn12            0                 0                 0                 0
+                                                      Total           1088               1082                6                 0
+
+
+                                                                 TEL: (510) 232 - 1271                         FAX: (510) 232 - 1272
+                                                         B.A.Y.M.E.T.R.I.C.S.
+                                           TRUCK TURNING MOVEMENT SUMMARY
+PROJECT:                        CALDECOTT TRAFFIC STUDY                               SURVEY DATE:                   5/22/2013                DAY: WEDNESDAY
+N-S APPROACH:                   TUNNEL ROAD    - HILLER DRIVE                         SURVEY TIME:                    3:00 PM                 TO       6:00 PM
+E-W APPROACH:                   SR-13                                                 JURISDICTION:               OAKLAND                     FILE: 3305058-4PM
+                                                                                                             ARRIVAL / DEPARTURE VOLUMES                           Approach   Departure
+       PEAK HOUR                                                                                    Tunnel Road                  Hiller Drive                      Volumes    Volumes
+ 3:45 PM   to    4:45 PM                                                      NORTH                                                                        1           1
+         TUNNEL ROAD                                           HILLER DRIVE                                                                                2           2
+           1       2               0       0              0       1     0         0                                                                        3           0
+           1       2               3                      4       5     6                                                        4                     U-Turn 3        0
+                                                                                                     1 2 3
+                                                                                                                                     56           TUNNEL Total         3           7
+                                                                                                                                                         4             0
+                                                                                                                                                         5             2
+                                                                                                                                                         6             0
+                                                                                                                                                       U-Turn 6        0
+                                                12                                                                                                HILLERTotal          1           1
+                                                                                                                                                           7           0
+                                                                                                                                                           8           2
+                                                                                                                                          9 8 7            9           0
+                                                                                                             12 11 10
+                                                                                                                                                       U-Turn 9        0
+                                                                                                                                                  TUNNELTotal          2           2
+                      12          11       10                     9       8       7                                                                     10             0
+              0       5           1        0              0       0       2       0                                                                     11             1
+                                                                                                                                                        12             5
+           SR-13                                               TUNNEL ROAD                                                                             U-Turn 12       0
+                                                                                                        SR-13                    Tunnel Road SR-13 Total               6           2
+                                         NORTHBOUND                     SOUTHBOUND                          EASTBOUND                      WESTBOUND
+   TIME           PERIOD                 TUNNEL ROAD                    TUNNEL ROAD                            SR-13                      HILLER DRIVE                        TOTAL
+ From                 To        U-Turn     9         8    7    U-Turn     3       2        1     U-Turn      12     11      10       U-Turn        6       5           4
+                                                                          SURVEY                DATA
+ 3:00 PM     to       3:15 PM                        1                    0       2        0                2           0                                  0                       5
+ 3:15 PM     to       3:30 PM                        1                    0       2        0                2           0                                  0                       5
+ 3:30 PM     to       3:45 PM                        2                    0       4        1                4           0                                  0                      11
+ 3:45 PM     to       4:00 PM                        2                    0       4        1                6           1                                  0                      14
+ 4:00 PM     to       4:15 PM                        2                    0       5        1                6           1                                  1                      16
+ 4:15 PM     to       4:30 PM                        2                    0       5        1                9           1                                  1                      19
+ 4:30 PM     to       4:45 PM                        4                    0       6        2                9           1                                  1                      23
+ 4:45 PM     to       5:00 PM                        4                    0       7        2                9           1                                  1                      24
+ 5:00 PM     to       5:15 PM                        4                    1       7        3                10          1                                  1                      27
+ 5:15 PM     to       5:30 PM                        4                    1       7        3                11          1                                  1                      28
+ 5:30 PM     to       5:45 PM                        4                    1       9        3                13          1                                  1                      32
+ 5:45 PM     to       6:00 PM                        4                    1       9        5                13          1                                  1                      34
+                                                                        TOTAL         BY        PERIOD
+ 3:00 PM     to       3:15 PM      0       0         1    0       0       0       2        0        0        2          0   0           0          0       0           0           5
+ 3:15 PM     to       3:30 PM      0       0         0    0       0       0       0        0        0        0          0   0           0          0       0           0           0
+ 3:30 PM     to       3:45 PM      0       0         1    0       0       0       2        1        0        2          0   0           0          0       0           0           6
+ 3:45 PM     to       4:00 PM      0       0         0    0       0       0       0        0        0        2          1   0           0          0       0           0           3
+ 4:00 PM     to       4:15 PM      0       0         0    0       0       0       1        0        0        0          0   0           0          0       1           0           2
+ 4:15 PM     to       4:30 PM      0       0         0    0       0       0       0        0        0        3          0   0           0          0       0           0           3
+ 4:30 PM     to       4:45 PM      0       0         2    0       0       0       1        1        0        0          0   0           0          0       0           0           4
+ 4:45 PM     to       5:00 PM      0       0         0    0       0       0       1        0        0        0          0   0           0          0       0           0           1
+ 5:00 PM     to       5:15 PM      0       0         0    0       0       1       0        1        0        1          0   0           0          0       0           0           3
+ 5:15 PM     to       5:30 PM      0       0         0    0       0       0       0        0        0        1          0   0           0          0       0           0           1
+ 5:30 PM     to       5:45 PM      0       0         0    0       0       0       2        0        0        2          0   0           0          0       0           0           4
+ 5:45 PM     to       6:00 PM      0       0         0    0       0       0       0        2        0        0          0   0           0          0       0           0           2
+MOVEMENT TOTAL                     0       0         4    0       0       1       9         3       0       13          1    0          0          0       1           0
+APPROACH TOTAL                                            4                                13                               14                                         1
+                                                                         HOURLY             TOTALS
+ 3:00 PM     to       4:00 PM      0       0         2    0       0       0       4        1        0        6          1   0           0          0       0           0          14
+ 3:15 PM     to       4:15 PM      0       0         1    0       0       0       3        1        0        4          1   0           0          0       1           0          11
+ 3:30 PM     to       4:30 PM      0       0         1    0       0       0       3        1        0        7          1   0           0          0       1           0          14
+ 3:45 PM     to       4:45 PM      0       0         2    0       0       0       2        1        0        5          1   0           0          0       1           0          12
+ 4:00 PM     to       5:00 PM      0       0         2    0       0       0       3        1        0        3          0   0           0          0       1           0          10
+ 4:15 PM     to       5:15 PM      0       0         2    0       0       1       2        2        0        4          0   0           0          0       0           0          11
+ 4:30 PM     to       5:30 PM      0       0         2    0       0       1       2        2        0        2          0   0           0          0       0           0           9
+ 4:45 PM     to       5:45 PM      0       0         0    0       0       1       3        1        0        4          0   0           0          0       0           0           9
+ 5:00 PM     to       6:00 PM      0       0         0    0       0       1       2        3        0        4          0   0           0          0       0           0          10
+                                                          TEL: (510) 232 - 1271                 FAX: (510) 232 - 1272
+                                                          B.A.Y.M.E.T.R.I.C.S.
+                                         BICYCLE TURNING MOVEMENT SUMMARY
+PROJECT:                        CALDECOTT TRAFFIC STUDY                                 SURVEY DATE:                   5/22/2013                DAY: WEDNESDAY
+N-S APPROACH:                   TUNNEL ROAD    - HILLER DRIVE                           SURVEY TIME:                    3:00 PM                 TO       6:00 PM
+E-W APPROACH:                   SR-13                                                   JURISDICTION:               OAKLAND                     FILE: 3305058-4PM
+                                                                                                               ARRIVAL / DEPARTURE VOLUMES                           Approach   Departure
+       PEAK HOUR                                                                                      Tunnel Road                  Hiller Drive                      Volumes    Volumes
+ 3:45 PM   to    4:45 PM                                                       NORTH                                                                         1            0
+         TUNNEL ROAD                                            HILLER DRIVE                                                                                 2           12
+           0      12               0       0               2       0     0         0                                                                         3            0
+           1       2               3                       4       5     6                                                         4                     U-Turn 3         0
+                                                                                                       1 2 3
+                                                                                                                                       56           TUNNEL Total         12          9
+                                                                                                                                                           4              0
+                                                                                                                                                           5              7
+                                                                                                                                                           6              0
+                                                                                                                                                         U-Turn 6         0
+                                                21                                                                                                  HILLERTotal           2          0
+                                                                                                                                                             7           0
+                                                                                                                                                             8           7
+                                                                                                                                            9 8 7            9           0
+                                                                                                               12 11 10
+                                                                                                                                                         U-Turn 9        0
+                                                                                                                                                    TUNNELTotal          7          12
+                      12          11       10                      9       8       7                                                                      10             0
+              0        0           0        0              0       0       7       0                                                                      11             0
+                                                                                                                                                          12             0
+           SR-13                                                TUNNEL ROAD                                                                              U-Turn 12       0
+                                                                                                          SR-13                    Tunnel Road SR-13 Total               0           0
+                                         NORTHBOUND                      SOUTHBOUND                           EASTBOUND                      WESTBOUND
+   TIME           PERIOD                 TUNNEL ROAD                     TUNNEL ROAD                             SR-13                      HILLER DRIVE                        TOTAL
+ From                 To        U-Turn     9         8     7    U-Turn     3       2         1     U-Turn      12     11      10       U-Turn        6       5           4
+                                                                           SURVEY                 DATA
+ 3:00 PM     to       3:15 PM                        0     0                        1                                                                0                   0           1
+ 3:15 PM     to       3:30 PM                        0     0                        3                                                                0                   0           3
+ 3:30 PM     to       3:45 PM                        2     1                        6                                                                1                   1          11
+ 3:45 PM     to       4:00 PM                        3     1                        7                                                                1                   3          15
+ 4:00 PM     to       4:15 PM                        6     1                        8                                                                1                   3          19
+ 4:15 PM     to       4:30 PM                        9     1                       13                                                                1                   3          27
+ 4:30 PM     to       4:45 PM                        9     1                       18                                                                1                   3          32
+ 4:45 PM     to       5:00 PM                        10    1                       23                                                                1                   3          38
+ 5:00 PM     to       5:15 PM                        14    1                       25                                                                1                   3          44
+ 5:15 PM     to       5:30 PM                        15    1                       29                                                                1                   3          49
+ 5:30 PM     to       5:45 PM                        16    1                       36                                                                1                   3          57
+ 5:45 PM     to       6:00 PM                        16    1                       45                                                                1                   3          66
+                                                                         TOTAL          BY        PERIOD
+ 3:00 PM     to       3:15 PM      0       0         0     0       0       0       1         0        0        0          0   0           0          0       0           0           1
+ 3:15 PM     to       3:30 PM      0       0         0     0       0       0       2         0        0        0          0   0           0          0       0           0           2
+ 3:30 PM     to       3:45 PM      0       0         2     1       0       0       3         0        0        0          0   0           0          1       0           1           8
+ 3:45 PM     to       4:00 PM      0       0         1     0       0       0       1         0        0        0          0   0           0          0       0           2           4
+ 4:00 PM     to       4:15 PM      0       0         3     0       0       0       1         0        0        0          0   0           0          0       0           0           4
+ 4:15 PM     to       4:30 PM      0       0         3     0       0       0       5         0        0        0          0   0           0          0       0           0           8
+ 4:30 PM     to       4:45 PM      0       0         0     0       0       0       5         0        0        0          0   0           0          0       0           0           5
+ 4:45 PM     to       5:00 PM      0       0         1     0       0       0       5         0        0        0          0   0           0          0       0           0           6
+ 5:00 PM     to       5:15 PM      0       0         4     0       0       0       2         0        0        0          0   0           0          0       0           0           6
+ 5:15 PM     to       5:30 PM      0       0         1     0       0       0       4         0        0        0          0   0           0          0       0           0           5
+ 5:30 PM     to       5:45 PM      0       0         1     0       0       0       7         0        0        0          0   0           0          0       0           0           8
+ 5:45 PM     to       6:00 PM      0       0         0     0       0       0       9         0        0        0          0   0           0          0       0           0           9
+MOVEMENT TOTAL                     0       0         16     1      0       0       36         0       0        0          0   0           0          1       0           3
+APPROACH TOTAL                                             17                                36                               0                                          4
+                                                                          HOURLY              TOTALS
+ 3:00 PM     to       4:00 PM      0       0         3     1       0       0        7        0        0        0          0   0           0          1       0           3          15
+ 3:15 PM     to       4:15 PM      0       0         6     1       0       0        7        0        0        0          0   0           0          1       0           3          18
+ 3:30 PM     to       4:30 PM      0       0         9     1       0       0       10        0        0        0          0   0           0          1       0           3          24
+ 3:45 PM     to       4:45 PM      0       0         7     0       0       0       12        0        0        0          0   0           0          0       0           2          21
+ 4:00 PM     to       5:00 PM      0       0         7     0       0       0       16        0        0        0          0   0           0          0       0           0          23
+ 4:15 PM     to       5:15 PM      0       0         8     0       0       0       17        0        0        0          0   0           0          0       0           0          25
+ 4:30 PM     to       5:30 PM      0       0         6     0       0       0       16        0        0        0          0   0           0          0       0           0          22
+ 4:45 PM     to       5:45 PM      0       0         7     0       0       0       18        0        0        0          0   0           0          0       0           0          25
+ 5:00 PM     to       6:00 PM      0       0         6     0       0       0       22        0        0        0          0   0           0          0       0           0          28
+                                                           TEL: (510) 232 - 1271                  FAX: (510) 232 - 1272
+

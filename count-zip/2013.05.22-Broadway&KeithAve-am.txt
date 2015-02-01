@@ -1,0 +1,310 @@
+                                                              B.A.Y.M.E.T.R.I.C.S.
+                               INTERSECTION TURNING MOVEMENT SUMMARY
+PROJECT:                      CALDECOTT TRAFFIC STUDY                                                  SURVEY DATE:                   5/22/2013                        DAY: WEDNESDAY
+N-S APPROACH:                 BROADWAY                                                                 SURVEY TIME:                    6:00 AM                         TO       9:00 AM
+E-W APPROACH:                 KEITH AVENUE                                                             JURISDICTION:               OAKLAND                             FILE: 3305058-5AM
+                                                                                                                                                                                     Approach   Departure
+      PEAK HOUR                                                                                                             ARRIVAL / DEPARTURE VOLUMES                              Volumes    Volumes
+ 7:30 AM to     8:30 AM             BROADWAY                                               NORTH                                                                               1         71
+                                      0    71                  423       18                                                                                                    2        423
+                                            1                   2        3                                                                                                     3         18
+                                                                                                                                      from Viaduct                       N-END Total    512        1469
+SR-24 EB OFF-RAMP                                                                                                        from Patton St        from Broadwa]
+                                                                                                                                               1 2 3
+            12      470                                                                          0                                                                              8        712
+                                                                                                                                                                          S-END Total    712        678
+            11      123                                                                          0
+                                                           2147                                                                                                                     9    43
+            10      287                                                                          0
+                                                                                                                 SR-24 EB                                                      10        287
+                                                                                                                 Off-Ramp
+                                                                                                                                                                               11        123
+                9    43                                                                          0                    12                     P13                               12        470
+                                                                                                                      11
+                                                                                                                      10                                                 W-END Total     923         0
+KEITH AVENUE                                                                                                           9                           P15
+                                                                                                                  Keith Avenue
+                                                                8
+                                      0    0                   712        0                                                                        8
+                                    BROADWAY                                                                                                 Broadwa]
+
+                                    NORTHBOUND                                   SOUTHBOUND                               EASTBOUND                                     WESTBOUND
+  TIME          PERIOD                  BROADWAY                       Patton    Viaduct Broadway                EB SR24 Offramp         Keith Street                                           TOTAL
+ From               To                                 8                  3        2             1                 12       11          10          9
+                                                                                    SURVEY                      DATA
+ 6:00 AM   to       6:15 AM                             22               1         25             1                  2     2             9          2                                                64
+ 6:15 AM   to       6:30 AM                             54               1         72             1                  6     6            20          4                                               164
+ 6:30 AM   to       6:45 AM                             88               2        148             3                 18     9            36          5                                               309
+ 6:45 AM   to       7:00 AM                            151               2        234             4                 37    16            63          8                                               515
+ 7:00 AM   to       7:15 AM                            231               2        315            11                 67    28            93         17                                               764
+ 7:15 AM   to       7:30 AM                            324               9        419            16                121    55            143        29                                              1116
+ 7:30 AM   to       7:45 AM                            486               14       504            24                225    92            267        33                                              1645
+ 7:45 AM   to       8:00 AM                            664               20       607            48                357    110           295        45                                              2146
+ 8:00 AM   to       8:15 AM                            839               23       727            62                467    142           347        57                                              2664
+ 8:15 AM   to       8:30 AM                           1036               27       842            87                591    178           430        72                                              3263
+ 8:30 AM   to       8:45 AM                           1197               37       939           127                707    196           491        87                                              3781
+ 8:45 AM   to       9:00 AM                           1364               44       1034          153                787    220           549        101                                             4252
+                                                                                 TOTAL                 BY       PERIOD
+ 6:00 AM   to       6:15 AM    0         0             22         0      1         25            1          0        2       2           9           2           0       0          0     0          64
+ 6:15 AM   to       6:30 AM    0         0             32         0      0         47            0          0        4       4          11           2           0       0          0     0         100
+ 6:30 AM   to       6:45 AM    0         0             34         0      1         76            2          0       12       3          16           1           0       0          0     0         145
+ 6:45 AM   to       7:00 AM    0         0             63         0      0         86            1          0       19       7          27           3           0       0          0     0         206
+ 7:00 AM   to       7:15 AM    0         0             80         0      0         81            7          0       30      12          30           9           0       0          0     0         249
+ 7:15 AM   to       7:30 AM    0         0             93         0      7        104            5          0       54      27          50          12           0       0          0     0         352
+ 7:30 AM   to       7:45 AM    0         0            162         0      5         85            8          0      104      37          124          4           0       0          0     0         529
+ 7:45 AM   to       8:00 AM    0         0            178         0      6        103           24          0      132      18          28          12           0       0          0     0         501
+ 8:00 AM   to       8:15 AM    0         0            175         0      3        120           14          0      110      32          52          12           0       0          0     0         518
+ 8:15 AM   to       8:30 AM    0         0            197         0      4        115           25          0      124      36          83          15           0       0          0     0         599
+ 8:30 AM   to       8:45 AM    0         0            161         0      10        97           40          0      116      18          61          15           0       0          0     0         518
+ 8:45 AM   to       9:00 AM    0         0            167         0      7         95           26          0       80      24          58          14           0       0          0     0         471
+MOVEMENT TOTAL                 0         0         1197           0      37       939           127      0        707     196           491         87           0       0          0     0
+APPROACH TOTAL                                 1197                                      1103                                    1481                                           0
+                                                                                  HOURLY                        TOTALS
+ 6:00 AM   to       7:00 AM    0         0            151         0      2        234             4         0       37    16            63           8           0       0          0     0         515
+ 6:15 AM   to       7:15 AM    0         0            209         0      1        290            10         0       65    26            84          15           0       0          0     0         700
+ 6:30 AM   to       7:30 AM    0         0            270         0      8        347            15         0      115    49            123         25           0       0          0     0         952
+ 6:45 AM   to       7:45 AM    0         0            398         0      12       356            21         0      207    83            231         28           0       0          0     0        1336
+ 7:00 AM   to       8:00 AM    0         0            513         0      18       373            44         0      320    94            232         37           0       0          0     0        1631
+ 7:15 AM   to       8:15 AM    0         0            608         0      21       412            51         0      400    114           254         40           0       0          0     0        1900
+ 7:30 AM   to       8:30 AM    0         0            712         0      18       423            71         0      470    123           287         43           0       0          0     0        2147
+ 7:45 AM   to       8:45 AM    0         0            711         0      23       435           103         0      482    104           224         54           0       0          0     0        2136
+ 8:00 AM   to       9:00 AM    0         0            700         0      24       427           105         0      430    110           254         56           0       0          0     0        2106
+                                                                              PEAK          HOUR                SUMMARY
+ 7:30 AM to   8:30 AM                                  8                  3        2             1                 12       11          10          9                                            TOTAL
+VOLUME                         0          0           712        0       18       423            71         0     470     123           287         43            0       0         0     0       2147
+PHF BY MOVEMENT                         0.00          0.90     0.00     0.75      0.88          0.71              0.89    0.83          0.58       0.72         0.00    0.00      0.00   0.00   OVERALL
+PHF BY APPROACH                                0.90                                      0.89                                    0.86                                          0.00                0.90
+
+
+                                Approach              Link     Peak Hour Vol      Peak Hour Vol         Peak Hour Vol     Peak Hour Vol            Peak Hour Vol
+                                                              (included Truck)   (without Truck)           (Truck)          (Bicycle)               (Pedestrian)
+                                   SB                   1             71                69                    2                 0
+                                                        2            423               420                    3                 0
+                                                        3             18                15                    3                 0
+                                                      Total          512               504                    8                 0
+                                   NB                   8            712               701                   11                 0                         P15
+                                                      Total          712               701                   11                 0                          21
+                                   EB                   9             43                42                    1                 0
+                                                       10            287               282                    5                 4
+                                                       11            123               115                    8                 0                         P13
+                                                       12            470               460                   10                 0
+                                                      Total          923               899                   24                 4                         37
+
+
+                                                                  TEL: (510) 232 - 1271                          FAX: (510) 232 - 1272
+                                                  B.A.Y.M.E.T.R.I.C.S.
+                                    TRUCK TURNING MOVEMENT SUMMARY
+PROJECT:                      CALDECOTT TRAFFIC STUDY                                       SURVEY DATE:                5/22/2013                DAY: WEDNESDAY
+N-S APPROACH:                 BROADWAY                                                      SURVEY TIME:                 6:00 AM                 TO      9:00 AM
+E-W APPROACH:                 KEITH AVENUE                                                  JURISDICTION:            OAKLAND                     FILE: 3305058-5AM
+                                                                                                                                                               ApproachDeparture
+      PEAK HOUR                                                                                               ARRIVAL / DEPARTURE VOLUMES                      Volumes Volumes
+7:30 AM   to    8:30 AM            BROADWAY                                      NORTH                                                                   1        2
+                                     0    2                3      3                                                                                      2        3
+                                          1                2      3                                                                                      3        3
+                                                                                                                        from Viaduct               N-END Total    8        26
+SR-24 EB OFF-RAMP                                                                                          from Patton St        from Broadwa]
+                                                                                                                             1 2 3
+               12    10                                                              0                                                                   8        11
+                                                                                                                                                   S-END Total    11        17
+               11    8                             2.00%                             0
+                                                    43                                                                                                     9      1
+               10    5                                                               0
+                                                                                                   SR-24 EB                                              10        5
+                                                                                                   Off-Ramp
+                                                                                                                                                         11        8
+                9    1                                                               0                  12                                               12       10
+                                                                                                        11
+                                                                                                        10                                         W-END Total    24        0
+KEITH AVENUE                                                                                             9
+                                                                                                    Keith Avenue
+                                                            8
+                                     0    0                11     0                                                                8
+                                   BROADWAY                                                                                  Broadwa]
+
+                                   NORTHBOUND                            SOUTHBOUND                         EASTBOUND                            WESTBOUND
+  TIME         PERIOD               BROADWAY                    Patton   Viaduct Broadway          EB SR24 Offramp      Keith Street                                   TOTAL
+ From                To                       8                   3        2         1               12       11        10        9
+                                                                          SURVEY                  DATA
+6:00 AM   to        6:15 AM                    0                  0        0         0                0       0          0        0                                          0
+6:15 AM   to        6:30 AM                    2                  0        1         0                0       0          0        0                                          3
+6:30 AM   to        6:45 AM                    3                  0        2         0                1       0          0        0                                          6
+6:45 AM   to        7:00 AM                    6                  0        3         0                2       0          0        0                                         11
+7:00 AM   to        7:15 AM                    8                  2        4         0                2       0          0        0                                         16
+7:15 AM   to        7:30 AM                   12                  2        4         0                4       0          3        0                                         25
+7:30 AM   to        7:45 AM                   17                  3        4         0                6       0          6        0                                         36
+7:45 AM   to        8:00 AM                   18                  4        5         2                8       1          6        0                                         44
+8:00 AM   to        8:15 AM                   18                  4        6         2               11       6          7        1                                         55
+8:15 AM   to        8:30 AM                   23                  5        7         2               14       8          8        1                                         68
+8:30 AM   to        8:45 AM                   25                  8        8         3               17       8         11        2                                         82
+8:45 AM   to        9:00 AM                   27                  8        10        4               21       8         12        2                                         92
+                                                                         TOTAL           BY       PERIOD
+6:00 AM   to        6:15 AM    0     0        0            0      0        0         0        0       0       0         0         0      0         0       0      0          0
+6:15 AM   to        6:30 AM    0     0        2            0      0        1         0        0       0       0         0         0      0         0       0      0          3
+6:30 AM   to        6:45 AM    0     0        1            0      0        1         0        0       1       0         0         0      0         0       0      0          3
+6:45 AM   to        7:00 AM    0     0        3            0      0        1         0        0       1       0         0         0      0         0       0      0          5
+7:00 AM   to        7:15 AM    0     0        2            0      2        1         0        0       0       0         0         0      0         0       0      0          5
+7:15 AM   to        7:30 AM    0     0        4            0      0        0         0        0       2       0         3         0      0         0       0      0          9
+7:30 AM   to        7:45 AM    0     0        5            0      1        0         0        0       2       0         3         0      0         0       0      0         11
+7:45 AM   to        8:00 AM    0     0        1            0      1        1         2        0       2       1         0         0      0         0       0      0          8
+8:00 AM   to        8:15 AM    0     0        0            0      0        1         0        0       3       5         1         1      0         0       0      0         11
+8:15 AM   to        8:30 AM    0     0        5            0      1        1         0        0       3       2         1         0      0         0       0      0         13
+8:30 AM   to        8:45 AM    0     0        2            0      3        1         1        0       3       0         3         1      0         0       0      0         14
+8:45 AM   to        9:00 AM    0     0        2            0      0        2         1        0       4       0         1         0      0         0       0      0         10
+MOVEMENT TOTAL                 0     0        25           0      8        8         3        0      17       8         11        2      0         0       0      0
+APPROACH TOTAL                           25                                     19                                 38                                  0
+                                                                         HOURLY               TOTALS
+6:00 AM   to        7:00 AM    0     0         6           0      0        3         0        0       2       0         0         0      0         0       0      0         11
+6:15 AM   to        7:15 AM    0     0         8           0      2        4         0        0       2       0         0         0      0         0       0      0         16
+6:30 AM   to        7:30 AM    0     0        10           0      2        3         0        0       4       0         3         0      0         0       0      0         22
+6:45 AM   to        7:45 AM    0     0        14           0      3        2         0        0       5       0         6         0      0         0       0      0         30
+7:00 AM   to        8:00 AM    0     0        12           0      4        2         2        0       6       1         6         0      0         0       0      0         33
+7:15 AM   to        8:15 AM    0     0        10           0      2        2         2        0       9       6         7         1      0         0       0      0         39
+7:30 AM   to        8:30 AM    0     0        11           0      3        3         2        0      10       8         5         1      0         0       0      0         43
+7:45 AM   to        8:45 AM    0     0         8           0      5        4         3        0      11       8         5         2      0         0       0      0         46
+8:00 AM   to        9:00 AM    0     0         9           0      4        5         2        0      13       7         6         2      0         0       0      0         48
+                                                         TEL: (510) 232 - 1271                    FAX: (510) 232 - 1272
+                                                 B.A.Y.M.E.T.R.I.C.S.
+                                   BICYCLE TURNING MOVEMENT SUMMARY
+PROJECT:                      CALDECOTT TRAFFIC STUDY                                  SURVEY DATE:                5/22/2013                DAY: WEDNESDAY
+N-S APPROACH:                 BROADWAY                                                 SURVEY TIME:                 6:00 AM                 TO      9:00 AM
+E-W APPROACH:                 KEITH AVENUE                                             JURISDICTION:            OAKLAND                     FILE: 3305058-5AM
+                                                                                                                                                          ApproachDeparture
+      PEAK HOUR                                                                                          ARRIVAL / DEPARTURE VOLUMES                      Volumes Volumes
+7:30 AM   to    8:30 AM            BROADWAY                                 NORTH                                                                   1        0
+                                     0    0           0      0                                                                                      2        0
+                                          1           2      3                                                                                      3        0
+                                                                                                                   from Viaduct               N-END Total    0         4
+SR-24 EB OFF-RAMP                                                                                     from Patton St        from Broadwa]
+                                                                                                                       1 2 3
+               12    0                                                         0                                                                    8        0
+                                                                                                                                              S-END Total    0         0
+               11    0                                                         0
+                                                 4                                                                                                    9      0
+               10    4                                                         0
+                                                                                              SR-24 EB                                              10       4
+                                                                                              Off-Ramp
+                                                                                                                                                    11       0
+                9    0                                                         0                   12                                               12       0
+                                                                                                   11
+                                                                                                   10                                         W-END Total    4         0
+KEITH AVENUE                                                                                        9
+                                                                                               Keith Avenue
+                                                      8
+                                     0    0           0      0                                                               8
+                                   BROADWAY                                                                            Broadwa]
+
+                                   NORTHBOUND                       SOUTHBOUND                         EASTBOUND                            WESTBOUND
+  TIME         PERIOD               BROADWAY               Patton   Viaduct Broadway          EB SR24 Offramp     Keith Street                                    TOTAL
+ From                To                      8               3        2        1                12       11       10        9
+                                                                     SURVEY                  DATA
+6:00 AM   to        6:15 AM                                                                                       0                                                    0
+6:15 AM   to        6:30 AM                                                                                       0                                                    0
+6:30 AM   to        6:45 AM                                                                                       0                                                    0
+6:45 AM   to        7:00 AM                                                                                       1                                                    1
+7:00 AM   to        7:15 AM                                                                                       1                                                    1
+7:15 AM   to        7:30 AM                                                                                       2                                                    2
+7:30 AM   to        7:45 AM                                                                                       2                                                    2
+7:45 AM   to        8:00 AM                                                                                       5                                                    5
+8:00 AM   to        8:15 AM                                                                                       6                                                    6
+8:15 AM   to        8:30 AM                                                                                       6                                                    6
+8:30 AM   to        8:45 AM                                                                                       6                                                    6
+8:45 AM   to        9:00 AM                                                                                       6                                                    6
+                                                                    TOTAL          BY        PERIOD
+6:00 AM   to        6:15 AM    0     0       0        0      0        0        0         0       0       0        0         0       0         0       0      0         0
+6:15 AM   to        6:30 AM    0     0       0        0      0        0        0         0       0       0        0         0       0         0       0      0         0
+6:30 AM   to        6:45 AM    0     0       0        0      0        0        0         0       0       0        0         0       0         0       0      0         0
+6:45 AM   to        7:00 AM    0     0       0        0      0        0        0         0       0       0        1         0       0         0       0      0         1
+7:00 AM   to        7:15 AM    0     0       0        0      0        0        0         0       0       0        0         0       0         0       0      0         0
+7:15 AM   to        7:30 AM    0     0       0        0      0        0        0         0       0       0        1         0       0         0       0      0         1
+7:30 AM   to        7:45 AM    0     0       0        0      0        0        0         0       0       0        0         0       0         0       0      0         0
+7:45 AM   to        8:00 AM    0     0       0        0      0        0        0         0       0       0        3         0       0         0       0      0         3
+8:00 AM   to        8:15 AM    0     0       0        0      0        0        0         0       0       0        1         0       0         0       0      0         1
+8:15 AM   to        8:30 AM    0     0       0        0      0        0        0         0       0       0        0         0       0         0       0      0         0
+8:30 AM   to        8:45 AM    0     0       0        0      0        0        0         0       0       0        0         0       0         0       0      0         0
+8:45 AM   to        9:00 AM    0     0       0        0      0        0        0         0       0       0        0         0       0         0       0      0         0
+MOVEMENT TOTAL                 0     0       0        0      0        0        0         0      0        0        6         0       0         0       0      0
+APPROACH TOTAL                           0                                 0                                  6                                   0
+                                                                    HOURLY               TOTALS
+6:00 AM   to        7:00 AM    0     0       0        0      0        0        0         0       0       0        1         0       0         0       0      0         1
+6:15 AM   to        7:15 AM    0     0       0        0      0        0        0         0       0       0        1         0       0         0       0      0         1
+6:30 AM   to        7:30 AM    0     0       0        0      0        0        0         0       0       0        2         0       0         0       0      0         2
+6:45 AM   to        7:45 AM    0     0       0        0      0        0        0         0       0       0        2         0       0         0       0      0         2
+7:00 AM   to        8:00 AM    0     0       0        0      0        0        0         0       0       0        4         0       0         0       0      0         4
+7:15 AM   to        8:15 AM    0     0       0        0      0        0        0         0       0       0        5         0       0         0       0      0         5
+7:30 AM   to        8:30 AM    0     0       0        0      0        0        0         0       0       0        4         0       0         0       0      0         4
+7:45 AM   to        8:45 AM    0     0       0        0      0        0        0         0       0       0        4         0       0         0       0      0         4
+8:00 AM   to        9:00 AM    0     0       0        0      0        0        0         0       0       0        1         0       0         0       0      0         1
+                                                     TEL: (510) 232 - 1271                   FAX: (510) 232 - 1272
+                                                   B.A.Y.M.E.T.R.I.C.S.
+                                     PEDESTRIAN TURNING MOVEMENT SUMMARY
+PROJECT:                      CALDECOTT TRAFFIC STUDY                                   SURVEY DATE:                5/22/2013                DAY: WEDNESDAY
+N-S APPROACH:                 BROADWAY                                                  SURVEY TIME:                 6:00 AM                 TO       9:00 AM
+E-W APPROACH:                 KEITH AVENUE                                              JURISDICTION:            OAKLAND                     FILE: 3305058-5AM
+
+     PEAK HOUR                                                                                             ARRIVAL / DEPARTURE VOLUMES
+ 7:30 AM to    8:30 AM               BROADWAY                                NORTH
+                                       37   0          0      0
+                                       P13  1          2      3
+                                                                                                                    from Viaduct
+SR-24 EB OFF-RAMP                                                                                      from Patton St        from Broadwa]
+                                                                                                                         1 2 3
+            12       0                                                          0                                                                      P13   37
+                                                                                                                                                       P15   21
+            11       0                                                          0
+                                                   0
+            10       0                                                          0
+                                                                                                SR-24 EB
+                                                                                                Off-Ramp
+                9    0                                                          0                   12                   P13
+                                                                                                    11
+                                                                                                    10
+KEITH AVENUE                                                                                         9                         P15
+                                                                                                Keith Avenue
+                                       P15             8
+                                       21   0          0      0                                                                8
+                                     BROADWAY                                                                            Broadwa]
+
+                                      NORTHBOUND                     SOUTHBOUND                         EASTBOUND                             WESTBOUND
+  TIME          PERIOD                BROADWAY              Patton   Viaduct Broadway          EB SR24 Offramp      Keith Street                                  TOTAL
+ From               To         P15             8              3        2        1        P13     12        11       10          9
+                                                                        SURVEY                 DATA
+ 6:00 AM   to       6:15 AM     3                                                         0                                                                          0
+ 6:15 AM   to       6:30 AM     3                                                         0                                                                          0
+ 6:30 AM   to       6:45 AM     4                                                         1                                                                          0
+ 6:45 AM   to       7:00 AM    10                                                         1                                                                          0
+ 7:00 AM   to       7:15 AM    12                                                         7                                                                          0
+ 7:15 AM   to       7:30 AM    16                                                        11                                                                          0
+ 7:30 AM   to       7:45 AM    20                                                        12                                                                          0
+ 7:45 AM   to       8:00 AM    27                                                        16                                                                          0
+ 8:00 AM   to       8:15 AM    33                                                        42                                                                          0
+ 8:15 AM   to       8:30 AM    37                                                        48                                                                          0
+ 8:30 AM   to       8:45 AM    41                                                        48                                                                          0
+ 8:45 AM   to       9:00 AM    42                                                        48                                                                          0
+                                                                     TOTAL          BY         PERIOD
+ 6:00 AM   to       6:15 AM    3       0       0       0      0        0        0         0       0        0        0           0    0         0        0    0       0
+ 6:15 AM   to       6:30 AM    0       0       0       0      0        0        0         0       0        0        0           0    0         0        0    0       0
+ 6:30 AM   to       6:45 AM    1       0       0       0      0        0        0         1       0        0        0           0    0         0        0    0       0
+ 6:45 AM   to       7:00 AM    6       0       0       0      0        0        0         0       0        0        0           0    0         0        0    0       0
+ 7:00 AM   to       7:15 AM    2       0       0       0      0        0        0         6       0        0        0           0    0         0        0    0       0
+ 7:15 AM   to       7:30 AM    4       0       0       0      0        0        0         4       0        0        0           0    0         0        0    0       0
+ 7:30 AM   to       7:45 AM    4       0       0       0      0        0        0         1       0        0        0           0    0         0        0    0       0
+ 7:45 AM   to       8:00 AM    7       0       0       0      0        0        0         4       0        0        0           0    0         0        0    0       0
+ 8:00 AM   to       8:15 AM    6       0       0       0      0        0        0        26       0        0        0           0    0         0        0    0       0
+ 8:15 AM   to       8:30 AM    4       0       0       0      0        0        0         6       0        0        0           0    0         0        0    0       0
+ 8:30 AM   to       8:45 AM    4       0       0       0      0        0        0         0       0        0        0           0    0         0        0    0       0
+ 8:45 AM   to       9:00 AM    1       0       0       0      0        0        0         0       0        0        0           0    0         0        0    0       0
+MOVEMENT TOTAL                 41      0       0       0      0        0        0        48       0        0        0           0    0         0       0     0
+APPROACH TOTAL                             0                                0                                   0                                  0
+                                                                      HOURLY                  TOTALS
+ 6:00 AM   to       7:00 AM    10      0       0       0      0        0        0         1       0        0        0           0    0         0        0    0       0
+ 6:15 AM   to       7:15 AM     9      0       0       0      0        0        0         7       0        0        0           0    0         0        0    0       0
+ 6:30 AM   to       7:30 AM    13      0       0       0      0        0        0        11       0        0        0           0    0         0        0    0       0
+ 6:45 AM   to       7:45 AM    16      0       0       0      0        0        0        11       0        0        0           0    0         0        0    0       0
+ 7:00 AM   to       8:00 AM    17      0       0       0      0        0        0        15       0        0        0           0    0         0        0    0       0
+ 7:15 AM   to       8:15 AM    21      0       0       0      0        0        0        35       0        0        0           0    0         0        0    0       0
+ 7:30 AM   to       8:30 AM    21      0       0       0      0        0        0        37       0        0        0           0    0         0        0    0       0
+ 7:45 AM   to       8:45 AM    21      0       0       0      0        0        0        36       0        0        0           0    0         0        0    0       0
+ 8:00 AM   to       9:00 AM    15      0       0       0      0        0        0        32       0        0        0           0    0         0        0    0       0
+                                                       TEL: (510) 232 - 1271                   FAX: (510) 232 - 1272
+

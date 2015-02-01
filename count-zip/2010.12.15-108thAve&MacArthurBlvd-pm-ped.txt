@@ -1,0 +1,37 @@
+                                                            PEDESTRIAN CROSSWALK COUNTS
+                                                             #001   MacArthur Blvd  &  108th Ave  ‐  PM PEAK
+    LOCATION#:             001                                                                QTD PROJ#:           500137
+   NORTH / SOUTH:          MacArthur Blvd                                                       DATE:              Wednesday, December 15, 2010
+    EAST / WEST:           108th Ave                                                           VICINITY:           City of Oakland, CA
+
+
+
+    DIRECTION:               NORTHERN CROSSWALK                   SOUTHERN CROSSWALK          EASTERN CROSSWALK                     WESTERN CROSSWALK                     TOTALS
+    4:00 PM                                   0                             10                             1                                       10                       21
+    4:15 PM                                  20                              2                            13                                        4                       39
+    4:30 PM                                   1                              1                             0                                        2                        4
+    4:45 PM                                   2                              2                             0                                        1                        5
+    5:00 PM                                   0                              3                             2                                        1                        6
+    5:15 PM                                   2                              1                             2                                        3                        8
+    5:30 PM                                   3                              0                             4                                        1                        8
+    5:45 PM                                   3                              1                             0                                        2                        6
+    6:00 PM
+    6:15 PM
+    6:30 PM
+    6:45 PM
+
+  VOLUME STATS:              NORTHERN CROSSWALK                   SOUTHERN CROSSWALK          EASTERN CROSSWALK                     WESTERN CROSSWALK
+               TOTAL:                     31                                 20                           22                                       24                        97
+                P.H.V: ₁                  23                                 15                           14                                       17                        69
+                P.H.F: ₂                0.288                              0.375                        0.269                                    0.425                     0.442
+
+(1) Peak Hour Volume (Peak hour begins at:        400 PM)
+(2) Peak Hour Factor
+
+
+
+
+                                                                                              QUALITY  TRAFFIC  DATA,  LLC
+                                                                                              9701 W Pico Blvd, Suite 205,   Los Angeles, CA 90035
+                                                                                              Phone: 310‐341‐0019     Fax: 310‐807‐9247     Info@QualityTrafficData.com
+

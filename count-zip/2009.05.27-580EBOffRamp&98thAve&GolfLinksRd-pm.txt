@@ -1,0 +1,23 @@
+City of Oakland
+                                                                                                            File Name     : 98th Ave and Golf Links 5-27-09 415-545PM
+                                                                                                            Site Code     : 00000000
+                                                                                                            Start Date    : 5/27/2009
+                                                                                                            Page No       :1
+
+
+                                                                          Groups Printed- Unshifted
+                         580 OFF RAMP                          GOLF LINKS                           580 OFF RAMP                         GOLF LINKS
+                              From North                          From East                             From South                          From West
+     Start Time    Right      Thru       Left   Peds   Right      Thru      Left    Peds     Right       Thru      Left   Peds   Right      Thru      Left   Peds   Int. Total
+     04:15 PM         0          0         0       2     40         45        0        0         54         1       93       1      0         52      164       0         452
+     04:30 PM         0          0         0       0     52         71        0        0         54         0      122       0      0         63      126       0         488
+     04:45 PM         0          0         0       0     36         59        0        0         53         0      113       0      0         59       95       0         415
+           Total      0          0         0       2    128        175        0        0       161          1      328       1      0        174      385       0        1355
+
+      05:00 PM        0          0         0       2    36          48         0         1       43         0       93       1      0         64      111       0        399
+      05:15 PM        0          0         0       0    38          61         0         0       55         0      103       0      0         80      133       0        470
+      05:30 PM        0          0         0       0    29          75         0         0       57         0      112       0      0         67      121       0        461
+    Grand Total       0          0         0       4   231         359         0         1      316         1      636       2      0        385      750       0       2685
+     Apprch %         0          0         0     100   39.1        60.7        0       0.2      33.1      0.1      66.6    0.2      0        33.9     66.1      0
+        Total %       0          0         0     0.1    8.6        13.4        0         0      11.8        0      23.7    0.1      0        14.3     27.9      0
+

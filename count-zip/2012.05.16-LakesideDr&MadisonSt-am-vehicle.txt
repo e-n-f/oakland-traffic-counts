@@ -1,0 +1,56 @@
+                                    B.A.Y.M.E.T.R.I.C.S.
+                INTERSECTION TURNING MOVEMENT SUMMARY
+PROJECT:      OAKLAND TRAFFIC STUDY                                   SURVEY DATE:       5/16/2012                     DAY:       WEDNESDAY
+N-S APPROACH: MADISON STREET                                          SURVEY TIME:        7:00 AM                      TO         9:00 AM
+E-W APPROACH:LAKESIDE DRIVE                                           JURISDICTION: OAKLAND                            FILE:      3205033-42AM
+
+       PEAK HOUR                                                                             ARRIVAL / DEPARTURE VOLUMES
+8:00 AM   TO     9:00 AM      0       0        0              NORTH
+                                                                                           PHF =   #DIV/0!
+
+                                                     LAKESIDE DRIVE                                     0      0
+           0                                                                       PHF =
+                                                                490                 0.92
+          292                                                                     LAKESIDE DRIVE                               PHF =
+                                                                                                                                0.93
+          6                                                                          490                               LAKESIDE DRIVE
+LAKESIDE DRIVE                       1014                                            298                                         716
+                                                                147
+                                                                                     153                                             0
+                                                                79                19TH STREET
+19TH STREET
+
+
+
+                                                                                                     371     0
+                              0       0        0                                                   MADISON STREET
+                            MADISON STREET                                                                 PHF = #DIV/0!
+
+   TIME        PERIOD             NORTHBOUND                SOUTHBOUND               EB (LAKESIDE DR)         WB (LAKESIDE DR)               TOTAL
+ From              To        LEFT    THRU    RIGHT    LEFT     THRU       RIGHT     LEFT Madison 19th St     Madison    19th St   Lakeside
+                                                        SURVEY              DATA
+7:00 AM   to      7:15 AM                                                                    27         2      12         20        61        122
+7:15 AM   to      7:30 AM                                                                    61         2      18         40        146       267
+7:30 AM   to      7:45 AM                                                                   117         3      31         69        238       458
+7:45 AM   to      8:00 AM                                                                   172         4      41         96        362       675
+8:00 AM   to      8:15 AM                                                                   238         4      60        129        473       904
+8:15 AM   to      8:30 AM                                                                   313         5      81        170        598       1167
+8:30 AM   to      8:45 AM                                                                   386         7     102        215        724       1434
+8:45 AM   to      9:00 AM                                                                   464      10       120        243        852       1689
+                                                     TOTAL           BY     PERIOD
+7:00 AM   to      7:15 AM     0       0        0        0       0           0        0       27         2      12         20        61        122
+7:15 AM   to      7:30 AM     0       0        0        0       0           0        0       34         0      6          20        85        145
+7:30 AM   to      7:45 AM     0       0        0        0       0           0        0       56         1      13         29        92        191
+7:45 AM   to      8:00 AM     0       0        0        0       0           0        0       55         1      10         27        124       217
+8:00 AM   to      8:15 AM     0       0        0        0       0           0        0       66         0      19         33        111       229
+8:15 AM   to      8:30 AM     0       0        0       0        0           0        0       75         1      21         41        125       263
+8:30 AM   to      8:45 AM     0       0        0       0        0           0        0       73         2      21         45        126       267
+8:45 AM   to      9:00 AM     0       0        0       0        0           0        0       78         3      18         28        128       255
+                                                      HOU RLY              TO TALS
+7:00 AM   to      8:00 AM     0       0        0       0        0           0        0      172         4      41         96        362       675
+7:15 AM   to      8:15 AM     0       0        0       0        0           0        0      211         2      48        109        412       782
+7:30 AM   to      8:30 AM     0       0        0       0        0           0        0      252         3      63        130        452       900
+7:45 AM   to      8:45 AM     0       0        0       0        0           0        0      269         4      71        146        486       976
+8:00 AM   to      9:00 AM     0       0        0       0        0           0        0      292         6      79        147        490       1014
+                                       TEL: (510) 232 - 1271                    FAX: (510) 232 - 1272
+

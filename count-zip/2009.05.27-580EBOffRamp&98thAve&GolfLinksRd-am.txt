@@ -1,0 +1,27 @@
+City of Oakland
+                                                                                                                                                    File Name    : Not Named 1
+                                                                                                                                                    Site Code    : 00000000
+                                                                                                                                                    Start Date   : 5/27/2009
+                                                                                                                                                    Page No      :1
+
+
+                                                                          Groups Printed- Unshifted
+                         580 OFF RAMP                          GOLF LINKS                           580 OFF RAMP                         GOLF LINKS
+                              From North                          From East                             From South                          From West
+     Start Time    Right      Thru       Left   Peds   Right      Thru      Left    Peds     Right       Thru      Left   Peds   Right      Thru      Left       Peds   Int. Total
+     07:15 AM         0          0         0       5     25         56        0        6         28         0      108       6      0         41      141           0         416
+     07:30 AM         0          0         0       1     48         84        0        0         50         0      139       2      0         53      182           0         559
+     07:45 AM         0          0         0       5     66         80        0        0         43         0      142       1      0         76      182           0         595
+           Total      0          0         0      11    139        220        0        6       121          0      389       9      0        170      505           0        1570
+
+      08:00 AM        0          0         0       1     41          65        0         0       53         0      133       0      0        101        158         0        552
+      08:15 AM        0          0         0       1     71          72        0         1       61         0      109       0      0        139        156         0        610
+      08:30 AM        0          0         0       0     45          73        0         1       43         0       97       1      0         92         98         0        450
+      08:45 AM        0          0         0       0      0           0        0         0        0         0        0       0      0          0          0         0          0
+          Total       0          0         0       2    157         210        0         2      157         0      339       1      0        332        412         0       1612
+
+      09:00 AM        0          0         0       0      0           0        0         0         0        0         0      0      0           0          0        0          0
+    Grand Total       0          0         0      13   296         430         0         8      278         0      728     10       0        502        917         0       3182
+     Apprch %         0          0         0     100   40.3        58.6        0       1.1      27.4        0      71.7      1      0        35.4       64.6        0
+        Total %       0          0         0     0.4    9.3        13.5        0       0.3       8.7        0      22.9    0.3      0        15.8       28.8        0
+

@@ -1,0 +1,56 @@
+                                     B.A.Y.M.E.T.R.I.C.S.
+                 INTERSECTION TURNING MOVEMENT SUMMARY
+PROJECT:      OAKLAND TRAFFIC STUDY                                    SURVEY DATE:       5/16/2012                     DAY:       WEDNESDAY
+N-S APPROACH: MADISON STREET                                           SURVEY TIME:        4:00 PM                      TO         6:00 PM
+E-W APPROACH:LAKESIDE DRIVE                                            JURISDICTION: OAKLAND                            FILE:      3205033-42PM
+
+        PEAK HOUR                                                                             ARRIVAL / DEPARTURE VOLUMES
+ 5:00 PM   TO     6:00 PM      0       0        0              NORTH
+                                                                                            PHF =   #DIV/0!
+
+                                                      LAKESIDE DRIVE                                     0      0
+            0                                                                       PHF =
+                                                                 536                 0.89
+           446                                                                     LAKESIDE DRIVE                               PHF =
+                                                                                                                                 0.90
+          8                                                                           536                               LAKESIDE DRIVE
+LAKESIDE DRIVE                        1213                                            454                                         759
+                                                                 75
+                                                                                      83                                              0
+                                                                 148               19TH STREET
+19TH STREET
+
+
+
+                                                                                                      594     0
+                               0       0        0                                                   MADISON STREET
+                             MADISON STREET                                                                 PHF = #DIV/0!
+
+   TIME         PERIOD             NORTHBOUND                SOUTHBOUND                  EASTBOUND                   WESTBOUND                TOTAL
+ From               To        LEFT    THRU    RIGHT    LEFT     THRU       RIGHT     LEFT Madison 19th St     Madison    19th St   Lakeside
+                                                         SURVEY              DATA
+ 4:00 PM   to      4:15 PM                                                                    88         0      25         18        96        227
+ 4:15 PM   to      4:30 PM                                                                   151         2      39         36        224       452
+ 4:30 PM   to      4:45 PM                                                                   231         2      64         58        378       733
+ 4:45 PM   to      5:00 PM                                                                   340         2      87         74        522       1025
+ 5:00 PM   to      5:15 PM                                                                   454         4     118        101        661       1338
+ 5:15 PM   to      5:30 PM                                                                   555         6     156        121        815       1653
+ 5:30 PM   to      5:45 PM                                                                   663         6     194        138        940       1941
+ 5:45 PM   to      6:00 PM                                                                   786      10       235        149       1058       2238
+                                                      TOTAL           BY     PERIOD
+ 4:00 PM   to      4:15 PM     0       0        0        0       0           0        0       88         0      25         18        96        227
+ 4:15 PM   to      4:30 PM     0       0        0        0       0           0        0       63         2      14         18        128       225
+ 4:30 PM   to      4:45 PM     0       0        0        0       0           0        0       80         0      25         22        154       281
+ 4:45 PM   to      5:00 PM     0       0        0        0       0           0        0      109         0      23         16        144       292
+ 5:00 PM   to      5:15 PM     0       0        0        0       0           0        0      114         2      31         27        139       313
+ 5:15 PM   to      5:30 PM     0       0        0        0       0           0        0      101         2      38         20        154       315
+ 5:30 PM   to      5:45 PM     0       0        0        0       0           0        0      108         0      38         17        125       288
+ 5:45 PM   to      6:00 PM     0       0        0       0        0           0        0      123         4      41         11        118       297
+                                                       HOU RLY              TO TALS
+ 4:00 PM   to      5:00 PM     0       0        0       0        0           0        0      340         2      87         74        522       1025
+ 4:15 PM   to      5:15 PM     0       0        0       0        0           0        0      366         4      93         83        565       1111
+ 4:30 PM   to      5:30 PM     0       0        0       0        0           0        0      404         4     117         85        591       1201
+ 4:45 PM   to      5:45 PM     0       0        0       0        0           0        0      432         4     130         80        562       1208
+ 5:00 PM   to      6:00 PM     0       0        0       0        0           0        0      446         8     148         75        536       1213
+                                        TEL: (510) 232 - 1271                    FAX: (510) 232 - 1272
+

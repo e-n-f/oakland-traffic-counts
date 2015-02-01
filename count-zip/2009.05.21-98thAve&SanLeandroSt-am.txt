@@ -1,0 +1,26 @@
+City of Oakland
+                                                                                                 File Name      : 98th Ave and San Leandro Ave 5-21-09 715-845AM
+                                                                                                 Site Code      : 00000000
+                                                                                                 Start Date     : 5/21/2009
+                                                                                                 Page No        :1
+
+
+                                                                         Groups Printed- Unshifted
+                           98TH                             SAN LEANDRO                              98TH                             SAN LEANDRO
+                             From North                          From East                             From South                          From West
+     Start Time    Right     Thru       Left   Peds   Right      Thru      Left    Peds     Right       Thru      Left   Peds   Right      Thru      Left   Peds   Int. Total
+     07:15 AM        16        95         5       0      7         47       23        5         14        61       17       0     19         32        4       1         346
+     07:30 AM        34       148        14       0     11         99       42        0         24       128       39       0     30         39        4       1         613
+     07:45 AM        33       189        16       0     10        185       58        2         19       130       45       0     40         69       17       1         814
+           Total     83       432        35       0     28        331      123        7         57       319      101       0     89        140       25       3        1773
+
+      08:00 AM       32       156        12       0     20       218       55         0        23       152        32       0     25        44        13       1        783
+      08:15 AM       39       187        18       0     13       173       57         1        16       126        31       1     17        45        16       1        741
+      08:30 AM       41       183        13       0     15       142       29         0        28        93        23       2     27        49         7       1        653
+      08:45 AM       25       111         6       0      6        71       20         0        12        75        16       0     23        40         9       0        414
+          Total     137       637        49       0     54       604      161         1        79       446       102       3     92       178        45       3       2591
+
+    Grand Total     220      1069        84       0    82       935       284          8     136        765       203       3   181       318         70       6       4364
+     Apprch %        16      77.9        6.1      0    6.3      71.4      21.7       0.6     12.3       69.1      18.3    0.3   31.5      55.3       12.2      1
+       Total %        5      24.5        1.9      0    1.9      21.4       6.5       0.2      3.1       17.5       4.7    0.1    4.1       7.3        1.6    0.1
+

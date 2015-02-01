@@ -1,0 +1,37 @@
+                                                           PEDESTRIAN CROSSWALK COUNTS
+                                                    #005 Mandela Pkwy & West Grand Avenue (E) - PM PEAK
+    LOCATION#:             005                                                        QTD PROJ#:        600113
+   NORTH / SOUTH:          Mandela Pkwy                                                 DATE:           Tuesday, February 08, 2011
+    EAST / WEST:           West Grand Avenue (E)                                       VICINITY:        Oakland, CA
+
+
+
+    DIRECTION:               NORTHERN CROSSWALK                SOUTHERN CROSSWALK    EASTERN CROSSWALK                  WESTERN CROSSWALK                 TOTALS
+    4:00 PM                                  3                         1                         0                                    0                     4
+    4:15 PM                                  0                         0                         1                                    0                     1
+    4:30 PM                                  3                         0                         3                                    1                     7
+    4:45 PM                                  0                         3                         1                                    0                     4
+    5:00 PM                                  0                         0                         0                                    0
+    5:15 PM                                  0                         4                         0                                    0                     4
+    5:30 PM                                  2                         1                         1                                    0                     4
+    5:45 PM                                  1                         1                         0                                    0                     2
+    6:00 PM
+    6:15 PM
+    6:30 PM
+    6:45 PM
+
+  VOLUME STATS:              NORTHERN CROSSWALK                SOUTHERN CROSSWALK    EASTERN CROSSWALK                  WESTERN CROSSWALK
+               TOTAL:                     9                            10                        6                                   1                      26
+                P.H.V: ₁                  6                             4                        5                                   1                      16
+                P.H.F: ₂                0.500                         0.333                    0.417                               0.250                   0.571
+
+(1) Peak Hour Volume (Peak hour begins at:       400 PM)
+(2) Peak Hour Factor
+
+
+
+
+                                                                                      QUALITY TRAFFIC DATA, LLC
+                                                                                      9701 W Pico Blvd, Suite 205, Los Angeles, CA 90035
+                                                                                      Phone: 310-341-0019 Fax: 310-807-9247 Info@QualityTrafficData.com
+

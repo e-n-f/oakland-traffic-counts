@@ -1,0 +1,55 @@
+                                          B.A.Y.M.E.T.R.I.C.S.
+                      INTERSECTION TURNING MOVEMENT SUMMARY
+PROJECT:      OAKLAND TRAFFIC STUDY                                              SURVEY DATE:                5/22/2012           DAY: TUESDAY
+N-S APPROACH: BROADWAY                                                           SURVEY TIME:                4:00 PM             TO      6:00 PM
+E-W APPROACH: GRAND AVENUE                                                       JURISDICTION:            OAKLAND                FILE: 3205033-40PM
+
+     PEAK HOUR                                                                                              ARRIVAL / DEPARTURE VOLUMES
+4:45 PM to   5:45 PM                                                     NORTH
+                                   87    346          56    1
+                                                                                                          PHF =   0.88
+
+                                                                                                                   490    561
+
+                 3                                                        28                                                             PHF =
+                                                                                                                                          0.48
+                 78                                                       282
+                                               2283                                                538                                    384
+                518                                                       73
+                                                                                                   651                                    712
+                 52                                                        1
+                                                                                                  PHF =
+GRAND AVENUE                                                                                       0.47
+
+                                                                                                                   472    758
+                                    1   166       454      137
+                                  BROADWAY                                                                               PHF =    0.92
+
+ TIME      PERIOD                 NORTHBOUND                      SOUTHBOUND                      EASTBOUND                      WESTBOUND               TOTAL
+ From           To       U-TURN   LEFT   THRU    RIGHT U-TURN     LEFT   THRU    RIGHT U-TURN     LEFT    THRU    RIGHT U-TURN   LEFT    THRU    RIGHT
+                                                                  SURVEY                 DATA
+4:00 PM   to   4:15 PM     1       27     88          33   0       13     74        19       0     18      67      14      0       7      42       3      406
+4:15 PM   to   4:30 PM     1       60    161          64   0       24     156       40       2     41      161     28      0      18      101     11      868
+4:30 PM   to   4:45 PM     1       101   250      104      0       38     244       56       2     53      264     38      0      36      164     21      1372
+4:45 PM   to   5:00 PM     1       149   339      148      0       52     322       75       2     68      375     53      0      54      231     30      1899
+5:00 PM   to   5:15 PM     1       188   452      177      1       60     411       90       3     91      509     70      0      69      309     36      2467
+5:15 PM   to   5:30 PM     1       226   577      205      1       81     504       115      3     110     641     79      1      88      375     42      3049
+5:30 PM   to   5:45 PM     2       267   704      241      1       94     590       143      5     131     782     90      1      109     446     49      3655
+5:45 PM   to   6:00 PM     2       310   790      266      1       109    669       176      7     157     885     102     1      133     512     52      4172
+                                                                 TOTAL         BY     P E R IO D
+4:00 PM   to   4:15 PM     1       27     88          33   0       13     74        19       0     18      67      14      0       7      42      3       406
+4:15 PM   to   4:30 PM     0       33     73          31   0       11     82        21       2     23      94      14      0      11      59      8       462
+4:30 PM   to   4:45 PM     0       41     89          40   0       14     88        16       0     12      103     10      0      18      63      10      504
+4:45 PM   to   5:00 PM     0       48     89          44   0       14     78        19       0     15      111     15      0      18      67      9       527
+5:00 PM   to   5:15 PM     0       39    113          29   1       8      89        15       1     23      134     17      0      15      78      6       568
+5:15 PM   to   5:30 PM     0       38    125          28   0       21     93        25       0     19      132     9       1      19      66      6       582
+5:30 PM   to   5:45 PM     1       41    127          36   0       13     86        28       2     21      141     11      0      21      71      7       606
+5:45 PM   to   6:00 PM     0       43     86          25   0       15     79        33       2     26      103     12      0      24      66      3       517
+                                                                 HOURLY             TOTALS
+4:00 PM   to   5:00 PM     1       149   339      148      0       52     322       75       2     68      375     53      0      54      231     30      1899
+4:15 PM   to   5:15 PM     0       161   364      144      1       47     337       71       3     73      442     56      0      62      267     33      2061
+4:30 PM   to   5:30 PM     0       166   416      141      1       57     348       75       1     69      480     51      1      70      274     31      2181
+4:45 PM   to   5:45 PM     1       166   454      137      1       56     346       87       3     78      518     52      1      73      282     28      2283
+5:00 PM   to   6:00 PM     1       161   451      118      1       57     347       101      5     89      510     49      1      79      281     22      2273
+                                                TEL: (510) 232 - 1271                     FAX: (510) 232 - 1272
+

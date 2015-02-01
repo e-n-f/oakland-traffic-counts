@@ -1,0 +1,144 @@
+                        City of Oakland
+                        Transportation Services Division
+                        250 Frank H. Ogawa Plaza, #4344
+                        Oakland, CA 94612 File   Name : TM 42nd Ave and Coliseum Wy (I-880 NB OnRamp) AM 9-28-11
+                                            Site Code : 00000000
+                                                                             Start Date : 9/28/2011
+                                                                             Page No : 1
+
+
+                                                                         Groups Printed- Unshifted
+                      42ND                                     COLISEUM                         42ND                                    COLISEUM
+                         From North -                              From East -                    From South -                              From West -
+Start Time    Right   Thru Left Peds      App. Total   Right    Thru Left Peds App. Total Right Thru Left Peds     App. Total   Right    Thru Left Peds     App. Total   Int. Total
+ 07:00 AM      54       80     0      0      134         15       98    0      0   113        0   31    0      0       31          0        0    0      0           0      278
+ 07:15 AM      71     111      0      0      182         20     106     0      0   126        0   39    0      0       39          0        0    0      0           0      347
+ 07:30 AM      60       71     0      0      131         24     122     0      0   146        0   32    0      0       32          0        0    0      0           0      309
+ 07:45 AM      82       95     0      0      177         34     114     0      0   148        0   52    0      0       52          0        0    0      0           0      377
+      Total   267     357      0      0      624         93     440     0      0   533        0 154     0      0      154          0        0    0      0           0     1311
+
+ 08:00 AM      77      92      0     0       169        32      105      1      0    138    0    56     0     0        56          0        0     0    0            0      363
+ 08:15 AM      64     103      0     0       167        34      112      0      0    146    0    44     0     0        44          0        0     0    0            0      357
+ 08:30 AM      66      81      0     0       147        24      108      0      0    132    0    49     0     0        49          0        0     0    0            0      328
+ 08:45 AM      51      89      0     0       140        29      114      0      0    143    0    31     0     0        31          0        0     0    0            0      314
+      Total   258     365      0     0       623       119      439      1      0    559    0   180     0     0       180          0        0     0    0            0     1362
+
+Grand Total    525     722     0     0     1247         212      879     1      0   1092    0    334    0     0       334          0        0     0    0            0     2673
+ Apprch %     42.1    57.9     0     0                 19.4     80.5   0.1      0           0    100    0     0                    0        0     0    0
+  Total %     19.6      27     0     0      46.7         7.9    32.9     0      0   40.9    0   12.5    0     0      12.5          0        0     0    0            0
+                        City of Oakland
+                        Transportation Services Division
+                        250 Frank H. Ogawa Plaza, #4344
+                        Oakland, CA 94612 File   Name : TM 42nd Ave and Coliseum Wy (I-880 NB OnRamp) AM 9-28-11
+                                            Site Code : 00000000
+                                                                                               Start Date : 9/28/2011
+                                                                                               Page No : 2
+                                                                                                   42ND
+                                                                                                 Out     In                        Total
+                                                                                                  546   1247                        1793
+
+
+                                                                                                  525  722                     0          0
+                                                                                                Right Thru              Left           Peds
+                                                   0
+                                 1404
+
+
+
+
+                                                                                                                                                                           Right Thru
+                                 Total
+
+
+
+
+                                                           Left
+
+
+
+
+                                                                                                                                                                             212
+
+
+
+                                                                                                                                                                                         Out
+                                                                                                                                                                                         COLISEUM
+                                                                                                                                                                                             0
+                                                                                                                North
+                                                                  0
+                                                   Peds Right Thru
+
+
+
+
+                                                                                                                                                                                  879
+                                        0
+                                     In
+
+
+
+
+                                                                                                                                                                                                1092
+                                                                                                                                                                                                 In
+                                                                                                  9/28/2011 07:00 AM
+                             COLISEUM
+
+
+
+
+                                                            0
+
+
+
+
+                                                                                                                                                                           Left
+                                                                                                  9/28/2011 08:45 AM
+
+
+
+
+                                                                                                                                                                                  1
+                             1404
+
+
+
+
+                                                                                                  Unshifted
+                             Out
+
+
+
+
+                                                                                                                                                                                         Total
+                                                                                                                                                                                         1092
+                                                      0
+
+
+
+
+                                                                                                                                                                           Peds
+                                                                                                                                                                              0
+                                                                                                Left       Thru Right Peds
+                                                                                                       0    334     0    0
+
+
+                                                                                                  723               334             1057
+                                                                                                 Out               In              Total
+                                                                                                   42ND
+
+
+
+
+                       42ND                             COLISEUM                                                                        42ND                                    COLISEUM
+                          From North -                     From East -                                                                    From South -                              From West -
+ Start Time Right Thru Left Peds App. Total Right Thru Left Peds                                           App. Total    Right          Thru Left Peds        App. Total   Right Thru  Left Peds                  App. Total   Int. Total
+Peak Hour Analysis From 07:00 AM to 08:45 AM - Peak 1 of 1
+Peak Hour for Entire Intersection Begins at 07:45 AM
+  07:45 AM       82      95       0      0      177  34  114    0      0                                       148                 0       52     0      0          52            0       0            0     0            0        377
+  08:00 AM       77      92       0      0     169   32 105     1      0                                      138                  0       56     0      0          56            0       0            0     0            0      363
+  08:15 AM       64 103           0      0     167   34 112     0      0                                      146                  0      44      0      0        44              0       0            0     0            0      357
+  08:30 AM       66      81       0      0     147   24 108     0      0                                      132                  0      49      0      0        49              0       0            0     0            0      328
+ Total Volume  289 371            0      0     660 124 439      1      0                                      564                  0     201      0      0       201              0       0            0     0            0     1425
+% App. Total   43.8   56.2      0              0                           22   77.8     0.2       0                         0            100      0      0                   0            0         0        0
+        PHF    .881   .900   .000           .000                  .932   .912   .963   .250     .000          .953        .000           .897   .000   .000      .897      .000         .000      .000     .000      .000          .945
+

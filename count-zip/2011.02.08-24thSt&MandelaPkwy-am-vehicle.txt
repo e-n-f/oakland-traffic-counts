@@ -1,0 +1,44 @@
+                                                VEHICLE TURNING MOVEMENT COUNT
+                                                        #006 Mandela Pkwy & 24th Street - AM PEAK
+    LOCATION#:            006                                                        QTD PROJ#:           600113
+   NORTH / SOUTH:         Mandela Pkwy                                                 DATE:              Tuesday, February 08, 2011
+    EAST / WEST:          24th Street                                                 VICINITY:           Oakland, CA
+
+
+
+    DIRECTION:               NL          NT         NR       SL      ST      SR     EL            ET          ER          WL          WT          WR
+                                                                                                                                                             TOTALS
+       LANES:                 0          2          0         0       2      0       0             0           0           0           1           0
+    6:00 AM
+    6:15 AM
+    6:30 AM
+    6:45 AM
+    7:00 AM                   0          34         0         0      34      0       0             0           0          20           0           1           89
+    7:15 AM                   0          36         0         0      39      0       0             0           0          20           0           2           97
+    7:30 AM                   0          43         0         0      36      0       0             0           0          30           0           2          111
+    7:45 AM                   0          83         0         0      37      0       0             0           0          29           0           5          154
+    8:00 AM                   0          73         0         0      41      0       0             0           0          34           0           2          150
+    8:15 AM                   0          69         0         0      49      0       0             0           0          24           0           1          143
+    8:30 AM                   0          76         0         0      42      0       0             0           0          26           0           2          146
+    8:45 AM                   0          65         0         0      39      0       0             0           0          33           0           1          138
+    9:00 AM
+    9:15 AM
+    9:30 AM
+    9:45 AM
+   10:00 AM
+   10:15 AM
+   10:30 AM
+
+  VOLUME STATS:              NL          NT         NR       SL      ST      SR     EL            ET          ER          WL          WT          WR
+              TOTAL:          0         479         0         0      317     0       0            0            0          216          0          16          1028
+               P.H.V: ₁       0         301         0         0      169     0       0            0            0          113          0          10           593
+               P.H.F: ₂                0.907                        0.862                       0.000                                0.854                    0.963
+
+(1) Peak Hour Volume (Peak Hour Begins At 745 AM)
+(2) Peak Hour Factor (directional aggregate)
+
+
+                                                                                         QUALITY TRAFFIC DATA, LLC
+                                                                                         9701 W Pico Blvd, Suite 205, Los Angeles, CA 90035
+                                                                                         Phone: 310-341-0019 Fax: 310-807-9247 Info@QualityTrafficData.com
+

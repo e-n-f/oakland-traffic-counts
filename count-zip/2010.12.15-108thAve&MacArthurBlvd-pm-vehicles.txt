@@ -1,0 +1,41 @@
+                                                VEHICLE TURNING MOVEMENT COUNT
+                                                         #001   MacArthur Blvd  &  108th Ave  ‐  PM PEAK
+    LOCATION#:            001                                                             QTD PROJ#:           500137
+   NORTH / SOUTH:         MacArthur Blvd                                                    DATE:              Wednesday, December 15, 2010
+    EAST / WEST:          108th Ave                                                        VICINITY:           City of Oakland, CA
+
+
+
+    DIRECTION:               NL         NT          NR         SL       ST       SR       EL          ET           ER            WL           WT           WR
+                                                                                                                                                                      TOTALS
+        LANES:                0            1        0           0        1       0        0            1            0             0             1            0
+    3:00 PM
+    3:15 PM
+    3:30 PM
+    3:45 PM
+    4:00 PM                   2          69         5           3       58       1        1            3             5            5             1            3         156
+    4:15 PM                   1          58         4           3       74       1        3            1             5            2             3            8         163
+    4:30 PM                   3          62         4           2       72       4        2            0             5            6             4            7         171
+    4:45 PM                   4          63         7           3       60       0        0            0             4            2             3            5         151
+    5:00 PM                   3          66         6           3       69       3        2            3             9            4             1            4         173
+    5:15 PM                   3          52         5           5       78       1        1            1            11            3             2            9         171
+    5:30 PM                   6          66         9           6       65       0        3            0             4            4             2            7         172
+    5:45 PM                   3          59         6           9       63       3        2            2             2            1             1            2         153
+    6:00 PM
+    6:15 PM
+    6:30 PM
+    6:45 PM
+
+  VOLUME STATS:              NL         NT          NR         SL       ST       SR       EL          ET           ER            WL           WT           WR
+              TOTAL:         25         495         46         34       539      13       14          10            45           27            17           45         1310
+               P.H.V: ₁      15         243         26         23       275       7        8           6            26           12             6           22          669
+               P.H.F: ₂                0.877                           0.908                        0.714                                    0.714                     0.967
+
+(1) Peak Hour Volume (Peak Hour Begins At 500 PM)
+(2) Peak Hour Factor (directional aggregate)
+
+
+                                                                                          QUALITY  TRAFFIC  DATA,  LLC
+                                                                                          9701 W Pico Blvd, Suite 205,   Los Angeles, CA 90035
+                                                                                          Phone: 310‐341‐0019     Fax: 310‐807‐9247     Info@QualityTrafficData.com
+

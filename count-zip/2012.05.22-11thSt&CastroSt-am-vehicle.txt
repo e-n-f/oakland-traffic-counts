@@ -1,0 +1,55 @@
+                                  B.A.Y.M.E.T.R.I.C.S.
+                INTERSECTION TURNING MOVEMENT SUMMARY
+PROJECT:      OAKLAND TRAFFIC STUDY                                  SURVEY DATE:       5/22/2012                    DAY:    TUESDAY
+N-S APPROACH: CASTRO STREET                                          SURVEY TIME:        7:00 AM                     TO      9:00 AM
+E-W APPROACH:11TH STREET                                             JURISDICTION: OAKLAND                           FILE:   3205033-39AM
+
+       PEAK HOUR                                                                            ARRIVAL / DEPARTURE VOLUMES
+8:00 AM   TO     9:00 AM                                   NORTH
+
+                                                                                          PHF =     #DIV/0!
+
+                                                                                                       0      600
+
+                                                                                                                                      PHF =
+  134                                                                                                                                #DIV/0!
+
+  797                               1481                                   0                                                            0
+
+                                                                        931                                                            881
+                                                                     11TH STREET
+11TH STREET                                                           PHF =
+                                                                       0.92
+                                                                                            0         134
+                    73       61              393     23                                                        0       416
+                                                                                 I-980 NB OFFRAMP                    CASTRO STREET
+                 I-980 NB OFFRAMP          CASTRO STREET                           PHF =    0.93                      PHF =   0.89
+
+   TIME        PERIOD       NB (CASTRO STREET)     NB (I-980 NB OFFRAMP)            EB (11TH STREET)          WB (11TH STREET)       TOTAL
+ From              To               THRU   RIGHT   LEFT     THRU         RIGHT     LEFT   THRU      RIGHT     LEFT    THRU   RIGHT
+                                                     SURVEY                DATA
+7:00 AM   to      7:15 AM            70      4                15           9        17     131                                        246
+7:15 AM   to      7:30 AM           148      6                31          17        34     302                                        538
+7:30 AM   to      7:45 AM           229      16               42          39        53     482                                        861
+7:45 AM   to      8:00 AM           319      20               61          49        77     672                                        1198
+8:00 AM   to      8:15 AM           398      27               80          66        105    860                                        1536
+8:15 AM   to      8:30 AM           491      32               95          80        145    1074                                       1917
+8:30 AM   to      8:45 AM           602      38               111         99        180    1269                                       2299
+8:45 AM   to      9:00 AM           712      43               134         110       211    1469                                       2679
+                                                   TOTAL            BY     PERIOD
+7:00 AM   to      7:15 AM    0       70      4       0        15           9        17     131         0       0        0       0     246
+7:15 AM   to      7:30 AM    0       78      2       0        16           8        17     171         0       0        0       0     292
+7:30 AM   to      7:45 AM    0       81      10      0        11          22        19     180         0       0        0       0     323
+7:45 AM   to      8:00 AM    0       90      4       0        19          10        24     190         0       0        0       0     337
+8:00 AM   to      8:15 AM    0       79      7       0        19          17        28     188         0       0        0       0     338
+8:15 AM   to      8:30 AM    0       93      5       0        15          14        40     214         0       0        0       0     381
+8:30 AM   to      8:45 AM    0      111      6       0        16          19        35     195         0       0        0       0     382
+8:45 AM   to      9:00 AM    0      110      5       0        23          11        31     200         0       0        0      0      380
+                                                   HOU RLY                TO TALS
+7:00 AM   to      8:00 AM    0      319      20      0        61          49        77     672         0       0        0      0      1198
+7:15 AM   to      8:15 AM    0      328      23      0        65          57        88     729         0       0        0      0      1290
+7:30 AM   to      8:30 AM    0      343      26      0        64          63        111    772         0       0        0      0      1379
+7:45 AM   to      8:45 AM    0      373      22      0        69          60        127    787         0       0        0      0      1438
+8:00 AM   to      9:00 AM    0      393      23      0        73          61       134     797         0       0        0      0      1481
+                                      TEL: (510) 232 - 1271                    FAX: (510) 232 - 1272
+

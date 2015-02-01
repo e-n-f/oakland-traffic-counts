@@ -1,0 +1,55 @@
+                                     B.A.Y.M.E.T.R.I.C.S.
+                                    BICYCLE MOVEMENT SUMMARY
+PROJECT:      OAKLAND TRAFFIC STUDY                                    SURVEY DATE:       5/16/2012                  DAY:    WEDNESDAY
+N-S APPROACH: MADISON STREET                                           SURVEY TIME:        7:00 AM                   TO      9:00 AM
+E-W APPROACH:12TH STREET                                               JURISDICTION: OAKLAND                         FILE:   3205033-B-4AM
+
+       PEAK HOUR                                                                              ARRIVAL / DEPARTURE VOLUMES
+8:00 AM   TO     9:00 AM                                     NORTH
+                                                                                                   N-LEG TOTAL
+                              1         10        0                                                   11
+                                    NORTH - LEG
+                                                                                                      11       0
+
+     WEST - LEG                                              EAST - LEG                                                      E-LEG TOTAL
+           0                                                    0                                                               16
+
+           1                            27                       10                   11                                       15
+
+           0                                                     5                     1                                        1
+                                                                                   W-LEG TOTAL
+12TH STREET                                                                           12
+
+                                    SOUTH - LEG
+                              0         0         0                                                   15       0
+                                                                                                   S-LEG TOTAL
+                            MADISON STREET                                                            15
+
+   TIME        PERIOD         NB (SOUTH - LEG)         SB (NORTH - LEG)                EB (WEST - LEG)           WB (EAST - LEG)     TOTAL
+ From              To        LEFT      THRU   RIGHT   LEFT    THRU         RIGHT     LEFT   THRU    RIGHT    LEFT     THRU   RIGHT
+                                                       SURVEY                DATA
+7:00 AM   to      7:15 AM                                        1           0                0          0     2        0              3
+7:15 AM   to      7:30 AM                                        3           0                0          0     3        3              9
+7:30 AM   to      7:45 AM                                        3           0                0          1     4        4              12
+7:45 AM   to      8:00 AM                                        7           0                0          1     5        6              19
+8:00 AM   to      8:15 AM                                        10          0                0          1     7        9              27
+8:15 AM   to      8:30 AM                                        12          0                0          1     7       10              30
+8:30 AM   to      8:45 AM                                        16          0                1          1     9       10              37
+8:45 AM   to      9:00 AM                                        17          1                1          1    10       16              46
+                                                      TOTAL           BY     PERIOD
+7:00 AM   to      7:15 AM     0          0        0    0         1           0        0       0          0     2        0       0      3
+7:15 AM   to      7:30 AM     0          0        0    0         2           0        0       0          0     1        3       0      6
+7:30 AM   to      7:45 AM     0          0        0    0         0           0        0       0          1     1        1       0      3
+7:45 AM   to      8:00 AM     0          0        0    0         4           0        0       0          0     1        2       0      7
+8:00 AM   to      8:15 AM     0          0        0    0         3           0        0       0          0     2        3       0      8
+8:15 AM   to      8:30 AM     0          0        0    0         2           0        0       0          0     0        1       0      3
+8:30 AM   to      8:45 AM     0          0        0    0         4           0        0       1          0     2        0       0      7
+8:45 AM   to      9:00 AM     0          0        0    0         1           1        0       0          0     1        6       0      9
+                                                      HOU RLY               TO TALS
+7:00 AM   to      8:00 AM     0          0        0    0         7           0        0       0          1    5         6       0      19
+7:15 AM   to      8:15 AM     0          0        0    0         9           0        0       0          1    5         9       0      24
+7:30 AM   to      8:30 AM     0          0        0    0         9           0        0       0          1    4         7       0      21
+7:45 AM   to      8:45 AM     0          0        0    0         13          0        0       1          0    5         6       0      25
+8:00 AM   to      9:00 AM     0          0        0    0         10          1        0       1          0    5        10       0      27
+                                         TEL: (510) 232 - 1271                   FAX: (510) 232 - 1272
+

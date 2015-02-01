@@ -1,0 +1,141 @@
+                        City of Oakland
+                        Transportation Services Division
+                        250 Frank H. Ogawa Plaza, #4344
+                                                     File Name                                       : TM 42nd Ave and I-880 SB OffRamp AM 9-27-11
+                        Oakland, CA 94612            Site Code                                       : 00000000
+                                                                                          Start Date : 9/27/2011
+                                                                                          Page No : 1
+
+
+                                                                       Groups Printed- Unshifted
+                      42ND                                    RAMP                            42ND                                    RAMP
+                        From North -                             From East -                    From South -                             From West -
+Start Time    Right   Thru Left Peds     App. Total   Right   Thru Left Peds App. Total Right Thru Left Peds     App. Total   Right   Thru Left Peds     App. Total   Int. Total
+ 07:00 AM        0       0   81      0       81          0       0    0      0       0      0    0    0      0           0       0    106    29      0      135         216
+ 07:15 AM        0       0   94      0       94          0       0    0      0       0      0    0    0      0           0       0    109    46      0      155         249
+ 07:30 AM        0       0   79      0       79          0       0    0      0       0      0    0    0      0           0       0    135    45      0      180         259
+ 07:45 AM        0       0 106       0      106          0       0    0      0       0      0    0    0      0           0       0    140    47      0      187         293
+      Total      0       0 360       0      360          0       0    0      0       0      0    0    0      0           0       0    490 167        0      657        1017
+
+ 08:00 AM        0      0    98     0        98          0      0     0      0      0     0     0     0     0            0       0    109     57    0       166         264
+ 08:15 AM        0      0    81     0        81          0      0     0      0      0     0     0     0     0            0       0    109     41    0       150         231
+ 08:30 AM        0      0   102     0       102          0      0     0      0      0     0     0     0     0            0       0     99     35    0       134         236
+ 08:45 AM        0      0    88     0        88          0      0     0      0      0     0     0     0     0            0       0    128     58    0       186         274
+      Total      0      0   369     0       369          0      0     0      0      0     0     0     0     0            0       0    445    191    0       636        1005
+
+ 09:00 AM        0      0     76    0        76          0      0     0      0      0     0     0     0     0            0       0    117      47   0      164          240
+Grand Total      0      0    805    0       805          0      0     0      0      0     0     0     0     0            0       0    1052    405   0     1457         2262
+ Apprch %        0      0    100    0                    0      0     0      0            0     0     0     0                    0    72.2   27.8   0
+  Total %        0      0   35.6    0      35.6          0      0     0      0      0     0     0     0     0            0       0    46.5   17.9   0      64.4
+                        City of Oakland
+                        Transportation Services Division
+                        250 Frank H. Ogawa Plaza, #4344
+                                                     File Name                                                                    : TM 42nd Ave and I-880 SB OffRamp AM 9-27-11
+                        Oakland, CA 94612            Site Code                                                                    : 00000000
+                                                                                                                       Start Date : 9/27/2011
+                                                                                                                       Page No : 2
+                                                                                            42ND
+                                                                                          Out               In          Total
+                                                                                           405               805         1210
+
+
+                                                                                             0     0              805    0
+                                                                                         Right Thru              Left Peds
+                                1457
+
+
+                                                405
+
+
+
+
+                                                                                                                                                               Right Thru
+                                Total
+
+
+
+
+                                               Left
+
+
+
+
+                                                                                                                                                                              1857
+                                                                                                                                                                              Out
+                                                                                                                                                                                RAMP
+                                                                                                                                                                   0
+                                                                                                         North
+                                                        0 1052
+                                               Peds Right Thru
+                                1457
+                                 In
+
+
+
+
+                                                                                                                                                                         0
+
+
+
+                                                                                                                                                                                    In
+                                                                                           9/27/2011 07:00 AM
+
+
+
+
+                                                                                                                                                               Left
+
+
+
+                                                                                                                                                                              0
+                                                                                           9/27/2011 09:00 AM
+                              RAMP
+
+
+
+
+                                                                                                                                                                      0
+                                 0
+
+
+
+
+                                                                                           Unshifted
+                             Out
+
+
+
+
+                                                                                                                                                                              Total
+                                                                                                                                                                              1857
+                                                  0
+
+
+
+
+                                                                                                                                                               Peds
+                                                                                                                                                                  0
+                                                                                         Left       Thru Right Peds
+                                                                                                0       0    0    0
+
+
+                                                                                              0                  0          0
+                                                                                          Out               In          Total
+                                                                                            42ND
+
+
+
+
+                       42ND                            RAMP                                                                 42ND                                             RAMP
+                          From North -                     From East -                                                        From South -                                      From West -
+ Start Time Right Thru Left Peds App. Total Right Thru Left Peds                                    App. Total   Right      Thru Left Peds        App. Total   Right         Thru Left Peds            App. Total   Int. Total
+Peak Hour Analysis From 07:00 AM to 09:00 AM - Peak 1 of 1
+Peak Hour for Entire Intersection Begins at 07:15 AM
+  07:15 AM         0       0    94       0       94  0     0    0      0                                    0          0        0     0      0            0            0     109          46      0       155           249
+  07:30 AM         0       0    79       0       79  0     0    0      0                                    0          0        0     0      0            0            0     135          45      0       180           259
+  07:45 AM         0       0 106         0      106  0     0    0      0                                    0          0        0     0      0            0            0     140          47      0        187          293
+  08:00 AM         0       0    98       0       98  0     0    0      0                                    0          0        0     0      0            0            0     109          57      0       166         264
+ Total Volume      0       0 377         0     377   0     0    0      0                                    0          0        0     0      0            0            0     493         195      0       688        1065
+% App. Total      0      0    100          0                           0      0      0      0                           0      0       0      0                   0          71.7        28.3      0
+        PHF    .000   .000   .889       .000                 .889   .000   .000   .000   .000          .000          .000   .000    .000   .000      .000      .000          .880        .855   .000      .920          .909
+

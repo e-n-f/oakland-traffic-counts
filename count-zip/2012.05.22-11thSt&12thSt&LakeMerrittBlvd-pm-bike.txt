@@ -1,0 +1,55 @@
+                                      B.A.Y.M.E.T.R.I.C.S.
+                                     BICYCLE MOVEMENT SUMMARY
+PROJECT:      OAKLAND TRAFFIC STUDY                                     SURVEY DATE:       5/22/2012                  DAY:    TUESDAY
+N-S APPROACH: LAKE MERRITT BOULEVARD                                    SURVEY TIME:        4:00 PM                   TO      6:00 PM
+E-W APPROACH:11TH STREET - 12TH STREET                                  JURISDICTION: OAKLAND                         FILE:   3205033-B-36PM
+
+        PEAK HOUR                                                                              ARRIVAL / DEPARTURE VOLUMES
+ 5:00 PM   TO     6:00 PM                                      NORTH
+                             LAKE MERRITT BOULEVARD                                                 N-LEG TOTAL
+                                9     0       40                                                       89
+                                  NORTH - LEG
+                                                                                                       49      40
+                                                       LAKE MERRITT BOULEVARD
+      WEST - LEG                                              EAST - LEG                                                      E-LEG TOTAL
+            0                                                    40                                                              98
+
+           7                            107                       11                   20                                       51
+
+           0                                                      0                     7                                       47
+                                                                                    W-LEG TOTAL
+11TH STREET - 12TH STREET                                                              27
+
+                                     SOUTH - LEG
+                               0         0         0                                                    0       0
+                                                                                                    S-LEG TOTAL
+                                                                                                        0
+
+   TIME         PERIOD         NB (SOUTH - LEG)          SB (NORTH - LEG)               EB (WEST - LEG)           WB (EAST - LEG)     TOTAL
+ From               To        LEFT      THRU   RIGHT    LEFT    THRU        RIGHT     LEFT   THRU    RIGHT    LEFT     THRU   RIGHT
+                                                         SURVEY               DATA
+ 4:00 PM   to      4:15 PM                               10                   1                0                         1       7      19
+ 4:15 PM   to      4:30 PM                               11                   1                1                         6       9      28
+ 4:30 PM   to      4:45 PM                               19                   1                1                         9      21      51
+ 4:45 PM   to      5:00 PM                               27                   2                4                        10      33      76
+ 5:00 PM   to      5:15 PM                               34                   5                7                        14      41      101
+ 5:15 PM   to      5:30 PM                               45                   6                10                       14      47      122
+ 5:30 PM   to      5:45 PM                               57                   9                10                       17      56      149
+ 5:45 PM   to      6:00 PM                               67                  11                11                       21      73      183
+                                                       TOTAL           BY     PERIOD
+ 4:00 PM   to      4:15 PM     0          0        0     10       0           1        0       0          0     0        1       7      19
+ 4:15 PM   to      4:30 PM     0          0        0     1        0           0        0       1          0     0        5       2       9
+ 4:30 PM   to      4:45 PM     0          0        0     8        0           0        0       0          0     0        3      12      23
+ 4:45 PM   to      5:00 PM     0          0        0     8        0           1        0       3          0     0        1      12      25
+ 5:00 PM   to      5:15 PM     0          0        0     7        0           3        0       3          0     0        4       8      25
+ 5:15 PM   to      5:30 PM     0          0        0     11       0           1        0       3          0     0        0       6      21
+ 5:30 PM   to      5:45 PM     0          0        0     12       0           3        0       0          0     0        3       9      27
+ 5:45 PM   to      6:00 PM     0          0        0     10       0           2        0       1          0     0        4      17      34
+                                                        HOU RLY              TO TALS
+ 4:00 PM   to      5:00 PM     0          0        0     27       0           2        0       4          0     0       10      33      76
+ 4:15 PM   to      5:15 PM     0          0        0     24       0           4        0       7          0     0       13      34      82
+ 4:30 PM   to      5:30 PM     0          0        0     34       0           5        0       9          0     0        8      38      94
+ 4:45 PM   to      5:45 PM     0          0        0     38       0           8        0       9          0     0        8      35      98
+ 5:00 PM   to      6:00 PM     0          0        0     40       0           9        0       7          0    0        11      40      107
+                                          TEL: (510) 232 - 1271                   FAX: (510) 232 - 1272
+

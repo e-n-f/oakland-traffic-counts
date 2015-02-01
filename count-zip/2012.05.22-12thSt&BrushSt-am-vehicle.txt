@@ -1,0 +1,55 @@
+                                    B.A.Y.M.E.T.R.I.C.S.
+                INTERSECTION TURNING MOVEMENT SUMMARY
+PROJECT:      OAKLAND TRAFFIC STUDY                                   SURVEY DATE:       5/22/2012                 DAY:    TUESDAY
+N-S APPROACH: BRUSH STREET                                            SURVEY TIME:        7:00 AM                  TO      9:00 AM
+E-W APPROACH:12TH STREET                                              JURISDICTION: OAKLAND                        FILE:   3205033-23AM
+
+       PEAK HOUR                                                                            ARRIVAL / DEPARTURE VOLUMES
+8:00 AM   TO     9:00 AM                                   NORTH
+                                                                                                  PHF =   0.77               PHF =     0.95
+                 BRUSH STREET              I-980 SB OFFRAMP                                      BRUSH STREET              I-980 SB OFFRAMP
+                   15      74        418                                                                  507                 1833
+                                             11       6        1816
+
+12TH STREET                                                           12TH STREET
+                                                                                                 12TH ST                             12TH ST
+   0                                                                                77     103
+
+   0                                2511                                            39
+                                                                                           119                                         169
+   2                                                                                53
+                                                                                            2                                         PHF =
+WEST STREET                                                                                      WEST ST                               0.85
+                                                                                                  PHF =
+                                                                                                   0.25
+                            BRUSH STREET
+                                                                                                                     2289
+                                                                                                                   BRUSH STREET
+   TIME        PERIOD        SB (I-90 SB OFFRAMP)    SB (BRUSH STREET)              EB (WEST STREET)        WB (12TH STREET)         TOTAL
+ From              To       BRUSH   WEST   12TH ST BRUSH      WEST    12TH ST                    BRUSH     BRUSH    WEST   12TH ST
+                                                      SURVEY               DATA
+7:00 AM   to      7:15 AM     302     1       1      31         6         1                            0    11        2      11        366
+7:15 AM   to      7:30 AM     664     2       4      69        18         6                            1    20        8      27        819
+7:30 AM   to      7:45 AM    1056     2       4      129       30         8                            2    28       13      44       1316
+7:45 AM   to      8:00 AM    1495     3       8      186       44         9                            2    47       23      62       1879
+8:00 AM   to      8:15 AM    1974     3      13      248       57         12                           2    57       29      82       2477
+8:15 AM   to      8:30 AM    2434     5      15      345       74         17                           2    66       38      104      3100
+8:30 AM   to      8:45 AM    2875     6      16      481       96         23                           2    87       48      123      3757
+8:45 AM   to      9:00 AM    3311     9      19      604       118        24                           4    100      62      139      4390
+                                                    TOTAL            BY   PERIOD
+7:00 AM   to      7:15 AM     302     1       1      31         6         1         0       0          0    11        2      11        366
+7:15 AM   to      7:30 AM     362     1       3      38        12         5         0       0          1     9        6      16        453
+7:30 AM   to      7:45 AM     392     0       0      60        12         2         0       0          1     8        5      17        497
+7:45 AM   to      8:00 AM     439     1       4      57        14         1         0       0          0    19       10      18        563
+8:00 AM   to      8:15 AM     479     0       5      62        13         3         0       0          0    10        6      20        598
+8:15 AM   to      8:30 AM     460     2       2      97        17         5         0       0          0     9        9      22        623
+8:30 AM   to      8:45 AM     441     1       1      136       22         6         0       0          0    21       10      19        657
+8:45 AM   to      9:00 AM     436     3       3      123       22         1         0       0          2    13       14      16        633
+                                                    HOU RLY               TO TALS
+7:00 AM   to      8:00 AM    1495     3       8      186       44         9         0       0          2    47       23      62       1879
+7:15 AM   to      8:15 AM    1672     2      12      217       51         11        0       0          2    46       27      71       2111
+7:30 AM   to      8:30 AM    1770     3      11      276       56         11        0       0          1    46       30      77       2281
+7:45 AM   to      8:45 AM    1819     4      12      352       66         15        0       0          0    59       35      79       2441
+8:00 AM   to      9:00 AM    1816     6      11      418       74         15        0       0          2    53       39      77       2511
+                                       TEL: (510) 232 - 1271                   FAX: (510) 232 - 1272
+

@@ -1,0 +1,55 @@
+                                    B.A.Y.M.E.T.R.I.C.S.
+                INTERSECTION TURNING MOVEMENT SUMMARY
+PROJECT:      OAKLAND TRAFFIC STUDY                                   SURVEY DATE:       5/16/2012                    DAY:       WEDNESDAY
+N-S APPROACH: MADISON STREET                                          SURVEY TIME:        7:00 AM                     TO         9:00 AM
+E-W APPROACH:12TH STREET                                              JURISDICTION: OAKLAND                           FILE:      3205033-4AM
+
+       PEAK HOUR                                                                               ARRIVAL / DEPARTURE VOLUMES
+8:00 AM   TO     9:00 AM                                    NORTH
+
+                              64      358      0                                             PHF =     0.96
+
+                                                                                                       422      0
+
+                                                                                                                                  PHF =
+           0                                                    0                                                                  0.86
+
+           0                         1394                      778                   842                                           972
+
+           0                                                   194                    0                                             0
+
+12TH STREET                                                                         PHF =
+                                                                                   #DIV/0!
+
+                              0        0       0                                                       552      0
+
+                            MADISON STREET                                                                    PHF =    #DIV/0!
+
+   TIME        PERIOD             NORTHBOUND              SOUTHBOUND                       EASTBOUND                 WESTBOUND            TOTAL
+ From              To        LEFT    THRU    RIGHT   LEFT    THRU         RIGHT     LEFT     THRU    RIGHT    LEFT     THRU      RIGHT
+                                                      SURVEY                DATA
+7:00 AM   to      7:15 AM                                      53          10                                  27        89                179
+7:15 AM   to      7:30 AM                                      105         27                                  65       214                411
+7:30 AM   to      7:45 AM                                      171         47                                  131      412                761
+7:45 AM   to      8:00 AM                                      244         67                                  192      607                1110
+8:00 AM   to      8:15 AM                                      331         84                                  236      760                1411
+8:15 AM   to      8:30 AM                                      428         97                                  295      983                1803
+8:30 AM   to      8:45 AM                                      514         119                                 330      1181               2144
+8:45 AM   to      9:00 AM                                      602         131                                 386      1385               2504
+                                                     TOTAL           BY     PERIOD
+7:00 AM   to      7:15 AM     0       0        0      0        53          10         0        0        0      27        89         0      179
+7:15 AM   to      7:30 AM     0       0        0      0        52          17         0        0        0      38       125         0      232
+7:30 AM   to      7:45 AM     0       0        0      0        66          20         0        0        0      66       198         0      350
+7:45 AM   to      8:00 AM     0       0        0      0        73          20         0        0        0      61       195         0      349
+8:00 AM   to      8:15 AM     0       0        0      0        87          17         0        0        0      44       153         0      301
+8:15 AM   to      8:30 AM     0       0        0      0        97          13         0        0        0      59       223         0      392
+8:30 AM   to      8:45 AM     0       0        0      0        86          22         0        0        0      35       198         0      341
+8:45 AM   to      9:00 AM     0       0        0      0        88          12        0         0        0      56       204         0      360
+                                                     HOU RLY               TO TALS
+7:00 AM   to      8:00 AM     0       0        0      0        244         67        0         0        0      192      607         0      1110
+7:15 AM   to      8:15 AM     0       0        0      0        278         74        0         0        0      209      671         0      1232
+7:30 AM   to      8:30 AM     0       0        0      0        323         70        0         0        0      230      769         0      1392
+7:45 AM   to      8:45 AM     0       0        0      0        343         72        0         0        0      199      769         0      1383
+8:00 AM   to      9:00 AM     0       0        0      0        358         64        0         0        0      194      778         0      1394
+                                       TEL: (510) 232 - 1271                    FAX: (510) 232 - 1272
+

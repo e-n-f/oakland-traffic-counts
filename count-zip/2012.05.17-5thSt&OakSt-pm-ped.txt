@@ -1,0 +1,51 @@
+           B.A.Y.M.E.T.R.I.C.S.
+PEDESTRIAN MOVEMENT SUMMARY
+PROJECT:      OAKLAND TRAFFIC STUDY                                     SURVEY DATE: 5/17/2012
+N-S APPROACH: OAK STREET                                                DAY: THURSDAY
+E-W APPROACH:5TH STREET                                                 CITY: OAKLAND
+SURVEY PERIOD:  4:00 PM    TO     6:00 PM                               FILE: 3205033-PED-20PM
+
+       PEAK HOUR                                                              PEAK HOUR
+05:00 PM     TO    06:00 PM                                            TOTAL PEDESTRIAN VOLUMES
+                                                        NORTH                     143
+
+                                              B    22                                     A&B
+                              A                    15                                      37
+             25       20                                          G&H     45
+             H                                     C
+
+                      G                                   D
+5TH STREET                                         33     23                              56    C&D
+                      2                       E                           5
+                      3       F                                          E&F
+
+                              OAK STREET
+
+     TIME    PERIOD           NORTH X-WALK        EAST X-WALK   SOUTH X-WALK     WEST X-WALK
+ From                 To        A      B           C       D      E      F        G      H      TOTAL
+                                        SURVEY           DATA
+04:00 PM     ---   04:15 PM       2      2         5      2        1      2       2       2       18
+04:15 PM     ---   04:30 PM        4      9        11     3        3       4       3       9      46
+04:30 PM     ---   04:45 PM        6     11        19     7        3       5       6      11      68
+04:45 PM     ---   05:00 PM        9     16        28     10       5       7       6      17      98
+05:00 PM     ---   05:15 PM       14     23        34     19       5       9      12      25     141
+05:15 PM     ---   05:30 PM       16     28        43     23       6      10      15      31     172
+05:30 PM     ---   05:45 PM       18     30        46     26       6      10      18      33     187
+05:45 PM     ---   06:00 PM       24     38        61     33       7      10      26      42     241
+                                  TOTAL           BY     PERIOD
+04:00 PM     ---   04:15 PM       2      2         5      2        1       2          2    2     18
+04:15 PM     ---   04:30 PM       2      7         6      1        2       2          1    7     28
+04:30 PM     ---   04:45 PM       2      2         8      4        0       1          3    2     22
+04:45 PM     ---   05:00 PM       3      5         9      3        2       2          0    6     30
+05:00 PM     ---   05:15 PM       5      7         6      9        0       2          6    8     43
+05:15 PM     ---   05:30 PM       2      5         9      4        1       1          3    6     31
+05:30 PM     ---   05:45 PM       2      2         3      3        0       0          3    2     15
+05:45 PM     ---   06:00 PM       6      8         15     7        1       0          8    9     54
+                                       HOURLY           TOTALS
+04:00 PM     ---   05:00 PM        9     16        28     10       5       7       6      17      98
+04:15 PM     ---   05:15 PM       12     21        29     17       4       7      10      23     123
+04:30 PM     ---   05:30 PM       12     19        32     20       3       6      12      22     126
+04:45 PM     ---   05:45 PM       12     19        27     19       3       5      12      22     119
+05:00 PM     ---   06:00 PM       15     22        33     23       2       3      20      25     143
+                    Tel : (510) 232-1271                        Fax: (510) 232-1272
+

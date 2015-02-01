@@ -1,0 +1,44 @@
+                                                           BICYCLE APPROACH COUNTS
+                                                            #007 Mandela & Peralta - AM PEAK
+    LOCATION#:             007                                                      QTD PROJ#:        600113
+   NORTH / SOUTH:          Mandela                                                    DATE:           Tuesday, February 08, 2011
+    EAST / WEST:           Peralta                                                   VICINITY:        Oakland, CA
+
+
+
+    DIRECTION:               NORTHERN CROSSWALK             SOUTHERN CROSSWALK      EASTERN CROSSWALK                WESTERN CROSSWALK                    TOTALS
+    6:00 AM
+    6:15 AM
+    6:30 AM
+    6:45 AM
+    7:00 AM                                  0                       0                         0                                   1                        1
+    7:15 AM                                  0                       0                         0                                   3                        3
+    7:30 AM                                  0                       0                         0                                   3                        3
+    7:45 AM                                  0                       0                         0                                   8                        8
+    8:00 AM                                  0                       0                         0                                   3                        3
+    8:15 AM                                  0                       0                         0                                   2                        2
+    8:30 AM                                  0                       0                         0                                   9                        9
+    8:45 AM                                  0                       0                         0                                   6                        6
+    9:00 AM
+    9:15 AM
+    9:30 AM
+    9:45 AM
+   10:00 AM
+   10:15 AM
+   10:30 AM
+
+  VOLUME STATS:                      FROM NORTH                 FROM SOUTH              FROM EAST                           FROM WEST
+               TOTAL:                     0                           0                       0                                   35                        35
+                P.H.V: ₁                  0                           0                       0                                   22                        22
+                P.H.F: ₂                0.000                       0.000                   0.000                                0.611                     0.611
+
+(1) Peak Hour Volume (Peak hour begins at:       745 AM)
+(2) Peak Hour Factor
+
+
+
+
+                                                                                      QUALITY TRAFFIC DATA, LLC
+                                                                                      9701 W Pico Blvd, Suite 205, Los Angeles, CA 90035
+                                                                                      Phone: 310-341-0019 Fax: 310-807-9247 Info@QualityTrafficData.com
+

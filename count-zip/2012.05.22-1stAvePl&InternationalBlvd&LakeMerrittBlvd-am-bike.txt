@@ -1,0 +1,55 @@
+                                    B.A.Y.M.E.T.R.I.C.S.
+                                    BICYCLE MOVEMENT SUMMARY
+PROJECT:      OAKLAND TRAFFIC STUDY                                     SURVEY DATE:        5/22/2012              DAY:    TUESDAY
+N-S APPROACH: LAKE MERRITT BLVD   - 1ST AVENUE PL                       SURVEY TIME:        7:00 AM                TO      9:00 AM
+E-W APPROACH:INTERNATIONAL BLVD                                         JURISDICTION: OAKLAND                      FILE:   3205033-B-34AM
+                            LAKE MERRITT BLVD
+       PEAK HOUR               0     54      1                                               ARRIVAL / DEPARTURE VOLUMES
+7:45 AM   TO     8:45 AM                                      NORTH                 N-LEG TOTAL     64
+                                                                                                    55       9
+                                                      1ST AVENUE PLACE
+                                                                                                                     1ST AV PL-LEG TOTAL
+                                                                  0                                                            2
+
+                                                                  0                                                           0
+
+                                                                                                                              2
+                                     79                           0
+                                                                                                                              15
+                                                                  1
+                                                                                                                              0
+                                                                  14
+                                                                                                                     INT BLVD-LEG TOTAL
+                                                      INTERNATIONAL BLVD                                                      15
+
+                               8     1       0                                                      68         9
+                            LAKE MERRITT BLVD                                              S-LEG TOTAL        77
+
+  TIME         PERIOD       NB (LAKE MERRITT BL) SB (LAKE MERRITT BL)              WB (1 ST AVENUE PL)      WB (INTERNATIONAL BL) TOTAL
+ From              To        THRU   1ST AV    RIGHT    LEFT    THRU     RIGHT      LEFT    THRU   RIGHT     LM (SB) LM (NB) 1ST AV
+                                                         SURVEY                 DATA
+7:00 AM   to      7:15 AM     0       0                  0        7                          1                2       0       1      11
+7:15 AM   to      7:30 AM     1       0                  0        18                        1                 9       0       1      30
+7:30 AM   to      7:45 AM     1       0                  0        27                        3                 14      0       1      46
+7:45 AM   to      8:00 AM     2       0                  0        41                        3                 16      0       1      63
+8:00 AM   to      8:15 AM     4       0                  0        51                        3                 21      1       1      81
+8:15 AM   to      8:30 AM     7       0                  0        66                        3                 28      1       1      106
+8:30 AM   to      8:45 AM     9       1                  1        81                        3                 28      1       1      125
+8:45 AM   to      9:00 AM     9       1                  1        92                        3                 28      1       1      136
+                                                       TOTAL           BY       PERIOD
+7:00 AM   to      7:15 AM     0       0         0       0         7         0        0      1           0     2       0       1      11
+7:15 AM   to      7:30 AM     1       0         0       0         11        0        0      0           0     7       0       0      19
+7:30 AM   to      7:45 AM     0       0         0       0         9         0        0      2           0     5       0       0      16
+7:45 AM   to      8:00 AM     1       0         0       0         14        0        0      0           0     2       0       0      17
+8:00 AM   to      8:15 AM     2       0         0       0         10        0        0      0           0     5       1       0      18
+8:15 AM   to      8:30 AM     3       0         0       0         15        0        0      0           0     7       0       0      25
+8:30 AM   to      8:45 AM     2       1         0       1         15        0        0      0           0     0       0       0      19
+8:45 AM   to      9:00 AM     0       0         0       0         11        0        0      0           0     0       0       0      11
+                                                       HOU RLY              TO TALS
+7:00 AM   to      8:00 AM     2       0         0       0         41        0        0      3           0     16      0       1      63
+7:15 AM   to      8:15 AM     4       0         0       0         44        0        0      2           0     19      1       0      70
+7:30 AM   to      8:30 AM     6       0         0       0         48        0        0      2           0     19      1       0      76
+7:45 AM   to      8:45 AM     8       1         0       1         54        0        0      0           0     14      1       0      79
+8:00 AM   to      9:00 AM     7       1         0       1         51        0        0      0           0     12      1       0      73
+                                          TEL: (510) 232 - 1271                 FAX: (510) 232 - 1272
+
