@@ -9,21 +9,25 @@ my %lon = ();
 	my $lat = "";
 	my $lon = "";
 
-	open(IN, "oakland/TMC_AM.KML");
-	while (<IN>) {
-		if (/<coordinates>([0-9.-]+), *([0-9.-]+)/) {
-			$lat = $2;
-			$lon = $1;
-		}
+	for my $file (<oakland/TMC_*.KML>) {
+		open(IN, "$file");
+		while (<IN>) {
+			if (/<coordinates>([0-9.-]+), *([0-9.-]+)/) {
+				$lat = $2;
+				$lon = $1;
+			}
 
-		if (/https:.*\/([^\/"]*\.csv)/) {
-			my $url = "oakland/$1";
-			$url =~ s/'/%27/g;
-			$url =~ s/ /%20/g;
+			if (/https:.*\/([^\/"]*\.csv)/) {
+				my $url = "oakland/$1";
+				$url =~ s/'/%27/g;
+				$url =~ s/ /%20/g;
 
-			$lat{$url} = $lat;
-			$lon{$url} = $lon;
-			$lat = $lon = "";
+				if ($lat ne "") {
+					$lat{$url} = $lat;
+					$lon{$url} = $lon;
+					$lat = $lon = "";
+				}
+			}
 		}
 	}
 }
@@ -107,51 +111,55 @@ sub out {
 	}
 }
 
-while (<>) {
-	chomp;
-	my @fields = csv($_);
+for my $file (sort(keys(%lat))) {
+#for my $file ("oakland/TMC_49_Broadway_5th%20St.csv") {
+	open(IN, "$file");
+	while (<IN>) {
+		my @fields = csv($_);
 
-	if ($fields[0] eq "TURNING MOVEMENT COUNTS REPORT") {
-		out();
-		%val = ();
-		$date = "";
-		%street = ();
-		$fname = $ARGV;
-		$type = "";
-		@cols = ();
-	}
+		if ($fields[0] eq "TURNING MOVEMENT COUNTS REPORT") {
+			out();
+			%val = ();
+			$date = "";
+			%street = ();
+			$type = "";
+			$fname = $file;
+			@cols = ();
+		}
 
-	if ($fields[0] =~ /(.*) Streetname/) {
-		if ($fields[1] ne "") {
-			$street{$1} = $fields[1];
+		if ($fields[0] =~ /(.*) Streetname/) {
+			if ($fields[1] ne "") {
+				$street{$1} = $fields[1];
+			}
+		}
+
+		if ($fields[0] =~ /^Date:/) {
+			$date = $fields[1];
+		}
+
+		if ($fields[0] =~ /(.*) VOLUMES/) {
+			$type = $1;
+		}
+
+		if ($fields[0] eq "Time Period") {
+			@cols = @fields;
+		}
+
+		if ($fields[0] =~ /([0-9]+):([0-9][0-9]) ([AP])M/) {
+			my $hour = $1;
+			my $minute = $2;
+			my $m = $3;
+
+			if ($m eq "P" && $hour != 12) {
+				$hour += 12;
+			}
+
+			for (my $i = 1; $i <= $#fields; $i++) {
+				$val{$hour * 60 + $minute}{$type}{$cols[$i]} = $fields[$i];
+			}
 		}
 	}
 
-	if ($fields[0] =~ /^Date:/) {
-		$date = $fields[1];
-	}
-
-	if ($fields[0] =~ /(.*) VOLUMES/) {
-		$type = $1;
-	}
-
-	if ($fields[0] eq "Time Period") {
-		@cols = @fields;
-	}
-
-	if ($fields[0] =~ /([0-9]+):([0-9][0-9]) ([AP])M/) {
-		my $hour = $1;
-		my $minute = $2;
-		my $m = $3;
-
-		if ($m eq "P" && $hour != 12) {
-			$hour += 12;
-		}
-
-		for (my $i = 1; $i <= $#fields; $i++) {
-			$val{$hour * 60 + $minute}{$type}{$cols[$i]} = $fields[$i];
-		}
-	}
+	out();
+	%val = ();
 }
-
-out();

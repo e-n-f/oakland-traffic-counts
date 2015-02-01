@@ -1,19 +1,33 @@
 #!/usr/bin/perl
 
-system "curl -O http://maps.kittelson.com/system/uploads/1171/original/TMC_AM.KML";
+#!/usr/bin/perl
 
-open(IN, "TMC_AM.KML");
+open(IN, "curl 'http://maps.kittelson.com/OaklandCounts' |");
 while (<IN>) {
-	while (s/"(https:\/\/googledrive.com[^"]*)"//) {
-		$url = $1;
-		print "$url\n";
-		$url =~ s/'/%27/g;
-		$url =~ s/ /%20/g;
+        $kml .= $_;
+}
+close(IN);
 
-		$base = $url;
-		$base =~ s/.*\///;
-		next if -f $base;
+while ($kml =~ s/(http:\/\/maps.kittelson.com\/system\/uploads\/[0-9]+\/original\/(TMC_...KML))//) {
+        $url = $1;
+	$base = $2;
 
-		system "curl -L -O '$url'";
+	print "$url\n";
+	system "curl -O '$url'";
+
+	open(IN, "$base");
+	while (<IN>) {
+		while (s/"(https:\/\/googledrive.com[^"]*)"//) {
+			$url = $1;
+			print "$url\n";
+			$url =~ s/'/%27/g;
+			$url =~ s/ /%20/g;
+
+			$base = $url;
+			$base =~ s/.*\///;
+			next if -f $base;
+
+			system "curl -L -O '$url'";
+		}
 	}
 }
