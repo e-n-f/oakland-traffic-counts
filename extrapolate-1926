@@ -10,32 +10,20 @@ while (<>) {
 	next if /^#/;
 	($name, $drive, $walk) = split(/,/);
 
-	$drive /= 2;
-	$walk /= 2;
+	$drive;
+	$walk;
 	$bike = 0;
 
 	if ($walk > 0) {
-		print "sf-1926,$name,x,x,08:00-12:00,";
+		print "sf-1926,$name,x,x,08:00-12:00;14:00-18:00,";
 		for ($i = 0; $i < 4; $i++) {
-			printf("%d,%d,%d,", $drive / 4 * $right, $drive / 4 * $thru, $drive / 4 * $left);
+			printf("%.2f,%.2f,%.2f,", $drive / 4 * $right, $drive / 4 * $thru, $drive / 4 * $left);
 		}
 		for ($i = 0; $i < 4; $i++) {
-			printf("%d,", $walk / 4);
+			printf("%.2f,", $walk / 4);
 		}
 		for ($i = 0; $i < 4; $i++) {
-			printf("%d,", $bike / 4);
-		}
-		print "\n";
-
-		print "sf-1926,$name,x,x,14:00-18:00,";
-		for ($i = 0; $i < 4; $i++) {
-			printf("%d,%d,%d,", $drive / 4 * $right, $drive / 4 * $thru, $drive / 4 * $left);
-		}
-		for ($i = 0; $i < 4; $i++) {
-			printf("%d,", $walk / 4);
-		}
-		for ($i = 0; $i < 4; $i++) {
-			printf("%d,", $bike / 4);
+			printf("%.2f,", $bike / 4);
 		}
 		print "\n";
 	}

@@ -1,8 +1,8 @@
-name,8 hr vehicle,8 hr pedestrian
+name,eight hr vehicle,eight hr pedestrian
 
 # http://www.archive.org/stream/journalofproceed21sanfrich#page/1876/mode/2up
 # sum of 08:00-12:00 and 14:00-18:00
-# Modern scaling suggests 24-hour should be 2x this 8-hour total
+# Modern scaling suggests 24-hour should be ~1.95x this 8-hour total
 
 Kearny and Post,10670,37080
 Bush and Montgomery,10756,35175
