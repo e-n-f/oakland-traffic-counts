@@ -17,8 +17,11 @@ my %lon = ();
 				$lon = $1;
 			}
 
-			if (/https:.*\/([^\/"]*\.csv)/) {
-				my $url = "oakland/$1";
+			if (/https:.*\/(TMC_[^"]*\.csv)/) {
+				my $p1 = $1;
+				print STDERR "$p1\n";
+				$p1 =~ s/\//_/g;
+				my $url = "oakland/$p1";
 				$url =~ s/'/%27/g;
 				$url =~ s/ /%20/g;
 

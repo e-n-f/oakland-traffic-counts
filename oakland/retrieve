@@ -23,6 +23,13 @@ while ($kml =~ s/(http:\/\/maps.kittelson.com\/system\/uploads\/[0-9]+\/original
 			$url =~ s/'/%27/g;
 			$url =~ s/ /%20/g;
 
+			if ($url =~ /(.*)(TMC_.*)/) {
+				$p1 = $1;
+				$p2 = $2;
+				$p2 =~ s/\//_/g;
+				$url = "$p1$p2";
+			}
+
 			$base = $url;
 			$base =~ s/.*\///;
 			next if -f $base;
