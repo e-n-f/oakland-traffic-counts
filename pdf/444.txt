@@ -4,7 +4,7 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 444     14th St & Broadway         11/9/1999    4:00 PM      2              74         3018
 444     14th St & Broadway         11/9/1999    11:00 AM     2              64         4729
 444     14th St & Broadway         11/9/1999    7:00 AM      2              71         2147
-444     14th St & Broadway         4/12/2005    4:30 PM      2              126        92        40
+444     14th St & Broadway         4/12/2005    4:30 PM      2              126        2592      4240
 444     14th St & Broadway         4/12/2005    11:00 AM     2              95         4236      4133
 444     14th St & Broadway         4/12/2005    7:00 AM      2              70         1530      2787
 
