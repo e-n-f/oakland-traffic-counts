@@ -105,8 +105,13 @@ sub out {
 		}
 
 		for my $dir ("WB", "NB", "EB", "SB") {
-			print $val{$time}{"BICYCLE"}{"$dir Thru"};
-			print ",";
+			my $sum = 0;
+
+			for my $turn ("Right", "Thru", "Left") {
+				$sum += $val{$time}{"BICYCLE"}{"$dir $turn"};
+			}
+
+			print "$sum,";
 		}
 
 		print "$lat{$fname},$lon{$fname}";
