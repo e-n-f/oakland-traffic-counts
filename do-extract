@@ -2,6 +2,6 @@
 
 (
 	echo 'id,name,id,date,time,SB-Right,SB-Thru,SB-Left,WB-Right,WB-Thru,WB-Left,NB-Right,NB-Thru,NB-Left,EB-Right,EB-Thru,EB-Left,SB-Ped,WB-Ped,NB-Ped,EB-Ped,N-Bike,E-Bike,S-Bike,W-Bike,lat,lon'
-	find pdf -name '*.txt' -print0 | xargs -0 ./extract | ./extrapolate
+	find pdf -name '*.txt' -print0 | xargs -0 ./extract | ./extrapolate | grep -v 104.pdf
 	./extract-qc oakland/*.csv
 ) > counts-oakland.csv
