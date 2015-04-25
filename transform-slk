@@ -1,0 +1,66 @@
+#!/usr/bin/perl
+
+open(IN, "counts.slk");
+while (<IN>) {
+	chomp;
+	@fields = split(/;/);
+
+	$x = -1;
+	$y = -1;
+
+	for (@fields) {
+		if (/^X(\d+)/) {
+			$x = $1;
+		}
+		if (/^Y(\d+)/) {
+			$y = $1;
+		}
+		if (/^K(.*)/) {
+			$k{$y}{$x} = $1;
+			$k{$y}{$x} =~ s/^"//;
+			$k{$y}{$x} =~ s/"$//;
+			$k{$y}{$x} =~ s/,/ /g;
+		}
+		if (/^E(.*)/) {
+			$e{$y}{$x} = $1;
+		}
+	}
+}
+
+for $y (sort { $a <=> $b } keys(%k)) {
+	if ($e{$y}{2} =~ /^(\d+)\+(\d+)\+(\d+)\+(\d+)$/) {
+		@counts = ( $1, $2, $3, $4 );
+	} else {
+		$tmp = sprintf("%.02f (extrapolated)", $k{$y}{2} / 4);
+		@counts = ( $tmp, $tmp, $tmp, $tmp );
+	}
+
+	if ($k{$y}{6} =~ /(\d+):(\d+):(\d+)/) {
+		$h = $1;
+		$m = $2;
+	} elsif ($k{$y}{6} eq "PM") {
+		$h = 5;
+		$m = 0;
+	} elsif ($k{$y}{6} eq "AM") {
+		$h = 8;
+		$m = 0;
+	} else {
+		print STDERR "fail $k{$y}{6}\n";
+		next;
+	}
+
+	$t = $h * 60 + $m;
+	$t2 = $t + 60 * $k{$y}{3};
+	$time = sprintf("%02d:%02d-%02d:%02d", $t / 60, $t % 60, $t2 / 60, $t2 % 60);
+
+	($lat, $lon) = split(/ +/, $k{$y}{7});
+
+	print "$k{$y}{8},$k{$y}{4},x,$k{$y}{5},$time,";
+	print ",,,,,,,,,,,,";
+
+	for ($i = 0; $i < 4; $i++) {
+		print "$counts[$i],";
+	}
+
+	print ",,,,$lat,$lon\n";
+}
