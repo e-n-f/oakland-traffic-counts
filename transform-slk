@@ -53,6 +53,12 @@ for $y (sort { $a <=> $b } keys(%k)) {
 	$t2 = $t + 60 * $k{$y}{3};
 	$time = sprintf("%02d:%02d-%02d:%02d", $t / 60, $t % 60, $t2 / 60, $t2 % 60);
 
+	if ($k{$y}{5} > 10000) {
+		$date = ($k{$y}{5} - (1970 - 1900) * 365 - 18) * 86400;
+		($sec,$min,$hour,$mday,$mon,$year,$wday,$yday,$isdst) = localtime($date);
+		$k{$y}{5} = sprintf("%04d-%02d-%02d", $year + 1900, $mon + 1, $mday);
+	}
+
 	($lat, $lon) = split(/ +/, $k{$y}{7});
 
 	print "$k{$y}{8},$k{$y}{4},x,$k{$y}{5},$time,";
