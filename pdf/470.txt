@@ -1,0 +1,12 @@
+                       City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+470     8th St & Jackson St         5/17/2012    4:00 PM      2                                   2058
+470     8th St & Jackson St         5/17/2012    4:00 PM      2                         447
+470     8th St & Jackson St         5/17/2012    4:00 PM      2              43
+470     8th St & Jackson St         5/17/2012    7:00 AM      2                                   1841
+470     8th St & Jackson St         5/17/2012    7:00 AM      2                         584
+470     8th St & Jackson St         5/17/2012    7:00 AM      2              29
+
+Total Counts      6                                                                            Report Date   9/3/2014
+

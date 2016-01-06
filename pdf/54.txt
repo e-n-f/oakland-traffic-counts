@@ -5,5 +5,5 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 54      29th St & Telegraph Ave    9/17/2003    11:00 AM     2              43         211
 54      29th St & Telegraph Ave    9/17/2003    7:00 AM      2              68         138
 
-Total Counts     3                                                                            Report Date 3/27/2014
+Total Counts     3                                                                            Report Date   9/3/2014
 

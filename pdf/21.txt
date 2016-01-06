@@ -4,5 +4,5 @@ LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIK
 21      15th St & Jackson St        3/7/2007     11:00 AM     1              257        54
 21      15th St & Jackson St        3/7/2007     5:00 AM      1              418        109
 
-Total Counts      2                                                                            Report Date 3/27/2014
+Total Counts      2                                                                            Report Date   9/3/2014
 

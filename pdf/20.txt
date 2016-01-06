@@ -1,8 +1,8 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
 LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+20      14th St & Market St        7/26/2005    4:00 PM      2              36         107
+20      14th St & Market St        7/26/2005    7:00 AM      2              18         76
 
-
-
-Total Counts   0                                                                              Report Date 3/27/2014
+Total Counts     2                                                                            Report Date   9/3/2014
 

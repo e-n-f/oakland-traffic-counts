@@ -4,9 +4,12 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 36      20th St & Telegraph Ave    9/17/2003    4:00 PM      2              86         597
 36      20th St & Telegraph Ave    9/17/2003    11:00 AM     2              59         600
 36      20th St & Telegraph Ave    9/17/2003    7:00 AM      2              66         528
+36      20th St & Telegraph Ave    6/2/2004     4:00 PM      2              69         763       3003
+36      20th St & Telegraph Ave    6/2/2004     11:00 AM     2              43         773       2524
+36      20th St & Telegraph Ave    6/2/2004     7:00 AM      2              56         598       2071
 36      20th St & Telegraph Ave    2/15/2006    11:30 AM     2              62         233       2711
 36      20th St & Telegraph Ave    2/15/2006    4:00 PM      2              61         547       2895
 36      20th St & Telegraph Ave    3/15/2006    7:00 AM      2              73         187       2024
 
-Total Counts     6                                                                            Report Date 3/27/2014
+Total Counts     9                                                                            Report Date   9/3/2014
 

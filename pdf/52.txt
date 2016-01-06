@@ -4,5 +4,5 @@ LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIK
 52      29th St & Harrison St       1/25/2007    12:00 PM     2                         37
 52      29th St & Harrison St       1/25/2007    11:30 AM     2              5
 
-Total Counts      2                                                                            Report Date 3/27/2014
+Total Counts      2                                                                            Report Date   9/3/2014
 

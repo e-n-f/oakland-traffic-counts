@@ -1,0 +1,12 @@
+                       City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+486     28th St & Peralta St        2/9/2011     4:00 PM      2                                   805
+486     28th St & Peralta St        2/9/2011     4:00 PM      2                         91
+486     28th St & Peralta St        2/9/2011     4:00 PM      2              36
+486     28th St & Peralta St        2/9/2011     7:00 AM      2                                   660
+486     28th St & Peralta St        2/9/2011     7:00 AM      2                         39
+486     28th St & Peralta St        2/9/2011     7:00 AM      2              16
+
+Total Counts      6                                                                            Report Date   9/3/2014
+

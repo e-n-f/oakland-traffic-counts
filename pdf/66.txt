@@ -4,5 +4,5 @@ LOC ID INTERSECTION                     COUNT DATE   COUNT TIME   DURATION (HRS)
 66      34th Ave & International Blvd   4/22/2009    4:00 PM      2              17         1227      3635
 66      34th Ave & International Blvd   4/22/2009    7:00 AM      2              23         631       2873
 
-Total Counts      2                                                                                Report Date 3/27/2014
+Total Counts      2                                                                                Report Date   9/3/2014
 

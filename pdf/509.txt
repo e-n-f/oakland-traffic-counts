@@ -1,0 +1,8 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                       COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+509     Caldecott Ln & Kay Overcrossing   5/22/2013    3:00 PM      3              42         2         2556
+509     Caldecott Ln & Kay Overcrossing   5/22/2013    6:00 AM      3              18         2         1965
+
+Total Counts     2                                                                                   Report Date   9/3/2014
+

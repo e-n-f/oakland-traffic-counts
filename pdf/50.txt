@@ -3,5 +3,5 @@
 LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 50      29th Ave & E 8th St        3/6/2007     2:00 AM      2                         11
 
-Total Counts      1                                                                           Report Date 3/27/2014
+Total Counts      1                                                                           Report Date   9/3/2014
 

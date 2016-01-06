@@ -1,0 +1,12 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                         COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+501     5th St & 6th St & I-880 Offramp &   11/15/2012   7:00 AM      2              12         0         51
+        Market St
+501     5th St & 6th St & I-880 Offramp &   11/15/2012   7:00 AM      2              24         27        1293
+        Market St
+501     5th St & 6th St & I-880 Offramp &   11/28/2012   4:00 PM      2              11         14        1190
+        Market St
+
+Total Counts      3                                                                                    Report Date   9/3/2014
+

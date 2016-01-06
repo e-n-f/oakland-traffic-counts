@@ -8,5 +8,5 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 46      27th St & Broadway         9/12/2012    4:00 PM      2              336        187       4458
 46      27th St & Broadway         9/12/2012    4:00 PM      2              344        187       4458
 
-Total Counts     6                                                                            Report Date 3/27/2014
+Total Counts     6                                                                            Report Date   9/3/2014
 

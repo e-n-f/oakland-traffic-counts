@@ -8,5 +8,5 @@ LOC ID INTERSECTION                  COUNT DATE   COUNT TIME   DURATION (HRS) BI
 6       108th Ave & MacArthur Blvd   12/15/2010   7:00 AM      2                                   1019
 6       108th Ave & MacArthur Blvd   12/15/2010   7:00 AM      2                         58
 
-Total Counts     6                                                                              Report Date 3/27/2014
+Total Counts     6                                                                              Report Date   9/3/2014
 

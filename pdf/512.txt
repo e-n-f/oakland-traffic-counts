@@ -1,0 +1,9 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                      COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+512     Telegraph Ave & SR24 EB OnRamp   5/22/2013    3:00 PM      3              195        118       7118
+512     Telegraph Ave & SR24 EB OnRamp   5/22/2013    3:00 PM      3              193        66        8002
+512     Telegraph Ave & SR24 EB OnRamp   5/22/2013    6:00 AM      3              107        40        4281
+
+Total Counts     3                                                                                  Report Date   9/3/2014
+

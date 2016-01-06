@@ -8,5 +8,5 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 35      20th St & San Pablo Ave    2/16/2006    7:00 AM      2              39         156       674
 35      20th St & San Pablo Ave    2/16/2006    4:00 PM      2              52         108       1538
 
-Total Counts     6                                                                            Report Date 3/27/2014
+Total Counts     6                                                                            Report Date   9/3/2014
 

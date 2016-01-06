@@ -6,5 +6,5 @@ LOC ID INTERSECTION                    COUNT DATE   COUNT TIME   DURATION (HRS) 
 34      1st St & Oak St                10/5/2010    4:00 PM      3                         90
 34      1st St & Oak St                10/5/2010    7:00 AM      2                         73
 
-Total Counts      4                                                                               Report Date 3/27/2014
+Total Counts      4                                                                               Report Date   9/3/2014
 

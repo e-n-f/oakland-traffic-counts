@@ -1,8 +1,22 @@
                        City of Oakland Bicycle and Pedestrian Counts
 
-LOC ID INTERSECTION                    COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
-33      1st Ave & International Blvd   10/7/2010    4:00 PM      3              50
-33      1st Ave & International Blvd   10/14/2010   4:00 PM      3                         192
+LOC ID INTERSECTION                              COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+33      1st Ave Pl & International Blvd & Lake   10/7/2010    4:00 PM      3              50
+        Merritt Blvd
+33      1st Ave Pl & International Blvd & Lake   10/14/2010   4:00 PM      3                         192
+        Merritt Blvd
+33      1st Ave Pl & International Blvd & Lake   5/22/2012    4:00 PM      2                                   4004
+        Merritt Blvd
+33      1st Ave Pl & International Blvd & Lake   5/22/2012    4:00 PM      2              127
+        Merritt Blvd
+33      1st Ave Pl & International Blvd & Lake   5/22/2012    7:00 AM      2                                   3218
+        Merritt Blvd
+33      1st Ave Pl & International Blvd & Lake   5/22/2012    7:00 AM      2              136
+        Merritt Blvd
+33      1st Ave Pl & International Blvd & Lake   5/22/2012    4:00 PM      2                         368
+        Merritt Blvd
+33      1st Ave Pl & International Blvd & Lake   5/22/2012    7:00 AM      2                         332
+        Merritt Blvd
 
-Total Counts      2                                                                               Report Date 3/27/2014
+Total Counts      8                                                                                         Report Date   9/3/2014
 

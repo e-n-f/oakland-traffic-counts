@@ -7,5 +7,5 @@ LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIK
 10      11th St & Jackson St        10/5/2010    4:00 PM      3                         627
 10      11th St & Jackson St        10/7/2010    4:00 PM      3              85
 
-Total Counts      5                                                                            Report Date 3/27/2014
+Total Counts      5                                                                            Report Date   9/3/2014
 

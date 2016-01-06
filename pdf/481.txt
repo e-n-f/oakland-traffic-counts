@@ -1,0 +1,12 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+481     24th St & Mandela Pkwy     2/8/2011     4:00 PM      2                                   1687
+481     24th St & Mandela Pkwy     2/8/2011     4:00 PM      2                         48
+481     24th St & Mandela Pkwy     2/8/2011     4:00 PM      2              25
+481     24th St & Mandela Pkwy     2/8/2011     7:00 AM      2                                   1028
+481     24th St & Mandela Pkwy     2/8/2011     7:00 AM      2                         24
+481     24th St & Mandela Pkwy     2/8/2011     7:00 AM      2              42
+
+Total Counts     6                                                                            Report Date   9/3/2014
+

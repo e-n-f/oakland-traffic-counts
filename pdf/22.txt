@@ -5,5 +5,5 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 22      16th Ave & Embarcadero     5/30/2002    4:00 AM      2              39
 22      16th Ave & Embarcadero     4/26/2006    4:00 PM      2              61         40
 
-Total Counts     3                                                                            Report Date 3/27/2014
+Total Counts     3                                                                            Report Date   9/3/2014
 

@@ -2,6 +2,12 @@
 
 LOC ID INTERSECTION                           COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 53      29th St & Martin Luther King Jr Way   6/6/2007     2:30 AM      2              27
+53      29th St & Martin Luther King Jr Way   2/9/2011     4:00 PM      2                                   1224
+53      29th St & Martin Luther King Jr Way   2/9/2011     4:00 PM      2                         155
+53      29th St & Martin Luther King Jr Way   2/9/2011     4:00 PM      2              39
+53      29th St & Martin Luther King Jr Way   2/9/2011     7:00 AM      2                                   695
+53      29th St & Martin Luther King Jr Way   2/9/2011     7:00 AM      2                         77
+53      29th St & Martin Luther King Jr Way   2/9/2011     7:00 AM      2              23
 
-Total Counts      1                                                                                      Report Date 3/27/2014
+Total Counts      7                                                                                      Report Date   9/3/2014
 

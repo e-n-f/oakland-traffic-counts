@@ -1,0 +1,12 @@
+                       City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                   COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+475     13th St & Lake Merritt Blvd   5/22/2012    4:00 PM      2                                   1893
+475     13th St & Lake Merritt Blvd   5/22/2012    4:00 PM      2                         37
+475     13th St & Lake Merritt Blvd   5/22/2012    4:00 PM      2              151
+475     13th St & Lake Merritt Blvd   5/22/2012    7:00 AM      2                                   1346
+475     13th St & Lake Merritt Blvd   5/22/2012    7:00 AM      2                         8
+475     13th St & Lake Merritt Blvd   5/22/2012    7:00 AM      2              133
+
+Total Counts      6                                                                              Report Date   9/3/2014
+

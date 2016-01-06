@@ -1,0 +1,8 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                      COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+511     Caldecott Ln & SR24 WB OffRamp   5/22/2013    3:00 PM      3              1                    677
+511     Caldecott Ln & SR24 WB OffRamp   5/22/2013    9:00 AM      3              1                    933
+
+Total Counts     2                                                                                  Report Date   9/3/2014
+

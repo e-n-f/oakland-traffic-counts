@@ -1,0 +1,12 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+465     Lakeside Dr & Madison St   5/16/2012    4:00 PM      2                                   2238
+465     Lakeside Dr & Madison St   5/16/2012    4:00 PM      2                         128
+465     Lakeside Dr & Madison St   5/16/2012    7:00 AM      2              95
+465     Lakeside Dr & Madison St   5/16/2012    7:00 AM      2                                   1689
+465     Lakeside Dr & Madison St   5/16/2012    7:00 AM      2                         140
+465     Lakeside Dr & Madison St   5/16/2012    7:00 AM      2              60
+
+Total Counts     6                                                                            Report Date   9/3/2014
+

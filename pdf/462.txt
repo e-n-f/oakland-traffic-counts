@@ -1,0 +1,12 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+462     13th St & Oak St           5/16/2012    4:00 PM      2                                   1532
+462     13th St & Oak St           5/16/2012    4:00 PM      2                         263
+462     13th St & Oak St           5/16/2012    4:00 PM      2              53
+462     13th St & Oak St           5/16/2012    7:00 AM      2                                   1170
+462     13th St & Oak St           5/16/2012    7:00 AM      2                         303
+462     13th St & Oak St           5/16/2012    7:00 AM      2              24
+
+Total Counts      6                                                                           Report Date   9/3/2014
+

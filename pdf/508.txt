@@ -1,0 +1,10 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                           COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+508     Broadway & Miles Ave & Patton Ave &   5/22/2013    3:00 PM      3              19                   1815
+        SR24 On-Ramp
+508     Broadway & Miles Ave & Patton Ave &   5/22/2013    6:00 AM      3              13                   1738
+        SR24 On-Ramp
+
+Total Counts     2                                                                                       Report Date   9/3/2014
+

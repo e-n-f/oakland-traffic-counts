@@ -3,6 +3,12 @@
 LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 15      12th St & Brush St          10/7/2010    4:00 PM      3              23
 15      12th St & Brush St          10/14/2010   4:00 PM      3                         102
+15      12th St & Brush St          5/22/2012    4:00 PM      2                                   2934
+15      12th St & Brush St          5/22/2012    4:00 PM      2                         115
+15      12th St & Brush St          5/22/2012    4:00 PM      2              17
+15      12th St & Brush St          5/22/2012    7:00 AM      2                                   4390
+15      12th St & Brush St          5/22/2012    7:00 AM      2                         65
+15      12th St & Brush St          5/22/2012    7:00 AM      2              5
 
-Total Counts      2                                                                            Report Date 3/27/2014
+Total Counts      8                                                                            Report Date   9/3/2014
 

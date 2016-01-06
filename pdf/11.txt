@@ -6,6 +6,12 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 11      11th St & Madison St       3/24/2005    7:00 AM      2              24         298       1914
 11      11th St & Madison St       10/5/2010    4:00 PM      3                         603
 11      11th St & Madison St       10/7/2010    4:00 PM      3              84
+11      11th St & Madison St       5/16/2012    4:00 PM      2                                   2688
+11      11th St & Madison St       5/16/2012    4:00 PM      2                         306
+11      11th St & Madison St       5/16/2012    4:00 PM      2              29
+11      11th St & Madison St       5/16/2012    7:00 AM      2                                   1625
+11      11th St & Madison St       5/16/2012    7:00 AM      2                         317
+11      11th St & Madison St       5/16/2012    7:00 AM      2              26
 
-Total Counts     5                                                                            Report Date 3/27/2014
+Total Counts    11                                                                            Report Date   9/3/2014
 

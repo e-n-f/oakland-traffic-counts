@@ -8,5 +8,5 @@ LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIK
 29      19th Ave & Foothill Blvd    5/10/2001    7:00 AM      2                         111
 29      19th Ave & Foothill Blvd    5/10/2001    7:00 AM      2              38
 
-Total Counts      6                                                                            Report Date 3/27/2014
+Total Counts      6                                                                            Report Date   9/3/2014
 

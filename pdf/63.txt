@@ -4,5 +4,5 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 63      31st St & Telegraph Ave    1/9/2007     11:30 AM     2                         76
 63      31st St & Telegraph Ave    1/9/2007     11:30 AM     2              30
 
-Total Counts     2                                                                            Report Date 3/27/2014
+Total Counts     2                                                                            Report Date   9/3/2014
 

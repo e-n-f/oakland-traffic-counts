@@ -1,0 +1,12 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+460     10th St & Madison St       5/16/2012    4:00 PM      2                                   2208
+460     10th St & Madison St       5/16/2012    4:00 PM      2                         205
+460     10th St & Madison St       5/16/2012    4:00 PM      2              56
+460     10th St & Madison St       5/16/2012    7:00 AM      2                                   1840
+460     10th St & Madison St       5/16/2012    7:00 AM      2                         270
+460     10th St & Madison St       5/16/2012    7:00 AM      2              36
+
+Total Counts     6                                                                            Report Date   9/3/2014
+

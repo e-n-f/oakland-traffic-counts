@@ -1,0 +1,12 @@
+                          City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                    COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+459     9th St & Oak St                5/16/2012    4:00 PM      2                                   1890
+459     9th St & Oak St                5/16/2012    4:00 PM      2                         335
+459     9th St & Oak St                5/16/2012    4:00 PM      2              83
+459     9th St & Oak St                5/16/2012    7:00 AM      2                                   1852
+459     9th St & Oak St                5/16/2012    7:00 AM      2                         441
+459     9th St & Oak St                5/16/2012    7:00 AM      2              32
+
+Total Counts      6                                                                               Report Date   9/3/2014
+

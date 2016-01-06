@@ -6,12 +6,13 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 47      27th St & Telegraph Ave    9/17/2003    11:00 AM     2              44         165
 47      27th St & Telegraph Ave    9/17/2003    7:00 AM      2              70         114
 47      27th St & Telegraph Ave    4/29/2004    3:00 PM      3              77         259
+47      27th St & Telegraph Ave    6/2/2004     7:00 AM      2              83         65        3207
 47      27th St & Telegraph Ave    5/31/2006    3:00 PM      3              130        224
-47      27th St & Telegraph Ave    6/3/2008     3:00 AM      3              210        385
+47      27th St & Telegraph Ave    6/3/2008     3:00 PM      3              210        385
 47      27th St & Telegraph Ave    9/20/2011    4:00 PM      2                         294
 47      27th St & Telegraph Ave    9/20/2011    4:00 PM      2              273
 47      27th St & Telegraph Ave    9/20/2011    4:00 PM      2                         332
 47      27th St & Telegraph Ave    9/20/2011    12:00 PM     2              191
 
-Total Counts    11                                                                            Report Date 3/27/2014
+Total Counts    12                                                                            Report Date   9/3/2014
 

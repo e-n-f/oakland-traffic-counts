@@ -1,0 +1,12 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+LOC ID INTERSECTION                           COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+488     Martin Luther King Wy & W Grand Ave   2/9/2011     4:00 PM      2                                   3511
+488     Martin Luther King Wy & W Grand Ave   2/9/2011     4:00 PM      2                         217
+488     Martin Luther King Wy & W Grand Ave   2/9/2011     4:00 PM      2              104
+488     Martin Luther King Wy & W Grand Ave   2/9/2011     7:00 AM      2                                   2606
+488     Martin Luther King Wy & W Grand Ave   2/9/2011     7:00 AM      2                         200
+488     Martin Luther King Wy & W Grand Ave   2/9/2011     7:00 AM      2              67
+
+Total Counts     6                                                                                       Report Date   9/3/2014
+

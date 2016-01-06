@@ -8,5 +8,5 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 4       106th Ave & Bancroft Ave   3/29/2000    4:00 PM      2                                   3384
 4       106th Ave & Bancroft Ave   3/29/2000    7:00 AM      2                                   2163
 
-Total Counts     6                                                                            Report Date 3/27/2014
+Total Counts     6                                                                            Report Date   9/3/2014
 
