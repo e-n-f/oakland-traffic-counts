@@ -3,5 +3,5 @@
 LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 245     Chabot Road & College Ave   12/7/2006    11:30 AM     2                         598
 
-Total Counts     1                                                                             Report Date 3/27/2014
+Total Counts     1                                                                             Report Date   9/3/2014
 

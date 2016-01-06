@@ -6,5 +6,5 @@ LOC ID INTERSECTION                            COUNT DATE   COUNT TIME   DURATIO
 309     Lakeshore Ave & Lake Park Ave & Rand   10/14/2010   4:00 PM      3                         411
         Ave
 
-Total Counts     2                                                                                        Report Date 3/27/2014
+Total Counts     2                                                                                        Report Date   9/3/2014
 

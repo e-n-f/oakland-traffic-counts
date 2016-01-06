@@ -1,6 +1,9 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
 LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+296     Grand Ave & Lake Park Ave   2/22/2006    11:30 AM     2              59         701       4491
+296     Grand Ave & Lake Park Ave   2/22/2006    7:00 AM      2              18         387       4984
+296     Grand Ave & Lake Park Ave   2/22/2006    4:00 PM      2              68         825       5651
 296     Grand Ave & Lake Park Ave   10/7/2010    4:00 PM      3              176
 296     Grand Ave & Lake Park Ave   10/14/2010   4:00 PM      3                         859
 296     Grand Ave & Lake Park Ave   9/20/2011    4:00 PM      2              107
@@ -8,5 +11,5 @@ LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIK
 296     Grand Ave & Lake Park Ave   9/20/2011    2:00 PM      2                         569
 296     Grand Ave & Lake Park Ave   9/20/2011    2:00 PM      2              104
 
-Total Counts     6                                                                             Report Date 3/27/2014
+Total Counts     9                                                                             Report Date   9/3/2014
 

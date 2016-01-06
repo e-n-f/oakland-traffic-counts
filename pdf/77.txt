@@ -3,5 +3,5 @@
 LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 77      35th Ave & MacArthur Blvd   10/30/2002   3:00 PM      3              28
 
-Total Counts     1                                                                             Report Date 3/27/2014
+Total Counts     1                                                                             Report Date   9/3/2014
 

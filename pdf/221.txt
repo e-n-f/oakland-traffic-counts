@@ -4,5 +4,5 @@ LOC ID INTERSECTION                  COUNT DATE   COUNT TIME   DURATION (HRS) BI
 221     Auburn Ave & Claremont Ave   3/13/2010    4:00 PM      3              41         170
 221     Auburn Ave & Claremont Ave   3/16/2010    4:00 PM      3              30         209
 
-Total Counts     2                                                                              Report Date 3/27/2014
+Total Counts     2                                                                              Report Date   9/3/2014
 

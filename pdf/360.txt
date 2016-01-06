@@ -5,5 +5,5 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 360     11th St & Webster St       3/23/2005    11:00 AM     2              8          1600      2620
 360     11th St & Webster St       3/23/2005    7:00 AM      2              16         597       1865
 
-Total Counts     3                                                                            Report Date 3/27/2014
+Total Counts     3                                                                            Report Date   9/3/2014
 

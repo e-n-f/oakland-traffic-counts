@@ -6,5 +6,5 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 411     7th St & Webster St        9/21/2011    2:00 PM      2                         1148
 411     7th St & Webster St        9/21/2011    2:00 PM      2              38
 
-Total Counts     4                                                                            Report Date 3/27/2014
+Total Counts     4                                                                            Report Date   9/3/2014
 

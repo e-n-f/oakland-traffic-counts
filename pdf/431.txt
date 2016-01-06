@@ -4,5 +4,5 @@ LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIK
 431     14th St & Franklin St       6/28/2006    4:00 PM      2              17         1336
 431     14th St & Franklin St       8/23/2006    7:00 AM      2              15         464
 
-Total Counts      2                                                                            Report Date 3/27/2014
+Total Counts      2                                                                            Report Date   9/3/2014
 

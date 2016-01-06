@@ -4,5 +4,5 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 115     45th St & West St          5/9/2007     4:00 PM      2              47         33
 115     45th St & West St          5/9/2007     7:00 AM      2              38         44
 
-Total Counts     2                                                                            Report Date 3/27/2014
+Total Counts     2                                                                            Report Date   9/3/2014
 

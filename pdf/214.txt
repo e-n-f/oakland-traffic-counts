@@ -7,5 +7,5 @@ LOC ID INTERSECTION                   COUNT DATE   COUNT TIME   DURATION (HRS) B
 214     Ardley Ave & MacArthur Blvd   9/18/2012    4:00 PM      2              32         59        1239
 214     Ardley Ave & MacArthur Blvd   9/19/2012    4:00 PM      2              36         51        1248
 
-Total Counts     5                                                                               Report Date 3/27/2014
+Total Counts     5                                                                               Report Date   9/3/2014
 

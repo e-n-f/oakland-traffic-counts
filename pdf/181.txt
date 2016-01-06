@@ -1,10 +1,13 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
 LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+181     7th St & Broadway          4/13/2005    11:00 AM     2              145        718       3627
+181     7th St & Broadway          4/13/2005    4:30 PM      2              39         416       4514
+181     7th St & Broadway          4/13/2005    7:00 AM      2              13         318       3327
 181     7th St & Broadway          10/6/2010    4:00 PM      3                         658
 181     7th St & Broadway          10/6/2010    7:00 AM      2                         327
 181     7th St & Broadway          10/14/2010   7:00 AM      2              38
 181     7th St & Broadway          10/14/2010   4:00 PM      3              70
 
-Total Counts     4                                                                            Report Date 3/27/2014
+Total Counts     7                                                                            Report Date   9/3/2014
 

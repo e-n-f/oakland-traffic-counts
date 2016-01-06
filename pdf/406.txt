@@ -4,5 +4,5 @@ LOC ID INTERSECTION                        COUNT DATE   COUNT TIME   DURATION (H
 406     Airport Access Rd & Doolittle Dr   9/22/2011    4:00 PM      2                         10
 406     Airport Access Rd & Doolittle Dr   9/22/2011    12:00 PM     2                         12
 
-Total Counts      2                                                                                   Report Date 3/27/2014
+Total Counts      2                                                                                   Report Date   9/3/2014
 

@@ -3,5 +3,5 @@
 LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 354     7th St & Chester St         1/23/1990    8:00 AM      0.5                       95
 
-Total Counts      1                                                                            Report Date 3/27/2014
+Total Counts      1                                                                            Report Date   9/3/2014
 

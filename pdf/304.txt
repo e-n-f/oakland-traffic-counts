@@ -2,6 +2,9 @@
 
 LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 304     High St & MacArthur Blvd   10/30/2002   3:00 PM      3              9
+304     High St & MacArthur Blvd   2/22/2006    11:30 AM     2              4          63        3782
+304     High St & MacArthur Blvd   2/22/2006    7:00 AM      2              4          178       4385
+304     High St & MacArthur Blvd   2/22/2006    4:00 PM      2              11         141       5363
 
-Total Counts     1                                                                            Report Date 3/27/2014
+Total Counts     4                                                                            Report Date   9/3/2014
 

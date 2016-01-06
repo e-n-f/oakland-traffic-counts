@@ -5,5 +5,5 @@ LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIK
 378     12th St & Jackson St        3/24/2005    11:00 AM     2              6          434       2374
 378     12th St & Jackson St        3/24/2005    7:00 AM      2              12         332       3010
 
-Total Counts      3                                                                            Report Date 3/27/2014
+Total Counts      3                                                                            Report Date   9/3/2014
 

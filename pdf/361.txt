@@ -4,5 +4,5 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 361     7th St & Wood St           10/16/2012   6:45 AM      1              8          10        584
 361     7th St & Wood St           10/16/2012   4:15 PM      2                                   1270
 
-Total Counts     2                                                                            Report Date 3/27/2014
+Total Counts     2                                                                            Report Date   9/3/2014
 

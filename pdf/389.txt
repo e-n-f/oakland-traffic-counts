@@ -3,5 +3,5 @@
 LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 389     35th Ave & Penniman Ave    4/30/2009    2:30 PM      1                         40        1342
 
-Total Counts     1                                                                            Report Date 3/27/2014
+Total Counts     1                                                                            Report Date   9/3/2014
 

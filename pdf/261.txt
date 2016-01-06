@@ -4,5 +4,5 @@ LOC ID INTERSECTION                           COUNT DATE   COUNT TIME   DURATION
 261     College Ave & Shafter Ave-Keith Ave   3/13/2010    4:00 PM      3              134        2452
 261     College Ave & Shafter Ave-Keith Ave   3/16/2010    4:00 PM      3              193        2966
 
-Total Counts     2                                                                                       Report Date 3/27/2014
+Total Counts     2                                                                                       Report Date   9/3/2014
 

@@ -5,6 +5,18 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
         13th St & Madison St
 429     13th St & Madison St       6/6/2006     4:00 PM      2              39         398       2283
         13th St & Madison St
+429     13th St & Madison St       5/16/2012    4:00 PM      2                                   1633
+        13th St & Madison St
+429     13th St & Madison St       5/16/2012    4:00 PM      2                         154
+        13th St & Madison St
+429     13th St & Madison St       5/16/2012    4:00 PM      2              21
+        13th St & Madison St
+429     13th St & Madison St       5/16/2012    7:00 AM      2                                   854
+        13th St & Madison St
+429     13th St & Madison St       5/16/2012    7:00 AM      2                         224
+        13th St & Madison St
+429     13th St & Madison St       5/16/2012    7:00 AM      2              13
+        13th St & Madison St
 
-Total Counts     2                                                                            Report Date 3/27/2014
+Total Counts     8                                                                            Report Date   9/3/2014
 

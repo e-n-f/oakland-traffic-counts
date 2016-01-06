@@ -4,5 +4,5 @@ LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIK
 251     Claremont Ave & Forest St   3/13/2010    4:00 PM      3              139        233
 251     Claremont Ave & Forest St   3/16/2010    4:00 PM      3              230        292
 
-Total Counts     2                                                                             Report Date 3/27/2014
+Total Counts     2                                                                             Report Date   9/3/2014
 

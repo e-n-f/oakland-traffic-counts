@@ -7,5 +7,5 @@ LOC ID INTERSECTION                    COUNT DATE   COUNT TIME   DURATION (HRS) 
 211     Alcatraz Ave & Telegraph Ave   3/13/2010    4:00 PM      3              77         317
 211     Alcatraz Ave & Telegraph Ave   3/16/2010    4:00 PM      3              302        460
 
-Total Counts     5                                                                                Report Date 3/27/2014
+Total Counts     5                                                                                Report Date   9/3/2014
 

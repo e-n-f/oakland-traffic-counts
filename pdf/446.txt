@@ -3,5 +3,5 @@
 LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 446     Courtland Ave & High St    5/19/1971    4:00 PM      2                         127       645
 
-Total Counts     1                                                                            Report Date 3/27/2014
+Total Counts     1                                                                            Report Date   9/3/2014
 

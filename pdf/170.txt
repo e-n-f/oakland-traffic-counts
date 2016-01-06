@@ -5,6 +5,12 @@ LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIK
 170     6th St & Jackson St         10/7/2010    4:00 PM      3              17
 170     6th St & Jackson St         10/7/2010    7:00 AM      2                         89
 170     6th St & Jackson St         10/7/2010    7:00 AM      2              9
+170     6th St & Jackson St         5/15/2012    4:00 PM      2                         66
+170     6th St & Jackson St         5/15/2012    4:00 PM      2              0
+170     6th St & Jackson St         5/15/2012    7:00 AM      2              0
+170     6th St & Jackson St         5/23/2012    4:00 PM      2                                   3134
+170     6th St & Jackson St         5/23/2012    7:00 AM      2                                   3697
+170     6th St & Jackson St         5/23/2012    7:00 AM      2                         50
 
-Total Counts      4                                                                            Report Date 3/27/2014
+Total Counts     10                                                                            Report Date   9/3/2014
 

@@ -7,6 +7,12 @@ LOC ID INTERSECTION                    COUNT DATE   COUNT TIME   DURATION (HRS) 
 172     6th St & Oak St                10/7/2010    4:00 PM      3              46
 172     6th St & Oak St                10/7/2010    7:00 AM      2                         334
 172     6th St & Oak St                10/7/2010    7:00 AM      2              23
+172     6th St & Oak St                5/17/2012    7:00 AM      2                         74
+172     6th St & Oak St                5/17/2012    7:00 AM      2              10
+172     6th St & Oak St                5/17/2012    4:00 PM      2                                   2304
+172     6th St & Oak St                5/17/2012    4:00 PM      2                         198
+172     6th St & Oak St                5/17/2012    4:00 PM      2              31
+172     6th St & Oak St                5/17/2012    7:00 AM      2                                   2238
 
-Total Counts      6                                                                               Report Date 3/27/2014
+Total Counts     12                                                                               Report Date   9/3/2014
 

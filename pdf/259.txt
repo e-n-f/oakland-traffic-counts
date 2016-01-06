@@ -4,5 +4,5 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 259     College Ave & Manila Ave   3/13/2010    4:00 PM      3              32         628
 259     College Ave & Manila Ave   3/16/2010    4:00 PM      3              80         809
 
-Total Counts     2                                                                            Report Date 3/27/2014
+Total Counts     2                                                                            Report Date   9/3/2014
 

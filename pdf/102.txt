@@ -5,5 +5,5 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 102     40th St & West St          5/9/2007     7:00 AM      2              92         110
 102     40th St & West St          9/11/2012    4:00 PM      2              134        177       3163
 
-Total Counts     3                                                                            Report Date 3/27/2014
+Total Counts     3                                                                            Report Date   9/3/2014
 

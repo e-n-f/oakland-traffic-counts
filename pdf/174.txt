@@ -7,11 +7,13 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 174     73rd Ave & Bancroft Ave    11/17/1999   7:00 AM      2              20
 174     73rd Ave & Bancroft Ave    11/17/1999   4:00 PM      2                         214
 174     73rd Ave & Bancroft Ave    11/18/1999   4:00 PM      2                                   6939
+174     73rd Ave & Bancroft Ave    7/27/2005    4:00 PM      2              7          44
+174     73rd Ave & Bancroft Ave    7/27/2005    7:00 AM      2              26         89
 174     73rd Ave & Bancroft Ave    8/11/2005    4:00 PM      2              14         142
 174     73rd Ave & Bancroft Ave    8/11/2005    7:00 AM      2              7          44
 174     73rd Ave & Bancroft Ave    4/25/2006    4:00 PM      2              9          117
 174     73rd Ave & Bancroft Ave    1/7/2008     4:00 PM      1                                   3490
 174     73rd Ave & Bancroft Ave    9/13/2012    4:00 PM      2              11         125       5798
 
-Total Counts    11                                                                            Report Date 3/27/2014
+Total Counts    13                                                                            Report Date   9/3/2014
 

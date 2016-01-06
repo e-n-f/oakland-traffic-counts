@@ -10,6 +10,12 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 357     12th St & Broadway         9/20/2011    12:00 PM     2                         2735
 357     12th St & Broadway         9/20/2011    4:00 PM      2              187
 357     12th St & Broadway         9/20/2011    12:00 PM     2              176
+357     12th St & Broadway         5/23/2012    4:00 PM      2                                   3661
+357     12th St & Broadway         5/23/2012    4:00 PM      2                         2020
+357     12th St & Broadway         5/23/2012    4:00 PM      2              53
+357     12th St & Broadway         5/23/2012    7:00 AM      2                                   2347
+357     12th St & Broadway         5/23/2012    7:00 AM      2                         1882
+357     12th St & Broadway         5/23/2012    7:00 AM      2              47
 
-Total Counts     9                                                                            Report Date 3/27/2014
+Total Counts    15                                                                            Report Date   9/3/2014
 

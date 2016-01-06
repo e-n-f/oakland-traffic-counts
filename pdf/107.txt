@@ -8,5 +8,5 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 107     42nd Ave & Foothill Blvd   5/10/2001    4:00 PM      2              73
 107     42nd Ave & Foothill Blvd   5/10/2001    7:00 AM      2                                   3658
 
-Total Counts      6                                                                           Report Date 3/27/2014
+Total Counts      6                                                                           Report Date   9/3/2014
 

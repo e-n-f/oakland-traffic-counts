@@ -3,5 +3,5 @@
 LOC ID INTERSECTION                   COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 394     Claremont Ave & College Ave   3/16/2010    4:00 PM      3              318        1108
 
-Total Counts     1                                                                               Report Date 3/27/2014
+Total Counts     1                                                                               Report Date   9/3/2014
 

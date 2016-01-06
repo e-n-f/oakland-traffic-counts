@@ -8,5 +8,5 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 226     Bancroft Ave & High St     3/2/2000     7:00 AM      2                                   2232
 226     Bancroft Ave & High St     3/2/2000     7:00 AM      2              21
 
-Total Counts      6                                                                           Report Date 3/27/2014
+Total Counts      6                                                                           Report Date   9/3/2014
 

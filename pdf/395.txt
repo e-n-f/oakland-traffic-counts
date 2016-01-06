@@ -4,5 +4,5 @@ LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIK
 395     7th St & Peralta St         10/16/2012   4:45 PM      1              32         117       700
 395     7th St & Peralta St         10/16/2012   7:20 AM      1              20         93        471
 
-Total Counts      2                                                                            Report Date 3/27/2014
+Total Counts      2                                                                            Report Date   9/3/2014
 

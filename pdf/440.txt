@@ -1,10 +1,13 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
 LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+440     19th St & Broadway         4/12/2005    7:00 AM      2              45         631       1944
+440     19th St & Broadway         4/12/2005    11:00 AM     2              283        1191      2940
+440     19th St & Broadway         4/12/2005    7:00 AM      2              45         631       1944
 440     19th St & Broadway         4/12/2005    4:30 PM      2              74         915       3203
 440     19th St & Broadway         4/12/2005    4:30 PM      2              74         915       3203
 440     19th St & Broadway         1/24/2013    4:30 PM      2              120        974       2870
 440     19th St & Broadway         1/24/2013    7:00 AM      2              64         543       1427
 
-Total Counts     4                                                                            Report Date 3/27/2014
+Total Counts     7                                                                            Report Date   9/3/2014
 

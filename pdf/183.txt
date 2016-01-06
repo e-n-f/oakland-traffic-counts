@@ -6,5 +6,5 @@ LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIK
 183     7th St & Fallon St          10/7/2010    7:00 AM      2                         162
 183     7th St & Fallon St          10/7/2010    7:00 AM      2              27
 
-Total Counts      4                                                                            Report Date 3/27/2014
+Total Counts      4                                                                            Report Date   9/3/2014
 

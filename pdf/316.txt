@@ -4,5 +4,5 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 316     Linda Ave & Piedmont Ave   9/29/2006    11:30 AM     3.5                       883
 316     Linda Ave & Piedmont Ave   1/30/2007    11:00 AM     2                         200
 
-Total Counts     2                                                                            Report Date 3/27/2014
+Total Counts     2                                                                            Report Date   9/3/2014
 

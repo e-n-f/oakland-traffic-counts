@@ -4,5 +4,5 @@ LOC ID INTERSECTION                    COUNT DATE   COUNT TIME   DURATION (HRS) 
 238     Broadway & Safeway North Dwy   5/8/2010     4:00 PM      3              32         53        419
 238     Broadway & Safeway North Dwy   5/13/2010    4:00 PM      2              82         53        367
 
-Total Counts    2                                                                                 Report Date 3/27/2014
+Total Counts    2                                                                                 Report Date   9/3/2014
 

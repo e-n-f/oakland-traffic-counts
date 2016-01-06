@@ -8,5 +8,5 @@ LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIK
 191     8th Ave & Foothill Blvd     5/10/2001    7:00 AM      2                         184
 191     8th Ave & Foothill Blvd     5/10/2001    7:00 AM      2              35
 
-Total Counts      6                                                                            Report Date 3/27/2014
+Total Counts      6                                                                            Report Date   9/3/2014
 

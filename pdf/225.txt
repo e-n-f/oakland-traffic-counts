@@ -8,5 +8,5 @@ LOC ID INTERSECTION                       COUNT DATE   COUNT TIME   DURATION (HR
 225     Bancroft Ave & Havenscourt Blvd   3/1/2000     7:00 AM      2                         167
 225     Bancroft Ave & Havenscourt Blvd   3/1/2000     7:00 AM      2              69
 
-Total Counts     6                                                                                   Report Date 3/27/2014
+Total Counts     6                                                                                   Report Date   9/3/2014
 

@@ -7,5 +7,5 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 362     38th Ave & E 12th St       12/14/2011   4:00 PM      2              27         128
 362     38th Ave & E 12th St       12/21/2011   4:00 PM      2              21         80
 
-Total Counts      5                                                                           Report Date 3/27/2014
+Total Counts      5                                                                           Report Date   9/3/2014
 

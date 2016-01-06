@@ -7,5 +7,5 @@ LOC ID INTERSECTION                   COUNT DATE   COUNT TIME   DURATION (HRS) B
 313     LaSalle Ave & Mountain Blvd   10/11/2011   4:00 PM      2                         825
 313     LaSalle Ave & Mountain Blvd   10/11/2011   12:00 PM     2                         901
 
-Total Counts     5                                                                               Report Date 3/27/2014
+Total Counts     5                                                                               Report Date   9/3/2014
 

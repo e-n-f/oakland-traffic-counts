@@ -6,5 +6,5 @@ LOC ID INTERSECTION                             COUNT DATE   COUNT TIME   DURATI
 243     Byron Ave & Foothill Blvd & MacArthur   2/21/2007    11:30 AM     2                         79
         Blvd
 
-Total Counts     2                                                                                         Report Date 3/27/2014
+Total Counts     2                                                                                         Report Date   9/3/2014
 

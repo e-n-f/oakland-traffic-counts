@@ -6,5 +6,5 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 121     4th St & Broadway          10/14/2010   7:00 AM      2              22
 121     4th St & Broadway          10/14/2010   4:00 PM      3              45
 
-Total Counts     4                                                                            Report Date 3/27/2014
+Total Counts     4                                                                            Report Date   9/3/2014
 

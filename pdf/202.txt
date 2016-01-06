@@ -8,5 +8,5 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 202     98th Ave & Bancroft Ave    2/29/2000    7:00 AM      2                         142
 202     98th Ave & Bancroft Ave    2/29/2000    7:00 AM      2              27
 
-Total Counts     6                                                                            Report Date 3/27/2014
+Total Counts     6                                                                            Report Date   9/3/2014
 

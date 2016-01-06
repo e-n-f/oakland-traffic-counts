@@ -8,5 +8,5 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 146     5th Ave & E 12th St        10/14/2010   4:00 PM      3              76
 146     5th Ave & E 12th St        10/14/2010   4:00 PM      3                         321
 
-Total Counts      6                                                                           Report Date 3/27/2014
+Total Counts      6                                                                           Report Date   9/3/2014
 

@@ -4,5 +4,5 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 
 
 
-Total Counts   0                                                                              Report Date 3/27/2014
+Total Counts   0                                                                              Report Date   9/3/2014
 

@@ -5,6 +5,12 @@ LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIK
 155     5th St & Jackson St         10/7/2010    4:00 PM      3              21
 155     5th St & Jackson St         10/7/2010    7:00 AM      2                         149
 155     5th St & Jackson St         10/7/2010    7:00 AM      2              12
+155     5th St & Jackson St         5/15/2012    4:00 PM      2              0
+155     5th St & Jackson St         5/15/2012    7:00 AM      2              0
+155     5th St & Jackson St         5/23/2012    4:00 PM      2                                   3007
+155     5th St & Jackson St         5/23/2012    4:00 PM      2                         17
+155     5th St & Jackson St         5/23/2012    7:00 AM      2                                   2410
+155     5th St & Jackson St         5/23/2012    7:00 AM      2                         39
 
-Total Counts      4                                                                            Report Date 3/27/2014
+Total Counts     10                                                                            Report Date   9/3/2014
 

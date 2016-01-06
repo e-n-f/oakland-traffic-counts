@@ -1,8 +1,10 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
 LOC ID INTERSECTION                       COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+282     Embarcadero & I-880 NB Off-Ramp   5/5/2004     4:00 PM      2                                   2645
+282     Embarcadero & I-880 NB Off-Ramp   5/5/2004     7:00 AM      2                                   1668
 282     Embarcadero & I-880 NB Off-Ramp   10/7/2010    4:00 PM      3              30
 282     Embarcadero & I-880 NB Off-Ramp   10/7/2010    4:00 PM      3                         15
 
-Total Counts     2                                                                                   Report Date 3/27/2014
+Total Counts     4                                                                                   Report Date   9/3/2014
 

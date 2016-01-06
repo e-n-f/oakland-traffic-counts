@@ -4,5 +4,5 @@ LOC ID INTERSECTION                        COUNT DATE   COUNT TIME   DURATION (H
 336     Redwood Road & Church Driveway &   3/6/2007     11:30 AM     2                         20
         Lincoln Shopping Driveway
 
-Total Counts    1                                                                                     Report Date 3/27/2014
+Total Counts    1                                                                                     Report Date   9/3/2014
 

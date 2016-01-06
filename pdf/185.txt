@@ -5,6 +5,12 @@ LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIK
 185     7th St & Jackson St         10/7/2010    4:00 PM      3              53
 185     7th St & Jackson St         10/7/2010    7:00 AM      2                         324
 185     7th St & Jackson St         10/7/2010    7:00 AM      2              22
+185     7th St & Jackson St         5/17/2012    4:00 PM      2                                   3694
+185     7th St & Jackson St         5/17/2012    4:00 PM      2                         301
+185     7th St & Jackson St         5/17/2012    4:00 PM      2              8
+185     7th St & Jackson St         5/17/2012    7:00 AM      2                                   3909
+185     7th St & Jackson St         5/17/2012    7:00 AM      2                         392
+185     7th St & Jackson St         5/17/2012    7:00 AM      2              9
 
-Total Counts      4                                                                            Report Date 3/27/2014
+Total Counts     10                                                                            Report Date   9/3/2014
 

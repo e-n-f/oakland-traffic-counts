@@ -8,5 +8,5 @@ LOC ID INTERSECTION                            COUNT DATE   COUNT TIME   DURATIO
 133     51st St & Broadway & Pleasant Valley   11/16/2010   7:00 AM      2              54         222       4895
         Ave
 
-Total Counts     3                                                                                        Report Date 3/27/2014
+Total Counts     3                                                                                        Report Date   9/3/2014
 

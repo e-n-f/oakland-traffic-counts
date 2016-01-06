@@ -8,5 +8,5 @@ LOC ID INTERSECTION                         COUNT DATE   COUNT TIME   DURATION (
 264     Broadway & Coronado Ave & Safeway   11/16/2010   7:00 AM      2              82         186       3380
         Dwy
 
-Total Counts    3                                                                                      Report Date 3/27/2014
+Total Counts    3                                                                                      Report Date   9/3/2014
 

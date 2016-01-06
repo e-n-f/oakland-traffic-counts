@@ -8,5 +8,5 @@ LOC ID INTERSECTION                          COUNT DATE   COUNT TIME   DURATION 
 294     Gilbert St & Pleasant Valley Ave &   11/16/2010   7:00 AM      2              62         109       2886
         Safeway DW
 
-Total Counts      3                                                                                     Report Date 3/27/2014
+Total Counts      3                                                                                     Report Date   9/3/2014
 

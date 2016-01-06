@@ -5,6 +5,12 @@ LOC ID INTERSECTION                    COUNT DATE   COUNT TIME   DURATION (HRS) 
 187     7th St & Oak St                10/7/2010    4:00 PM      3              73
 187     7th St & Oak St                10/7/2010    7:00 AM      2                         455
 187     7th St & Oak St                10/7/2010    7:00 AM      2              28
+187     7th St & Oak St                5/17/2012    4:00 PM      2                                   3107
+187     7th St & Oak St                5/17/2012    4:00 PM      2                         241
+187     7th St & Oak St                5/17/2012    4:00 PM      2              21
+187     7th St & Oak St                5/17/2012    7:00 AM      2                                   2253
+187     7th St & Oak St                5/17/2012    7:00 AM      2                         274
+187     7th St & Oak St                5/17/2012    7:00 AM      2              9
 
-Total Counts      4                                                                               Report Date 3/27/2014
+Total Counts     10                                                                               Report Date   9/3/2014
 

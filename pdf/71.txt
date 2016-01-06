@@ -4,5 +4,5 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 71      35th Ave & BART Access     4/22/2009    4:00 PM      2              9          168       1375
 71      35th Ave & BART Access     4/22/2009    7:00 AM      2              6          164       1082
 
-Total Counts     2                                                                            Report Date 3/27/2014
+Total Counts     2                                                                            Report Date   9/3/2014
 

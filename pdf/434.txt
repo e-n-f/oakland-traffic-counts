@@ -4,5 +4,5 @@ LOC ID INTERSECTION                           COUNT DATE   COUNT TIME   DURATION
 434     14th St & Martin Luther King Jr Way   8/18/1999    7:00 AM      2                         147       1845
 434     14th St & Martin Luther King Jr Way   8/19/1999    4:00 PM      2              23         217       2223
 
-Total Counts     2                                                                                       Report Date 3/27/2014
+Total Counts     2                                                                                       Report Date   9/3/2014
 

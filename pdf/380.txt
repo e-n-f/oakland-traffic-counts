@@ -4,6 +4,12 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 380     12th St & Oak St           3/24/2005    4:00 PM      2              34         706       3196
 380     12th St & Oak St           3/24/2005    11:00 AM     2              20         1214      2826
 380     12th St & Oak St           3/24/2005    7:00 AM      2              34         896       3793
+380     12th St & Oak St           5/16/2012    4:00 PM      2                                   2195
+380     12th St & Oak St           5/16/2012    4:00 PM      2                         788
+380     12th St & Oak St           5/16/2012    4:00 PM      2              51
+380     12th St & Oak St           5/16/2012    7:00 AM      2                                   2847
+380     12th St & Oak St           5/16/2012    7:00 AM      2                         822
+380     12th St & Oak St           5/16/2012    7:00 AM      2              48
 
-Total Counts      3                                                                           Report Date 3/27/2014
+Total Counts      9                                                                           Report Date   9/3/2014
 

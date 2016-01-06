@@ -6,6 +6,12 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 379     12th St & Madison St       3/24/2005    7:00 AM      2              19         486       3432
 379     12th St & Madison St       6/6/2006     7:00 AM      2              30         433       3309
 379     12th St & Madison St       6/6/2006     4:00 PM      2              28         489       2944
+379     12th St & Madison St       5/16/2012    4:00 PM      2                                   2405
+379     12th St & Madison St       5/16/2012    4:00 PM      2                         450
+379     12th St & Madison St       5/16/2012    4:00 PM      2              37
+379     12th St & Madison St       5/16/2012    7:00 AM      2                                   2504
+379     12th St & Madison St       5/16/2012    7:00 AM      2                         548
+379     12th St & Madison St       5/16/2012    7:00 AM      2              46
 
-Total Counts     5                                                                            Report Date 3/27/2014
+Total Counts    11                                                                            Report Date   9/3/2014
 

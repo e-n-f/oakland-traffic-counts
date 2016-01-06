@@ -4,5 +4,5 @@ LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIK
 178     77th Ave & MacArthur Blvd   12/15/2010   7:00 AM      2              3          64        1369
 178     77th Ave & MacArthur Blvd   12/15/2010   4:00 PM      2              5          170       1725
 
-Total Counts     2                                                                             Report Date 3/27/2014
+Total Counts     2                                                                             Report Date   9/3/2014
 

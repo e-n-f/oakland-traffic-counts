@@ -7,5 +7,5 @@ LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIK
 176     73rd Ave & MacArthur Blvd   11/17/1999   7:00 AM      2              15
 176     73rd Ave & MacArthur Blvd   12/21/2006   4:00 PM      2                         0         4194
 
-Total Counts     5                                                                             Report Date 3/27/2014
+Total Counts     5                                                                             Report Date   9/3/2014
 

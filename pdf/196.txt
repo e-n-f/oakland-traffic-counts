@@ -5,6 +5,12 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 196     8th St & Madison St        10/7/2010    4:00 PM      3              58
 196     8th St & Madison St        10/7/2010    7:00 AM      2                         486
 196     8th St & Madison St        10/7/2010    7:00 AM      2              40
+196     8th St & Madison St        5/17/2012    4:00 PM      2                                   2690
+196     8th St & Madison St        5/17/2012    4:00 PM      2                         338
+196     8th St & Madison St        5/17/2012    4:00 PM      2              19
+196     8th St & Madison St        5/17/2012    7:00 AM      2                                   2196
+196     8th St & Madison St        5/17/2012    7:00 AM      2                         401
+196     8th St & Madison St        5/17/2012    7:00 AM      2              34
 
-Total Counts     4                                                                            Report Date 3/27/2014
+Total Counts    10                                                                            Report Date   9/3/2014
 

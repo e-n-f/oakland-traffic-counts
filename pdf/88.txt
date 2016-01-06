@@ -3,5 +3,5 @@
 LOC ID INTERSECTION                  COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 88      3rd St & Filbert St          2/26/2008    12:00 PM     1                         39
 
-Total Counts       1                                                                            Report Date 3/27/2014
+Total Counts       1                                                                            Report Date   9/3/2014
 

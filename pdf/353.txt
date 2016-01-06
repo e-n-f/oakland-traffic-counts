@@ -6,5 +6,5 @@ LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIK
 353     7th St & 7th St ext         5/19/1977    6:30 AM      2                         2
 353     7th St & 7th St ext         7/17/2001    9:25 AM      1                         0         854
 
-Total Counts      4                                                                            Report Date 3/27/2014
+Total Counts      4                                                                            Report Date   9/3/2014
 

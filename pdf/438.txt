@@ -4,10 +4,13 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 438     17th St & Broadway         4/12/2005    11:00 AM     2              12         1662      3515
 438     17th St & Broadway         4/12/2005    7:00 AM      2              20         678       4188
 438     17th St & Broadway         4/12/2005    4:30 PM      2              55         959       3365
+438     17th St & Broadway         5/4/2005     4:30 PM      2              33         1222      2933
+438     17th St & Broadway         5/4/2005     11:00 AM     2              39         1352      3378
+438     17th St & Broadway         5/4/2005     7:00 AM      2              42         441       24443
 438     17th St & Broadway         5/14/2005    7:00 AM      2              42         441       2443
 438     17th St & Broadway         1/24/2013    4:30 PM      2              91         861       2595
 438     17th St & Broadway         1/24/2013    7:00 AM      2              52         487       2076
-438     17th St & Broadway         1/31/2013    7:00 AM      2              15         320       1516
+438     17th St & Broadway         1/31/2013    8:00 AM      1              33         314       1296
 
-Total Counts     7                                                                            Report Date 3/27/2014
+Total Counts    10                                                                            Report Date   9/3/2014
 

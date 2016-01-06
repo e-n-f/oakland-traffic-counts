@@ -11,5 +11,5 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 109     42nd Ave & Bancroft Ave    4/9/2008     4:00 PM      2              1          0         2131
 109     42nd Ave & Bancroft Ave    4/9/2008     12:30 PM     2              3          0         1480
 
-Total Counts     9                                                                            Report Date 3/27/2014
+Total Counts     9                                                                            Report Date   9/3/2014
 

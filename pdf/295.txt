@@ -1,8 +1,15 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
 LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
-295     Grand Ave & Harrison Ave   10/7/2010    4:00 PM      3              442
-295     Grand Ave & Harrison Ave   10/14/2010   4:00 PM      3                         1623
+295     Grand Ave & Harrison St    6/3/2004     11:00 AM     2              50         345       4757
+295     Grand Ave & Harrison St    6/3/2004     7:00 AM      2              78         355       6135
+295     Grand Ave & Harrison St    6/3/2004     4:00 PM      2              95         213       8043
+295     Grand Ave & Harrison St    6/30/2004    4:00 PM      2              95         213       8043
+295     Grand Ave & Harrison St    3/8/2006     11:30 AM     2              23         679       4951
+295     Grand Ave & Harrison St    3/8/2006     7:00 AM      2              53         506       6315
+295     Grand Ave & Harrison St    3/8/2006     4:00 PM      2              56         529       7487
+295     Grand Ave & Harrison St    10/7/2010    4:00 PM      3              442
+295     Grand Ave & Harrison St    10/14/2010   4:00 PM      3                         1623
 
-Total Counts     2                                                                            Report Date 3/27/2014
+Total Counts     9                                                                            Report Date   9/3/2014
 

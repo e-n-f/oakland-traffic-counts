@@ -10,5 +10,5 @@ LOC ID INTERSECTION                  COUNT DATE   COUNT TIME   DURATION (HRS) BI
 324     Beaumont Ave & E 33rd St &   7/10/2007    7:00 AM      2              4
         MacArthur Blvd
 
-Total Counts     4                                                                              Report Date 3/27/2014
+Total Counts     4                                                                              Report Date   9/3/2014
 

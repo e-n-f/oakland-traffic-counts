@@ -2,6 +2,8 @@
 
 LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 365     7th St & Mandela Pkwy      9/13/2012    4:00 PM      2              104        186       2121
+365     7th St & Mandela Pkwy      11/15/2012   4:00 PM      2              104        359       2573
+365     7th St & Mandela Pkwy      11/15/2012   7:00 AM      2              120        349       1894
 
-Total Counts     1                                                                            Report Date 3/27/2014
+Total Counts     3                                                                            Report Date   9/3/2014
 

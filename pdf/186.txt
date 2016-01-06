@@ -5,6 +5,12 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 186     7th St & Madison St        10/7/2010    4:00 PM      3              60
 186     7th St & Madison St        10/7/2010    7:00 AM      2                         304
 186     7th St & Madison St        10/7/2010    7:00 AM      2              30
+186     7th St & Madison St        5/17/2012    4:00 PM      2                                   3539
+186     7th St & Madison St        5/17/2012    4:00 PM      2                         244
+186     7th St & Madison St        5/17/2012    4:00 PM      2              10
+186     7th St & Madison St        5/17/2012    7:00 AM      2                                   2306
+186     7th St & Madison St        5/17/2012    7:00 AM      2                         247
+186     7th St & Madison St        5/17/2012    7:00 AM      2              20
 
-Total Counts     4                                                                            Report Date 3/27/2014
+Total Counts    10                                                                            Report Date   9/3/2014
 

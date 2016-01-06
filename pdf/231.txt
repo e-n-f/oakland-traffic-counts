@@ -5,5 +5,5 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 
         Bellevue Ave & Grand Ave
 
-Total Counts     1                                                                            Report Date 3/27/2014
+Total Counts     1                                                                            Report Date   9/3/2014
 

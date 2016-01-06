@@ -6,5 +6,5 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 412     Grand Ave & Staten Ave     9/20/2011    12:00 PM     2                         635
 412     Grand Ave & Staten Ave     9/20/2011    12:00 PM     2              111
 
-Total Counts     4                                                                            Report Date 3/27/2014
+Total Counts     4                                                                            Report Date   9/3/2014
 

@@ -4,5 +4,5 @@ LOC ID INTERSECTION                     COUNT DATE   COUNT TIME   DURATION (HRS)
 108     42nd Ave & International Blvd   4/23/2009    4:00 PM      2              43         298       6231
 108     42nd Ave & International Blvd   4/23/2009    7:00 AM      2              41         209       5771
 
-Total Counts     2                                                                                 Report Date 3/27/2014
+Total Counts     2                                                                                 Report Date   9/3/2014
 

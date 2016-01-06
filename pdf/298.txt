@@ -10,5 +10,5 @@ LOC ID INTERSECTION                     COUNT DATE   COUNT TIME   DURATION (HRS)
 298     Hegenberger EB Off-Ramp & San   11/17/1999   7:00 AM      2              11
         Leandro St
 
-Total Counts     4                                                                                 Report Date 3/27/2014
+Total Counts     4                                                                                 Report Date   9/3/2014
 

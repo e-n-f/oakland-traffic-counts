@@ -6,5 +6,5 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 82      38th St & Telegraph Ave    9/17/2003    7:00 AM      2              79         113
 82      38th St & Telegraph Ave    5/10/2006    4:00 PM      2              112        83
 
-Total Counts     4                                                                            Report Date 3/27/2014
+Total Counts     4                                                                            Report Date   9/3/2014
 

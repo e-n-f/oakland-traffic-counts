@@ -7,5 +7,5 @@ LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIK
 359     12th St & Alice St          6/6/2006     7:00 AM      2              13         224       2071
 359     12th St & Alice St          6/6/2006     4:00 PM      2              19         271       1779
 
-Total Counts      5                                                                            Report Date 3/27/2014
+Total Counts      5                                                                            Report Date   9/3/2014
 

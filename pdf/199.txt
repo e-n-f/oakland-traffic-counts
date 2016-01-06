@@ -7,8 +7,7 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 199     90th Ave & Bancroft Ave    2/29/2000    7:00 AM      2                                   2601
 199     90th Ave & Bancroft Ave    2/29/2000    7:00 AM      2                         124
 199     90th Ave & Bancroft Ave    2/29/2000    7:00 AM      2              17
-199     90th Ave & Bancroft Ave    12/3/2010    4:55 PM      1                         32        964
-199     90th Ave & Bancroft Ave    12/3/2010    4:55 PM      1                         25        671
+199     90th Ave & Bancroft Ave    12/3/2010    4:55 PM      1                         57        1635
 
-Total Counts     8                                                                            Report Date 3/27/2014
+Total Counts     7                                                                            Report Date   9/3/2014
 

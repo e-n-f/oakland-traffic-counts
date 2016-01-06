@@ -25,8 +25,8 @@ while (<IN>) {
 			$id = $1;
 			print OUT "$id,$lat,$lon,$url,$name\n";
 
-			if (! -s "pdf/$id.pdf") {
-				system "curl -o pdf/$id.pdf '$url'";
+			if (1 || ! -s "pdf/$id.pdf") {
+				system "curl -q -o pdf/$id.pdf '$url'";
 			}
 
 			system "cd pdf; pdftotext -layout $id.pdf";

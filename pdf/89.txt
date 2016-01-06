@@ -8,5 +8,5 @@ LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIK
 89      3rd St & Jackson St         10/7/2010    7:00 AM      2                         226
 89      3rd St & Jackson St         10/7/2010    7:00 AM      2              24
 
-Total Counts      6                                                                            Report Date 3/27/2014
+Total Counts      6                                                                            Report Date   9/3/2014
 

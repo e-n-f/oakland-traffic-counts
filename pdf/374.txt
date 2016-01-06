@@ -6,5 +6,5 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 374     12th St & Webster St       3/22/2005    7:00 AM      2              21         498       2512
 374     12th St & Webster St       3/22/2005    7:00 AM      2              21         498       2512
 
-Total Counts     4                                                                            Report Date 3/27/2014
+Total Counts     4                                                                            Report Date   9/3/2014
 

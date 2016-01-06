@@ -10,5 +10,5 @@ LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIK
 150     5th Ave & Foothill Blvd     10/7/2010    4:00 PM      3              44
 150     5th Ave & Foothill Blvd     10/14/2010   4:00 PM      3                         236
 
-Total Counts      8                                                                            Report Date 3/27/2014
+Total Counts      8                                                                            Report Date   9/3/2014
 

@@ -5,5 +5,5 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 450     9th St & Broadway          4/13/2005    11:00 AM     2              48         1814      2877
 450     9th St & Broadway          4/13/2005    7:00 AM      2              27         724       1959
 
-Total Counts     3                                                                            Report Date 3/27/2014
+Total Counts     3                                                                            Report Date   9/3/2014
 

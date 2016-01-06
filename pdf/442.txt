@@ -5,5 +5,5 @@ LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIK
 442     21st St & Harrison St       3/8/2006     11:30 AM     2              15         515       3908
 442     21st St & Harrison St       3/8/2006     7:00 AM      2              33         342       4784
 
-Total Counts      3                                                                            Report Date 3/27/2014
+Total Counts      3                                                                            Report Date   9/3/2014
 

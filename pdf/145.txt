@@ -3,5 +3,5 @@
 LOC ID INTERSECTION                           COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 145     58th St & Racine St & Telegraph Ave   11/15/2006   11:30 AM     2                         77
 
-Total Counts     1                                                                                       Report Date 3/27/2014
+Total Counts     1                                                                                       Report Date   9/3/2014
 

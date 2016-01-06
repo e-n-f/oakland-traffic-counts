@@ -5,5 +5,5 @@ LOC ID INTERSECTION                  COUNT DATE   COUNT TIME   DURATION (HRS) BI
 339     Telegraph Ave & Woolsey St   9/16/2003    11:00 AM     2              80         186
 339     Telegraph Ave & Woolsey St   9/16/2003    7:00 AM      2              114        107
 
-Total Counts     3                                                                              Report Date 3/27/2014
+Total Counts     3                                                                              Report Date   9/3/2014
 

@@ -3,5 +3,5 @@
 LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 162     62nd St & College Ave      3/16/2010    4:00 PM      3              290        885
 
-Total Counts     1                                                                            Report Date 3/27/2014
+Total Counts     1                                                                            Report Date   9/3/2014
 

@@ -9,5 +9,5 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 90      3rd St & Madison St        10/5/2010    7:00 AM      2                         146
 90      3rd St & Madison St        10/5/2010    7:00 AM      2              18
 
-Total Counts     7                                                                            Report Date 3/27/2014
+Total Counts     7                                                                            Report Date   9/3/2014
 

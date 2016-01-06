@@ -4,5 +4,5 @@ LOC ID INTERSECTION                         COUNT DATE   COUNT TIME   DURATION (
 270     14th Ave (North Side) & E 12th St   10/11/2006   4:00 PM      2              16         13
 270     14th Ave (North Side) & E 12th St   10/11/2006   7:00 AM      2              15         24
 
-Total Counts      2                                                                                    Report Date 3/27/2014
+Total Counts      2                                                                                    Report Date   9/3/2014
 

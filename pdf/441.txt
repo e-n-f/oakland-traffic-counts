@@ -4,6 +4,12 @@ LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIK
 441     20th St & Harrison St       2/16/2006    11:30 AM     2              4          1102      1539
 441     20th St & Harrison St       2/16/2006    7:00 AM      2              23         404       2564
 441     20th St & Harrison St       2/16/2006    4:00 PM      2              3          497       1896
+441     20th St & Harrison St       5/23/2012    4:00 PM      2                                   2455
+441     20th St & Harrison St       5/23/2012    4:00 PM      2                         623
+441     20th St & Harrison St       5/23/2012    4:00 PM      2              51
+441     20th St & Harrison St       5/23/2012    7:00 AM      2                                   1980
+441     20th St & Harrison St       5/23/2012    7:00 AM      2                         473
+441     20th St & Harrison St       5/23/2012    7:00 AM      2              55
 
-Total Counts      3                                                                            Report Date 3/27/2014
+Total Counts      9                                                                            Report Date   9/3/2014
 

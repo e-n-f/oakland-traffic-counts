@@ -4,5 +4,5 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 272     16th Ave & E 12th St       10/11/2006   4:00 PM      2              56         46
 272     16th Ave & E 12th St       10/11/2006   7:00 AM      2              14         39
 
-Total Counts      2                                                                           Report Date 3/27/2014
+Total Counts      2                                                                           Report Date   9/3/2014
 

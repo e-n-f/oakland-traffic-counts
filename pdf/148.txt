@@ -5,6 +5,12 @@ LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIK
 148     5th Ave & E 8th St          10/14/2010   7:00 AM      2                         21
 148     5th Ave & E 8th St          10/14/2010   4:00 PM      3              86
 148     5th Ave & E 8th St          10/14/2010   4:00 PM      3                         40
+148     5th Ave & E 8th St          5/22/2012    4:00 PM      2                                   3967
+148     5th Ave & E 8th St          5/22/2012    4:00 PM      2                         33
+148     5th Ave & E 8th St          5/22/2012    4:00 PM      2              33
+148     5th Ave & E 8th St          5/22/2012    7:00 AM      2                                   2869
+148     5th Ave & E 8th St          5/22/2012    7:00 AM      2                         36
+148     5th Ave & E 8th St          5/22/2012    7:00 AM      2              31
 
-Total Counts      4                                                                            Report Date 3/27/2014
+Total Counts     10                                                                            Report Date   9/3/2014
 

@@ -2,6 +2,18 @@
 
 LOC ID INTERSECTION                  COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 325     Mandela Pkwy & W Grand Ave   5/4/2006     4:00 PM      2              64         37
+325     Mandela Pkwy & W Grand Ave   2/8/2011     7:00 AM      2                         12
+325     Mandela Pkwy & W Grand Ave   2/8/2011     4:00 PM      2                                   3105
+325     Mandela Pkwy & W Grand Ave   2/8/2011     4:00 PM      2                         37
+325     Mandela Pkwy & W Grand Ave   2/8/2011     4:00 PM      2              87
+325     Mandela Pkwy & W Grand Ave   2/8/2011     7:00 AM      2                                   2480
+325     Mandela Pkwy & W Grand Ave   2/8/2011     7:00 AM      2                         24
+325     Mandela Pkwy & W Grand Ave   2/8/2011     7:00 AM      2              37
+325     Mandela Pkwy & W Grand Ave   2/8/2011     4:00 PM      2                         26
+325     Mandela Pkwy & W Grand Ave   2/8/2011     4:00 PM      2                                   3048
+325     Mandela Pkwy & W Grand Ave   2/8/2011     4:00 PM      2              35
+325     Mandela Pkwy & W Grand Ave   2/8/2011     7:00 AM      2              46
+325     Mandela Pkwy & W Grand Ave   2/8/2011     7:00 AM      2                                   2423
 
-Total Counts    1                                                                               Report Date 3/27/2014
+Total Counts   13                                                                               Report Date   9/3/2014
 

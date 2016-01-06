@@ -4,5 +4,5 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 257     Coliseum Wy & High St      4/23/2009    4:00 PM      2              17         65        5475
 257     Coliseum Wy & High St      4/23/2009    7:00 AM      2              11         37        4759
 
-Total Counts     2                                                                            Report Date 3/27/2014
+Total Counts     2                                                                            Report Date   9/3/2014
 

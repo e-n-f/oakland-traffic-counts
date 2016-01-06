@@ -3,5 +3,5 @@
 LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 314     Lee St & Vernon St         10/11/2006   3:45 PM      1                         44
 
-Total Counts     1                                                                            Report Date 3/27/2014
+Total Counts     1                                                                            Report Date   9/3/2014
 

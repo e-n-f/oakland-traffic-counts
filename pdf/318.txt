@@ -4,5 +4,5 @@ LOC ID INTERSECTION                           COUNT DATE   COUNT TIME   DURATION
 318     Martin Luther King Wy & W MacArthur   5/10/2006    4:00 PM      2              50         108
         Blvd
 
-Total Counts     1                                                                                       Report Date 3/27/2014
+Total Counts     1                                                                                       Report Date   9/3/2014
 

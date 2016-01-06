@@ -9,5 +9,5 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 396     20th St & Webster St       9/18/2012    7:00 AM      2              159        1665      1621
 396     20th St & Webster St       9/19/2012    7:00 AM      2              159        1784      1593
 
-Total Counts     7                                                                            Report Date 3/27/2014
+Total Counts     7                                                                            Report Date   9/3/2014
 

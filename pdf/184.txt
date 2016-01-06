@@ -5,6 +5,12 @@ LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIK
 184     7th St & Harrison St        10/5/2010    7:00 AM      2                         201
 184     7th St & Harrison St        10/7/2010    4:00 PM      3              62
 184     7th St & Harrison St        10/7/2010    7:00 AM      2              23
+184     7th St & Harrison St        5/17/2012    4:00 PM      2                                   3621
+184     7th St & Harrison St        5/17/2012    4:00 PM      2                         236
+184     7th St & Harrison St        5/17/2012    4:00 PM      2              5
+184     7th St & Harrison St        5/17/2012    7:00 AM      2                                   3805
+184     7th St & Harrison St        5/17/2012    7:00 AM      2                         157
+184     7th St & Harrison St        5/17/2012    7:00 AM      2              4
 
-Total Counts      4                                                                            Report Date 3/27/2014
+Total Counts     10                                                                            Report Date   9/3/2014
 

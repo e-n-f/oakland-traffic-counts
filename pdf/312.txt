@@ -4,5 +4,5 @@ LOC ID INTERSECTION                    COUNT DATE   COUNT TIME   DURATION (HRS) 
 312     Lakeshore Ave & Mandana Blvd   12/19/2006   4:00 PM      2              65         114       2339
 312     Lakeshore Ave & Mandana Blvd   12/19/2006   7:00 AM      2              42         80        2367
 
-Total Counts     2                                                                                Report Date 3/27/2014
+Total Counts     2                                                                                Report Date   9/3/2014
 

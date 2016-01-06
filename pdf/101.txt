@@ -13,5 +13,5 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 101     40th St & Telegraph Ave    9/20/2011    12:00 PM     2                         584
 101     40th St & Telegraph Ave    9/20/2011    12:00 PM     2              242
 
-Total Counts    11                                                                            Report Date 3/27/2014
+Total Counts    11                                                                            Report Date   9/3/2014
 

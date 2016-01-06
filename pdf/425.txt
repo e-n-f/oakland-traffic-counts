@@ -4,5 +4,5 @@ LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIK
 425     12th St & Jefferson St      8/18/1999    7:00 AM      2              8          466       1242
 425     12th St & Jefferson St      8/19/1999    4:00 PM      2              23         552       2456
 
-Total Counts      2                                                                            Report Date 3/27/2014
+Total Counts      2                                                                            Report Date   9/3/2014
 

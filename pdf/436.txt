@@ -5,5 +5,5 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 436     16th St & Broadway         1/24/2013    7:00 AM      2              41         79        1022
 436     16th St & Broadway         1/24/2013    4:30 PM      2              67         159       1663
 
-Total Counts     3                                                                            Report Date 3/27/2014
+Total Counts     3                                                                            Report Date   9/3/2014
 

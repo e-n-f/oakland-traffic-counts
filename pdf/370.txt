@@ -8,5 +8,5 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 370     98th Ave & Empire Rd       8/25/2004    7:00 AM      2                         31
 370     98th Ave & Empire Rd       8/25/2004    7:00 AM      2              5
 
-Total Counts     6                                                                            Report Date 3/27/2014
+Total Counts     6                                                                            Report Date   9/3/2014
 

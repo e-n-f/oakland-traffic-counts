@@ -10,5 +10,5 @@ LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIK
 79      38th Ave & Foothill Blvd    5/2/2006     4:00 PM      2              37         207
 79      38th Ave & Foothill Blvd    9/13/2012    4:00 PM      2              60         387       3709
 
-Total Counts      8                                                                            Report Date 3/27/2014
+Total Counts      8                                                                            Report Date   9/3/2014
 

@@ -8,5 +8,5 @@ LOC ID INTERSECTION                    COUNT DATE   COUNT TIME   DURATION (HRS) 
 93      3rd St & Oak St                10/5/2010    7:00 AM      2                         63
 93      3rd St & Oak St                10/5/2010    7:00 AM      2              19
 
-Total Counts      6                                                                               Report Date 3/27/2014
+Total Counts      6                                                                               Report Date   9/3/2014
 

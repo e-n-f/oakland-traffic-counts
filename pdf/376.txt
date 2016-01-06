@@ -4,8 +4,6 @@ LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIK
 376     11th St & Harrison St       3/23/2005    4:00 PM      2              19         1067      3601
 376     11th St & Harrison St       3/23/2005    11:00 AM     2              12         775       2423
 376     11th St & Harrison St       3/23/2005    7:00 AM      2              13         401       2352
-376     11th St & Harrison St       3/23/2005    7:00 AM      2              13         401       2352
-376     11th St & Harrison St       3/23/2005    7:00 AM      2
 
-Total Counts      5                                                                            Report Date 3/27/2014
+Total Counts      3                                                                            Report Date   9/3/2014
 

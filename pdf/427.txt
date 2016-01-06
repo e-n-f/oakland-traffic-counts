@@ -3,5 +3,5 @@
 LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 427     13th St & Harrison St       6/6/2006     7:00 AM      2              11         351       650
 
-Total Counts      1                                                                            Report Date 3/27/2014
+Total Counts      1                                                                            Report Date   9/3/2014
 

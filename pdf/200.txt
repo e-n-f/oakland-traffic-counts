@@ -4,5 +4,5 @@ LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIK
 200     94th Ave & MacArthur Blvd   1/10/2007    11:30 AM     2                         97
 200     94th Ave & MacArthur Blvd   1/10/2007    11:30 AM     2              1
 
-Total Counts     2                                                                             Report Date 3/27/2014
+Total Counts     2                                                                             Report Date   9/3/2014
 

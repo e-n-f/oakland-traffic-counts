@@ -4,5 +4,5 @@ LOC ID INTERSECTION                    COUNT DATE   COUNT TIME   DURATION (HRS) 
 210     Alcatraz Ave & Hillegass Ave   6/26/2007    4:00 PM      1                         55
 210     Alcatraz Ave & Hillegass Ave   6/27/2007    4:00 PM      1              27         44
 
-Total Counts      2                                                                               Report Date 3/27/2014
+Total Counts      2                                                                               Report Date   9/3/2014
 

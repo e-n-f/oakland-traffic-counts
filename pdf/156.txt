@@ -3,6 +3,11 @@
 LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 156     5th St & Madison St        10/7/2010    4:00 PM      3              27
 156     5th St & Madison St        10/7/2010    7:00 AM      2              13
+156     5th St & Madison St        5/17/2012    4:00 PM      2                         112
+156     5th St & Madison St        5/17/2012    4:00 PM      2              15
+156     5th St & Madison St        5/17/2012    7:00 AM      2                                   1922
+156     5th St & Madison St        5/17/2012    7:00 AM      2                         110
+156     5th St & Madison St        5/17/2012    7:00 AM      2              16
 
-Total Counts     2                                                                            Report Date 3/27/2014
+Total Counts     7                                                                            Report Date   9/3/2014
 

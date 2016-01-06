@@ -4,5 +4,5 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 128     51st St & Coronado Ave     11/13/2010   4:00 PM      3              21         47        3163
 128     51st St & Coronado Ave     11/16/2010   4:00 PM      2              23         26        3123
 
-Total Counts     2                                                                            Report Date 3/27/2014
+Total Counts     2                                                                            Report Date   9/3/2014
 

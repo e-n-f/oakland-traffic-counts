@@ -9,5 +9,5 @@ LOC ID INTERSECTION                        COUNT DATE   COUNT TIME   DURATION (H
 322     Telegraph Ave & W MacArthur Blvd   9/25/2003    7:00 AM      2              61         81
 322     Telegraph Ave & W MacArthur Blvd   5/10/2006    4:00 PM      2              179        283
 
-Total Counts     7                                                                                    Report Date 3/27/2014
+Total Counts     7                                                                                    Report Date   9/3/2014
 

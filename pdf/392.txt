@@ -10,5 +10,5 @@ LOC ID INTERSECTION                        COUNT DATE   COUNT TIME   DURATION (H
 392     580 EB Offramp & 98th Ave & Golf   6/11/2009    7:15 AM      1.5                       9         2578
         Links Rd
 
-Total Counts     4                                                                                    Report Date 3/27/2014
+Total Counts     4                                                                                    Report Date   9/3/2014
 

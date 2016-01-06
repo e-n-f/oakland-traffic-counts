@@ -4,5 +4,5 @@ LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIK
 386     37th Ave & San Leandro St   4/21/2009    4:00 PM      2              68         79        2962
 386     37th Ave & San Leandro St   4/21/2009    7:00 AM      2              95         71        2598
 
-Total Counts     2                                                                             Report Date 3/27/2014
+Total Counts     2                                                                             Report Date   9/3/2014
 

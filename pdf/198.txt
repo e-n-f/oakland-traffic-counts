@@ -5,6 +5,12 @@ LOC ID INTERSECTION                    COUNT DATE   COUNT TIME   DURATION (HRS) 
 198     8th St & Oak St                10/7/2010    7:00 AM      2                         847
 198     8th St & Oak St                10/7/2010    7:00 AM      2              37
 198     8th St & Oak St                10/7/2010    4:00 PM      3                         1122
+198     8th St & Oak St                5/17/2012    4:00 PM      2                                   2708
+198     8th St & Oak St                5/17/2012    4:00 PM      2                         630
+198     8th St & Oak St                5/17/2012    4:00 PM      2              22
+198     8th St & Oak St                5/17/2012    7:00 AM      2                                   2684
+198     8th St & Oak St                5/17/2012    7:00 AM      2                         541
+198     8th St & Oak St                5/17/2012    7:00 AM      2              11
 
-Total Counts      4                                                                               Report Date 3/27/2014
+Total Counts     10                                                                               Report Date   9/3/2014
 

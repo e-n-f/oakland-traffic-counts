@@ -4,5 +4,5 @@ LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIK
 428     13th St & Jackson St        6/6/2006     7:00 AM      2              12         361       1168
 428     13th St & Jackson St        6/6/2006     4:00 PM      2              21         516       1864
 
-Total Counts      2                                                                            Report Date 3/27/2014
+Total Counts      2                                                                            Report Date   9/3/2014
 

@@ -4,5 +4,5 @@ LOC ID INTERSECTION                  COUNT DATE   COUNT TIME   DURATION (HRS) BI
 323     West St & W MacArthur Blvd   5/9/2007     4:00 PM      2              16         53
 323     West St & W MacArthur Blvd   5/9/2007     7:00 AM      2              20         40
 
-Total Counts     2                                                                              Report Date 3/27/2014
+Total Counts     2                                                                              Report Date   9/3/2014
 

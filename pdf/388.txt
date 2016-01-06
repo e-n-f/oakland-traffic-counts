@@ -4,5 +4,5 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 388     High St & San Leandro St   4/28/2009    4:00 PM      2              33         80        4855
 388     High St & San Leandro St   4/28/2009    7:00 AM      2              27         102       4204
 
-Total Counts      2                                                                           Report Date 3/27/2014
+Total Counts      2                                                                           Report Date   9/3/2014
 

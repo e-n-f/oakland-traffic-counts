@@ -6,5 +6,5 @@ LOC ID INTERSECTION                              COUNT DATE   COUNT TIME   DURAT
 248     Claremont Ave & Clifton St-SR24 EB Off   3/16/2010    4:00 PM      3              69         46
         Ramps
 
-Total Counts      2                                                                                         Report Date 3/27/2014
+Total Counts      2                                                                                         Report Date   9/3/2014
 

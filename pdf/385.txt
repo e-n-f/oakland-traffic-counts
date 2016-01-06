@@ -4,5 +4,5 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 385     73rd Ave & Garfield Ave    8/26/2008    4:00 PM      1                         31        1854
 385     73rd Ave & Garfield Ave    8/26/2008    8:00 AM      1                         45        1673
 
-Total Counts     2                                                                            Report Date 3/27/2014
+Total Counts     2                                                                            Report Date   9/3/2014
 

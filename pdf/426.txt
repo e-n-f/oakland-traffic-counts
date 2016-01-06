@@ -8,5 +8,5 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 426     13th St & Broadway         4/12/2005    11:00 AM     2              41         3959      2963
 426     13th St & Broadway         4/12/2005    7:00 AM      2              42         1545      1838
 
-Total Counts     6                                                                            Report Date 3/27/2014
+Total Counts     6                                                                            Report Date   9/3/2014
 

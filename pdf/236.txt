@@ -4,5 +4,5 @@ LOC ID INTERSECTION                     COUNT DATE   COUNT TIME   DURATION (HRS)
 236     Broadway & Lake Temescal Path   8/22/2002    4:00 PM      2              43         34
 236     Broadway & Lake Temescal Path   5/26/2005    4:00 PM      2              26         7
 
-Total Counts     2                                                                                 Report Date 3/27/2014
+Total Counts     2                                                                                 Report Date   9/3/2014
 

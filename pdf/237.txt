@@ -4,5 +4,5 @@ LOC ID INTERSECTION                   COUNT DATE   COUNT TIME   DURATION (HRS) B
 237     Broadway & W MacArthur Blvd   5/8/2010     4:00 PM      3              121        249       4839
 237     Broadway & W MacArthur Blvd   5/11/2010    4:00 PM      2              41         429       5377
 
-Total Counts    2                                                                                Report Date 3/27/2014
+Total Counts    2                                                                                Report Date   9/3/2014
 

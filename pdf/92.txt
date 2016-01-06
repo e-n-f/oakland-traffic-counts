@@ -4,5 +4,5 @@ LOC ID INTERSECTION                      COUNT DATE   COUNT TIME   DURATION (HRS
 92      3rd St & Martin Luther King Wy   9/28/2006    7:00 AM      2              40
 92      3rd St & Martin Luther King Wy   9/28/2006    7:00 AM      2              31
 
-Total Counts     2                                                                                  Report Date 3/27/2014
+Total Counts     2                                                                                  Report Date   9/3/2014
 

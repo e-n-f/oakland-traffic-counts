@@ -1,9 +1,11 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
 LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+327     Market St & San Pablo Ave   7/25/2005    4:00 PM      2              95         97
 327     Market St & San Pablo Ave   7/26/2005    7:00 AM      2              52         112
 327     Market St & San Pablo Ave   7/26/2005    4:00 PM      2              94         97
+327     Market St & San Pablo Ave   7/27/2005    7:00 AM      2              54         112
 327     Market St & San Pablo Ave   5/10/2006    4:00 PM      2              79         171
 
-Total Counts     3                                                                             Report Date 3/27/2014
+Total Counts     5                                                                             Report Date   9/3/2014
 

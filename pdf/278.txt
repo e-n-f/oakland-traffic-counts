@@ -5,5 +5,5 @@ LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIK
 278     E 28th St & Park Blvd       2/14/2007    2:30 AM      2              9
 278     E 28th St & Park Blvd       3/1/2007     2:30 AM      2              2
 
-Total Counts      3                                                                            Report Date 3/27/2014
+Total Counts      3                                                                            Report Date   9/3/2014
 

@@ -7,7 +7,9 @@ LOC ID INTERSECTION                   COUNT DATE   COUNT TIME   DURATION (HRS) B
 227     Bancroft Ave & Seminary Ave   3/1/2000     7:00 AM      2                         82
 227     Bancroft Ave & Seminary Ave   3/1/2000     7:00 AM      2                                   2212
 227     Bancroft Ave & Seminary Ave   3/1/2000     7:00 AM      2              35
-227     Bancroft Ave & Seminary Ave   6/12/2007    3:00 PM      1                                   1360
+227     Bancroft Ave & Seminary Ave   6/12/2007    11:00 AM     2                                   1499
+227     Bancroft Ave & Seminary Ave   6/12/2007    3:00 PM      1                                   1401
+227     Bancroft Ave & Seminary Ave   6/13/2007    7:00 AM      2                                   1500
 
-Total Counts     7                                                                               Report Date 3/27/2014
+Total Counts     9                                                                               Report Date   9/3/2014
 

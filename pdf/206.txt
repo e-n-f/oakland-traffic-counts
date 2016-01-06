@@ -1,9 +1,14 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
-LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
-206     Aileen St & Telegraph Ave   9/16/2003    4:00 PM      2              112        28
-206     Aileen St & Telegraph Ave   9/16/2003    11:00 AM     2              50         11
-206     Aileen St & Telegraph Ave   9/16/2003    7:00 AM      2              72         3
+LOC ID INTERSECTION                          COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+206     Aileen St & Telegraph Ave & SR24WB   9/16/2003    4:00 PM      2              112        28
+        OffRamp
+206     Aileen St & Telegraph Ave & SR24WB   9/16/2003    11:00 AM     2              50         11
+        OffRamp
+206     Aileen St & Telegraph Ave & SR24WB   9/16/2003    7:00 AM      2              72         3
+        OffRamp
+206     Aileen St & Telegraph Ave & SR24WB   5/22/2013    6:00 AM      3              106        51        5166
+        OffRamp
 
-Total Counts     3                                                                             Report Date 3/27/2014
+Total Counts     4                                                                                      Report Date   9/3/2014
 

@@ -12,5 +12,5 @@ LOC ID INTERSECTION                           COUNT DATE   COUNT TIME   DURATION
 138     52nd St & Claremont Ave & Telegraph   5/15/2010    4:00 PM      3              174        160       5687
         Ave
 
-Total Counts     5                                                                                       Report Date 3/27/2014
+Total Counts     5                                                                                       Report Date   9/3/2014
 

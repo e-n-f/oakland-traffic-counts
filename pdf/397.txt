@@ -9,5 +9,5 @@ LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIK
 397     20th St & Franklin St       9/18/2012    4:00 PM      2              148        2280      1751
 397     20th St & Franklin St       9/19/2012    4:00 PM      2              138        2350      1796
 
-Total Counts      7                                                                            Report Date 3/27/2014
+Total Counts      7                                                                            Report Date   9/3/2014
 

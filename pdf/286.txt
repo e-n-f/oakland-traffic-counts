@@ -16,5 +16,5 @@ LOC ID INTERSECTION                     COUNT DATE   COUNT TIME   DURATION (HRS)
 286     Foothill Blvd & Fruitvale Ave   9/18/2012    4:00 PM      2              99         647       3303
 286     Foothill Blvd & Fruitvale Ave   9/19/2012    4:00 PM      2              57         773       3894
 
-Total Counts     14                                                                                Report Date 3/27/2014
+Total Counts     14                                                                                Report Date   9/3/2014
 

@@ -6,5 +6,5 @@ LOC ID INTERSECTION                  COUNT DATE   COUNT TIME   DURATION (HRS) BI
 300     Hegenberger Rd & Pardee Dr   11/18/1999   4:00 PM      2              13
 300     Hegenberger Rd & Pardee Dr   11/18/1999   7:00 AM      2              4
 
-Total Counts     4                                                                              Report Date 3/27/2014
+Total Counts     4                                                                              Report Date   9/3/2014
 

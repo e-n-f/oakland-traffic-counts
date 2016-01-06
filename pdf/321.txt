@@ -4,5 +4,5 @@ LOC ID INTERSECTION                       COUNT DATE   COUNT TIME   DURATION (HR
 321     Piedmont Ave & W MacArthur Blvd   9/9/2004     4:00 PM      2                         359
 321     Piedmont Ave & W MacArthur Blvd   9/9/2004     7:00 AM      2                         308
 
-Total Counts     2                                                                                   Report Date 3/27/2014
+Total Counts     2                                                                                   Report Date   9/3/2014
 
