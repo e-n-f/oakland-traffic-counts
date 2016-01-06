@@ -8,7 +8,7 @@ while (<IN>) {
 }
 close(IN);
 
-while ($kml =~ s/(http:\/\/maps.kittelson.com\/system\/uploads\/[0-9]+\/original\/(TMC_...KML))//) {
+while ($kml =~ s/(http:\/\/maps.kittelson.com\/system\/uploads\/[0-9]+\/original\/([^\/]*KML))//) {
         $url = $1;
 	$base = $2;
 
@@ -23,7 +23,7 @@ while ($kml =~ s/(http:\/\/maps.kittelson.com\/system\/uploads\/[0-9]+\/original
 			$url =~ s/'/%27/g;
 			$url =~ s/ /%20/g;
 
-			if ($url =~ /(.*)(TMC_.*)/) {
+			if ($url =~ /(.*)(TMC_.*)/ || $url =~ /(.*)(Tube_.*)/) {
 				$p1 = $1;
 				$p2 = $2;
 				$p2 =~ s/\//_/g;
