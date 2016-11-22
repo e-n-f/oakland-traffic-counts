@@ -1,0 +1,10 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+
+LOC ID INTERSECTION                    COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+527     Claremont Ave & Hillegass St   4/17/2007    4:00 PM      2              32         49        2117
+527     Claremont Ave & Hillegass St   4/17/2007    7:00 AM      2              24         32        1869
+
+
+Total Counts     2                                                                                Report Date 2/11/2016
+

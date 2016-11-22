@@ -1,10 +1,12 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 82      38th St & Telegraph Ave    9/17/2003    4:00 PM      2              109        143
 82      38th St & Telegraph Ave    9/17/2003    11:00 AM     2              61         131
 82      38th St & Telegraph Ave    9/17/2003    7:00 AM      2              79         113
 82      38th St & Telegraph Ave    5/10/2006    4:00 PM      2              112        83
 
-Total Counts     4                                                                            Report Date   9/3/2014
+
+Total Counts     4                                                                            Report Date 2/11/2016
 

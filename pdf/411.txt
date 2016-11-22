@@ -1,10 +1,17 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 411     7th St & Webster St        9/21/2011    4:00 PM      2                         1050
 411     7th St & Webster St        9/21/2011    4:00 PM      2              98
 411     7th St & Webster St        9/21/2011    2:00 PM      2                         1148
 411     7th St & Webster St        9/21/2011    2:00 PM      2              38
+411     7th St & Webster St        10/30/2013   2:00 PM      2              51         961
+411     7th St & Webster St        10/30/2013   4:00 PM      2              43         1014
+411     7th St & Webster St        10/28/2014   2:00 PM      2              30         877
+411     7th St & Webster St        10/28/2014   4:00 PM      2              37         802
+411     7th St & Webster St        9/17/2015    4:00 PM      2              44         554       5564
 
-Total Counts     4                                                                            Report Date   9/3/2014
+
+Total Counts     9                                                                            Report Date 2/11/2016
 

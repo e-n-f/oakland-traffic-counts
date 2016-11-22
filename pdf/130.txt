@@ -1,8 +1,10 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 130     51st St & Manila Ave       12/5/2006    3:00 PM      1                         48
 130     51st St & Manila Ave       12/7/2006    8:00 AM      1                         33
 
-Total Counts     2                                                                            Report Date   9/3/2014
+
+Total Counts     2                                                                            Report Date 2/11/2016
 

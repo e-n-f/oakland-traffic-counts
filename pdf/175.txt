@@ -1,10 +1,12 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                     COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 175     73rd Ave & International Blvd   11/17/1999   4:00 PM      2                         527
 175     73rd Ave & International Blvd   11/17/1999   4:00 PM      2              21
 175     73rd Ave & International Blvd   11/17/1999   7:30 AM      2                         542
 175     73rd Ave & International Blvd   11/17/1999   7:30 AM      2              19
 
-Total Counts      4                                                                                Report Date   9/3/2014
+
+Total Counts      4                                                                                Report Date 2/11/2016
 

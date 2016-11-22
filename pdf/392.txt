@@ -1,5 +1,6 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                        COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 392     580 EB Offramp & 98th Ave & Golf   5/27/2009    4:15 PM      1.5                       7         2678
         Links Rd
@@ -10,5 +11,6 @@ LOC ID INTERSECTION                        COUNT DATE   COUNT TIME   DURATION (H
 392     580 EB Offramp & 98th Ave & Golf   6/11/2009    7:15 AM      1.5                       9         2578
         Links Rd
 
-Total Counts     4                                                                                    Report Date   9/3/2014
+
+Total Counts     4                                                                                    Report Date 2/11/2016
 

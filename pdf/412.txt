@@ -1,10 +1,17 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 412     Grand Ave & Staten Ave     9/20/2011    4:00 PM      2                         568
 412     Grand Ave & Staten Ave     9/20/2011    4:00 PM      2              182
 412     Grand Ave & Staten Ave     9/20/2011    12:00 PM     2                         635
 412     Grand Ave & Staten Ave     9/20/2011    12:00 PM     2              111
+412     Grand Ave & Staten Ave     10/2/2013    4:00 PM      2              280        742
+412     Grand Ave & Staten Ave     10/2/2013    12:00 PM     2              164        749
+412     Grand Ave & Staten Ave     10/8/2014    4:00 PM      2              314        649
+412     Grand Ave & Staten Ave     10/8/2014    12:00 PM     2              176        604
+412     Grand Ave & Staten Ave     9/22/2015    4:00 PM      2              345        500       3617
 
-Total Counts     4                                                                            Report Date   9/3/2014
+
+Total Counts     9                                                                            Report Date 2/11/2016
 

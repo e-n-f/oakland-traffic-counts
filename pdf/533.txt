@@ -1,0 +1,10 @@
+                       City of Oakland Bicycle and Pedestrian Counts
+
+
+LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+533     9th St & Clay St            1/13/2015    4:00 PM      2              20         277       676
+533     9th St & Clay St            1/13/2015    7:00 AM      2              24         248       348
+
+
+Total Counts      2                                                                            Report Date 2/11/2016
+

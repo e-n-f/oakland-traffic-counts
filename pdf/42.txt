@@ -1,7 +1,9 @@
                        City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 42      23rd St & Harrison St       2/27/2008    8:00 AM      1                         101
 
-Total Counts      1                                                                            Report Date   9/3/2014
+
+Total Counts      1                                                                            Report Date 2/11/2016
 

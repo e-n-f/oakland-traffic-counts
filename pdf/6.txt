@@ -1,5 +1,6 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                  COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 6       108th Ave & MacArthur Blvd   12/15/2010   4:00 PM      2              7
 6       108th Ave & MacArthur Blvd   12/15/2010   7:00 AM      2              2
@@ -8,5 +9,6 @@ LOC ID INTERSECTION                  COUNT DATE   COUNT TIME   DURATION (HRS) BI
 6       108th Ave & MacArthur Blvd   12/15/2010   7:00 AM      2                                   1019
 6       108th Ave & MacArthur Blvd   12/15/2010   7:00 AM      2                         58
 
-Total Counts     6                                                                              Report Date   9/3/2014
+
+Total Counts     6                                                                              Report Date 2/11/2016
 

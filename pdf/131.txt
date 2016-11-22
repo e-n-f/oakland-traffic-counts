@@ -1,8 +1,10 @@
                        City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 131     51st St & Shafter Ave       5/8/2010     4:00 PM      3              179        108       3894
 131     51st St & Shafter Ave       5/12/2010    4:00 PM      2              101        80        3238
 
-Total Counts      2                                                                            Report Date   9/3/2014
+
+Total Counts      2                                                                            Report Date 2/11/2016
 

@@ -1,10 +1,19 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 410     14th St & Mandela Pkwy     9/21/2011    4:00 PM      2                         311
 410     14th St & Mandela Pkwy     9/21/2011    12:00 PM     2                         164
 410     14th St & Mandela Pkwy     9/21/2011    4:00 PM      2              129
 410     14th St & Mandela Pkwy     9/21/2011    12:00 PM     2              69
+410     14th St & Mandela Pkwy     9/26/2013    4:00 PM      2              192        136
+410     14th St & Mandela Pkwy     9/26/2013    12:00 PM     2              80         116
+410     14th St & Mandela Pkwy     10/29/2014   4:00 PM      2                         130
+410     14th St & Mandela Pkwy     10/29/2014   12:00 PM     2                         123
+410     14th St & Mandela Pkwy     10/29/2014   4:00 PM      2              235
+410     14th St & Mandela Pkwy     10/29/2014   12:00 PM     2              117
+410     14th St & Mandela Pkwy     9/23/2015    4:00 PM      2              254        45        1916
 
-Total Counts     4                                                                            Report Date   9/3/2014
+
+Total Counts    11                                                                            Report Date 2/11/2016
 

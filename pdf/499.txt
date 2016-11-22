@@ -1,9 +1,11 @@
                        City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 499     14th St & Adeline St        11/15/2012   4:00 PM      2              142        139       2017
 499     14th St & Adeline St        11/15/2012   4:00 PM      2              142        139       4034
 499     14th St & Adeline St        11/15/2012   7:00 AM      2              74         84        2944
 
-Total Counts      3                                                                            Report Date   9/3/2014
+
+Total Counts      3                                                                            Report Date 2/11/2016
 

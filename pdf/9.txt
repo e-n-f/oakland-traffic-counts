@@ -1,8 +1,10 @@
                        City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 9       11th St & Brush St          10/7/2010    4:00 PM      3              20
 9       11th St & Brush St          10/14/2010   4:00 PM      3                         134
 
-Total Counts      2                                                                            Report Date   9/3/2014
+
+Total Counts      2                                                                            Report Date 2/11/2016
 

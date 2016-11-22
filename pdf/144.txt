@@ -1,9 +1,12 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                        COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 144     57th St & Adeline St & Market St   4/13/2011    4:00 PM      2              70                   3093
 144     57th St & Adeline St & Market St   4/14/2011    7:00 AM      2              58                   1940
 144     57th St & Adeline St & Market St   6/5/2014     4:00 PM      2              299        83        4145
+144     57th St & Adeline St & Market St   9/24/2015    4:00 PM      2              261        137       3928
 
-Total Counts      3                                                                                   Report Date   9/3/2014
+
+Total Counts      4                                                                                   Report Date 2/11/2016
 

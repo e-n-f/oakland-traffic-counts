@@ -1,8 +1,10 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 503     7th St & Market St         11/15/2012   4:00 PM      2              38         44        3338
 503     7th St & Market St         11/15/2012   7:00 AM      2              38         126       2645
 
-Total Counts      2                                                                           Report Date   9/3/2014
+
+Total Counts      2                                                                           Report Date 2/11/2016
 

@@ -1,7 +1,13 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
-LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
-401     Monterey Blvd & Park Blvd   9/13/2012    4:00 PM      2              17         4         4470
 
-Total Counts     1                                                                             Report Date   9/3/2014
+LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+401     Monterey Blvd & Park Blvd   9/13/2011    4:00 PM      2              14         3         4960
+401     Monterey Blvd & Park Blvd   9/13/2012    4:00 PM      2              17         4         4470
+401     Monterey Blvd & Park Blvd   9/12/2013    4:00 PM      2              27         1         1524
+401     Monterey Blvd & Park Blvd   9/11/2014    4:00 PM      2              20         1         4666
+401     Monterey Blvd & Park Blvd   9/6/2015     4:00 PM      2              37         1         4942
+
+
+Total Counts     5                                                                             Report Date 2/11/2016
 

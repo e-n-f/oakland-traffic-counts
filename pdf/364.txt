@@ -1,7 +1,13 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
-LOC ID INTERSECTION                   COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
-364     San Pablo Ave & W Grand Ave   9/12/2012    4:00 PM      2              217        144       4219
 
-Total Counts     1                                                                               Report Date   9/3/2014
+LOC ID INTERSECTION                   COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+364     San Pablo Ave & W Grand Ave   9/13/2011    4:00 PM      2              193        90        4405
+364     San Pablo Ave & W Grand Ave   9/12/2012    4:00 PM      2              217        144       4219
+364     San Pablo Ave & W Grand Ave   9/12/2013    4:00 PM      2              247        154       4330
+364     San Pablo Ave & W Grand Ave   9/9/2014     4:00 PM      2              249        212       4302
+364     San Pablo Ave & W Grand Ave   9/16/2015    4:00 PM      2              152        85        4275
+
+
+Total Counts     5                                                                               Report Date 2/11/2016
 

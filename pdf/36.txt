@@ -1,5 +1,6 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 36      20th St & Telegraph Ave    9/17/2003    4:00 PM      2              86         597
 36      20th St & Telegraph Ave    9/17/2003    11:00 AM     2              59         600
@@ -11,5 +12,6 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 36      20th St & Telegraph Ave    2/15/2006    4:00 PM      2              61         547       2895
 36      20th St & Telegraph Ave    3/15/2006    7:00 AM      2              73         187       2024
 
-Total Counts     9                                                                            Report Date   9/3/2014
+
+Total Counts     9                                                                            Report Date 2/11/2016
 

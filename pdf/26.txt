@@ -1,5 +1,6 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 26      17th St & Telegraph Ave    9/17/2003    4:00 PM      2              55         464
 26      17th St & Telegraph Ave    9/17/2003    11:00 AM     2              57         549
@@ -7,6 +8,9 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 26      17th St & Telegraph Ave    6/2/2004     11:00 AM     2              31         850       2724
 26      17th St & Telegraph Ave    6/2/2004     7:00 AM      2              42         296       2308
 26      17th St & Telegraph Ave    6/2/2004     4:00 PM      2              62         626       2797
+26      17th St & Telegraph Ave    7/9/2014     4:00 PM      2              88         604       1888
+26      17th St & Telegraph Ave    7/9/2014     7:00 AM      2              93         240       1763
 
-Total Counts     6                                                                            Report Date   9/3/2014
+
+Total Counts     8                                                                            Report Date 2/11/2016
 

@@ -1,9 +1,11 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                   COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 234     Broadway & Broadway Terrace   5/8/2010     4:00 PM      3              42         42        2893
 234     Broadway & Broadway Terrace   5/11/2010    4:00 PM      2              37         90        3180
 234     Broadway & Broadway Terrace   11/16/2010   7:00 AM      2              26         123       2565
 
-Total Counts     3                                                                               Report Date   9/3/2014
+
+Total Counts    3                                                                                Report Date 2/11/2016
 

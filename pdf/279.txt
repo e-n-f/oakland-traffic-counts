@@ -1,9 +1,11 @@
                        City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 279     E 7th St & Fruitvale Ave    8/21/2002    4:00 PM      2              39         26
 279     E 7th St & Fruitvale Ave    5/26/2005    4:00 PM      2              44         48
 279     E 7th St & Fruitvale Ave    4/27/2006    4:00 PM      2              93         31
 
-Total Counts      3                                                                            Report Date   9/3/2014
+
+Total Counts      3                                                                            Report Date 2/11/2016
 

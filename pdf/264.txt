@@ -1,5 +1,6 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                         COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 264     Broadway & Coronado Ave & Safeway   5/8/2010     4:00 PM      3              101        254       4715
         Dwy
@@ -8,5 +9,5 @@ LOC ID INTERSECTION                         COUNT DATE   COUNT TIME   DURATION (
 264     Broadway & Coronado Ave & Safeway   11/16/2010   7:00 AM      2              82         186       3380
         Dwy
 
-Total Counts    3                                                                                      Report Date   9/3/2014
+Total Counts    3                                                                                      Report Date 2/11/2016
 

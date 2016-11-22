@@ -1,7 +1,14 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 81      38th Ave & MacArthur Blvd   10/30/2002   3:00 PM      3              29
+81      38th Ave & MacArthur Blvd   10/2/2013    12:00 PM     2              16         289
+81      38th Ave & MacArthur Blvd   10/2/2013    4:00 PM      2              23         299
+81      38th Ave & MacArthur Blvd   10/22/2014   4:00 PM      2              20         190
+81      38th Ave & MacArthur Blvd   10/22/2014   12:00 PM     2              14         184
+81      38th Ave & MacArthur Blvd   9/22/2015    4:00 PM      2              50         214       2564
 
-Total Counts     1                                                                             Report Date   9/3/2014
+
+Total Counts     6                                                                             Report Date 2/11/2016
 

@@ -1,0 +1,11 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+
+LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+531     42nd St & Broadway         10/28/2008   2:15 PM      2              47         236       2992
+531     42nd St & Broadway         10/28/2008   7:00 AM      2              26         725       3001
+531     42nd St & Broadway         10/28/2008   7:00 AM      2
+
+
+Total Counts     3                                                                            Report Date 2/11/2016
+

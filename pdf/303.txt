@@ -1,8 +1,10 @@
                        City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                    COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 303     High St & International Blvd   4/23/2009    4:00 PM      2              42         368       5807
 303     High St & International Blvd   4/23/2009    7:00 AM      2              18         222       4441
 
-Total Counts      2                                                                               Report Date   9/3/2014
+
+Total Counts      2                                                                               Report Date 2/11/2016
 

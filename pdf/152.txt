@@ -1,7 +1,7 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                            COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
-152     5th St & I-880 SB On-Ramp & Broadway   4/13/2005    7:00 AM      2              5          175       3661
 152     5th St & I-880 SB On-Ramp & Broadway   4/13/2005    4:30 PM      2              15         182       5453
 152     5th St & I-880 SB On-Ramp & Broadway   4/13/2005    11:00 AM     2              5          326       4472
 152     5th St & I-880 SB On-Ramp & Broadway   4/13/2005    7:00 AM      2              5          175       3661
@@ -10,5 +10,6 @@ LOC ID INTERSECTION                            COUNT DATE   COUNT TIME   DURATIO
 152     5th St & I-880 SB On-Ramp & Broadway   10/14/2010   7:00 AM      2              15
 152     5th St & I-880 SB On-Ramp & Broadway   10/14/2010   4:00 PM      3              31
 
-Total Counts     8                                                                                        Report Date   9/3/2014
+
+Total Counts     7                                                                                        Report Date 2/11/2016
 

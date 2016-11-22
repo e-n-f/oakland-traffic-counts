@@ -1,5 +1,6 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 380     12th St & Oak St           3/24/2005    4:00 PM      2              34         706       3196
 380     12th St & Oak St           3/24/2005    11:00 AM     2              20         1214      2826
@@ -11,5 +12,6 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 380     12th St & Oak St           5/16/2012    7:00 AM      2                         822
 380     12th St & Oak St           5/16/2012    7:00 AM      2              48
 
-Total Counts      9                                                                           Report Date   9/3/2014
+
+Total Counts      9                                                                           Report Date 2/11/2016
 

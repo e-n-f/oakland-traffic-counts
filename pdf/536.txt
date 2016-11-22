@@ -1,0 +1,10 @@
+                       City of Oakland Bicycle and Pedestrian Counts
+
+
+LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+536     14th St & Clay St           1/13/2015    4:00 PM      2              114        1002      2531
+536     14th St & Clay St           1/13/2015    7:00 AM      2.5            91         1235      574
+
+
+Total Counts      2                                                                            Report Date 2/11/2016
+

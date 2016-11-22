@@ -1,8 +1,12 @@
                        City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 356     12th St & Clay St           8/18/1999    7:00 AM      2              14         387       1485
 356     12th St & Clay St           8/18/1999    4:00 PM      2              17         601       2766
+356     12th St & Clay St           1/13/2015    4:00 PM      2              66         1253      2117
+356     12th St & Clay St           1/13/2015    7:00 AM      2              39         956       1335
 
-Total Counts      2                                                                            Report Date   9/3/2014
+
+Total Counts      4                                                                            Report Date 2/11/2016
 

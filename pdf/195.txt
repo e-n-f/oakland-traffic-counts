@@ -1,8 +1,10 @@
                        City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 195     E 8th St & Fruitvale Ave    4/22/2009    4:00 PM      2              67         80        3687
 195     E 8th St & Fruitvale Ave    4/22/2009    7:00 AM      2              104        39        2830
 
-Total Counts      2                                                                            Report Date   9/3/2014
+
+Total Counts      2                                                                            Report Date 2/11/2016
 

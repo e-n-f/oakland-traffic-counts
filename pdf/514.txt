@@ -1,8 +1,14 @@
                        City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+514     Hiller Dr & Tunnel Rd       10/21/2009   3:00 PM      3                                   8137
+514     Hiller Dr & Tunnel Rd       10/21/2009   6:00 AM      3                                   6268
 514     Hiller Dr & Tunnel Rd       5/22/2013    3:00 PM      3              66                   7964
 514     Hiller Dr & Tunnel Rd       5/22/2013    6:00 AM      3              52                   5888
+514     Hiller Dr & Tunnel Rd       5/20/2014    3:00 PM      3              17                   7957
+514     Hiller Dr & Tunnel Rd       5/20/2014    6:00 AM      3              21                   5784
 
-Total Counts      2                                                                            Report Date   9/3/2014
+
+Total Counts      6                                                                            Report Date 2/11/2016
 

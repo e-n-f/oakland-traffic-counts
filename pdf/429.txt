@@ -1,5 +1,6 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 429     13th St & Madison St       6/6/2006     7:00 AM      2              38         363       1208
         13th St & Madison St
@@ -18,5 +19,5 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 429     13th St & Madison St       5/16/2012    7:00 AM      2              13
         13th St & Madison St
 
-Total Counts     8                                                                            Report Date   9/3/2014
+Total Counts     8                                                                            Report Date 2/11/2016
 

@@ -1,7 +1,13 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
-LOC ID INTERSECTION                     COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
-399     Golf Links Rd & Mountain Blvd   9/15/2012    10:00 AM     2              19         25        1658
 
-Total Counts     1                                                                                 Report Date   9/3/2014
+LOC ID INTERSECTION                     COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+399     Golf Links Rd & Mountain Blvd   9/17/2011    10:00 AM     2              20         17        1679
+399     Golf Links Rd & Mountain Blvd   9/15/2012    10:00 AM     2              19         25        1658
+399     Golf Links Rd & Mountain Blvd   9/14/2013    10:00 AM     2              18         18        1724
+399     Golf Links Rd & Mountain Blvd   9/13/2014    10:00 AM     2              10         8         1744
+399     Golf Links Rd & Mountain Blvd   9/12/2015    10:00 AM     1              24         12        1663
+
+
+Total Counts     5                                                                                 Report Date 2/11/2016
 

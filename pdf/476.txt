@@ -1,6 +1,9 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+476     Broadway & Grand Ave       6/2/2004     7:00 AM      2              83         309       3899
+476     Broadway & Grand Ave       6/3/2004     4:00 PM      2              61         411       5972
 476     Broadway & Grand Ave       5/22/2012    4:00 PM      2                         396
 476     Broadway & Grand Ave       5/22/2012    7:00 AM      2                         471
 476     Broadway & Grand Ave       5/22/2012    4:00 PM      2                                   4172
@@ -8,5 +11,6 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 476     Broadway & Grand Ave       5/22/2012    7:00 AM      2                                   3299
 476     Broadway & Grand Ave       5/22/2012    7:00 AM      2              150
 
-Total Counts    6                                                                             Report Date   9/3/2014
+
+Total Counts    8                                                                             Report Date 2/11/2016
 

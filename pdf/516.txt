@@ -1,10 +1,12 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                         COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 516     10th Ave & Embarcadero & I-880 SB   5/6/2004     4:00 PM      2                                   1981
         OnRamp
 516     10th Ave & Embarcadero & I-880 SB   5/6/2004     7:00 AM      2                                   1303
         OnRamp
 
-Total Counts     2                                                                                     Report Date   9/3/2014
+
+Total Counts     2                                                                                     Report Date 2/11/2016
 

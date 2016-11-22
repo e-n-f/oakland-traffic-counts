@@ -1,10 +1,12 @@
                           City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                    COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 34      1st St & Oak St                10/5/2010    4:00 PM      3              78
 34      1st St & Oak St                10/5/2010    7:00 AM      2              65
 34      1st St & Oak St                10/5/2010    4:00 PM      3                         90
 34      1st St & Oak St                10/5/2010    7:00 AM      2                         73
 
-Total Counts      4                                                                               Report Date   9/3/2014
+
+Total Counts      4                                                                               Report Date 2/11/2016
 

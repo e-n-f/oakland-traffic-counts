@@ -1,10 +1,12 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 55      2nd St & Broadway          10/6/2010    4:00 PM      3                         651
 55      2nd St & Broadway          10/6/2010    7:00 AM      2                         110
 55      2nd St & Broadway          10/14/2010   7:00 AM      2              38
 55      2nd St & Broadway          10/14/2010   4:00 PM      3              70
 
-Total Counts     4                                                                            Report Date   9/3/2014
+
+Total Counts     4                                                                            Report Date 2/11/2016
 

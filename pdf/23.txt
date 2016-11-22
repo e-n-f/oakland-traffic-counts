@@ -1,12 +1,18 @@
                        City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 23      16th Ave & Foothill Blvd    5/9/2001     4:00 PM      2                                   1485
 23      16th Ave & Foothill Blvd    5/9/2001     7:00 AM      2                                   1420
 23      16th Ave & Foothill Blvd    5/10/2001    4:00 PM      2              68
 23      16th Ave & Foothill Blvd    5/10/2001    7:00 AM      2                         132
 23      16th Ave & Foothill Blvd    5/10/2001    7:00 AM      2              52
+23      16th Ave & Foothill Blvd    9/15/2011    4:00 PM      2              28         107       1425
 23      16th Ave & Foothill Blvd    9/12/2012    4:00 PM      2              39         68        1273
+23      16th Ave & Foothill Blvd    9/12/2013    4:00 PM      2              42         83        1320
+23      16th Ave & Foothill Blvd    9/11/2014    4:00 PM      2              48         82        1380
+23      16th Ave & Foothill Blvd    9/16/2015    4:00 PM      2              46         85        1358
 
-Total Counts      6                                                                            Report Date   9/3/2014
+
+Total Counts    10                                                                             Report Date 2/11/2016
 

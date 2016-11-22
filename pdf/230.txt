@@ -1,10 +1,12 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                          COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 230     Beaumont Ave & I-580 WB Off-Ramp &   10/7/2010    4:00 PM      3              22
         MacArthur Blvd
 230     Beaumont Ave & I-580 WB Off-Ramp &   10/14/2010   4:00 PM      3                         18
         MacArthur Blvd
 
-Total Counts    2                                                                                       Report Date   9/3/2014
+
+Total Counts    2                                                                                       Report Date 2/11/2016
 

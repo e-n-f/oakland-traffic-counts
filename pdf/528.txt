@@ -1,0 +1,11 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+
+LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+528     6th St & Broadway          4/13/2005    4:30 PM      2              38         382       3320
+528     6th St & Broadway          4/13/2005    11:00 AM     2              19         397       3635
+528     6th St & Broadway          4/13/2005    7:00 AM      2              10         211       3893
+
+
+Total Counts     3                                                                            Report Date 2/11/2016
+

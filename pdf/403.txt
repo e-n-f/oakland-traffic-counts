@@ -1,8 +1,10 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                         COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 403     42nd Ave & Coliseum Wy & I-880 NB   9/27/2011    4:00 PM      2                         0         3273
 403     42nd Ave & Coliseum Wy & I-880 NB   9/28/2011    7:00 AM      2                         0         1362
 
-Total Counts     2                                                                                     Report Date   9/3/2014
+
+Total Counts     2                                                                                     Report Date 2/11/2016
 

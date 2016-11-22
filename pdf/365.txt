@@ -1,9 +1,15 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+365     7th St & Mandela Pkwy      9/14/2011    4:00 PM      2              91         348       1738
 365     7th St & Mandela Pkwy      9/13/2012    4:00 PM      2              104        186       2121
 365     7th St & Mandela Pkwy      11/15/2012   4:00 PM      2              104        359       2573
 365     7th St & Mandela Pkwy      11/15/2012   7:00 AM      2              120        349       1894
+365     7th St & Mandela Pkwy      9/12/2013    4:00 PM      2              127        426       2802
+365     7th St & Mandela Pkwy      9/10/2014    4:00 PM      2              145        455       2968
+365     7th St & Mandela Pkwy      9/15/2015    4:00 PM      2              148        269       2746
 
-Total Counts     3                                                                            Report Date   9/3/2014
+
+Total Counts     7                                                                            Report Date 2/11/2016
 

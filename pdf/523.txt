@@ -1,0 +1,11 @@
+                       City of Oakland Bicycle and Pedestrian Counts
+
+
+LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+523     60th St & Colby St          10/28/1969   7:00 AM      2                         72        2496
+523     60th St & Colby St          4/7/2007     4:00 PM      2              58         40        633
+523     60th St & Colby St          4/17/2007    7:00 AM      2              22         26        428
+
+
+Total Counts      3                                                                            Report Date 2/11/2016
+

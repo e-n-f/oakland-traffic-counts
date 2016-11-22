@@ -1,7 +1,9 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 161     61st St & Telegraph Ave    5/16/2006    4:00 PM      2              104        62
 
-Total Counts     1                                                                            Report Date   9/3/2014
+
+Total Counts     1                                                                            Report Date 2/11/2016
 

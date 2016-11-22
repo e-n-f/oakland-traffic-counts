@@ -1,10 +1,12 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                     COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 268     Doolittle Dr & Hegenberger Rd   11/18/1999   4:00 PM      2                         14
 268     Doolittle Dr & Hegenberger Rd   11/18/1999   4:00 PM      2              4
 268     Doolittle Dr & Hegenberger Rd   11/18/1999   7:00 AM      2                         4
 268     Doolittle Dr & Hegenberger Rd   11/18/1999   7:00 AM      2              2
 
-Total Counts     4                                                                                 Report Date   9/3/2014
+
+Total Counts     4                                                                                 Report Date 2/11/2016
 

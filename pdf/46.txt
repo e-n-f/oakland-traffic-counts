@@ -1,12 +1,17 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 46      27th St & Broadway         5/9/2006     4:00 PM      2              126        175
 46      27th St & Broadway         4/26/2011    4:00 PM      2              313        298       4342
 46      27th St & Broadway         5/4/2011     4:00 PM      2              349        183       4529
+46      27th St & Broadway         9/13/2011    4:00 PM      2              318        280       4758
 46      27th St & Broadway         9/11/2012    4:00 PM      2              341        203       4502
-46      27th St & Broadway         9/12/2012    4:00 PM      2              336        187       4458
 46      27th St & Broadway         9/12/2012    4:00 PM      2              344        187       4458
+46      27th St & Broadway         9/10/2013    4:00 PM      2              379        392       4732
+46      27th St & Broadway         9/10/2014    4:00 PM      2              477        288       4818
+46      27th St & Broadway         9/15/2015    4:00 PM      2              731        317       5171
 
-Total Counts     6                                                                            Report Date   9/3/2014
+
+Total Counts     9                                                                            Report Date 2/11/2016
 

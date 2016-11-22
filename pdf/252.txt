@@ -1,12 +1,12 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                         COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
-252     Claremont Ave & Hudson St-SR24 WB   10/28/1969   7:00 AM      2                         72        2496
-        On Ramps
 252     Claremont Ave & Hudson St-SR24 WB   3/13/2010    4:00 PM      3              10         90
         On Ramps
 252     Claremont Ave & Hudson St-SR24 WB   3/16/2010    4:00 PM      3              13         88
         On Ramps
 
-Total Counts     3                                                                                     Report Date   9/3/2014
+
+Total Counts     2                                                                                     Report Date 2/11/2016
 

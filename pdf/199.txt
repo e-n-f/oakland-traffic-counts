@@ -1,5 +1,6 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 199     90th Ave & Bancroft Ave    2/29/2000    4:00 PM      2                                   3874
 199     90th Ave & Bancroft Ave    2/29/2000    4:00 PM      2                         125
@@ -9,5 +10,6 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 199     90th Ave & Bancroft Ave    2/29/2000    7:00 AM      2              17
 199     90th Ave & Bancroft Ave    12/3/2010    4:55 PM      1                         57        1635
 
-Total Counts     7                                                                            Report Date   9/3/2014
+
+Total Counts     7                                                                            Report Date 2/11/2016
 

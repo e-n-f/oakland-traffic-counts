@@ -1,9 +1,11 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 492     19th St & Telegraph Ave    5/26/2004    4:00 PM      2              57         212       1437
 492     19th St & Telegraph Ave    5/26/2004    11:00 AM     2              53         468       2352
 492     19th St & Telegraph Ave    5/26/2004    7:00 AM      2              45         409       1517
 
-Total Counts     3                                                                            Report Date   9/3/2014
+
+Total Counts     3                                                                            Report Date 2/11/2016
 

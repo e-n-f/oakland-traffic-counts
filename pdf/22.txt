@@ -1,9 +1,11 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 22      16th Ave & Embarcadero     9/22/1999    4:00 PM      2              26
 22      16th Ave & Embarcadero     5/30/2002    4:00 AM      2              39
 22      16th Ave & Embarcadero     4/26/2006    4:00 PM      2              61         40
 
-Total Counts     3                                                                            Report Date   9/3/2014
+
+Total Counts     3                                                                            Report Date 2/11/2016
 

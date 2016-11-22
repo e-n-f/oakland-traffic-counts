@@ -1,11 +1,12 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 414     20th St & Broadway         5/25/2004    7:00 AM      2              73         1047      2079
 414     20th St & Broadway         5/25/2004    11:00 AM     2              57         1219      2690
+414     20th St & Broadway         4/12/2005    7:00 AM      2              36         1128      2227
 414     20th St & Broadway         4/12/2005    4:30 PM      2              71         1346      3218
 414     20th St & Broadway         4/12/2005    11:00 AM     2              65         1407      3092
-414     20th St & Broadway         4/12/2005    7:00 AM      2              36         1128      2227
 414     20th St & Broadway         2/15/2006    11:30 AM     2              39         1497      3042
 414     20th St & Broadway         2/15/2006    7:00 AM      2              43         1057      2142
 414     20th St & Broadway         2/16/2006    4:00 PM      2              52         1268      3194
@@ -13,6 +14,12 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 414     20th St & Broadway         9/20/2011    4:00 PM      2              175
 414     20th St & Broadway         9/20/2011    12:00 PM     2                         1408
 414     20th St & Broadway         9/20/2011    12:00 PM     2              92
+414     20th St & Broadway         10/31/2013   12:00 PM     2              248        1628
+414     20th St & Broadway         10/31/2013   4:00 PM      2              248        1896
+414     20th St & Broadway         10/8/2014    4:00 PM      2              293        5958
+414     20th St & Broadway         10/8/2014    12:00 PM     2              199        2306
+414     20th St & Broadway         9/23/2015    4:00 PM      2              387        2391      3028
 
-Total Counts    12                                                                            Report Date   9/3/2014
+
+Total Counts    17                                                                            Report Date 2/11/2016
 

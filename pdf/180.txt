@@ -1,17 +1,13 @@
                        City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                    COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 180     7th Ave & International Blvd   4/19/2001    7:00 AM      2              38         262
 180     7th Ave & International Blvd   4/19/2001    11:00 AM     2              37         341
 180     7th Ave & International Blvd   4/19/2001    2:00 PM      4              47         448
-180     7th Ave & International Blvd   4/19/2001    2:00 PM      4                         448
-180     7th Ave & International Blvd   4/19/2001    11:00 AM     2                         341
-180     7th Ave & International Blvd   4/19/2001    2:00 PM      4              47
-180     7th Ave & International Blvd   4/19/2001    11:00 AM     2              37
-180     7th Ave & International Blvd   4/19/2001    7:00 AM      2                         262
-180     7th Ave & International Blvd   4/19/2001    7:00 AM      2              38
 180     7th Ave & International Blvd   4/19/2005    8:00 AM      1              16         324
 180     7th Ave & International Blvd   4/27/2005    5:00 PM      1              42         213
 
-Total Counts    11                                                                                Report Date   9/3/2014
+
+Total Counts      5                                                                               Report Date 2/11/2016
 

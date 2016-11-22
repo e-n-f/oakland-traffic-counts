@@ -1,20 +1,27 @@
                        City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                     COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
-286     Foothill Blvd & Fruitvale Ave   5/9/2001     4:00 PM      2                         561
 286     Foothill Blvd & Fruitvale Ave   5/9/2001     7:00 AM      2                         430
-286     Foothill Blvd & Fruitvale Ave   5/10/2001    4:00 PM      2                                   4714
-286     Foothill Blvd & Fruitvale Ave   5/10/2001    4:00 PM      2              85
-286     Foothill Blvd & Fruitvale Ave   5/10/2001    7:00 AM      2                                   4485
+286     Foothill Blvd & Fruitvale Ave   5/9/2001     4:00 PM      2                         561
 286     Foothill Blvd & Fruitvale Ave   5/10/2001    7:00 AM      2              78
+286     Foothill Blvd & Fruitvale Ave   5/10/2001    7:00 AM      2                                   4485
+286     Foothill Blvd & Fruitvale Ave   5/10/2001    4:00 PM      2              85
+286     Foothill Blvd & Fruitvale Ave   5/10/2001    4:00 PM      2                                   4714
 286     Foothill Blvd & Fruitvale Ave   5/20/2010    4:00 PM      2              66         1040
 286     Foothill Blvd & Fruitvale Ave   6/3/2010     4:00 PM      2              83         1117
-286     Foothill Blvd & Fruitvale Ave   9/20/2011    4:00 PM      2                         751
-286     Foothill Blvd & Fruitvale Ave   9/20/2011    4:00 PM      2              59
 286     Foothill Blvd & Fruitvale Ave   9/20/2011    2:00 PM      2                         806
 286     Foothill Blvd & Fruitvale Ave   9/20/2011    2:00 PM      2              42
+286     Foothill Blvd & Fruitvale Ave   9/20/2011    4:00 PM      2              59
+286     Foothill Blvd & Fruitvale Ave   9/20/2011    4:00 PM      2                         751
 286     Foothill Blvd & Fruitvale Ave   9/18/2012    4:00 PM      2              99         647       3303
 286     Foothill Blvd & Fruitvale Ave   9/19/2012    4:00 PM      2              57         773       3894
+286     Foothill Blvd & Fruitvale Ave   10/3/2013    4:00 PM      2              105        1078
+286     Foothill Blvd & Fruitvale Ave   10/3/2013    2:00 PM      2              59         877
+286     Foothill Blvd & Fruitvale Ave   10/15/2014   2:00 PM      2              63         871
+286     Foothill Blvd & Fruitvale Ave   10/15/2014   4:00 PM      2              92         1143
+286     Foothill Blvd & Fruitvale Ave   9/24/2015    4:00 PM      2              115        657       3655
 
-Total Counts     14                                                                                Report Date   9/3/2014
+
+Total Counts     19                                                                                Report Date 2/11/2016
 

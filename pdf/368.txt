@@ -1,5 +1,6 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                    COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 368     98th Ave & Airport Access Rd   8/25/2004    4:00 PM      2                         12
 368     98th Ave & Airport Access Rd   8/25/2004    4:00 PM      2              5
@@ -8,5 +9,6 @@ LOC ID INTERSECTION                    COUNT DATE   COUNT TIME   DURATION (HRS) 
 368     98th Ave & Airport Access Rd   8/25/2004    7:00 AM      2                         4
 368     98th Ave & Airport Access Rd   8/25/2004    7:00 AM      2              2
 
-Total Counts     6                                                                                Report Date 3/27/2014
+
+Total Counts     6                                                                                Report Date 2/11/2016
 

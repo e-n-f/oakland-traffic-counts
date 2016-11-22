@@ -1,5 +1,6 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 464     17th St & Madison St       5/16/2012    4:00 PM      2                                   1292
 464     17th St & Madison St       5/16/2012    4:00 PM      2                         219
@@ -8,5 +9,6 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 464     17th St & Madison St       5/16/2012    7:00 AM      2                         191
 464     17th St & Madison St       5/16/2012    7:00 AM      2              19
 
-Total Counts     6                                                                            Report Date   9/3/2014
+
+Total Counts     6                                                                            Report Date 2/11/2016
 

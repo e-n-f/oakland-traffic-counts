@@ -1,10 +1,17 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                   COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 404     Alameda Ave & Fruitvale Ave   1/23/2008    1:45 PM      1              17
 404     Alameda Ave & Fruitvale Ave   9/20/2011    4:00 PM      2              116
 404     Alameda Ave & Fruitvale Ave   9/20/2011    2:00 PM      2              43
 404     Alameda Ave & Fruitvale Ave   9/27/2011    2:00 PM      4                         97
+404     Alameda Ave & Fruitvale Ave   9/26/2013    12:00 PM     2              50         26
+404     Alameda Ave & Fruitvale Ave   9/26/2013    4:00 PM      2              107        30
+404     Alameda Ave & Fruitvale Ave   10/1/2014    2:00 PM      2              40         38
+404     Alameda Ave & Fruitvale Ave   10/1/2014    4:00 PM      2              62         25
+404     Alameda Ave & Fruitvale Ave   9/23/2015    4:00 PM      2              104        32        3926
 
-Total Counts     4                                                                               Report Date   9/3/2014
+
+Total Counts     9                                                                               Report Date 2/11/2016
 

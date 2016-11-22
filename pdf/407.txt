@@ -1,10 +1,17 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 407     Auseon Ave & Bancroft Ave   9/21/2011    4:00 PM      2              46
 407     Auseon Ave & Bancroft Ave   9/21/2011    12:00 PM     2              34
 407     Auseon Ave & Bancroft Ave   9/21/2011    4:00 PM      2                         138
 407     Auseon Ave & Bancroft Ave   9/21/2011    12:00 PM     2                         143
+407     Auseon Ave & Bancroft Ave   9/25/2013    4:00 PM      2              26         39
+407     Auseon Ave & Bancroft Ave   9/25/2013    12:00 PM     2              5          105
+407     Auseon Ave & Bancroft Ave   10/15/2014   4:00 PM      2              15         89
+407     Auseon Ave & Bancroft Ave   10/15/2014   12:00 PM     2              16         55
+407     Auseon Ave & Bancroft Ave   9/23/2015    4:00 PM      2              13         49        2400
 
-Total Counts     4                                                                             Report Date   9/3/2014
+
+Total Counts     9                                                                             Report Date 2/11/2016
 

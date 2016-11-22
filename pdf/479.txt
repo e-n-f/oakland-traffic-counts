@@ -1,12 +1,14 @@
                        City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+479     14th St & Peralta St        2/9/2011     4:00 PM      2                         203
+479     14th St & Peralta St        2/9/2011     4:00 PM      2              48
 479     14th St & Peralta St        2/9/2011     7:00 AM      2                                   558
 479     14th St & Peralta St        2/9/2011     7:00 AM      2                         98
 479     14th St & Peralta St        2/9/2011     7:00 AM      2              13
 479     14th St & Peralta St        2/9/2011     4:00 PM      2                                   824
-479     14th St & Peralta St        2/9/2011     4:00 PM      2                         203
-479     14th St & Peralta St        2/9/2011     4:00 PM      2              48
 
-Total Counts      6                                                                            Report Date   9/3/2014
+
+Total Counts      6                                                                            Report Date 2/11/2016
 

@@ -1,8 +1,10 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 273     22nd Ave & E 12th St       10/11/2006   4:00 PM      2              13         31
 273     22nd Ave & E 12th St       10/11/2006   7:00 AM      2              14         13
 
-Total Counts     2                                                                            Report Date   9/3/2014
+
+Total Counts     2                                                                            Report Date 2/11/2016
 

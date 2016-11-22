@@ -1,10 +1,12 @@
                        City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 165     64th Ave & Foothill Blvd    2/27/2007    2:30 AM      2                         298
 165     64th Ave & Foothill Blvd    2/27/2007    2:30 AM      2              9
 165     64th Ave & Foothill Blvd    10/27/2009   3:00 PM      3                         347
 165     64th Ave & Foothill Blvd    10/27/2009   7:30 AM      2                         251
 
-Total Counts      4                                                                            Report Date   9/3/2014
+
+Total Counts      4                                                                            Report Date 2/11/2016
 

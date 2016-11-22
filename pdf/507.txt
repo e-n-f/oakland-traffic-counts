@@ -1,8 +1,14 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+507     Broadway & Keith Ave       11/16/2011   3:00 PM      3                         72        6917
+507     Broadway & Keith Ave       11/16/2011   6:00 AM      3                         112       4812
 507     Broadway & Keith Ave       5/22/2013    3:00 PM      3              32         46        7348
 507     Broadway & Keith Ave       5/22/2013    6:00 AM      3              6          90        4252
+507     Broadway & Keith Ave       5/20/2014    3:00 PM      3              28         78        7282
+507     Broadway & Keith Ave       5/20/2014    6:00 AM      3              19         70        4236
 
-Total Counts     2                                                                            Report Date   9/3/2014
+
+Total Counts     6                                                                            Report Date 2/11/2016
 

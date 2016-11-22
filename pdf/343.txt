@@ -1,6 +1,8 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                      COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+343     14th St & Lakeside Dr & Oak St   9/14/2011    4:00 PM      2              202        675       2501
 343     14th St & Lakeside Dr & Oak St   5/22/2012    4:00 PM      2                                   2138
 343     14th St & Lakeside Dr & Oak St   5/22/2012    4:00 PM      2                         248
 343     14th St & Lakeside Dr & Oak St   5/22/2012    7:00 AM      2                                   2167
@@ -8,6 +10,10 @@ LOC ID INTERSECTION                      COUNT DATE   COUNT TIME   DURATION (HRS
 343     14th St & Lakeside Dr & Oak St   5/22/2012    4:00 PM      2              138
 343     14th St & Lakeside Dr & Oak St   5/22/2012    7:00 AM      2              148
 343     14th St & Lakeside Dr & Oak St   9/12/2012    4:00 PM      2              202        620       2275
+343     14th St & Lakeside Dr & Oak St   9/12/2013    4:00 PM      2              156        658       2889
+343     14th St & Lakeside Dr & Oak St   9/10/2014    4:00 PM      2              268        490       2809
+343     14th St & Lakeside Dr & Oak St   9/15/2015    4:00 PM      2              170        318       2856
 
-Total Counts      7                                                                                 Report Date   9/3/2014
+
+Total Counts    11                                                                                  Report Date 2/11/2016
 

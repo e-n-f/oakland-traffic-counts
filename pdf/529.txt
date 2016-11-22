@@ -1,0 +1,10 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+
+LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+529     21st St & Broadway         5/26/2004    11:00 AM     2              54         454       2131
+529     21st St & Broadway         5/26/2004    7:00 AM      2              66         378       1469
+
+
+Total Counts     2                                                                            Report Date 2/11/2016
+

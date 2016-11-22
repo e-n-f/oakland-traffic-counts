@@ -1,18 +1,25 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 47      27th St & Telegraph Ave    5/21/2002    4:00 PM      2              100        105
-47      27th St & Telegraph Ave    9/17/2003    4:00 PM      2              95         179
-47      27th St & Telegraph Ave    9/17/2003    11:00 AM     2              44         165
 47      27th St & Telegraph Ave    9/17/2003    7:00 AM      2              70         114
+47      27th St & Telegraph Ave    9/17/2003    11:00 AM     2              44         165
+47      27th St & Telegraph Ave    9/17/2003    4:00 PM      2              95         179
 47      27th St & Telegraph Ave    4/29/2004    3:00 PM      3              77         259
 47      27th St & Telegraph Ave    6/2/2004     7:00 AM      2              83         65        3207
 47      27th St & Telegraph Ave    5/31/2006    3:00 PM      3              130        224
 47      27th St & Telegraph Ave    6/3/2008     3:00 PM      3              210        385
-47      27th St & Telegraph Ave    9/20/2011    4:00 PM      2                         294
 47      27th St & Telegraph Ave    9/20/2011    4:00 PM      2              273
-47      27th St & Telegraph Ave    9/20/2011    4:00 PM      2                         332
+47      27th St & Telegraph Ave    9/20/2011    12:00 PM     2                         332
+47      27th St & Telegraph Ave    9/20/2011    4:00 PM      2                         294
 47      27th St & Telegraph Ave    9/20/2011    12:00 PM     2              191
+47      27th St & Telegraph Ave    10/3/2013    12:00 PM     2              172        221
+47      27th St & Telegraph Ave    10/3/2013    4:00 PM      2              292        267
+47      27th St & Telegraph Ave    10/8/2014    4:00 PM      2              214        282
+47      27th St & Telegraph Ave    10/8/2014    12:00 PM     2              123        304
+47      27th St & Telegraph Ave    9/23/2015    4:00 PM      2              258        267       5008
 
-Total Counts    12                                                                            Report Date   9/3/2014
+
+Total Counts    17                                                                            Report Date 2/11/2016
 

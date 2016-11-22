@@ -1,0 +1,10 @@
+                       City of Oakland Bicycle and Pedestrian Counts
+
+
+LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+524     61st St & Colby St          4/17/2007    7:00 AM      2              28         38        409
+524     61st St & Colby St          4/17/2015    4:00 PM      2              70         70        627
+
+
+Total Counts      2                                                                            Report Date 2/11/2016
+

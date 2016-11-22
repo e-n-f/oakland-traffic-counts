@@ -1,12 +1,18 @@
                        City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 16      E 12th St & Fruitvale Ave   10/11/2006   4:00 PM      2              24         437
 16      E 12th St & Fruitvale Ave   10/11/2006   7:00 AM      2              74         314
 16      E 12th St & Fruitvale Ave   1/23/2008    12:15 PM     1              25
 16      E 12th St & Fruitvale Ave   4/23/2009    4:00 PM      2              49         235       4583
 16      E 12th St & Fruitvale Ave   4/23/2009    7:00 AM      2              63         185       3659
+16      E 12th St & Fruitvale Ave   9/14/2011    4:00 PM      2              44         306       4679
 16      E 12th St & Fruitvale Ave   9/13/2012    4:00 PM      2              83         367       4617
+16      E 12th St & Fruitvale Ave   9/11/2013    4:00 PM      2              84         311       4847
+16      E 12th St & Fruitvale Ave   9/11/2014    4:00 PM      2              70         386       4771
+16      E 12th St & Fruitvale Ave   9/16/2015    4:00 PM      2              214        394       4709
 
-Total Counts      6                                                                            Report Date   9/3/2014
+
+Total Counts     10                                                                            Report Date 2/11/2016
 

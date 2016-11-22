@@ -1,10 +1,12 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 124     4th St & Madison St        10/7/2010    4:00 PM      3                         139
 124     4th St & Madison St        10/7/2010    4:00 PM      3              36
 124     4th St & Madison St        10/7/2010    7:00 AM      2                         169
 124     4th St & Madison St        10/7/2010    7:00 AM      2              22
 
-Total Counts     4                                                                            Report Date   9/3/2014
+
+Total Counts     4                                                                            Report Date 2/11/2016
 

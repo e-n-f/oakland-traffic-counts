@@ -1,5 +1,6 @@
                           City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                    COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 172     6th St & Oak St                6/7/2006     4:00 PM      2              23         244       2248
 172     6th St & Oak St                6/7/2006     7:00 AM      2              20         285       2587
@@ -7,12 +8,13 @@ LOC ID INTERSECTION                    COUNT DATE   COUNT TIME   DURATION (HRS) 
 172     6th St & Oak St                10/7/2010    4:00 PM      3              46
 172     6th St & Oak St                10/7/2010    7:00 AM      2                         334
 172     6th St & Oak St                10/7/2010    7:00 AM      2              23
-172     6th St & Oak St                5/17/2012    7:00 AM      2                         74
-172     6th St & Oak St                5/17/2012    7:00 AM      2              10
 172     6th St & Oak St                5/17/2012    4:00 PM      2                                   2304
 172     6th St & Oak St                5/17/2012    4:00 PM      2                         198
 172     6th St & Oak St                5/17/2012    4:00 PM      2              31
 172     6th St & Oak St                5/17/2012    7:00 AM      2                                   2238
+172     6th St & Oak St                5/17/2012    7:00 AM      2                         74
+172     6th St & Oak St                5/17/2012    7:00 AM      2              10
 
-Total Counts     12                                                                               Report Date   9/3/2014
+
+Total Counts    12                                                                                Report Date 2/11/2016
 

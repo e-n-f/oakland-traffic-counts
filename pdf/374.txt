@@ -1,10 +1,12 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+374     12th St & Webster St       3/22/2005    7:00 AM      2              21         498       2512
 374     12th St & Webster St       3/22/2005    4:00 PM      2              29         620       3230
 374     12th St & Webster St       3/22/2005    11:00 AM     2              21         1022      2688
 374     12th St & Webster St       3/22/2005    7:00 AM      2              21         498       2512
-374     12th St & Webster St       3/22/2005    7:00 AM      2              21         498       2512
 
-Total Counts     4                                                                            Report Date   9/3/2014
+
+Total Counts     4                                                                            Report Date 2/11/2016
 

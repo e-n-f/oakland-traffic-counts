@@ -1,10 +1,12 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                          COUNT DATE    COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 169     6th St & I-880 NB Off-ramp & Broadway 10/6/2010    4:00 PM      3                         401
 169     6th St & I-880 NB Off-ramp & Broadway 10/6/2010    7:00 AM      2                         174
 169     6th St & I-880 NB Off-ramp & Broadway 10/14/2010   7:00 AM      2              32
 169     6th St & I-880 NB Off-ramp & Broadway 10/14/2010   4:00 PM      3              60
 
-Total Counts     4                                                                                       Report Date   9/3/2014
+
+Total Counts     4                                                                                       Report Date 2/11/2016
 

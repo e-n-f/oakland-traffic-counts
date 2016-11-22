@@ -1,12 +1,18 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                      COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 291     Fruitvale Ave & MacArthur Blvd   10/29/2002   3:00 PM      3              50
 291     Fruitvale Ave & MacArthur Blvd   7/27/2005    4:00 PM      2              38         356
 291     Fruitvale Ave & MacArthur Blvd   7/27/2005    7:00 AM      2              19         170
 291     Fruitvale Ave & MacArthur Blvd   8/12/2005    4:00 PM      2              27         363
 291     Fruitvale Ave & MacArthur Blvd   8/12/2005    7:00 AM      2              19         92
+291     Fruitvale Ave & MacArthur Blvd   9/15/2011    4:00 PM      2              21         630       2684
 291     Fruitvale Ave & MacArthur Blvd   9/13/2012    4:00 PM      2              32         1002      3184
+291     Fruitvale Ave & MacArthur Blvd   9/10/2013    4:00 PM      2              65         674       3048
+291     Fruitvale Ave & MacArthur Blvd   9/10/2014    4:00 PM      2              59         748       2831
+291     Fruitvale Ave & MacArthur Blvd   9/16/2015    4:00 PM      2              41         602       2605
 
-Total Counts     6                                                                                  Report Date   9/3/2014
+
+Total Counts    10                                                                                  Report Date 2/11/2016
 

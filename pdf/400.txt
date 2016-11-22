@@ -1,7 +1,13 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
-LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
-400     Caldecott Ln & Tunnel Rd   9/15/2012    10:00 AM     2              157        0         1394
 
-Total Counts     1                                                                            Report Date   9/3/2014
+LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+400     Caldecott Ln & Tunnel Rd   9/17/2011    4:00 PM      2              161        2         1284
+400     Caldecott Ln & Tunnel Rd   9/15/2012    10:00 AM     2              157        0         1394
+400     Caldecott Ln & Tunnel Rd   9/14/2013    10:00 AM     2              139        0         1500
+400     Caldecott Ln & Tunnel Rd   9/13/2014    10:00 AM     2              178        5         1070
+400     Caldecott Ln & Tunnel Rd   9/12/2015    10:00 AM     2              162        0         1079
+
+
+Total Counts     5                                                                            Report Date 2/11/2016
 

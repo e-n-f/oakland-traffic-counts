@@ -1,9 +1,11 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                          COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 154     5th St & I-880 SB Ramps & Union St   10/6/2010    4:00 PM      3              2
 154     5th St & I-880 SB Ramps & Union St   10/14/2010   4:00 PM      3                         22
 154     5th St & I-880 SB Ramps & Union St   5/17/2012    7:00 AM      2              10
 
-Total Counts     3                                                                                      Report Date   9/3/2014
+
+Total Counts     3                                                                                      Report Date 2/11/2016
 

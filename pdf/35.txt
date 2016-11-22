@@ -1,5 +1,6 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 35      20th St & San Pablo Ave    8/21/2002    4:00 PM      2              63         153
 35      20th St & San Pablo Ave    5/25/2005    4:00 PM      2              79         146
@@ -8,5 +9,6 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 35      20th St & San Pablo Ave    2/16/2006    7:00 AM      2              39         156       674
 35      20th St & San Pablo Ave    2/16/2006    4:00 PM      2              52         108       1538
 
-Total Counts     6                                                                            Report Date   9/3/2014
+
+Total Counts     6                                                                            Report Date 2/11/2016
 

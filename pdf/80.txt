@@ -1,8 +1,10 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                     COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 80      38th Ave & International Blvd   4/23/2009    4:00 PM      2              48         586       4375
 80      38th Ave & International Blvd   4/23/2009    7:00 AM      2              36         227       3762
 
-Total Counts      2                                                                                Report Date   9/3/2014
+
+Total Counts      2                                                                                Report Date 2/11/2016
 

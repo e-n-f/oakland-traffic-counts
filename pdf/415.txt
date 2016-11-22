@@ -1,5 +1,6 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 415     13th Ave & Chatham Rd      2/23/2006    11:30 AM     2              5          47        1329
 415     13th Ave & Chatham Rd      2/23/2006    7:00 AM      2              15         543       2053
@@ -8,6 +9,12 @@ LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE
 415     13th Ave & Chatham Rd      9/20/2011    4:00 PM      2              43
 415     13th Ave & Chatham Rd      9/20/2011    2:00 PM      2                         240
 415     13th Ave & Chatham Rd      9/20/2011    2:00 PM      2              15
+415     13th Ave & Chatham Rd      10/1/2013    2:00 PM      2              9          177
+415     13th Ave & Chatham Rd      10/1/2013    4:00 PM      2              19         79
+415     13th Ave & Chatham Rd      10/14/2014   12:00 PM     2              3          128
+415     13th Ave & Chatham Rd      10/14/2014   4:00 PM      2              11         46
+415     13th Ave & Chatham Rd      9/23/2015    4:00 PM      2              18         31        1859
 
-Total Counts     7                                                                            Report Date   9/3/2014
+
+Total Counts   12                                                                             Report Date 2/11/2016
 

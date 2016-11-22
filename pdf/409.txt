@@ -1,10 +1,12 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                  COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 409     E 38th St & MacArthur Blvd   9/21/2011    4:00 PM      2                         294
 409     E 38th St & MacArthur Blvd   9/21/2011    12:00 PM     2                         277
 409     E 38th St & MacArthur Blvd   9/21/2011    4:00 PM      2              28
 409     E 38th St & MacArthur Blvd   9/21/2011    12:00 PM     2              19
 
-Total Counts     4                                                                              Report Date   9/3/2014
+
+Total Counts     4                                                                              Report Date 2/11/2016
 

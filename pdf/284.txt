@@ -1,10 +1,12 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 284     Embarcadero & Webster St   10/8/1999    6:30 PM      2              12         117       1091
 284     Embarcadero & Webster St   10/17/1999   11:00 AM     2              9          377       779
 284     Embarcadero & Webster St   9/28/2006    4:00 PM      2              10
 284     Embarcadero & Webster St   9/28/2006    7:00 AM      2              15
 
-Total Counts     4                                                                            Report Date   9/3/2014
+
+Total Counts     4                                                                            Report Date 2/11/2016
 

@@ -1,9 +1,11 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 70      34th St & Telegraph Ave    9/17/2003    4:00 PM      2              97         281
 70      34th St & Telegraph Ave    9/17/2003    11:00 AM     2              47         268
 70      34th St & Telegraph Ave    9/17/2003    7:00 AM      2              111        177
 
-Total Counts     3                                                                            Report Date   9/3/2014
+
+Total Counts     3                                                                            Report Date 2/11/2016
 

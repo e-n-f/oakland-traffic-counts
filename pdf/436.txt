@@ -1,9 +1,14 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+436     16th St & Broadway         4/14/2005    11:00 AM     2              6          547       1982
+436     16th St & Broadway         4/14/2005    7:00 AM      2              4          139       1186
+436     16th St & Broadway         4/14/2005    11:00 AM     2              6          547       1984
 436     16th St & Broadway         4/14/2005    4:30 PM      2              7          258       1670
 436     16th St & Broadway         1/24/2013    7:00 AM      2              41         79        1022
 436     16th St & Broadway         1/24/2013    4:30 PM      2              67         159       1663
 
-Total Counts     3                                                                            Report Date   9/3/2014
+
+Total Counts     6                                                                            Report Date 2/11/2016
 

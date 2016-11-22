@@ -1,5 +1,6 @@
                        City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 469     8th St & Harrison St        5/17/2012    4:00 PM      2                                   2228
 469     8th St & Harrison St        5/17/2012    4:00 PM      2                         934
@@ -8,5 +9,6 @@ LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIK
 469     8th St & Harrison St        5/17/2012    7:00 AM      2                         411
 469     8th St & Harrison St        5/17/2012    7:00 AM      2              10
 
-Total Counts      6                                                                            Report Date   9/3/2014
+
+Total Counts      6                                                                            Report Date 2/11/2016
 

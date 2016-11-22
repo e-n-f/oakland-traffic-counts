@@ -1,9 +1,11 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                  COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
 319     MacArthur Blvd & Park Blvd   10/29/2002   3:00 PM      3              23
 319     MacArthur Blvd & Park Blvd   10/14/2010   4:00 PM      3                         163
 319     MacArthur Blvd & Park Blvd   10/21/2010   4:00 PM      3              29
 
-Total Counts     3                                                                              Report Date   9/3/2014
+
+Total Counts     3                                                                              Report Date 2/11/2016
 

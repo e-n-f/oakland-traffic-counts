@@ -1,0 +1,10 @@
+                      City of Oakland Bicycle and Pedestrian Counts
+
+
+LOC ID INTERSECTION                           COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+520     17th St & Martin Luther King Jr Way   7/9/2014     4:00 PM      2              46         145       1420
+520     17th St & Martin Luther King Jr Way   7/9/2014     7:00 AM      2              51         112       2448
+
+
+Total Counts     2                                                                                       Report Date 2/11/2016
+

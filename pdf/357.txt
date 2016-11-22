@@ -1,21 +1,28 @@
                       City of Oakland Bicycle and Pedestrian Counts
 
+
 LOC ID INTERSECTION                COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
-357     12th St & Broadway         8/18/1999    7:00 AM      2              39         1366      2692
 357     12th St & Broadway         8/18/1999    4:00 PM      2              46         1559      4600
+357     12th St & Broadway         8/18/1999    7:00 AM      2              39         1366      2692
 357     12th St & Broadway         4/12/2005    4:30 PM      2              75         1138      4120
-357     12th St & Broadway         4/12/2005    11:00 AM     2              37         2401      3789
 357     12th St & Broadway         4/12/2005    7:00 AM      2              40         1178      2739
+357     12th St & Broadway         4/12/2005    11:00 AM     2              37         2401      3789
 357     12th St & Broadway         9/20/2011    4:00 PM      2                         1921
 357     12th St & Broadway         9/20/2011    12:00 PM     2                         2735
 357     12th St & Broadway         9/20/2011    4:00 PM      2              187
 357     12th St & Broadway         9/20/2011    12:00 PM     2              176
-357     12th St & Broadway         5/23/2012    4:00 PM      2                                   3661
 357     12th St & Broadway         5/23/2012    4:00 PM      2                         2020
 357     12th St & Broadway         5/23/2012    4:00 PM      2              53
 357     12th St & Broadway         5/23/2012    7:00 AM      2                                   2347
 357     12th St & Broadway         5/23/2012    7:00 AM      2                         1882
+357     12th St & Broadway         5/23/2012    4:00 PM      2                                   3661
 357     12th St & Broadway         5/23/2012    7:00 AM      2              47
+357     12th St & Broadway         10/31/2013   12:00 PM     2              69         3034
+357     12th St & Broadway         10/31/2013   4:00 PM      2              99         1800
+357     12th St & Broadway         10/30/2014   4:00 PM      2              171        1956
+357     12th St & Broadway         10/30/2014   12:00 PM     2              117        3188
+357     12th St & Broadway         9/17/2015    4:00 PM      2              135        1772      3338
 
-Total Counts    15                                                                            Report Date   9/3/2014
+
+Total Counts    20                                                                            Report Date 2/11/2016
 

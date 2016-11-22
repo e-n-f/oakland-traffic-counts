@@ -1,8 +1,10 @@
                        City of Oakland Bicycle and Pedestrian Counts
 
-LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
-433     14th St & Jackson St        6/6/2006     7:00 AM      2              61         308       1995
-433     14th St & Jackson St        6/6/2006     4:00 PM      2              45         457       2630
 
-Total Counts      2                                                                            Report Date   9/3/2014
+LOC ID INTERSECTION                 COUNT DATE   COUNT TIME   DURATION (HRS) BIKE TOTAL PED TOTAL VEHICLE TOTAL
+433     14th St & Jackson St        6/6/2006     4:00 PM      2              45         457       2630
+433     14th St & Jackson St        6/6/2006     7:00 AM      2              61         308       1995
+
+
+Total Counts      2                                                                            Report Date 2/11/2016
 
